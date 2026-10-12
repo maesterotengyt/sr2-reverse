@@ -1,0 +1,43 @@
+# GameModes__ItemTutorials__Tutorial_FreezeRay
+
+```
+Settings.Value = 0
+Settings.BlastzoneActive = 0
+Settings.CheckpointsActive = 0
+Settings.UseInitialTimer = 0
+Settings.InitialTimerFrames = 30
+Settings.TotalRespawnLength = 6
+Settings.MinRespawnSpacing = 1
+Settings.RespawnState.Value = Respawn
+Settings_MechanicTutorialGameMode.Value = 2802933682607732716
+Settings_MechanicTutorialGameMode.BlastzoneActive = 0
+Settings_MechanicTutorialGameMode.CheckpointsActive = 0
+Settings_MechanicTutorialGameMode.UseInitialTimer = 1
+Settings_MechanicTutorialGameMode.InitialTimerFrames = 30
+Settings_MechanicTutorialGameMode.TotalRespawnLength = 6
+Settings_MechanicTutorialGameMode.MinRespawnSpacing = 1
+Settings_MechanicTutorialGameMode.EntranceState.Value = Entrance
+Settings_MechanicTutorialGameMode.IdleState.Value = Idle
+Settings_MechanicTutorialGameMode.RespawnState.Value = Respawn
+Settings_MechanicTutorialGameMode.LevelToLoad.Value = AdvancedMechanicTutorial
+Settings_MechanicTutorialGameMode.ID = Section 2
+Settings_MechanicTutorialGameMode.LayoutToLoad = FreezeRay2
+Settings_MechanicTutorialGameMode.ID.Value = ReachFinish
+Settings_MechanicTutorialGameMode.ID.LocalizationID = ReachFinish
+Settings_MechanicTutorialGameMode.ID.RequiredNotificationsToComplete = 1
+Settings_MechanicTutorialGameMode.HurtEvents.RestartOnFreeze = 1
+Settings_MechanicTutorialGameMode.HurtEvents.RestartOnLethalObstacleHit = 0
+Settings_MechanicTutorialGameMode.HurtEvents.RestartOnGoldenHookHit = 0
+Settings_MechanicTutorialGameMode.HasTimer = 0
+Settings_MechanicTutorialGameMode.TimerSeconds = 0
+Settings_MechanicTutorialGameMode.ActionOnTimerCompletion = 0
+Settings_MechanicTutorialGameMode.InitialMessage = FreezeRay3
+Settings_MechanicTutorialGameMode.InitialMessageSpeedModifier.ID.Value = TutorialStart
+Settings_MechanicTutorialGameMode.InitialMessageSpeedModifier.Multiplier = 0
+Settings_MechanicTutorialGameMode.InitialMessageSpeedModifier.AlterSimulation = 1
+Settings_MechanicTutorialGameMode.InitialMessageSpeedModifier.AlterEngine = 0
+Settings_MechanicTutorialGameMode.EndSlowDownSpeedModifier.ID.Value = InitialMessage
+Settings_MechanicTutorialGameMode.EndSlowDownSpeedModifier.Multiplier = 0.2
+Settings_MechanicTutorialGameMode.EndSlowDownSpeedModifier.AlterSimulation = 1
+Settings_MechanicTutorialGameMode.EndSlowDownSpeedModifier.AlterEngine = 0
+```

@@ -1,0 +1,6 @@
+raw/
+assets_export/
+decoded_quantumdb/
+code/
+*.dll
+*.dat

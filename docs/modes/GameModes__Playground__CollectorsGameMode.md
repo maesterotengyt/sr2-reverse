@@ -1,0 +1,53 @@
+# GameModes__Playground__CollectorsGameMode
+
+```
+Settings.Value = 0
+Settings.BlastzoneActive = 0
+Settings.CheckpointsActive = 0
+Settings.UseInitialTimer = 0
+Settings.InitialTimerFrames = 30
+Settings.TotalRespawnLength = 6
+Settings.MinRespawnSpacing = 1
+Settings.RespawnState.Value = Respawn
+Settings_RaceGameMode.Value = 0
+Settings_RaceGameMode.BlastzoneActive = 0
+Settings_RaceGameMode.CheckpointsActive = 0
+Settings_RaceGameMode.UseInitialTimer = 0
+Settings_RaceGameMode.InitialTimerFrames = 30
+Settings_RaceGameMode.TotalRespawnLength = 6
+Settings_RaceGameMode.MinRespawnSpacing = 1
+Settings_RaceGameMode.RespawnState.Value = Respawn
+Settings_RaceGameMode.WaitTimeBetweenRounds = 2
+Settings_RaceGameMode.WaitTimeToReturnToMainMenu = 3
+Settings_RaceGameMode.WaitTimeToShowBanners = 1
+Settings_RaceGameMode.SlowdownTimeModifier.ID.Value = RaceEndSlowdown
+Settings_RaceGameMode.SlowdownTimeModifier.Multiplier = 0.2
+Settings_RaceGameMode.SlowdownTimeModifier.AlterSimulation = 1
+Settings_RaceGameMode.SlowdownTimeModifier.AlterEngine = 0
+Settings_CollectorsGameMode.Value = 50
+Settings_CollectorsGameMode.BlastzoneActive = 0
+Settings_CollectorsGameMode.CheckpointsActive = 1
+Settings_CollectorsGameMode.UseInitialTimer = 0
+Settings_CollectorsGameMode.InitialTimerFrames = 30
+Settings_CollectorsGameMode.TotalRespawnLength = 6
+Settings_CollectorsGameMode.MinRespawnSpacing = 1
+Settings_CollectorsGameMode.EntranceState.Value = Entrance
+Settings_CollectorsGameMode.IdleState.Value = Idle
+Settings_CollectorsGameMode.RespawnState.Value = Respawn
+Settings_CollectorsGameMode.WaitTimeBetweenRounds = 2
+Settings_CollectorsGameMode.WaitTimeToReturnToMainMenu = 3
+Settings_CollectorsGameMode.WaitTimeToShowBanners = 1
+Settings_CollectorsGameMode.SlowdownTimeModifier.ID.Value = RaceEndSlowdown
+Settings_CollectorsGameMode.SlowdownTimeModifier.Multiplier = 0.2
+Settings_CollectorsGameMode.SlowdownTimeModifier.AlterSimulation = 1
+Settings_CollectorsGameMode.SlowdownTimeModifier.AlterEngine = 0
+Settings_CollectorsGameMode.MatchTime = 240
+Settings_CollectorsGameMode.TreasureSpawnRate = 4
+Settings_CollectorsGameMode.MaxTreasures = 3
+Settings_CollectorsGameMode.Weight = 10
+Settings_CollectorsGameMode.CostumeIndex = 3
+Settings_CollectorsGameMode.AttackData.Value = GoldenHook
+Settings_CollectorsGameMode.AttackData.FlipScores = 1
+Settings_CollectorsGameMode.AttackData.ScoreToLoseOnVictim = 0
+Settings_CollectorsGameMode.AttackData.ScoreToEarnOnInstigator = 0
+```

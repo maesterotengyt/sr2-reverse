@@ -1,0 +1,50 @@
+# GameModes__RaceTutorialGameMode
+
+```
+Settings.Value = 0
+Settings.BlastzoneActive = 0
+Settings.CheckpointsActive = 0
+Settings.UseInitialTimer = 0
+Settings.InitialTimerFrames = 30
+Settings.TotalRespawnLength = 6
+Settings.MinRespawnSpacing = 1
+Settings.RespawnState.Value = Respawn
+Settings_RaceGameMode.Value = 0
+Settings_RaceGameMode.BlastzoneActive = 0
+Settings_RaceGameMode.CheckpointsActive = 0
+Settings_RaceGameMode.UseInitialTimer = 0
+Settings_RaceGameMode.InitialTimerFrames = 30
+Settings_RaceGameMode.TotalRespawnLength = 6
+Settings_RaceGameMode.MinRespawnSpacing = 1
+Settings_RaceGameMode.RespawnState.Value = Respawn
+Settings_RaceGameMode.WaitTimeBetweenRounds = 2
+Settings_RaceGameMode.WaitTimeToReturnToMainMenu = 3
+Settings_RaceGameMode.WaitTimeToShowBanners = 1
+Settings_RaceGameMode.SlowdownTimeModifier.ID.Value = RaceEndSlowdown
+Settings_RaceGameMode.SlowdownTimeModifier.Multiplier = 0.2
+Settings_RaceGameMode.SlowdownTimeModifier.AlterSimulation = 1
+Settings_RaceGameMode.SlowdownTimeModifier.AlterEngine = 0
+Settings_RaceTutorialGameMode.Value = 2382794596873189725
+Settings_RaceTutorialGameMode.BlastzoneActive = 1
+Settings_RaceTutorialGameMode.CheckpointsActive = 1
+Settings_RaceTutorialGameMode.UseInitialTimer = 0
+Settings_RaceTutorialGameMode.InitialTimerFrames = 30
+Settings_RaceTutorialGameMode.TotalRespawnLength = 4
+Settings_RaceTutorialGameMode.MinRespawnSpacing = 0.5
+Settings_RaceTutorialGameMode.EntranceState.Value = Entrance
+Settings_RaceTutorialGameMode.IdleState.Value = Idle
+Settings_RaceTutorialGameMode.RespawnState.Value = Respawn
+Settings_RaceTutorialGameMode.WaitTimeBetweenRounds = 2
+Settings_RaceTutorialGameMode.WaitTimeToReturnToMainMenu = 3
+Settings_RaceTutorialGameMode.WaitTimeToShowBanners = 1
+Settings_RaceTutorialGameMode.SlowdownTimeModifier.ID.Value = RaceEndSlowdown
+Settings_RaceTutorialGameMode.SlowdownTimeModifier.Multiplier = 0.2
+Settings_RaceTutorialGameMode.SlowdownTimeModifier.AlterSimulation = 1
+Settings_RaceTutorialGameMode.SlowdownTimeModifier.AlterEngine = 0
+Settings_RaceTutorialGameMode.InitialMessage = RaceTutorialStart
+Settings_RaceTutorialGameMode.SuddenDeathMessageID = SuddenDeathPrompt
+Settings_RaceTutorialGameMode.DialogueSpeedModifier.ID.Value = InitialMessage
+Settings_RaceTutorialGameMode.DialogueSpeedModifier.Multiplier = 0
+Settings_RaceTutorialGameMode.DialogueSpeedModifier.AlterSimulation = 1
+Settings_RaceTutorialGameMode.DialogueSpeedModifier.AlterEngine = 0
+```
