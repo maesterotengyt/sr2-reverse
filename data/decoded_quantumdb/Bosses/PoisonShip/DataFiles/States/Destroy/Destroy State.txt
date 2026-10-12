@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Destroy State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/Destroy/Destroy State
+      Guid:
+        Value: 1431473338421175219
+    Name:
+      Value: Destroy
+      Hash: 785740353
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4412812966273710101
+      - Id:
+          Value: 2665128867747674204
+      - Id:
+          Value: 1191912920458372047
+      - Id:
+          Value: 2164835648044005013
+      - Id:
+          Value: 1252995784545960393
+      - Id:
+          Value: 1103198101564973203
+      - Id:
+          Value: 1051307626843628187
+      - Id:
+          Value: 3719104503695131813
+      - Id:
+          Value: 2781756688077530278
+      - Id:
+          Value: 3360431794937973276
+      - Id:
+          Value: 3388652301453522838
+      - Id:
+          Value: 3744962732702107381
+      - Id:
+          Value: 3556312803835718603
+      StateInheritedGroups: []

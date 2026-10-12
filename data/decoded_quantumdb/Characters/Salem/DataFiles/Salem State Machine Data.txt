@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Salem State Machine Data
+      Guid:
+        Value: 3873651145789532605
+    ParentStateMachine:
+      Id:
+        Value: 2686411458687942432
+    Variables: []
+    States:
+    - Id:
+        Value: 1656521518629449428
+    - Id:
+        Value: 4440718796905492093
+    InitialState:
+      Value: Idle
+      Hash: 1881327601
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

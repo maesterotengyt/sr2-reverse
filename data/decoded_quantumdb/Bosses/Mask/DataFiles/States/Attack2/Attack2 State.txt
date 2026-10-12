@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Attack2 State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Attack2/Attack2 State
+      Guid:
+        Value: 3035693693250921381
+    Name:
+      Value: Attack2
+      Hash: -190750014
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1832617958876887253
+      - Id:
+          Value: 741219031610816273
+      - Id:
+          Value: 1270615500498555561
+      - Id:
+          Value: 536792812421519275
+      - Id:
+          Value: 318109814034554617
+      - Id:
+          Value: 2159434456300463631
+      - Id:
+          Value: 2384823188140610270
+      - Id:
+          Value: 1739434826746431574
+      - Id:
+          Value: 3375139215377931889
+      - Id:
+          Value: 2897099346560138298
+      StateInheritedGroups: []

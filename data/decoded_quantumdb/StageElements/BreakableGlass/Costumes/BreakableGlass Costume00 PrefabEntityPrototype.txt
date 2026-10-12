@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BreakableGlass Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BreakableGlass/Costumes/BreakableGlass Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 171190041888773241
+    Container: {}
+  Parent: {fileID: 114589667821646929, guid: 080a2b27da96fd74783c000d093dcf5b, type: 2}

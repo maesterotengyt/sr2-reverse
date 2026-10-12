@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFlamePush State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFlamePush/DataFiles/BossFlamePush State Machine Data
+      Guid:
+        Value: 2020441119660972316
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 3815474835930499678
+    InitialState:
+      Value: Explode
+      Hash: -124930431
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

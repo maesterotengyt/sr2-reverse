@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StartInviciDrill Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Start InviciDrill/Behaviours/StartInviciDrill Behaviour
+      Guid:
+        Value: 3268476048135382115
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    InviciDrillFrames:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: 180
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []

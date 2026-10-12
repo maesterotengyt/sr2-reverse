@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Explode State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/RemoteBomb/DataFiles/States/Explode/Explode State
+      Guid:
+        Value: 140534054434609127
+    Name:
+      Value: Explode
+      Hash: -124930431
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4392597147517271830
+      - Id:
+          Value: 4378481885645174496
+      - Id:
+          Value: 1040661408308335457
+      - Id:
+          Value: 3684204835000418853
+      - Id:
+          Value: 2463402247386175774
+      - Id:
+          Value: 4284617459654857814
+      - Id:
+          Value: 2690812880527477744
+      - Id:
+          Value: 1940352256874057648
+      - Id:
+          Value: 2255280126012713290
+      - Id:
+          Value: 2984946931996341765
+      - Id:
+          Value: 78330819517839083
+      - Id:
+          Value: 2735494573768646642
+      - Id:
+          Value: 170892563647764136
+      - Id:
+          Value: 1221129639271048494
+      StateInheritedGroups:
+      - Name:
+          Value: OnHit
+          Hash: -794549349
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Ice Shards
+          Hash: 318136366
+        EventToReact: 1
+        HasConditions: 1
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 12
+            SourceVariableIndex: 2
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 13
+            SourceVariableIndex: 0
+            FloatValue: 0
+            ParameterID:
+              Value: Frozen
+              Hash: 1641210360
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0

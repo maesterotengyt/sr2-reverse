@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ChangeState Behaviour 1
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/PreAttack/Behaviours/ChangeState Behaviour 1
+      Guid:
+        Value: 3300631219204775105
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: Attack2
+      Hash: -190750014
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Attack2
+        Hash: -190750014
+      TransitionFrames: 0

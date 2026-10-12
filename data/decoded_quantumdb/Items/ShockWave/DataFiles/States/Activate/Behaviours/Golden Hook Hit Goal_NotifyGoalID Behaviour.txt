@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Golden Hook Hit Goal_NotifyGoalID Behaviour
+  Notes:
+  EditorName: Golden Hook Hit Goal
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/ShockWave/DataFiles/States/Activate/Behaviours/Golden Hook Hit Goal_NotifyGoalID Behaviour
+      Guid:
+        Value: 4544107620675682029
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 21
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 2
+        SourceVariableIndex: 9
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 13
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value: GoldenHook
+          Hash: 213605700
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value: On Hit
+      Hash: -739188597
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GoalIDs:
+    - Value: GoldenHookDestroyedByShockwave
+      Hash: -783620703

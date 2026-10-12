@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Run State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Run/Run State
+      Guid:
+        Value: 3069393503496225749
+    Name:
+      Value: Run
+      Hash: -120825126
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2811507973269453376
+      - Id:
+          Value: 2161844188212286142
+      - Id:
+          Value: 3699281587719246451
+      - Id:
+          Value: 2159796440251079425
+      - Id:
+          Value: 3572711621883821612
+      - Id:
+          Value: 3797394634229449417
+      - Id:
+          Value: 1000821712783029119
+      - Id:
+          Value: 2149748257103217221
+      - Id:
+          Value: 1795742190384570943
+      - Id:
+          Value: 2117808424721290545
+      - Id:
+          Value: 1481515636773532036
+      - Id:
+          Value: 3467562150159536315
+      - Id:
+          Value: 1829800269533480709
+      - Id:
+          Value: 1923645573793543680
+      - Id:
+          Value: 2089296995936892081
+      - Id:
+          Value: 1074251669450274896
+      StateInheritedGroups:
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

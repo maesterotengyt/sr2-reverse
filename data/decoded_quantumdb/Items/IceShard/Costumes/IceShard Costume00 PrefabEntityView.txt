@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: IceShard Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/IceShard/Costumes/IceShard Costume00 Prefab|EntityView
+      Guid:
+        Value: 2147226293540924151
+  Parent: {fileID: 114099118695303065, guid: bc76d6f880ac82744bf0cad2ed6a4199, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Check Wall Cancel_ExecuteGroup Behaviour
+  Notes:
+  EditorName: Check Wall Cancel
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hook Swing/Behaviours/Check Wall Cancel_ExecuteGroup Behaviour
+      Guid:
+        Value: 4155252862114729782
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    EndFrame: -1
+    GroupToExecute:
+      GroupName:
+        Value: Check Wall Cancel
+        Hash: -2113493613
+      ExecutionMode: 1
+    RepeatMode: 1
+    FramesInterval: 1
+    RepeatNumber: -1

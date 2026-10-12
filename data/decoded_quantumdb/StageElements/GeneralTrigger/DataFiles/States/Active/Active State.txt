@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/GeneralTrigger/DataFiles/States/Active/Active State
+      Guid:
+        Value: 2944262464908507175
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2737425454759839852
+      - Id:
+          Value: 301201546693155978
+      - Id:
+          Value: 4428578119757706033
+      StateInheritedGroups:
+      - Name:
+          Value: On Character Enter
+          Hash: 1139166792
+        EventToReact: 28
+        HasConditions: 1
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 10
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 26
+            SourceVariableIndex: 1
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0

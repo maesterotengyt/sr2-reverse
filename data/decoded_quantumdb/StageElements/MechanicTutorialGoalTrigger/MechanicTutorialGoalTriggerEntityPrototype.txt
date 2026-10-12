@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: MechanicTutorialGoalTriggerEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/MechanicTutorialGoalTrigger/MechanicTutorialGoalTrigger|EntityPrototype
+      Guid:
+        Value: 2645835599920984572
+    Container: {}
+  Parent: {fileID: 114724804207875695, guid: 3e6816bc4a92ecc4497652f43c1bf584, type: 2}

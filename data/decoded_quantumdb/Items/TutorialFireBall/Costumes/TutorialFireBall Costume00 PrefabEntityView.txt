@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: TutorialFireBall Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/TutorialFireBall/Costumes/TutorialFireBall Costume00 Prefab|EntityView
+      Guid:
+        Value: 677365773210932309
+  Parent: {fileID: 114061268324235159, guid: a610cd05c32249d4894325a0fc1ddee7, type: 2}

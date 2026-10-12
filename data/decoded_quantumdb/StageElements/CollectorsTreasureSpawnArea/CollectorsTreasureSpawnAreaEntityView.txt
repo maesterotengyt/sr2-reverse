@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CollectorsTreasureSpawnAreaEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/CollectorsTreasureSpawnArea/CollectorsTreasureSpawnArea|EntityView
+      Guid:
+        Value: 1393022505689910993
+  Parent: {fileID: 114618682377417806, guid: 3c7b86e25781c264c90aba0c57f47c5a, type: 2}

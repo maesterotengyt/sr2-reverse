@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Plataform Medium Template Prefab VariantEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/EndlessPlataform/Costumes/Plataform Medium Template Prefab Variant|EntityPrototype
+      Guid:
+        Value: 3374164896480486870
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: 0e5665696b4c52b449e8a1d6e4138030, type: 2}

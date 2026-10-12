@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker DoubleJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker DoubleJump
+      Guid:
+        Value: 2361057700809546924
+    ClipIndex: 5
+    ClipName:
+      Value: DoubleJump
+      Hash: -922094764
+    Duration: 0.79999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d95cdb2085fb73b489c1479191002ed6, type: 2}

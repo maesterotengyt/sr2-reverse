@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FireBall State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FireBall/DataFiles/FireBall State Machine Data
+      Guid:
+        Value: 1690776038086431192
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: ComboCount
+        Hash: 743989508
+      Value: 0
+      Notes:
+    - Name:
+        Value: LastVictim
+        Hash: -1301325199
+      Value: -1
+      Notes:
+    States:
+    - Id:
+        Value: 2770266467332452818
+    - Id:
+        Value: 4280832066142841684
+    - Id:
+        Value: 2356712010650640450
+    - Id:
+        Value: 1681755472676639779
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 1
+    OnDestroyState:
+      Value: On Destroy
+      Hash: 1220723172

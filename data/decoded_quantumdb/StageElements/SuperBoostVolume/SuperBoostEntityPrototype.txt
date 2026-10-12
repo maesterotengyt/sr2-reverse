@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SuperBoostEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/SuperBoostVolume/SuperBoost|EntityPrototype
+      Guid:
+        Value: 2267835740196349349
+    Container: {}
+  Parent: {fileID: 114099118695303065, guid: 1d3faa66c7c19da46825eaf30465ac7c, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon MenuReadyTransition
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon MenuReadyTransition
+      Guid:
+        Value: 692919480539243511
+    ClipIndex: 25
+    ClipName:
+      Value: MenuReadyTransition
+      Hash: -141053546
+    Duration: 1.2
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: fa467a3559f670144b1e70a59d9e8fc8, type: 2}

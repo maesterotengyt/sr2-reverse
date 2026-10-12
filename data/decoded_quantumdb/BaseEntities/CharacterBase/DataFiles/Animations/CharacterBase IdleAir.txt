@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase IdleAir
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase IdleAir
+      Guid:
+        Value: 4383051114389059685
+    ClipIndex: 7
+    ClipName:
+      Value: IdleAir
+      Hash: -2017738425
+    Duration: 0.16666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 36907a6ad9bfaaa4897c5881d79ac2f7, type: 2}

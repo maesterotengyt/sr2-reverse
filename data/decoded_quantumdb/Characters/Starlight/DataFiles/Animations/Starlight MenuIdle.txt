@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight MenuIdle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight MenuIdle
+      Guid:
+        Value: 2116549745070552938
+    ClipIndex: 24
+    ClipName:
+      Value: MenuIdle
+      Hash: 528646332
+    Duration: 9.25
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ed3429fbdc0da2246bb2fb080c14833a, type: 2}

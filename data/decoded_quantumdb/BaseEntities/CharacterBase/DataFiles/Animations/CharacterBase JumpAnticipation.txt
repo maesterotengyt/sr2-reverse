@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase JumpAnticipation
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase JumpAnticipation
+      Guid:
+        Value: 1499106982056493221
+    ClipIndex: 10
+    ClipName:
+      Value: JumpAnticipation
+      Hash: -835166870
+    Duration: 0.18332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 02fda425e2c94b948843fe489d983d07, type: 2}

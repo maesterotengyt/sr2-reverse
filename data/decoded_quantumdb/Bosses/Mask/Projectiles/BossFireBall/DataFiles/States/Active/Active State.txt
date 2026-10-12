@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBall/DataFiles/States/Active/Active State
+      Guid:
+        Value: 4140714034429016556
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 364943435899419183
+      - Id:
+          Value: 555905037569637613
+      - Id:
+          Value: 2761998195336477597
+      - Id:
+          Value: 3281885032529242341
+      - Id:
+          Value: 3798579915064034403
+      - Id:
+          Value: 1985464334735524041
+      - Id:
+          Value: 2813418560810694068
+      - Id:
+          Value: 184786030690694036
+      - Id:
+          Value: 1121978272102479582
+      - Id:
+          Value: 1296300027179052100
+      - Id:
+          Value: 3476935328799614931
+      - Id:
+          Value: 4142413010278766180
+      - Id:
+          Value: 4558044225819724500
+      - Id:
+          Value: 874591784152352762
+      - Id:
+          Value: 4289409305179107599
+      - Id:
+          Value: 482022127314016142
+      - Id:
+          Value: 3357732220626830651
+      - Id:
+          Value: 128853216040705517
+      - Id:
+          Value: 752456507650311296
+      - Id:
+          Value: 2715127147963964088
+      StateInheritedGroups:
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hurt
+          Hash: -708559012
+        EventToReact: 11
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Reflect
+          Hash: 559726596
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

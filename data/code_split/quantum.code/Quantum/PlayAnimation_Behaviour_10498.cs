@@ -1,0 +1,27 @@
+// Namespace: Quantum
+[Serializable]
+public class PlayAnimation_Behaviour : StateBehaviour // TypeDefIndex: 10498
+{
+	// Fields
+	public AnimationPlayableInfo[] Animations; // 0x60
+	public bool ApplyBlendToCurrent; // 0x68
+	[DrawIf("ApplyBlendToCurrent", 1, 0, 3)]
+	public FP BlendFrames; // 0x70
+
+	// Methods
+
+	// RVA: 0x20EC110 Offset: 0x20EA710 VA: 0x1820EC110 Slot: 7
+	protected override void OnEnter(Frame frame, CachedEntityData stateMachineOwner, CachedEntityData targetEntityData) { }
+
+	// RVA: 0x21BBA50 Offset: 0x21BA050 VA: 0x1821BBA50 Slot: 8
+	protected override void OnExecute(Frame frame, CachedEntityData stateMachineOwner, CachedEntityData targetEntityData) { }
+
+	// RVA: 0x4F3940 Offset: 0x4F1F40 VA: 0x1804F3940 Slot: 10
+	protected override void OnExit(Frame frame, CachedEntityData stateMachineOwner, CachedEntityData targetEntityData) { }
+
+	// RVA: 0x4F3940 Offset: 0x4F1F40 VA: 0x1804F3940 Slot: 9
+	protected override void OnUpdate(Frame frame, CachedEntityData stateMachineOwner, CachedEntityData targetEntityData, int currentFrame) { }
+
+	// RVA: 0x21BBE50 Offset: 0x21BA450 VA: 0x1821BBE50
+	public void .ctor() { }
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ItemBox State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/ItemBox/DataFiles/ItemBox State Machine Data
+      Guid:
+        Value: 759095952712700136
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 448760191253644049
+    - Id:
+        Value: 3788557928733313213
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

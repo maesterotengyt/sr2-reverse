@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FriedChickenBomb State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BlasterBullet/DataFiles/FriedChickenBomb State Machine Data
+      Guid:
+        Value: 117941933680672633
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 1053435044913391483
+    - Id:
+        Value: 937134104080573892
+    - Id:
+        Value: 1904540369562938091
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

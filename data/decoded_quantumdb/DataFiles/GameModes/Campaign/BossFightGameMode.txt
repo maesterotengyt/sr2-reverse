@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFightGameMode
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value:
+      Hash: 0
+    IdleState:
+      Value:
+      Hash: 0
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+  Settings_BossFightGameMode:
+    Identifier:
+      Path: QuantumDB/DataFiles/GameModes/Campaign/BossFightGameMode
+      Guid:
+        Value: 3100408541917284711
+    BlastzoneActive: 1
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value: Entrance
+      Hash: 1408219545
+    IdleState:
+      Value: Idle
+      Hash: 1881327601
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+    WaitTimeBetweenRounds: 2
+    WaitTimeToReturnToMainMenu: 3
+    WaitTimeToShowBanners: 1
+    PlayerStamina: 6
+    BossStamina:
+    - RawValue: 131072
+    - RawValue: 196608
+    - RawValue: 393216
+    - RawValue: 589824
+    BlastzonePercentage: 0.9574
+    BlastzoneDamage: 1
+    IntagibilityFrames: 0
+    RoundLost: 0
+    PlayerIntangibilityFramesOnHurt: 60
+    BossDifficultyVariableID: Difficulty
+    SlowdownTimeModifier:
+      ID:
+        Value: RaceEndSlowdown
+        Hash: -40346943
+      Multiplier: 0.2
+      AlterSimulation: 1
+      AlterEngine: 0
+    DialogueSpeedModifier:
+      ID:
+        Value: Dialogue
+        Hash: 451757778
+      Multiplier: 0
+      AlterSimulation: 1
+      AlterEngine: 0

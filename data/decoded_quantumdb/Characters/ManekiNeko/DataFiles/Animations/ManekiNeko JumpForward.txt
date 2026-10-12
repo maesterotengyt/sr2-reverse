@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko JumpForward
+      Guid:
+        Value: 137203521371802763
+    ClipIndex: 18
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.1333
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    - Frame: 68
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 96df00290c0f0af409103236ecfb6119, type: 2}

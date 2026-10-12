@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardAreaEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Checkpoint/HazardArea|EntityPrototype
+      Guid:
+        Value: 2374302259565130351
+    Container: {}
+  Parent: {fileID: 114724804207875695, guid: 4d0d537a740091e4fb339073b85a61d4, type: 2}

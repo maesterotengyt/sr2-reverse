@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Saw/DataFiles/States/Active/Active State
+      Guid:
+        Value: 4105288911786566109
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3062798523768229927
+      - Id:
+          Value: 2877633565007657333
+      - Id:
+          Value: 2708237156957065840
+      - Id:
+          Value: 624805316956399820
+      - Id:
+          Value: 3249973868369902300
+      StateInheritedGroups:
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Refresh Attack
+          Hash: 1927307955
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

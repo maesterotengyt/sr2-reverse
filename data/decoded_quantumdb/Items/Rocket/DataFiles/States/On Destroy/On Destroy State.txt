@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Destroy State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Rocket/DataFiles/States/On Destroy/On Destroy State
+      Guid:
+        Value: 1061762108616622116
+    Name:
+      Value: On Destroy
+      Hash: 1220723172
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 405851153028170508
+      - Id:
+          Value: 3354411967674016146
+      StateInheritedGroups: []

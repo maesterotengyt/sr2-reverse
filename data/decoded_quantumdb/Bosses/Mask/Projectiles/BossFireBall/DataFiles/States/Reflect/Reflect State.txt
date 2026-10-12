@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Reflect State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBall/DataFiles/States/Reflect/Reflect State
+      Guid:
+        Value: 2913232363063946417
+    Name:
+      Value: Reflect
+      Hash: 559726596
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 646192606168114725
+      - Id:
+          Value: 1720134523937824786
+      - Id:
+          Value: 2327418442671538529
+      StateInheritedGroups: []

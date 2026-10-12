@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull Taunt
+      Guid:
+        Value: 1777159327380067199
+    ClipIndex: 37
+    ClipName:
+      Value: Taunt
+      Hash: -1374391527
+    Duration: 2.5
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 142fcd89266e2a245b455143676104ff, type: 2}

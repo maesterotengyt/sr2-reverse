@@ -1,0 +1,1162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner Run
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner Run
+      Guid:
+        Value: 431817483236846466
+    ClipIndex: 39
+    ClipName:
+      Value: Run
+      Hash: -120825126
+    Duration: 1.3667
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 1
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 3
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 4
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 5
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 6
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 7
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 8
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 9
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 10
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 11
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 12
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 13
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 14
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 15
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 17
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 19
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 21
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 23
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 25
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 27
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 29
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 31
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 32
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 33
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 34
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 35
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 36
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 37
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 38
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 39
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 40
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 41
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 42
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 43
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 44
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 45
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 46
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 47
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 48
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 49
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 50
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 51
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 52
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 53
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 54
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 55
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 56
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 57
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 58
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 59
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 60
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 61
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 62
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 63
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 64
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 65
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 66
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 67
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 68
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 69
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 70
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 71
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 72
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 73
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 74
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 75
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 76
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 77
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 78
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 79
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 80
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 81
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 82
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d49c79d81f1c123479628b0fad146f56, type: 2}

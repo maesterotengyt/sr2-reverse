@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SimpleHurt Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FireBall/DataFiles/States/Active/Behaviours/SimpleHurt Behaviour
+      Guid:
+        Value: 1345062208186586056
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Hurt
+      Hash: -708559012
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GroupForSuccessfulHit:
+      GroupName:
+        Value: Reflect
+        Hash: 559726596
+      ExecutionMode: 1
+    AttackDatasToReact:
+    - Value: Shockwave
+      Hash: 711611806

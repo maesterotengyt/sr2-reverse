@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Obstacle State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Obstacle/DataFiles/Obstacle State Machine Data
+      Guid:
+        Value: 1205678416834678395
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: IsFrozen
+        Hash: -19590533
+      Value: 0
+      Notes:
+    - Name:
+        Value: FrozenTimer
+        Hash: 1213913154
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 2011021201897605300
+    - Id:
+        Value: 3753295072219311306
+    - Id:
+        Value: 3296106454739010391
+    - Id:
+        Value: 1911890249244703410
+    - Id:
+        Value: 943046848449829980
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

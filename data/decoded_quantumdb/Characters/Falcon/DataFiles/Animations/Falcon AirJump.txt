@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon AirJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon AirJump
+      Guid:
+        Value: 3949329322208671850
+    ClipIndex: 0
+    ClipName:
+      Value: AirJump
+      Hash: 1059819696
+    Duration: 0.73332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 9f65b3991ec073b4fbe4217d1ee1af3f, type: 2}

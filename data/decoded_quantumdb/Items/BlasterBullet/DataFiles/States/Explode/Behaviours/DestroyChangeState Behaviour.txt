@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: DestroyChangeState Behaviour
+  Notes:
+  EditorName: Destroy
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BlasterBullet/DataFiles/States/Explode/Behaviours/DestroyChangeState Behaviour
+      Guid:
+        Value: 394744185206607591
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: Destroy
+      Hash: 785740353
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Destroy
+        Hash: 785740353
+      TransitionFrames: 0

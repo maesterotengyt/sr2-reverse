@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopVFX Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Down/Behaviours/StopVFX Behaviour
+      Guid:
+        Value: 1244543199134331944
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Loop End
+      Hash: -1036359245
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    VFXID:
+      Value: Dizzy
+      Hash: 316996659
+    StopAttributes:
+      StopParticles: 1
+      DeactivateGameObject: 1
+      KeepFinalPosition: 0

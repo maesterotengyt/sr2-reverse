@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner HookFallLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner HookFallLoop
+      Guid:
+        Value: 999900464838598097
+    ClipIndex: 21
+    ClipName:
+      Value: HookFallLoop
+      Hash: 418448777
+    Duration: 0.33333
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 19
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+      - MeshHash: 1693958223
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: c6afbbbf11a424644adb539521b2c739, type: 2}

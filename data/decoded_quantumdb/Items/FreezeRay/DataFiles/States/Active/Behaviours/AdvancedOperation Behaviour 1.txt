@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: AdvancedOperation Behaviour 1
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FreezeRay/DataFiles/States/Active/Behaviours/AdvancedOperation Behaviour 1
+      Guid:
+        Value: 2060651727356059799
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 21
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 100
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 14
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: -1301325199
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value: On Hit
+      Hash: -739188597
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    Operations:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 5
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value: ComboCount
+          Hash: 743989508
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Action: 1

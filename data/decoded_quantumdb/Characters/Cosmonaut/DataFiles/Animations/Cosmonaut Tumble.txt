@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut Tumble
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut Tumble
+      Guid:
+        Value: 248655339714385800
+    ClipIndex: 37
+    ClipName:
+      Value: Tumble
+      Hash: 1755747619
+    Duration: 1.2667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a5901dc469135744eaa3e73f9c36345a, type: 2}

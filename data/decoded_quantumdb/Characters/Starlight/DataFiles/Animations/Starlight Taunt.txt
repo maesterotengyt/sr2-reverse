@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight Taunt
+      Guid:
+        Value: 4516374573491685596
+    ClipIndex: 36
+    ClipName:
+      Value: Taunt
+      Hash: -1374391527
+    Duration: 2.5
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 716ded55b2404b542a13fe20f1c4a969, type: 2}

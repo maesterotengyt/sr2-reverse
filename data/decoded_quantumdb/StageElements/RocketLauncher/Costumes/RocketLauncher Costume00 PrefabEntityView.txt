@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: RocketLauncher Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/RocketLauncher/Costumes/RocketLauncher Costume00 Prefab|EntityView
+      Guid:
+        Value: 163220631333830203
+  Parent: {fileID: 114587765826080250, guid: f76217a3e01bfee41a8a55b2c582e8e5, type: 2}

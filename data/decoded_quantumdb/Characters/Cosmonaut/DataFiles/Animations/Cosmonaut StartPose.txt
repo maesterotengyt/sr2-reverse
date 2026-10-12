@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut StartPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut StartPose
+      Guid:
+        Value: 2251775057162709636
+    ClipIndex: 34
+    ClipName:
+      Value: StartPose
+      Hash: 865148973
+    Duration: 1.3333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d4e993018a88188449aa9f34f22889ae, type: 2}

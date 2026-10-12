@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: LaserMuseum Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/LaserMuseum/Costumes/LaserMuseum Costume00 Prefab|EntityView
+      Guid:
+        Value: 4298846718137731223
+  Parent: {fileID: 114632457200066912, guid: 653db363e4fe14945a35c5429b970c12, type: 2}

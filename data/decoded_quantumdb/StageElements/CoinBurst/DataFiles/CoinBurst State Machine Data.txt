@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CoinBurst State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/CoinBurst/DataFiles/CoinBurst State Machine Data
+      Guid:
+        Value: 3368285025702989528
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: GemCounter
+        Hash: 871829702
+      Value: 0
+      Notes:
+    - Name:
+        Value: BurstCounter
+        Hash: -1582886015
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 2225783081357660379
+    - Id:
+        Value: 1185544220901480466
+    - Id:
+        Value: 2790291842182390682
+    InitialState:
+      Value: ActiveCoin
+      Hash: -652770807
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

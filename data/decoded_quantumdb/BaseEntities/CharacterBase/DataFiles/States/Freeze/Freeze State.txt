@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Freeze State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Freeze/Freeze State
+      Guid:
+        Value: 1464519278706728388
+    Name:
+      Value: Freeze
+      Hash: -982740557
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 763212096080810625
+      - Id:
+          Value: 2129460576524487200
+      - Id:
+          Value: 173270053515601469
+      - Id:
+          Value: 512258549141126399
+      - Id:
+          Value: 1517947646103667987
+      - Id:
+          Value: 4346504032140639685
+      - Id:
+          Value: 1870824524419466791
+      - Id:
+          Value: 3278320209124245142
+      - Id:
+          Value: 4219977692052783380
+      - Id:
+          Value: 3331203864002091850
+      - Id:
+          Value: 2133765741621077812
+      - Id:
+          Value: 3751134432306228306
+      - Id:
+          Value: 328906613364048943
+      - Id:
+          Value: 2635315418737785519
+      - Id:
+          Value: 998244402934953552
+      - Id:
+          Value: 3187482930529984482
+      - Id:
+          Value: 3510408073316562664
+      - Id:
+          Value: 2593933248789389161
+      - Id:
+          Value: 868982739619216725
+      - Id:
+          Value: 1759956904905691082
+      StateInheritedGroups:
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Button Press
+          Hash: 869448534
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Freeze End
+          Hash: -505124302
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

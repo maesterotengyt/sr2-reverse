@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Back Flip State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Back Flip/Back Flip State
+      Guid:
+        Value: 3860754376065366823
+    Name:
+      Value: Back Flip
+      Hash: -2020359354
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 66249225469952620
+      - Id:
+          Value: 3186776826838714019
+      - Id:
+          Value: 4515633352825564027
+      - Id:
+          Value: 985963793194373682
+      - Id:
+          Value: 3811983888967845808
+      - Id:
+          Value: 4295436826545370508
+      - Id:
+          Value: 3843386712654353687
+      - Id:
+          Value: 3397401978128424643
+      - Id:
+          Value: 2573939404857244856
+      - Id:
+          Value: 3016218276423789645
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation Finished
+          Hash: -1167156220
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

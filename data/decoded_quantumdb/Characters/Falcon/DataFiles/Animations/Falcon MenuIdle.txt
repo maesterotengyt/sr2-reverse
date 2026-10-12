@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon MenuIdle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon MenuIdle
+      Guid:
+        Value: 2651867575358102298
+    ClipIndex: 23
+    ClipName:
+      Value: MenuIdle
+      Hash: 528646332
+    Duration: 8.9
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 73b91121fbe8e8046a892d897458df00, type: 2}

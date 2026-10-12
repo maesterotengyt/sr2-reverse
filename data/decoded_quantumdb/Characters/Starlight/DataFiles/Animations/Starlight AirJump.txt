@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight AirJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight AirJump
+      Guid:
+        Value: 4002121462661696838
+    ClipIndex: 0
+    ClipName:
+      Value: AirJump
+      Hash: 1059819696
+    Duration: 0.75
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 9a1fca39b3e29ab43ae648b1590f5b5a, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Activate State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/ShockWave/DataFiles/States/Activate/Activate State
+      Guid:
+        Value: 4464219634823299736
+    Name:
+      Value: Activate
+      Hash: -824879934
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4367080040321036221
+      - Id:
+          Value: 3910964503694405590
+      - Id:
+          Value: 70939701745043266
+      - Id:
+          Value: 942775521908156149
+      - Id:
+          Value: 4033561868188756170
+      - Id:
+          Value: 2463431505076372807
+      - Id:
+          Value: 4544107620675682029
+      - Id:
+          Value: 1939159055212407477
+      - Id:
+          Value: 3516664131236589866
+      - Id:
+          Value: 4543416442937050460
+      - Id:
+          Value: 2396063650046697902
+      StateInheritedGroups:
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

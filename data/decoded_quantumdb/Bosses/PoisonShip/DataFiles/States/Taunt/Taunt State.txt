@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Taunt State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/Taunt/Taunt State
+      Guid:
+        Value: 3418006536611034904
+    Name:
+      Value: Taunt
+      Hash: -1374391527
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 296718252527910702
+      - Id:
+          Value: 3926715242927115783
+      - Id:
+          Value: 108947576593634123
+      - Id:
+          Value: 1582892886656108827
+      - Id:
+          Value: 755155575967630069
+      - Id:
+          Value: 3079820661637930168
+      StateInheritedGroups:
+      - Name:
+          Value: OnAnimationFinished
+          Hash: 593002173
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

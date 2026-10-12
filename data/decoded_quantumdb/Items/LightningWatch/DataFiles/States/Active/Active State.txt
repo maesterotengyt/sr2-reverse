@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/LightningWatch/DataFiles/States/Active/Active State
+      Guid:
+        Value: 3483853588371435433
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2983903325279732025
+      - Id:
+          Value: 1722684700429148804
+      - Id:
+          Value: 2705045766896319487
+      - Id:
+          Value: 1732851645891352860
+      StateInheritedGroups: []

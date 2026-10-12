@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko GrappleSwingUp
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko GrappleSwingUp
+      Guid:
+        Value: 3518772652511333367
+    ClipIndex: 15
+    ClipName:
+      Value: GrappleSwingUp
+      Hash: -1279458569
+    Duration: 0.43332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 87322fd803b00db49a8092804c9c1f82, type: 2}

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FrogBombBall Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Projectiles/FrogBombBall/Costumes/FrogBombBall Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 4593265134966101770
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: 6d950c7752721c948bb836ca9ec7ab80, type: 2}

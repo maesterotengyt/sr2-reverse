@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: UseGroundRotation Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Idle/Behaviours/UseGroundRotation Behaviour
+      Guid:
+        Value: 2507972348799563422
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    FloorRotationInfluence: 0.2
+    InterpolationSpeed: 140
+    ForceRotation: 0
+    ResetOnExit: 1

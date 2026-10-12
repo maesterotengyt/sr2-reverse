@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hurt Behaviour 1
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hurt/Behaviours/Hurt Behaviour 1
+      Guid:
+        Value: 2719754281977252138
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 8
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 14
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value: Hurt
+      Hash: -1797537374
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TripGroup:
+      GroupName:
+        Value: Trip
+        Hash: -389377314
+      ExecutionMode: 1
+    TripAttackDatas:
+    - Value: ObstacleHit
+      Hash: 630711795
+    - Value: Tackle
+      Hash: 1863316784
+    - Value: InviciDrill
+      Hash: 2035815660
+    - Value: PlasmaBlaster
+      Hash: -1248700181
+    TumbleGroup:
+      GroupName:
+        Value: Tumble
+        Hash: 1755747619
+      ExecutionMode: 1
+    TumbleAttackDatas:
+    - Value: RocketExplosion
+      Hash: -1676726146
+    - Value: FireBallHit
+      Hash: -988481172
+    - Value: LethalObstacle
+      Hash: 1471389329
+    - Value: RocketSelfExplosion
+      Hash: 1184497289
+    - Value: IceShard
+      Hash: -659963810
+    FreezeGroup:
+      GroupName:
+        Value: Freeze
+        Hash: -982740557
+      ExecutionMode: 1
+    FreezeAttackDatas:
+    - Value: Freeze
+      Hash: -982740557
+    FreezeFrames:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: 120
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    OutIsOnFire:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 5
+      SourceVariableIndex: 0
+      FloatValue: 0
+      ParameterID:
+        Value: IsOnFire
+        Hash: -1601008314
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    TackleAttackData:
+      Value: Tackle
+      Hash: 1863316784
+    LethalObstacleAttackData:
+      Value: LethalObstacle
+      Hash: 1471389329
+    RocketAttackData:
+      Value: RocketExplosion
+      Hash: -1676726146
+    RocketSelfExplosionAttackData:
+      Value: RocketSelfExplosion
+      Hash: 1184497289
+    FireballAttackData:
+      Value: FireBallHit
+      Hash: -988481172
+    ShockwaveAttackData:
+      Value: Shockwave
+      Hash: 711611806
+    RemoteBombAttackData:
+      Value: RemoteBombImpulse
+      Hash: 302500974
+    CrateAttackData:
+      Value: ObstacleHit
+      Hash: 630711795
+    InvinciDrillAttackData:
+      Value: InviciDrill
+      Hash: 2035815660
+    PlasmaBlasterAttackData:
+      Value: PlasmaBlaster
+      Hash: -1248700181
+    PushbackAttackDatas:
+    - Value: FlamePush
+      Hash: -1655249881

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SetupHitBoxes Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Attack1/Behaviours/SetupHitBoxes Behaviour
+      Guid:
+        Value: 3036171188363627369
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: Wave1
+      Hash: 1344400396
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    HitBoxes:
+    - ID:
+        Value: 1
+        Hash: 1527182858
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 3
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: -1.8
+          Y: 4
+      PointOffsets: []
+    - ID:
+        Value: 2
+        Hash: -1583083321
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 3
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 1.8
+          Y: 4
+      PointOffsets: []
+    - ID:
+        Value: 3
+        Hash: 654274102
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 5
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 0
+          Y: -0.2
+      PointOffsets: []

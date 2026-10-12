@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardFire Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardFire/Costumes/HazardFire Costume00 Prefab|EntityView
+      Guid:
+        Value: 3860263863662128598
+  Parent: {fileID: 114243736805655561, guid: 8bd059b55534c054abaf1fd1a37ef695, type: 2}

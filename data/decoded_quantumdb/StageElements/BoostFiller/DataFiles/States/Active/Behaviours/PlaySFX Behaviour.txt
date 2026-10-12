@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PlaySFX Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BoostFiller/DataFiles/States/Active/Behaviours/PlaySFX Behaviour
+      Guid:
+        Value: 3093309777640298395
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 8
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 100
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    GroupName:
+      Value: On Enter
+      Hash: 342655988
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/StageElements/BoostFiller
+    UpdateSoundPosition: 0
+    Delay: 0
+    SetParameters: 0
+    ParameterName:
+    ParameterType: 0
+    ParameterStringValue:
+    ParameterFloatValue: 0

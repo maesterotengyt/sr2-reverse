@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem GrabbedGoldenHookLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem GrabbedGoldenHookLoop
+      Guid:
+        Value: 924406212450362155
+    ClipIndex: 9
+    ClipName:
+      Value: GrabbedGoldenHookLoop
+      Hash: 1604371306
+    Duration: 0.31667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 69a9b5026be84784aa9893b157852e09, type: 2}

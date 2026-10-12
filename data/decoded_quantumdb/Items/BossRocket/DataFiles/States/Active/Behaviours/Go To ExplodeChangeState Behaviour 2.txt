@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To ExplodeChangeState Behaviour 2
+  Notes:
+  EditorName: Go To Explode
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BossRocket/DataFiles/States/Active/Behaviours/Go To ExplodeChangeState Behaviour 2
+      Guid:
+        Value: 3633470631184643487
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Hit
+      Hash: -739188597
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Explode
+        Hash: -124930431
+      TransitionFrames: 0

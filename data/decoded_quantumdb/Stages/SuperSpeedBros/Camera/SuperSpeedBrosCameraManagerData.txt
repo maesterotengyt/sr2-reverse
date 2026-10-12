@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SuperSpeedBrosCameraManagerData
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    StageCameraBounds:
+      BottomRight:
+        X: 100
+        Y: -200
+      TopLeft:
+        X: -100
+        Y: 200
+    DefaultViewPort:
+      BottomRight:
+        X: 22.5
+        Y: -15
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 0
+    HorizontalOffset: 0
+    ProjectionOffset: 0
+    ZoomInMultiplier: 0
+    ZoomOutMultiplier: 0
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 45
+    ZoomInterpolationSpeed: 45
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5
+  Settings_SuperSpeedBrosCameraManagerData:
+    Identifier:
+      Path: QuantumDB/Stages/SuperSpeedBros/Camera/SuperSpeedBrosCameraManagerData
+      Guid:
+        Value: 4094757019930526408
+    StageCameraBounds:
+      BottomRight:
+        X: 24
+        Y: -14
+      TopLeft:
+        X: -24
+        Y: 14
+    DefaultViewPort:
+      BottomRight:
+        X: 40
+        Y: -22.5
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 4.6875
+    HorizontalOffset: 0
+    ProjectionOffset: 0.1848
+    ZoomInMultiplier: 0.5
+    ZoomOutMultiplier: 5
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 45
+    ZoomInterpolationSpeed: 45
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5
+    MaxZoom: 1
+    MinZoom: 0.79999
+    ZoomScale: 1
+    MovementSmoothing: 4

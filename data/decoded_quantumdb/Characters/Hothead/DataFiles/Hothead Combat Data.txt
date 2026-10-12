@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead Combat Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Hothead Combat Data
+      Guid:
+        Value: 3990444150697721985
+    HitFilter:
+      AlwaysIfTeam:
+        Value: 0
+      CharacterInteractionPolicy: 0
+      DamageOverrideInfo:
+        EnemySetDamage: 0
+        OwnerSetDamage: 0
+        TeamSetDamage: 0
+        UseSetDamageFromEnemy:
+          Value: 0
+        UseSetDamageFromOwner:
+          Value: 0
+        UseSetDamageFromTeam:
+          Value: 0
+      DamageOwner:
+        Value: 0
+      DamagedByOwner:
+        Value: 0
+      HazardInteractionPolicy: 0
+      IgnoreEnemy:
+        Value: 0
+      IsAlwaysEnemy:
+        Value: 0
+      ItemInteractionPolicy: 0
+      ProjectileInteractionPolicy: 0
+      SameOwnerInteractionPolicy: 0
+      StageInteractionPolicy: 0
+    MaxKnockbackForFlinch: 0
+    MaxKnockbackForFlop: 0
+    Weight: 0
+    RedirectedByAnything: 0
+    CanBeRedirected: 0
+    CanBeReflected: 0
+    HurtBoxPresets: []
+    AttackDataPools:
+    - Id:
+        Value: 4212156430074435049
+    CanBlock: 0
+    CanTech: 0
+    CanChargeAttacks: 0
+    CanUseArmor: 0
+    CanUseDI: 0
+    CanStatusEffectsModifiersBeApplied: 0
+    ReboundNotificationMode: 0
+    ReboundState:
+      Value:
+      Hash: 0
+    DownFlinchNotificationMode: 0
+    DownFlinchState:
+      Value:
+      Hash: 0
+    FlinchNotificationMode: 0
+    FlinchState:
+      Value:
+      Hash: 0
+    FlopNotificationMode: 0
+    FlopState:
+      Value:
+      Hash: 0
+    LaunchedNotificationMode: 0
+    LaunchedState:
+      Value:
+      Hash: 0
+    RedirectedNotificationMode: 0
+    RedirectedState:
+      Value:
+      Hash: 0
+    ReflectedNotificationMode: 0
+    ReflectedState:
+      Value:
+      Hash: 0
+    HitNotificationMode: 0
+    HitState:
+      Value:
+      Hash: 0
+    HurtNotificationMode: 2
+    HurtState:
+      Value: Hurt
+      Hash: -1797537374
+    BlockBreakNotificationMode: 0
+    BlockBreakState:
+      Value:
+      Hash: 0
+    StaminaDepletedNotificationMode: 0
+    StaminaDepletedState:
+      Value:
+      Hash: 0
+    KnockedOutNotificationMode: 1
+    KnockedOutState:
+      Value: Knocked Out
+      Hash: -1714075471
+    RespawnNotificationMode: 1
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko GrabbedGoldenHookEnd
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko GrabbedGoldenHookEnd
+      Guid:
+        Value: 3521452215250982344
+    ClipIndex: 7
+    ClipName:
+      Value: GrabbedGoldenHookEnd
+      Hash: 1342586654
+    Duration: 0.68332
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    - Frame: 34
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    - Frame: 35
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    - Frame: 41
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: f24d10d4225038b40921fa83ab85694e, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip dart_intro
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip dart_intro
+      Guid:
+        Value: 375035854239854498
+    ClipIndex: 10
+    ClipName:
+      Value: dart_intro
+      Hash: -1184099606
+    Duration: 2
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d2cf7d4010ae1c345b8150413cdcb6aa, type: 2}

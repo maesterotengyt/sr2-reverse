@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FootstepSFX Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Run/Behaviours/FootstepSFX Behaviour
+      Guid:
+        Value: 1074251669450274896
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    OutLastStepIndex:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 5
+      SourceVariableIndex: 0
+      FloatValue: 0
+      ParameterID:
+        Value: LastFootstepFrame
+        Hash: 1343398195
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    UseExplicitChannelTargeting: 0
+    TargetChannel: 0
+    Footsteps:
+    - Frame: 13
+      FootstepSFXEventID:
+        Value: l_foot
+        Hash: -1790420120
+    - Frame: 33
+      FootstepSFXEventID:
+        Value: r_foot
+        Hash: 1586349402
+    - Frame: 53
+      FootstepSFXEventID:
+        Value: l_foot
+        Hash: -1790420120
+    - Frame: 73
+      FootstepSFXEventID:
+        Value: r_foot
+        Hash: 1586349402
+    LoopFrame: 82

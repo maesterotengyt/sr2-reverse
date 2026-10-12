@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Spawn Treasure_SpawnEntity Behaviour
+  Notes:
+  EditorName: Spawn Treasure
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/GeneralTrigger/DataFiles/States/Active/Behaviours/Spawn Treasure_SpawnEntity Behaviour
+      Guid:
+        Value: 301201546693155978
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 5
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value: Limiter
+          Hash: -188615770
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value: On Character Enter
+      Hash: 1139166792
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GameEntity:
+      Id:
+        Value: 4072636326242218988
+    SpawnedEntityIndexOutput:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: 0
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    CostumeIndex:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: 0
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    XPosition:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: -11.5
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    YPosition:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: -1.2
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    PositionRelativeToSpawner: 1

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp AirJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp AirJump
+      Guid:
+        Value: 1858408629640779136
+    ClipIndex: 0
+    ClipName:
+      Value: AirJump
+      Hash: 1059819696
+    Duration: 0.83333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 786e66a30627fb34d838c2ea2c3f6d84, type: 2}

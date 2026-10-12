@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CleanPlatformCollisionData
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/Prototype/Collisions/CleanPlatformCollisionData
+      Guid:
+        Value: 217702343735874782
+    Vertices:
+    - X: -11.651
+      Y: -0.69487
+    - X: -8.0329
+      Y: -2.0083
+    - X: 8.0176
+      Y: -2.0444
+    - X: 11.577
+      Y: -0.73433
+    - X: 14.191
+      Y: 0.97853
+    - X: 14.182
+      Y: 2.0664
+    - X: -14.171
+      Y: 2.111
+    - X: -14.218
+      Y: 0.93849
+    Normals:
+    - X: -0.34122
+      Y: -0.94
+    - X: -0.0022583
+      Y: -1
+    - X: 0.34541
+      Y: -0.93846
+    - X: 0.54802
+      Y: -0.83647
+    - X: 0.99997
+      Y: 0.0080109
+    - X: 0.0015564
+      Y: 1
+    - X: -0.99921
+      Y: 0.040131
+    - X: -0.53682
+      Y: -0.84372

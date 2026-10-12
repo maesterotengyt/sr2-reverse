@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: RemoteBomb Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/RemoteBomb/DataFiles/RemoteBomb Game Entity Data
+      Guid:
+        Value: 2204371656848250115
+    EntityName:
+      Value: RemoteBomb
+      Hash: 804126721
+    EntityType: 3
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 1655476257016300343
+    RotationPivot:
+      X: 0
+      Y: 0
+    HasEntityModifier: 0
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 4352176470337330448
+    HasCustomAnimator: 0
+    AnimationsPoolData:
+      Id:
+        Value: 3899615805894086478
+    BakedJointsData:
+      Id:
+        Value: 4077032212680558445
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 1769118497722197960
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 348874730382426163
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 0
+    MovesetLimiterData:
+      Id:
+        Value: 0

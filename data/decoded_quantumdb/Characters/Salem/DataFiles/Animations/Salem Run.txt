@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Run
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem Run
+      Guid:
+        Value: 2383787051200002795
+    ClipIndex: 29
+    ClipName:
+      Value: Run
+      Hash: -120825126
+    Duration: 1.25
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: c485cc23476556a4dbbe1d08d26814ae, type: 2}

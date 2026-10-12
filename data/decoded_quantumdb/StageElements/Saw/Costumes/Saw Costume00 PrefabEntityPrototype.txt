@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Saw Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Saw/Costumes/Saw Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 458407084808101895
+    Container: {}
+  Parent: {fileID: 114470112387431263, guid: e5fb240f1e51f774eb5e318a3e2dc508, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Destroy State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/IceShard/DataFiles/States/Destroy/Destroy State
+      Guid:
+        Value: 2090681843903788288
+    Name:
+      Value: Destroy
+      Hash: 785740353
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2874247792059256645
+      - Id:
+          Value: 3776336872582639036
+      StateInheritedGroups: []

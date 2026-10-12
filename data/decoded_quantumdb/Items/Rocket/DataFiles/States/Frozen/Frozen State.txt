@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frozen State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Rocket/DataFiles/States/Frozen/Frozen State
+      Guid:
+        Value: 467729076459104742
+    Name:
+      Value: Frozen
+      Hash: 1641210360
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4131307715285496027
+      - Id:
+          Value: 4449318511588295972
+      - Id:
+          Value: 584781587511843102
+      - Id:
+          Value: 942813415044964291
+      - Id:
+          Value: 645252788704345822
+      - Id:
+          Value: 4141233620130581223
+      - Id:
+          Value: 4569444538548384259
+      - Id:
+          Value: 3712414588887820404
+      - Id:
+          Value: 2766457479836936190
+      - Id:
+          Value: 3392800869740413904
+      - Id:
+          Value: 1692782653432758960
+      - Id:
+          Value: 800452224852235121
+      - Id:
+          Value: 229836361659219651
+      - Id:
+          Value: 1638974388282255935
+      - Id:
+          Value: 3933381378929371930
+      - Id:
+          Value: 4048188585355512035
+      - Id:
+          Value: 1679397244274852587
+      StateInheritedGroups:
+      - Name:
+          Value: Enter
+          Hash: -654364779
+        EventToReact: 1
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Exit
+          Hash: 405578013
+        EventToReact: 2
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Update
+          Hash: -950590083
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Ceiling
+          Hash: -258321912
+        EventToReact: 21
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: L Wall
+          Hash: -1322402487
+        EventToReact: 22
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: R Wall
+          Hash: -426114394
+        EventToReact: 23
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Floor
+          Hash: -188593455
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Explode
+          Hash: -124930431
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

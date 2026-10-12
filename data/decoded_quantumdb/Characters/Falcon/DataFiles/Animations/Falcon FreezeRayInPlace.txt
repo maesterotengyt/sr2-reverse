@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon FreezeRayInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon FreezeRayInPlace
+      Guid:
+        Value: 2548801234596247112
+    ClipIndex: 5
+    ClipName:
+      Value: FreezeRayInPlace
+      Hash: 1750696149
+    Duration: 0.64999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d58e76f23ddbe3945ad91672bcad2a8e, type: 2}

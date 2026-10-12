@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ItemAutoTrigger Costume01 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/ItemAutoTrigger/Costumes/ItemAutoTrigger Costume01 Prefab|EntityView
+      Guid:
+        Value: 2468414291967444132
+  Parent: {fileID: 114099118695303065, guid: 8b2b61c8ea0195847900be0fe73c1c19, type: 2}

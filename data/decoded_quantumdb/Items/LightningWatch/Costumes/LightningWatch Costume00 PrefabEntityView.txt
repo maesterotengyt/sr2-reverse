@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: LightningWatch Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/LightningWatch/Costumes/LightningWatch Costume00 Prefab|EntityView
+      Guid:
+        Value: 3434241059618021654
+  Parent: {fileID: 114099118695303065, guid: a1606a687e408be49b3afd66a80692b7, type: 2}

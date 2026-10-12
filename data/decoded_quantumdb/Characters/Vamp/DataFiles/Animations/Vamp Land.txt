@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp Land
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp Land
+      Guid:
+        Value: 397046311554665139
+    ClipIndex: 23
+    ClipName:
+      Value: Land
+      Hash: -2007922027
+    Duration: 0.34999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: b57e948829f00274bb3fb9961dee8974, type: 2}

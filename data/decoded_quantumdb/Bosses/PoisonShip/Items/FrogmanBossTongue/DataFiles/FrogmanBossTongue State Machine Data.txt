@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FrogmanBossTongue State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Items/FrogmanBossTongue/DataFiles/FrogmanBossTongue State Machine Data
+      Guid:
+        Value: 1014986529313790837
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 337935240317131666
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

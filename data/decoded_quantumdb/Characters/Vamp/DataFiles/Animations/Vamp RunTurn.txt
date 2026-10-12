@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp RunTurn
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp RunTurn
+      Guid:
+        Value: 2256693645778695615
+    ClipIndex: 30
+    ClipName:
+      Value: RunTurn
+      Hash: -1225278200
+    Duration: 0.48332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 686f2bc1307a65348866ff12638384c2, type: 2}

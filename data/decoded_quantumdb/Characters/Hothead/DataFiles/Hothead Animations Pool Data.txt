@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Hothead Animations Pool Data
+      Guid:
+        Value: 2443311987935204370
+    ClipsDataRefs:
+    - Id:
+        Value: 2795238353207875275
+    - Id:
+        Value: 90872075711212525
+    - Id:
+        Value: 1995098414647320015
+    - Id:
+        Value: 2890077726255272279
+    - Id:
+        Value: 3956854040296929765
+    - Id:
+        Value: 3034876704356435807
+    - Id:
+        Value: 1125227465086853981
+    - Id:
+        Value: 3885107303655665680
+    - Id:
+        Value: 2160920843500846611
+    - Id:
+        Value: 720643846094939804
+    - Id:
+        Value: 1688489458200013852
+    - Id:
+        Value: 4422636158893692050
+    - Id:
+        Value: 3552482705738979589
+    - Id:
+        Value: 658799627682999283
+    - Id:
+        Value: 530611011340975233
+    - Id:
+        Value: 3095773530248816758
+    - Id:
+        Value: 646283464377820108
+    - Id:
+        Value: 922971286301890022
+    - Id:
+        Value: 4087619778038578817
+    - Id:
+        Value: 2920788139599981092
+    - Id:
+        Value: 1304191429498226715
+    - Id:
+        Value: 21685618218828069
+    - Id:
+        Value: 1791709301570597068
+    - Id:
+        Value: 1037345173735883576
+    - Id:
+        Value: 3809907718537578140
+    - Id:
+        Value: 1812199195500469623
+    - Id:
+        Value: 38026900944216996
+    - Id:
+        Value: 4240371357130023379
+    - Id:
+        Value: 2595897228844000614
+    - Id:
+        Value: 2233824720491921024
+    - Id:
+        Value: 3875649530077860877
+    - Id:
+        Value: 701455372263393153
+    - Id:
+        Value: 606870720047145638
+    - Id:
+        Value: 2739892850087644569
+    - Id:
+        Value: 4544843920989447567
+    - Id:
+        Value: 4173406925921503577
+    - Id:
+        Value: 980702326146973034
+    - Id:
+        Value: 2992404320034823015
+    - Id:
+        Value: 3433195302623964323
+    - Id:
+        Value: 4547144289134548133
+    - Id:
+        Value: 3678085851959387745
+    - Id:
+        Value: 4109657968937623548
+    - Id:
+        Value: 925468418631341
+    - Id:
+        Value: 4586447173884923683
+    - Id:
+        Value: 4380026755228163482
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Hothead
+  ClipsInputPath: Assets/ProductionAssets/Characters/Hothead/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/Hothead/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Hothead/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 6c3f1741bceb31f46ae3529ec2bb98c4, type: 2}
+  - {fileID: 11400000, guid: eefee101f67aa7b43967f389d271dd51, type: 2}
+  - {fileID: 11400000, guid: fe16fe70725f4d94a8dbb55b4165730d, type: 2}
+  - {fileID: 11400000, guid: ab913270093bfe741971452ca3268f37, type: 2}
+  - {fileID: 11400000, guid: 13682867370857a40bf6f7b130702b96, type: 2}
+  - {fileID: 11400000, guid: 385ad315d5909364c94e8511d1d3ea73, type: 2}
+  - {fileID: 11400000, guid: a077f90dee18ae44aa0056dbfce1abd9, type: 2}
+  - {fileID: 11400000, guid: c0f39bd3610aeab48b73a304abc36b62, type: 2}
+  - {fileID: 11400000, guid: d209273fc2ee57a49906646ed01fcc10, type: 2}
+  - {fileID: 11400000, guid: 0484eeb1a8d4bd240824c93263e7f893, type: 2}
+  - {fileID: 11400000, guid: 91d663eb1a67e954d8fdb0a78b2558c1, type: 2}
+  - {fileID: 11400000, guid: 4e612574af840b14596f0932b92840d7, type: 2}
+  - {fileID: 11400000, guid: 228d1a566ef52dc4f95f893d5c1b3cfd, type: 2}
+  - {fileID: 11400000, guid: 4df9e9fe4b5dc8645a841e77b3e730e8, type: 2}
+  - {fileID: 11400000, guid: 996f458b45f87ab4a9cf75d8f3c89dbc, type: 2}
+  - {fileID: 11400000, guid: cd9f24de9f0ca0b4b8f76e616713d3f9, type: 2}
+  - {fileID: 11400000, guid: 456f8a128a2489e4e83a28fae941ed8d, type: 2}
+  - {fileID: 11400000, guid: 55113c4c26f0c3d41b3f9a63b126e4ff, type: 2}
+  - {fileID: 11400000, guid: 398a8ab93ce33db439b8f2df15f92b6b, type: 2}
+  - {fileID: 11400000, guid: f48c991fc5c596c4093795b105a2bb71, type: 2}
+  - {fileID: 11400000, guid: 97e41658aa1ee9d4b943aac949cb847b, type: 2}
+  - {fileID: 11400000, guid: 9d45e0d9659a3924a878f6953e9b2ff2, type: 2}
+  - {fileID: 11400000, guid: 1cba4c28bb58ab546bc9cbae8355da14, type: 2}
+  - {fileID: 11400000, guid: 410caee12a3f10046bc3baeffa14817c, type: 2}
+  - {fileID: 11400000, guid: 7db30413fccfdef43ab2aac6176f34dd, type: 2}
+  - {fileID: 11400000, guid: 48a96bfc044309840aac6524f051fb29, type: 2}
+  - {fileID: 11400000, guid: 5547a395d2cf5e74d86d926212e5b1af, type: 2}
+  - {fileID: 11400000, guid: caacf1f588b055948b3869efc725ebb3, type: 2}
+  - {fileID: 11400000, guid: fb13df50aa1474a4cab8d660e6a356fe, type: 2}
+  - {fileID: 11400000, guid: 76e53f6993ba75948bf2b953ea890a0c, type: 2}
+  - {fileID: 11400000, guid: 861796238631e4b46824459fcaeb61ab, type: 2}
+  - {fileID: 11400000, guid: 70f124dfec75b2248a210968ca8ec71d, type: 2}
+  - {fileID: 11400000, guid: c6d5fc085df7cfa408c1b9f2f990af7c, type: 2}
+  - {fileID: 11400000, guid: 09c6f604c27485241ad0e9307d1c15c5, type: 2}
+  - {fileID: 11400000, guid: 7462d0adc7e8fa748b088f2e72c1db3b, type: 2}
+  - {fileID: 11400000, guid: e0611abc0fde4e14ab8864aea32f50fd, type: 2}
+  - {fileID: 11400000, guid: cc555e5f261aa2949b828db69a3cc0b3, type: 2}
+  - {fileID: 11400000, guid: dd4ade6feacb1624c9b7765c292bc557, type: 2}
+  - {fileID: 11400000, guid: 36c4864a82f56084f97af1236b5cfb37, type: 2}
+  - {fileID: 11400000, guid: 1bffc77c7edb3474fad699627c9f1a9f, type: 2}
+  - {fileID: 11400000, guid: b083529839bdfc24c87c9d9da4394841, type: 2}
+  - {fileID: 11400000, guid: 562289163e8c63641ab778bb8bc0703d, type: 2}
+  - {fileID: 11400000, guid: abc7d7ce09f6b6e46a2fc45b812d3919, type: 2}
+  - {fileID: 11400000, guid: c46dd5fda36564e44a7822d6ef09b05c, type: 2}
+  - {fileID: 11400000, guid: 7ba3ea3d8c947974ca17fcac9dc8f849, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

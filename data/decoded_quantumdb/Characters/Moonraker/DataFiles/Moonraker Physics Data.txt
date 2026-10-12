@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker Physics Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Moonraker Physics Data
+      Guid:
+        Value: 2249477952872351283
+    ECBPresets: []
+    Gravity: 32
+    FallSpeed: 10
+    AirSpeed: 5
+    AirAcceleration: 16
+    AirFriction: 5
+    AirExtraFrictionThresholdMax: 10
+    AirExtraFrictionThresholdMin: 7
+    AirExtraFrictionFactor: 1
+    WalkSlowSpeed: 3
+    WalkFastSpeed: 6
+    RunSpeed: 8
+    GroundAcceleration: 25
+    GroundFriction: 24
+    GroundExtraFrictionThresholdMax: 10
+    GroundExtraFrictionThresholdMin: 7
+    GroundExtraFrictionFactor: 1
+    MinWallNormal: 0.89999
+    MinSlopeNormal: 0.59999
+    CrowdPushRadius: 0.45
+    CrowdPushMaxForce: 2
+    CrowdPushMinForce: 0.5
+    IgnoreThinPlatformCompletely: 0
+    MinDistanceToStandOnThinPlatform: 0.039993
+    KnockbackDecay: 22
+    Restitution: 0.85004
+    MinMagnitudeForBounce: 12
+    HitStunGravity: 32
+    HitStunFallSpeed: 10
+    HitStunAirFriction: 5
+    HitStunGroundFriction: 24
+    OnTouchFloorNotificationMode: 0
+    OnTouchFloorState:
+      Value:
+      Hash: 0
+    OnLeaveFloorNotificationMode: 0
+    OnLeaveFloorState:
+      Value:
+      Hash: 0
+    OnTouchLeftWallNotificationMode: 0
+    OnTouchLeftWallState:
+      Value:
+      Hash: 0
+    OnTouchRightWallNotificationMode: 0
+    OnTouchRightWallState:
+      Value:
+      Hash: 0
+    OnTouchCeilingNotificationMode: 0
+    OnTouchCeilingState:
+      Value:
+      Hash: 0
+    OnEnterBlastzoneNotificationMode: 2
+    OnEnterBlastzoneState:
+      Value: On Enter Blastzone
+      Hash: -1162123629

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight Land
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight Land
+      Guid:
+        Value: 1644799766035591022
+    ClipIndex: 23
+    ClipName:
+      Value: Land
+      Hash: -2007922027
+    Duration: 0.34999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: fc38f6242a654e148bebc019c5fb5186, type: 2}

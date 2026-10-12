@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Starlight Animations Pool Data
+      Guid:
+        Value: 1737139569585439040
+    ClipsDataRefs:
+    - Id:
+        Value: 4002121462661696838
+    - Id:
+        Value: 3513141058167578794
+    - Id:
+        Value: 111109855484115317
+    - Id:
+        Value: 544916673758296349
+    - Id:
+        Value: 2630952347198040747
+    - Id:
+        Value: 4212647471643643013
+    - Id:
+        Value: 3943028873779180079
+    - Id:
+        Value: 2685169689606688942
+    - Id:
+        Value: 684590787193367191
+    - Id:
+        Value: 354630771066457920
+    - Id:
+        Value: 290145845511563185
+    - Id:
+        Value: 4054586946384799201
+    - Id:
+        Value: 4065551474115463048
+    - Id:
+        Value: 394844459110030914
+    - Id:
+        Value: 4121725048136008315
+    - Id:
+        Value: 3625913127251851798
+    - Id:
+        Value: 2224714875119261304
+    - Id:
+        Value: 4313924560698360998
+    - Id:
+        Value: 2438465765766790552
+    - Id:
+        Value: 1965364708164862658
+    - Id:
+        Value: 4250441823589912597
+    - Id:
+        Value: 3637323115218571193
+    - Id:
+        Value: 2546379649084475272
+    - Id:
+        Value: 1644799766035591022
+    - Id:
+        Value: 2116549745070552938
+    - Id:
+        Value: 1381350194936214035
+    - Id:
+        Value: 1748617858591443770
+    - Id:
+        Value: 1630897922686793991
+    - Id:
+        Value: 4104782509678970693
+    - Id:
+        Value: 4274131264273051784
+    - Id:
+        Value: 1880004993915310507
+    - Id:
+        Value: 645976213205584001
+    - Id:
+        Value: 3749529140050060968
+    - Id:
+        Value: 189255540789285403
+    - Id:
+        Value: 472713028748626454
+    - Id:
+        Value: 3571842331729871978
+    - Id:
+        Value: 4516374573491685596
+    - Id:
+        Value: 3144778721634883696
+    - Id:
+        Value: 2783043324177049994
+    - Id:
+        Value: 1726066329711784516
+    - Id:
+        Value: 1748807451450694885
+    - Id:
+        Value: 2801627423635883588
+    - Id:
+        Value: 718364401311135616
+    - Id:
+        Value: 682243237385429958
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Starlight
+  ClipsInputPath: Assets/ProductionAssets/Characters/Starlight/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/Starlight/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Starlight/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 02dbe248ec059b94a981a52a9dbf5c77, type: 2}
+  - {fileID: 11400000, guid: 31b183631015b8647a7f5b8768991de9, type: 2}
+  - {fileID: 11400000, guid: 8599f98ed85a59a47afdf338bdfad88b, type: 2}
+  - {fileID: 11400000, guid: 2e5f457df57bc6840800ae6fcf3a0575, type: 2}
+  - {fileID: 11400000, guid: 55af513a09825ee45b870d9da0b545d1, type: 2}
+  - {fileID: 11400000, guid: e80bb39c3881d3c42bab4fcd0294b141, type: 2}
+  - {fileID: 11400000, guid: af25e5a0c3b79324eb671954b678ee13, type: 2}
+  - {fileID: 11400000, guid: 8a9958b93fbbf5f48a55575cc10d9198, type: 2}
+  - {fileID: 11400000, guid: 4f83b1a7fecf6ad4b87c7792e1c8bb82, type: 2}
+  - {fileID: 11400000, guid: 868f73096d0b7544d969ace084090e87, type: 2}
+  - {fileID: 11400000, guid: 43378231037fd3d43a85c4166ee13548, type: 2}
+  - {fileID: 11400000, guid: 310f2428d8f0a5940aead2195db72254, type: 2}
+  - {fileID: 11400000, guid: b28b820a2dc0121468b7fee85f6d4d55, type: 2}
+  - {fileID: 11400000, guid: b2137f9e6c6d79743b03499241099fe3, type: 2}
+  - {fileID: 11400000, guid: d5684b09552f8ba45ae24abd34f356d1, type: 2}
+  - {fileID: 11400000, guid: 14b4ade1558fb30449ba87cfa68b547e, type: 2}
+  - {fileID: 11400000, guid: a56a95b09bfab73419a9ef0997bf691b, type: 2}
+  - {fileID: 11400000, guid: 7dbc662d637c9c447bd362aa20d58a24, type: 2}
+  - {fileID: 11400000, guid: f67e96cd8e9a2104cba927f91861c59d, type: 2}
+  - {fileID: 11400000, guid: 1c564d94454d7304abf0073a5ad9f4c1, type: 2}
+  - {fileID: 11400000, guid: 6436e9af446bee247aabbe8bef535937, type: 2}
+  - {fileID: 11400000, guid: d91914252b23f1c4ab9e5ff930bbe794, type: 2}
+  - {fileID: 11400000, guid: f4083cd22e31c4746a5a56b92a5aa156, type: 2}
+  - {fileID: 11400000, guid: 8e9370f31c0ea2542ac68676982a41ee, type: 2}
+  - {fileID: 11400000, guid: 8bcc2988aabc05040a4208ec8901391d, type: 2}
+  - {fileID: 11400000, guid: b6bb08caa5b16f7468c08b2720116147, type: 2}
+  - {fileID: 11400000, guid: 44f9e90d0bb947d40b8128456cef8ec9, type: 2}
+  - {fileID: 11400000, guid: d8656377ee9f1694db4a213168bac796, type: 2}
+  - {fileID: 11400000, guid: 558b377d9ed94794c95ab31249d27732, type: 2}
+  - {fileID: 11400000, guid: 4de000893359b8c498f15626233d2589, type: 2}
+  - {fileID: 11400000, guid: 76ca27b559d6a13479fc2e289797edd7, type: 2}
+  - {fileID: 11400000, guid: 02e2f91dacd20a846be65816df55c2af, type: 2}
+  - {fileID: 11400000, guid: eebc1896f93c1f740a565cc561c3fbf8, type: 2}
+  - {fileID: 11400000, guid: 537af04382dd1a744b719daa06f656d8, type: 2}
+  - {fileID: 11400000, guid: 5e7a62235f343ac4fa73c849f1afbeaa, type: 2}
+  - {fileID: 11400000, guid: ec6a9a14415a9fa4a87deaa47c72aeac, type: 2}
+  - {fileID: 11400000, guid: 71503f76f680205419123014de86aca2, type: 2}
+  - {fileID: 11400000, guid: 2dfb5fbac5838524fb3a0bb081b95af3, type: 2}
+  - {fileID: 11400000, guid: c93332775ad0265418467f1413c88e07, type: 2}
+  - {fileID: 11400000, guid: 0d42551b3bac0234bbc0fe1efe0e9ea3, type: 2}
+  - {fileID: 11400000, guid: df852a21a8349fb409189331586016fa, type: 2}
+  - {fileID: 11400000, guid: a428dfce855077e46b5157c35e659d23, type: 2}
+  - {fileID: 11400000, guid: 6a4f2e22daa3b4645b20f10e71019ef7, type: 2}
+  - {fileID: 11400000, guid: 9e26b99e8e5d22440839ea5cca777284, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

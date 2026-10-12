@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Attack1 State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/Attack1/Attack1 State
+      Guid:
+        Value: 2806022292635398113
+    Name:
+      Value: Attack1
+      Hash: 775182663
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 81320771034343947
+      - Id:
+          Value: 461955785986263645
+      - Id:
+          Value: 2558394535529363510
+      - Id:
+          Value: 4246527200923625702
+      - Id:
+          Value: 1949934437426784533
+      - Id:
+          Value: 595150496192120392
+      - Id:
+          Value: 738807116702462999
+      - Id:
+          Value: 2676762049096741197
+      - Id:
+          Value: 2177217450334259269
+      - Id:
+          Value: 3557759739182325946
+      - Id:
+          Value: 1994520766515547220
+      - Id:
+          Value: 920521761274766604
+      - Id:
+          Value: 1471478357179335508
+      StateInheritedGroups:
+      - Name:
+          Value: OnAnimationFinished
+          Hash: 593002173
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

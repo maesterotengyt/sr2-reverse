@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ExecuteGroupOnLinecastHit Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBall/DataFiles/States/Active/Behaviours/ExecuteGroupOnLinecastHit Behaviour
+      Guid:
+        Value: 364943435899419183
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    EndFrame: 1
+    GroupToExecute:
+      GroupName:
+        Value: PortalVFX
+        Hash: 1505814473
+      ExecutionMode: 1
+    LinecastCondition: 0
+    LinecastStartUsesFacingDirection: 1
+    LinecastStartRelativeToCharacter: 1
+    LinecastStart:
+      X: -1
+      Y: 0.5
+    LinecastEndUsesFacingDirection: 1
+    LinecastEndRelativeToCharacter: 1
+    LinecastEnd:
+      X: -4
+      Y: 0.5
+    LinecastLayers:
+    - LayerIndex: 6
+    - LayerIndex: 8
+    - LayerIndex: 9
+    - LayerIndex: 7
+    - LayerIndex: 10
+    OutXPosition:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: 0
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    OutYPosition:
+      TargetEntity: 0
+      TargetIndexParameterID:
+        Value:
+        Hash: 0
+      Source: 0
+      SourceVariableIndex: 0
+      FloatValue: 0
+      ParameterID:
+        Value:
+        Hash: 0
+      PrerequisiteEvaluation: 0
+      InputActions: []
+      InputPrerequisites: []
+      SelectedStatusEffectType: 0
+      IgnoreOriginEntity: 0
+      OriginEntity: 0
+      OriginIndexParameterID:
+        Value:
+        Hash: 0
+      Inputs: []
+    LinecastColor:
+      R: 38
+      G: 140
+      B: 0
+      A: 255

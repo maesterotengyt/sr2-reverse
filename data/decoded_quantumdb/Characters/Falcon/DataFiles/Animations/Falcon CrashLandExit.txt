@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon CrashLandExit
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon CrashLandExit
+      Guid:
+        Value: 2113243313299196963
+    ClipIndex: 3
+    ClipName:
+      Value: CrashLandExit
+      Hash: 36187029
+    Duration: 0.43332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 39ab44e8fd2857941b4fd3e30526591a, type: 2}

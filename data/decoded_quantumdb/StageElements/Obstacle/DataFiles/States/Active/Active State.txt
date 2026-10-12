@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Obstacle/DataFiles/States/Active/Active State
+      Guid:
+        Value: 2011021201897605300
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1214455303916316712
+      - Id:
+          Value: 1643099640554196706
+      - Id:
+          Value: 3070638155442323115
+      - Id:
+          Value: 2106792014970997740
+      - Id:
+          Value: 3440479446736660029
+      - Id:
+          Value: 3417675616161768137
+      - Id:
+          Value: 1858649024083305014
+      - Id:
+          Value: 3217996541002014256
+      StateInheritedGroups:
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

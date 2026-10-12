@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Crate Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/Costumes/Crate Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 332939684925651035
+    Container: {}
+  Parent: {fileID: 114709867586078768, guid: 6095152353a53e94ba06ab4ffc984c0d, type: 2}

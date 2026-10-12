@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: UpdateObjectsVisibility Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/RemoteBomb/DataFiles/States/Idle/Behaviours/UpdateObjectsVisibility Behaviour
+      Guid:
+        Value: 2304014507506879414
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Touch Left Wall
+      Hash: -991770703
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    ObjectsVisibilityData:
+    - RigID:
+        Value:
+        Hash: 0
+      ObjectID:
+        Value: Floor
+        Hash: -188593455
+      Visibility: 0
+      HasConditions: 0
+      LogicalOperator: 0
+      Conditions: []
+    - RigID:
+        Value:
+        Hash: 0
+      ObjectID:
+        Value: Left Wall
+        Hash: 1761857880
+      Visibility: 1
+      HasConditions: 0
+      LogicalOperator: 0
+      Conditions: []

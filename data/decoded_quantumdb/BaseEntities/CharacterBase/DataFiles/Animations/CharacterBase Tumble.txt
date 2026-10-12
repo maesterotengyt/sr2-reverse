@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Tumble
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase Tumble
+      Guid:
+        Value: 1823826451254576923
+    ClipIndex: 20
+    ClipName:
+      Value: Tumble
+      Hash: 1755747619
+    Duration: 0.46666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 065a6b21546d1cc4991e387ff17af945, type: 2}

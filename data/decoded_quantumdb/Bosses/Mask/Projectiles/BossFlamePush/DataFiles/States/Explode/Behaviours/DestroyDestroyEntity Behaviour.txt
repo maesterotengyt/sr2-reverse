@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: DestroyDestroyEntity Behaviour
+  Notes:
+  EditorName: Destroy
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFlamePush/DataFiles/States/Explode/Behaviours/DestroyDestroyEntity Behaviour
+      Guid:
+        Value: 749820150256461115
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 60

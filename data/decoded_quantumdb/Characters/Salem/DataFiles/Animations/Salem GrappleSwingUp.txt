@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem GrappleSwingUp
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem GrappleSwingUp
+      Guid:
+        Value: 2937278113704206498
+    ClipIndex: 16
+    ClipName:
+      Value: GrappleSwingUp
+      Hash: -1279458569
+    Duration: 0.54999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 1afcf723e5598ad4c9ac1cf843020bd6, type: 2}

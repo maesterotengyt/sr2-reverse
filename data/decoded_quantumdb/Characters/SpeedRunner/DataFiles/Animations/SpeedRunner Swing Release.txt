@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner Swing Release
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner Swing Release
+      Guid:
+        Value: 4204404247125138943
+    ClipIndex: 61
+    ClipName:
+      Value: Swing Release
+      Hash: -183755178
+    Duration: 1.1
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 36bab8bc97302384483a2d146dc7498a, type: 2}

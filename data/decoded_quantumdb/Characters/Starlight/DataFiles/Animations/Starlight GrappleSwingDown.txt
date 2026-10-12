@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight GrappleSwingDown
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight GrappleSwingDown
+      Guid:
+        Value: 4121725048136008315
+    ClipIndex: 14
+    ClipName:
+      Value: GrappleSwingDown
+      Hash: 740832053
+    Duration: 0.33333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 75d5bc62634c8534298c8f76c793144e, type: 2}

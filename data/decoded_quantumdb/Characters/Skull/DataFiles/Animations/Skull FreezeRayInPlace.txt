@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull FreezeRayInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull FreezeRayInPlace
+      Guid:
+        Value: 1626366561692283512
+    ClipIndex: 7
+    ClipName:
+      Value: FreezeRayInPlace
+      Hash: 1750696149
+    Duration: 0.64999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: f1c87d0750394d844b8b5f2eb111f61a, type: 2}

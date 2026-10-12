@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut Victory
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut Victory
+      Guid:
+        Value: 2569895742754989648
+    ClipIndex: 39
+    ClipName:
+      Value: Victory
+      Hash: 1312362448
+    Duration: 1.4
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 3ebda46e48c163d429bad335c5e9da1c, type: 2}

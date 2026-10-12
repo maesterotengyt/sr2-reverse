@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase Taunt
+      Guid:
+        Value: 1963656209645834733
+    ClipIndex: 18
+    ClipName:
+      Value: Taunt
+      Hash: -1374391527
+    Duration: 2.8167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: c008ee6766c5bfe45b9e63c1101c3876, type: 2}

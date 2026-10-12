@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hurt While Frozen_SimpleHurt Behaviour
+  Notes:
+  EditorName: Hurt While Frozen
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/DataFiles/States/Hurt/Behaviours/Hurt While Frozen_SimpleHurt Behaviour
+      Guid:
+        Value: 312965120753974265
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 5
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value: IsFrozen
+          Hash: -19590533
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 14
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GroupForSuccessfulHit:
+      GroupName:
+        Value: Damage Impulse
+        Hash: -167056953
+      ExecutionMode: 1
+    AttackDatasToReact:
+    - Value: RocketExplosion
+      Hash: -1676726146
+    - Value: RemoteBombImpulse
+      Hash: 302500974
+    - Value: Shockwave
+      Hash: 711611806
+    - Value: PlasmaBlaster
+      Hash: -1248700181

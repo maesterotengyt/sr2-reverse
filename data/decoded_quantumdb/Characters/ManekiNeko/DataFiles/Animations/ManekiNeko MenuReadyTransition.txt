@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko MenuReadyTransition
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko MenuReadyTransition
+      Guid:
+        Value: 1819931760063968196
+    ClipIndex: 25
+    ClipName:
+      Value: MenuReadyTransition
+      Hash: -141053546
+    Duration: 1.2167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: cf097869c35bf2e42af529b2846b2419, type: 2}

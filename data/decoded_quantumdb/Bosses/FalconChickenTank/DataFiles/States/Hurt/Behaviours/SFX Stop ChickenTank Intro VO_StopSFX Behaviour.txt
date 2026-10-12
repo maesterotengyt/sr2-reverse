@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SFX Stop ChickenTank Intro VO_StopSFX Behaviour
+  Notes:
+  EditorName: SFX Stop ChickenTank Intro VO
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/Hurt/Behaviours/SFX Stop ChickenTank Intro VO_StopSFX Behaviour
+      Guid:
+        Value: 3925082877784515415
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: ReduceLifeBar
+      Hash: 1837730002
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/Campaign/SFX/Boss/C_SFX_Boss_Falcon_Intro

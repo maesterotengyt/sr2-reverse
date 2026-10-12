@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker RideDownSlopes
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker RideDownSlopes
+      Guid:
+        Value: 2859468372511125703
+    ClipIndex: 28
+    ClipName:
+      Value: RidedownSlopes
+      Hash: 2033256798
+    Duration: 0.23332
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    - Frame: 14
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 26dc3895b76c9a141aa9430df268c924, type: 2}

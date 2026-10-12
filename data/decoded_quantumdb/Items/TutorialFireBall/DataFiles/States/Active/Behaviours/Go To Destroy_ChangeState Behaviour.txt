@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Destroy_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Destroy
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/TutorialFireBall/DataFiles/States/Active/Behaviours/Go To Destroy_ChangeState Behaviour
+      Guid:
+        Value: 985811546146154185
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Touch Right Wall
+      Hash: 974928611
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Destroy
+        Hash: 785740353
+      TransitionFrames: 0

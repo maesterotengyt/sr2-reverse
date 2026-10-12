@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Trip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem Trip
+      Guid:
+        Value: 983552379328726596
+    ClipIndex: 38
+    ClipName:
+      Value: Trip
+      Hash: -389377314
+    Duration: 0.7
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ff9bd169cb815fe418285e1ce7bf3521, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip idle_poisonship_dart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip idle_poisonship_dart
+      Guid:
+        Value: 1505322526424881946
+    ClipIndex: 23
+    ClipName:
+      Value: idle_poisonship_dart
+      Hash: -2108249589
+    Duration: 2.0333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: bf7d46bd08dd71f468a2ad9d3accf279, type: 2}

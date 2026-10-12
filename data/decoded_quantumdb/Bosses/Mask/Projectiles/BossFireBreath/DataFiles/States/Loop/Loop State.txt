@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Loop State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/DataFiles/States/Loop/Loop State
+      Guid:
+        Value: 3759312796499089028
+    Name:
+      Value: Loop
+      Hash: 755302862
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 46136867195411964
+      - Id:
+          Value: 2439928455094586111
+      - Id:
+          Value: 2668054757046577681
+      - Id:
+          Value: 3579762179407404924
+      StateInheritedGroups: []

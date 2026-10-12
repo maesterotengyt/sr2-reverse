@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardRocket Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardRocket/Costumes/HazardRocket Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 3086807464352567188
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: 34ef1e46b0a278f4ab6775c376c11f1b, type: 2}

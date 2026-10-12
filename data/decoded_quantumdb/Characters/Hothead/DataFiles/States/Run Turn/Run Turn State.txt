@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Run Turn State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/States/Run Turn/Run Turn State
+      Guid:
+        Value: 594610992948925347
+    Name:
+      Value: Run Turn
+      Hash: 1427173753
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1439123216271596572
+      - Id:
+          Value: 118840482278555670
+      - Id:
+          Value: 3823187876413469343
+      - Id:
+          Value: 4497674250363480561
+      - Id:
+          Value: 962927597333683611
+      - Id:
+          Value: 4147307104444617320
+      - Id:
+          Value: 3560437049777858251
+      - Id:
+          Value: 3826690286093894092
+      - Id:
+          Value: 2057489073453471501
+      - Id:
+          Value: 2839886020298303581
+      - Id:
+          Value: 891262405777534758
+      - Id:
+          Value: 3761816907099571311
+      - Id:
+          Value: 731876886042618896
+      - Id:
+          Value: 4105851973219555069
+      StateInheritedGroups: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_Mask HurtDefeat
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/Animations/Boss_Mask HurtDefeat
+      Guid:
+        Value: 3573514894849673928
+    ClipIndex: 4
+    ClipName:
+      Value: HurtDefeat
+      Hash: -1410432675
+    Duration: 1
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: fa1af47563b569d49a9cfeb16c76f0e5, type: 2}

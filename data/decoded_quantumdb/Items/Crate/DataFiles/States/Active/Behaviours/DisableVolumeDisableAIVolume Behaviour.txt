@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: DisableVolumeDisableAIVolume Behaviour
+  Notes:
+  EditorName: DisableVolume
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/DataFiles/States/Active/Behaviours/DisableVolumeDisableAIVolume Behaviour
+      Guid:
+        Value: 308539802828741813
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Touch Left Wall
+      Hash: -991770703
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0

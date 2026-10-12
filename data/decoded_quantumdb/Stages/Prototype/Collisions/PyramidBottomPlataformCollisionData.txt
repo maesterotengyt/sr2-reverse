@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PyramidBottomPlataformCollisionData
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/Prototype/Collisions/PyramidBottomPlataformCollisionData
+      Guid:
+        Value: 3781200251076401700
+    Vertices:
+    - X: 15.9
+      Y: 3.8
+    - X: 12.4
+      Y: 7.3
+    - X: -12.84
+      Y: 7.3
+    - X: -16.23
+      Y: 3.8
+    Normals:
+    - X: 0.69774
+      Y: 0.71634
+    - X: 0
+      Y: 1
+    - X: -0.70711
+      Y: 0.70709
+    - X: 0
+      Y: -1

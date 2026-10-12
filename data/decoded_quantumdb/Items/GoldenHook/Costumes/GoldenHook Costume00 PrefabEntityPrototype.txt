@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GoldenHook Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/GoldenHook/Costumes/GoldenHook Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 1444402181973657027
+    Container: {}
+  Parent: {fileID: 114977153420339851, guid: 1fbda5811ce58ec4ca839a82fef7f5e6, type: 2}

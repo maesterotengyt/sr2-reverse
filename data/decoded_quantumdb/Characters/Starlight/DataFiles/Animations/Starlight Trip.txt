@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight Trip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight Trip
+      Guid:
+        Value: 3144778721634883696
+    ClipIndex: 37
+    ClipName:
+      Value: Trip
+      Hash: -389377314
+    Duration: 0.59999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 79f453f7ab605be4db89bf10dcdc6689, type: 2}

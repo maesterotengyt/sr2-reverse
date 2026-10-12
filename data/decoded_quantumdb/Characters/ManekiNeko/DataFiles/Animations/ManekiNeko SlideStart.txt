@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko SlideStart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko SlideStart
+      Guid:
+        Value: 3030990625282601508
+    ClipIndex: 32
+    ClipName:
+      Value: SlideStart
+      Hash: 1757789066
+    Duration: 0.28333
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    - Frame: 3
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    - Frame: 4
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    - Frame: 17
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 3bee05a434486b849a2e1688dc36d751, type: 2}

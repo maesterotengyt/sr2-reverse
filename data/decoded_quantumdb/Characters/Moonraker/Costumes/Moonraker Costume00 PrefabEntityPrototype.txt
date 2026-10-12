@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/Costumes/Moonraker Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 3539720396916037864
+    Container: {}
+  Parent: {fileID: 114589652054545887, guid: eb8d405c1d7a162459df190fb2b4b224, type: 2}

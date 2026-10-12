@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon RunTurn
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon RunTurn
+      Guid:
+        Value: 2969463866537359336
+    ClipIndex: 29
+    ClipName:
+      Value: RunTurn
+      Hash: -1225278200
+    Duration: 0.46666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 98e91f4e72ed08a489af5447c2a76754, type: 2}

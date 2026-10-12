@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker JumpForward
+      Guid:
+        Value: 3427934042644596451
+    ClipIndex: 20
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.3833
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    - Frame: 83
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 3043421845d759748b9002250b869156, type: 2}

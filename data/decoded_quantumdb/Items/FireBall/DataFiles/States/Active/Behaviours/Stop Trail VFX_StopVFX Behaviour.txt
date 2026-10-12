@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Stop Trail VFX_StopVFX Behaviour
+  Notes:
+  EditorName: Stop Trail VFX
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FireBall/DataFiles/States/Active/Behaviours/Stop Trail VFX_StopVFX Behaviour
+      Guid:
+        Value: 1669548134837696640
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Leave Floor
+      Hash: -492474547
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    VFXID:
+      Value: Fireball_GroundTrail
+      Hash: 1642240358
+    StopAttributes:
+      StopParticles: 1
+      DeactivateGameObject: 0
+      KeepFinalPosition: 0

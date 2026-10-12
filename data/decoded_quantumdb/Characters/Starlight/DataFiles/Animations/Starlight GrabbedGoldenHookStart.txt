@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight GrabbedGoldenHookStart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight GrabbedGoldenHookStart
+      Guid:
+        Value: 290145845511563185
+    ClipIndex: 10
+    ClipName:
+      Value: GrabbedGoldenHookStart
+      Hash: 722133423
+    Duration: 0.21666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 6e9ad1816b76c5140951c34d7489b414, type: 2}

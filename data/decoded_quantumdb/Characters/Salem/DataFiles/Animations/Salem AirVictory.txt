@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem AirVictory
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem AirVictory
+      Guid:
+        Value: 2228358702328273422
+    ClipIndex: 2
+    ClipName:
+      Value: AirVictory
+      Hash: -1214696070
+    Duration: 0.64999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 8fc219c45fc52d04f9acb656c7f1a06b, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Simple Hurt_SimpleHurt Behaviour
+  Notes:
+  EditorName: Simple Hurt
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hook Swing/Behaviours/Simple Hurt_SimpleHurt Behaviour
+      Guid:
+        Value: 3510681864656932831
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Hurt
+      Hash: -708559012
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GroupForSuccessfulHit:
+      GroupName:
+        Value: Hit By Shockwave
+        Hash: 1404978214
+      ExecutionMode: 1
+    AttackDatasToReact:
+    - Value: Shockwave
+      Hash: 711611806

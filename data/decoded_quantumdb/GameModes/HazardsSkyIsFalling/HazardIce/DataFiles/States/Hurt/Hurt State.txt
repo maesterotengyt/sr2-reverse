@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hurt State
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardIce/DataFiles/States/Hurt/Hurt State
+      Guid:
+        Value: 540137805073360615
+    Name:
+      Value: Hurt
+      Hash: -1797537374
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 47366562975498568
+      - Id:
+          Value: 1842275607106346120
+      - Id:
+          Value: 655539029158855754
+      - Id:
+          Value: 3093817812701499743
+      - Id:
+          Value: 2992837699675842831
+      StateInheritedGroups:
+      - Name:
+          Value: Destroy
+          Hash: 785740353
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Reflect
+          Hash: 559726596
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

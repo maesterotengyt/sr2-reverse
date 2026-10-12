@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Vamp Animations Pool Data
+      Guid:
+        Value: 3914786810845672505
+    ClipsDataRefs:
+    - Id:
+        Value: 1858408629640779136
+    - Id:
+        Value: 2300078658927817624
+    - Id:
+        Value: 818634876316094246
+    - Id:
+        Value: 3849649282372252721
+    - Id:
+        Value: 757241408170433558
+    - Id:
+        Value: 1683873890883493737
+    - Id:
+        Value: 4056493851254797971
+    - Id:
+        Value: 412810495227767818
+    - Id:
+        Value: 3678622401887752056
+    - Id:
+        Value: 2812181721040069508
+    - Id:
+        Value: 842429464853908776
+    - Id:
+        Value: 750549978751417882
+    - Id:
+        Value: 3560671713953739127
+    - Id:
+        Value: 4343153321034361472
+    - Id:
+        Value: 2243801556308529399
+    - Id:
+        Value: 258220509656490500
+    - Id:
+        Value: 2685002173030122029
+    - Id:
+        Value: 3241971339918824824
+    - Id:
+        Value: 3056617267763597539
+    - Id:
+        Value: 376176158817861816
+    - Id:
+        Value: 4056343803371792541
+    - Id:
+        Value: 2580779049603817989
+    - Id:
+        Value: 749545008029935596
+    - Id:
+        Value: 397046311554665139
+    - Id:
+        Value: 1273997654137223771
+    - Id:
+        Value: 474086598264891428
+    - Id:
+        Value: 3505190089740229134
+    - Id:
+        Value: 3203558664385816361
+    - Id:
+        Value: 3537635978654093086
+    - Id:
+        Value: 1636966378271095238
+    - Id:
+        Value: 2256693645778695615
+    - Id:
+        Value: 1176408724309159739
+    - Id:
+        Value: 1581968646933442162
+    - Id:
+        Value: 3504257138813105540
+    - Id:
+        Value: 3664916111803712514
+    - Id:
+        Value: 3261644818337822602
+    - Id:
+        Value: 1347559191429161579
+    - Id:
+        Value: 3783688735323302099
+    - Id:
+        Value: 3279382249601261730
+    - Id:
+        Value: 983223242219526059
+    - Id:
+        Value: 3767137590882228051
+    - Id:
+        Value: 2220664981288917798
+    - Id:
+        Value: 1790865678368265594
+    - Id:
+        Value: 1460364889707897001
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Vamp
+  ClipsInputPath: Assets/ProductionAssets/Characters/Vamp/Animations/
+  OptimizedClipsOutputPath: Assets/Characters/Vamp/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Vamp/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: d5aab1a15a939c24da3534a7cf765b87, type: 2}
+  - {fileID: 11400000, guid: 86a4c69b46983544c95038f20bd12dbb, type: 2}
+  - {fileID: 11400000, guid: e005aadfc5d95ef4384408e9300472b0, type: 2}
+  - {fileID: 11400000, guid: 1b41c8e1079b0194b8f49df6bd27c341, type: 2}
+  - {fileID: 11400000, guid: f9c8ff9164aecc845b722e1918d11e04, type: 2}
+  - {fileID: 11400000, guid: b73cde2500b00c94fac772c371ff3a52, type: 2}
+  - {fileID: 11400000, guid: f3de4f57267de7242b71e2b1f4701f3e, type: 2}
+  - {fileID: 11400000, guid: e2aaba885d92b2b45b6226071f5b7299, type: 2}
+  - {fileID: 11400000, guid: e2eb3aacc76fc1c4697a5b0d02a64c49, type: 2}
+  - {fileID: 11400000, guid: 15fae391c47e08a44bd862f346cacd4d, type: 2}
+  - {fileID: 11400000, guid: e770ac7d5ab553040a8f7a4935e038b3, type: 2}
+  - {fileID: 11400000, guid: 33f8db33f1312d445998f7b723ba3dda, type: 2}
+  - {fileID: 11400000, guid: a2581c8ca94d2124393e295ce296339a, type: 2}
+  - {fileID: 11400000, guid: 8f66b0d28f777e141bb189416554dfcd, type: 2}
+  - {fileID: 11400000, guid: 83f9e1328587b504e8c2950b2f0765dc, type: 2}
+  - {fileID: 11400000, guid: 1cac4c79b5f1839448359d0d76d8e77e, type: 2}
+  - {fileID: 11400000, guid: e419c41fa779b06488d09a0fac310442, type: 2}
+  - {fileID: 11400000, guid: 2b87cb651dfd33340905a26433a9eda4, type: 2}
+  - {fileID: 11400000, guid: 2f9b642267668e540a831d0bdeaacb33, type: 2}
+  - {fileID: 11400000, guid: 0b71dae1660d58146b71b58811219a13, type: 2}
+  - {fileID: 11400000, guid: eca717377e408034784427ccb24785a0, type: 2}
+  - {fileID: 11400000, guid: e053299ebd033fc47b85ee1ed07f83dc, type: 2}
+  - {fileID: 11400000, guid: 0a1111cb7681e6b4c9b78a87dfc3e949, type: 2}
+  - {fileID: 11400000, guid: d6de7ad4a738b25448f951e4446d9297, type: 2}
+  - {fileID: 11400000, guid: 6dd641b2af394fd488cbae87e19dcba7, type: 2}
+  - {fileID: 11400000, guid: 48eff5153e1b1d9449f517bc5ebef1ea, type: 2}
+  - {fileID: 11400000, guid: 1d31fdd4c54e02d4da39867466da17a8, type: 2}
+  - {fileID: 11400000, guid: 175c147a9f21f6a4685e20448467cb73, type: 2}
+  - {fileID: 11400000, guid: 187b7a4490e05a947819ad06dfa839a5, type: 2}
+  - {fileID: 11400000, guid: ac9111aae989a8c49a17721f4eb14833, type: 2}
+  - {fileID: 11400000, guid: e96a78aca8426ea44b60f046c031982b, type: 2}
+  - {fileID: 11400000, guid: 771c1305cee48cd4f8397977357fe10d, type: 2}
+  - {fileID: 11400000, guid: 486c3e8bcd3ec1a4ca9784f6753372cc, type: 2}
+  - {fileID: 11400000, guid: 9eb8bf1f3a524b748a4e7b050cd4dbe4, type: 2}
+  - {fileID: 11400000, guid: d8dafdf23aaffd84eaa2d8dff544538b, type: 2}
+  - {fileID: 11400000, guid: 864c8c068ab28d142bfa1a07b2fb5098, type: 2}
+  - {fileID: 11400000, guid: 56f20558e29a9ee4b951252b05bed8f0, type: 2}
+  - {fileID: 11400000, guid: e0af4909cdd67084184e9542bec7617f, type: 2}
+  - {fileID: 11400000, guid: 7f5320706ef17374283097ecaf6e0af3, type: 2}
+  - {fileID: 11400000, guid: e45d6416c3d8df4499ffbe7cc636bd8e, type: 2}
+  - {fileID: 11400000, guid: 075b358ccee9349458e949aeed57efaf, type: 2}
+  - {fileID: 11400000, guid: 6398394891e11654cb02bf5f8a71e86a, type: 2}
+  - {fileID: 11400000, guid: aa4789039c472dd4c8399ce4eeedf713, type: 2}
+  - {fileID: 11400000, guid: 6515ae68ecb2d694c88a974e52164f08, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

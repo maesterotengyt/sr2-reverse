@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase LandHard
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase LandHard
+      Guid:
+        Value: 2472010411285377803
+    ClipIndex: 13
+    ClipName:
+      Value: LandHard
+      Hash: 1919778762
+    Duration: 0.83333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 4e425fbdf7ec9f54cb4eba6e78d132cf, type: 2}

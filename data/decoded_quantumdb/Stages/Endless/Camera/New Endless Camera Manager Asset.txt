@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: New Endless Camera Manager Asset
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    StageCameraBounds:
+      BottomRight:
+        X: 100
+        Y: -200
+      TopLeft:
+        X: -100
+        Y: 200
+    DefaultViewPort:
+      BottomRight:
+        X: 24.375
+        Y: -15
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 0
+    HorizontalOffset: 0
+    ProjectionOffset: 0
+    ZoomInMultiplier: 0
+    ZoomOutMultiplier: 0
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 45
+    ZoomInterpolationSpeed: 45
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5
+  Settings_EndlessCameraManager:
+    Identifier:
+      Path: QuantumDB/Stages/Endless/Camera/New Endless Camera Manager Asset
+      Guid:
+        Value: 273930059560537319
+    StageCameraBounds:
+      BottomRight:
+        X: 9999
+        Y: -9999
+      TopLeft:
+        X: -9999
+        Y: 9999
+    DefaultViewPort:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 7
+    HorizontalOffset: -12
+    ProjectionOffset: 0
+    ZoomInMultiplier: 0
+    ZoomOutMultiplier: 0
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 45
+    ZoomInterpolationSpeed: 45
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5

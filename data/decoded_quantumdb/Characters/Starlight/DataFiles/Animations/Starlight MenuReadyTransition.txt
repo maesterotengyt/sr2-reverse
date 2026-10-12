@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight MenuReadyTransition
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight MenuReadyTransition
+      Guid:
+        Value: 1748617858591443770
+    ClipIndex: 26
+    ClipName:
+      Value: MenuReadyTransition
+      Hash: -141053546
+    Duration: 1.2833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 03ebd5c770445da43aac61536fd98fec, type: 2}

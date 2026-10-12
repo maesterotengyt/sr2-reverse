@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/ManekiNeko State Machine Data
+      Guid:
+        Value: 3489591159450928266
+    ParentStateMachine:
+      Id:
+        Value: 2686411458687942432
+    Variables: []
+    States:
+    - Id:
+        Value: 1504753337914259790
+    - Id:
+        Value: 1154628810701832660
+    - Id:
+        Value: 3859312740659085429
+    - Id:
+        Value: 490619457940799064
+    - Id:
+        Value: 4292598148207844988
+    InitialState:
+      Value: Idle
+      Hash: 1881327601
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GoldenHook ItemUsageData
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/PickupItems/GoldenHook ItemUsageData
+      Guid:
+        Value: 2443605265615038271
+    Usages:
+    - Action: 0
+      ItemUseActiveFrames: 0
+      SFXToPlay: []
+      TargetState:
+        Value:
+        Hash: 0
+      GameEntity:
+        Id:
+          Value: 96786021618881907
+      CheckCollisionsInBetween: 0
+      XPosition:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      YPosition:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      PositionRelativeToSpawner: 1
+      UseSpawnerFacingDirection: 1
+    ButtonUseMode: 0
+    ChargePowerIncreaseSpeed: 1
+    AutoUseOnFullCharge: 0
+    HasInfiniteUses: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Trip
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase Trip
+      Guid:
+        Value: 4151969243132808165
+    ClipIndex: 19
+    ClipName:
+      Value: Trip
+      Hash: -389377314
+    Duration: 0.88333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 4f59a49de9d6f604c924f968f696065e, type: 2}

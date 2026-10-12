@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman WallCling
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Animations/Frogman WallCling
+      Guid:
+        Value: 1308305291513894606
+    ClipIndex: 40
+    ClipName:
+      Value: WallCling
+      Hash: 230432264
+    Duration: 0.83333
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    - Frame: 50
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 8c587f195d1c4f84db2c792b8f427633, type: 2}

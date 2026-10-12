@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PoisonShip State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/PoisonShip State Machine Data
+      Guid:
+        Value: 3920049012573633094
+    ParentStateMachine:
+      Id:
+        Value: 3456454252134109261
+    Variables:
+    - Name:
+        Value: RandomAttack
+        Hash: 817855285
+      Value: 0
+      Notes:
+    - Name:
+        Value: LifeBar
+        Hash: -926363518
+      Value: 6
+      Notes:
+    - Name:
+        Value: UpDown
+        Hash: -1363797972
+      Value: 0
+      Notes:
+    - Name:
+        Value: Difficulty
+        Hash: 2053560339
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 890033412256369599
+    - Id:
+        Value: 738087545657369281
+    - Id:
+        Value: 3782429222815116234
+    - Id:
+        Value: 1897928077966721436
+    - Id:
+        Value: 563543974397298529
+    - Id:
+        Value: 1431473338421175219
+    - Id:
+        Value: 3835688169033108626
+    - Id:
+        Value: 4142325109189423183
+    - Id:
+        Value: 1398863393540483821
+    - Id:
+        Value: 3418006536611034904
+    - Id:
+        Value: 3060968409854476697
+    - Id:
+        Value: 4549972243303510327
+    - Id:
+        Value: 2419167353507985927
+    - Id:
+        Value: 732449012160792131
+    - Id:
+        Value: 1371252272255757488
+    - Id:
+        Value: 4000635363153419280
+    InitialState:
+      Value: Activate
+      Hash: -824879934
+    OnUpdateState:
+      Value: On Update
+      Hash: 981287727
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

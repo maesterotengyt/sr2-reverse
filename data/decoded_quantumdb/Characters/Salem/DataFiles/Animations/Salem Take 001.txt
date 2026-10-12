@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Take 001
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem Take 001
+      Guid:
+        Value: 3760585644128326052
+    ClipIndex: 36
+    ClipName:
+      Value: Take 001
+      Hash: -584055622
+    Duration: 2.1833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 58458d7d15864224c9b7aa15b8185b7c, type: 2}

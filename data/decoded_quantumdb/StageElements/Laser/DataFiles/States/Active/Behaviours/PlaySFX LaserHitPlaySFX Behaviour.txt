@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PlaySFX LaserHitPlaySFX Behaviour
+  Notes:
+  EditorName: PlaySFX LaserHit
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Laser/DataFiles/States/Active/Behaviours/PlaySFX LaserHitPlaySFX Behaviour
+      Guid:
+        Value: 4405696374582781349
+    Enabled: 0
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/StageElements/LaserHit
+    UpdateSoundPosition: 0
+    Delay: 0
+    SetParameters: 0
+    ParameterName:
+    ParameterType: 0
+    ParameterStringValue:
+    ParameterFloatValue: 0

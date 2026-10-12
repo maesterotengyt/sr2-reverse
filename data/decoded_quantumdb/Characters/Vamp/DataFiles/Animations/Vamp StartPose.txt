@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp StartPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp StartPose
+      Guid:
+        Value: 3261644818337822602
+    ClipIndex: 35
+    ClipName:
+      Value: StartPose
+      Hash: 865148973
+    Duration: 4.2833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: defaf130735db974a804468be45eabbe, type: 2}

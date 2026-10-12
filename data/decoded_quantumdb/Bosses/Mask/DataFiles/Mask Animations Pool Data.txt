@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Mask Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/Mask Animations Pool Data
+      Guid:
+        Value: 638207064401019700
+    ClipsDataRefs:
+    - Id:
+        Value: 2417064064012366226
+    - Id:
+        Value: 699874683149047413
+    - Id:
+        Value: 3058872875468218307
+    - Id:
+        Value: 4306738540480490868
+    - Id:
+        Value: 3573514894849673928
+    - Id:
+        Value: 166883040902569470
+    - Id:
+        Value: 1067835591385589126
+    - Id:
+        Value: 2736893833212897566
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Boss_Mask
+  ClipsInputPath: Assets/ProductionAssets/Bosses/WikiMask/Animations/
+  OptimizedClipsOutputPath: Assets/Bosses/Mask/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Bosses/Mask/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 5bdd9f2585fd7be4b8174bac3d87eaf3, type: 2}
+  - {fileID: 11400000, guid: 8c2b058e2805b524d9405d2d394e9971, type: 2}
+  - {fileID: 11400000, guid: 4307ba7bd7463d14abe89443da67648d, type: 2}
+  - {fileID: 11400000, guid: 593c5bccadf6d32479b5d45f9d292d05, type: 2}
+  - {fileID: 11400000, guid: cfbcb19d00905304996cf883555141cf, type: 2}
+  - {fileID: 11400000, guid: 58734f9e9cc1ad147b8c09c201a52088, type: 2}
+  - {fileID: 11400000, guid: c231ee9b1e2c9ee479cb92d5da94b0cc, type: 2}
+  - {fileID: 11400000, guid: 77b5ec04c0c598540afde9aba113232b, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

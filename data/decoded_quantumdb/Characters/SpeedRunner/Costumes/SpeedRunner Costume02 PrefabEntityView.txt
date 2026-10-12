@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner Costume02 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/Costumes/SpeedRunner Costume02 Prefab|EntityView
+      Guid:
+        Value: 740862692673089909
+  Parent: {fileID: 114824317463469755, guid: 5c951e0b100a59642b6a640677b44bae, type: 2}

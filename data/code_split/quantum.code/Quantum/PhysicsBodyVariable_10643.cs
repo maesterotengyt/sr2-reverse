@@ -1,0 +1,66 @@
+// Namespace: Quantum
+public enum PhysicsBodyVariable // TypeDefIndex: 10643
+{
+	// Fields
+	public int value__; // 0x0
+	public const PhysicsBodyVariable Active = 0;
+	public const PhysicsBodyVariable CorrectionEnabled = 1;
+	public const PhysicsBodyVariable BounceEnabled = 2;
+	public const PhysicsBodyVariable TargetVelocityX = 3;
+	public const PhysicsBodyVariable TargetVelocityY = 4;
+	public const PhysicsBodyVariable VelocityX = 5;
+	public const PhysicsBodyVariable VelocityY = 6;
+	public const PhysicsBodyVariable ForceSnapToGround = 7;
+	public const PhysicsBodyVariable CanLeaveEdges = 8;
+	public const PhysicsBodyVariable CanFallThrough = 9;
+	public const PhysicsBodyVariable IgnoreThinPlatforms = 10;
+	public const PhysicsBodyVariable IgnoreThinPlatformFrames = 11;
+	public const PhysicsBodyVariable Grounded = 12;
+	public const PhysicsBodyVariable OnFloor = 13;
+	public const PhysicsBodyVariable OnCeiling = 14;
+	public const PhysicsBodyVariable OnLeftWall = 15;
+	public const PhysicsBodyVariable OnRightWall = 16;
+	public const PhysicsBodyVariable FramesInAir = 17;
+	public const PhysicsBodyVariable Gravity = 18;
+	public const PhysicsBodyVariable GravityMultiplier = 19;
+	public const PhysicsBodyVariable FallSpeed = 20;
+	public const PhysicsBodyVariable AirSpeed = 21;
+	public const PhysicsBodyVariable AirAcceleration = 22;
+	public const PhysicsBodyVariable AirFriction = 23;
+	public const PhysicsBodyVariable AirExtraFrictionThresholdMax = 24;
+	public const PhysicsBodyVariable AirExtraFrictionThresholdMin = 25;
+	public const PhysicsBodyVariable AirExtraFrictionFactor = 26;
+	public const PhysicsBodyVariable WalkSlowSpeed = 27;
+	public const PhysicsBodyVariable WalkFastSpeed = 28;
+	public const PhysicsBodyVariable RunSpeed = 29;
+	public const PhysicsBodyVariable GroundAcceleration = 30;
+	public const PhysicsBodyVariable GroundFriction = 31;
+	public const PhysicsBodyVariable GroundExtraFrictionThresholdMax = 32;
+	public const PhysicsBodyVariable GroundExtraFrictionThresholdMin = 33;
+	public const PhysicsBodyVariable GroundExtraFrictionFactor = 34;
+	public const PhysicsBodyVariable FloorRotationInfluence = 35;
+	public const PhysicsBodyVariable FloorRotationSpeed = 36;
+	public const PhysicsBodyVariable KnockbackDecay = 37;
+	public const PhysicsBodyVariable TargetGroundFriction = 38;
+	public const PhysicsBodyVariable CrowdPushEnabled = 39;
+	public const PhysicsBodyVariable CrowdPushRadius = 40;
+	public const PhysicsBodyVariable CrowdPushMinForce = 41;
+	public const PhysicsBodyVariable CrowdPushMaxForce = 42;
+	public const PhysicsBodyVariable IsOverThinPlatform = 43;
+	public const PhysicsBodyVariable TotalVelocityX = 44;
+	public const PhysicsBodyVariable TotalVelocityY = 45;
+	public const PhysicsBodyVariable DetectBlastzones = 46;
+	public const PhysicsBodyVariable DetectTopBlastzone = 47;
+	public const PhysicsBodyVariable GroundNormalX = 48;
+	public const PhysicsBodyVariable GroundNormalY = 49;
+	public const PhysicsBodyVariable CeilingNormalX = 50;
+	public const PhysicsBodyVariable CeilingNormalY = 51;
+	public const PhysicsBodyVariable LeftWallNormalX = 52;
+	public const PhysicsBodyVariable LeftWallNormalY = 53;
+	public const PhysicsBodyVariable RightWallNormalX = 54;
+	public const PhysicsBodyVariable RightWallNormalY = 55;
+	public const PhysicsBodyVariable IsGoingDownSlope = 56;
+	public const PhysicsBodyVariable IsGoingUpSlope = 57;
+	public const PhysicsBodyVariable VelocityLength = 58;
+	public const PhysicsBodyVariable TotalVelocityLength = 59;
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Moveset Limiter Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Salem Moveset Limiter Data
+      Guid:
+        Value: 2798441781943049567
+    CustomMovesetLimiters:
+    - MoveName:
+        Value: Air Jump
+        Hash: 2133937777
+      LimitData:
+        MaxUses: 1
+        ResetOnHurt:
+          Value: 0
+        SpendGrounded:
+          Value: 0
+        SpendInAir:
+          Value: 1
+        UsesAvailable: 0

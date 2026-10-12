@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SFX LightningWatchPlaySFX Behaviour
+  Notes:
+  EditorName: SFX LightningWatch
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/LightningWatch/DataFiles/States/Destroy/Behaviours/SFX LightningWatchPlaySFX Behaviour
+      Guid:
+        Value: 4441094365115282011
+    Enabled: 0
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/Items/LightningWatchEnd
+    UpdateSoundPosition: 0
+    Delay: 0
+    SetParameters: 0
+    ParameterName:
+    ParameterType: 0
+    ParameterStringValue:
+    ParameterFloatValue: 0

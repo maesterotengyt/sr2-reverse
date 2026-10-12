@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GoldenHook Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/GoldenHook/DataFiles/States/Active/Behaviours/GoldenHook Behaviour
+      Guid:
+        Value: 2094197673171653718
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    AttackDataID:
+      Value: GoldenHook
+      Hash: 213605700
+    CollisionDetectedGroup:
+      GroupName:
+        Value: On Collision Detected
+        Hash: 1954166713
+      ExecutionMode: 1
+    AttractStartedGroup:
+      GroupName:
+        Value: On Attract Started
+        Hash: -1208483773
+      ExecutionMode: 1
+    AttractFinishedGroup:
+      GroupName:
+        Value: On Attract Finished
+        Hash: 579510892
+      ExecutionMode: 1
+    TimeoutGroup:
+      GroupName:
+        Value: On Timeout
+        Hash: -572225405
+      ExecutionMode: 1
+    DetectedSlideTargetGroup:
+      GroupName:
+        Value: On Detect Slide Target
+        Hash: -342378862
+      ExecutionMode: 1
+    DetectedWallSlideTargetGroup:
+      GroupName:
+        Value: On Detect Wall Slide Target
+        Hash: 440582082
+      ExecutionMode: 1
+    MovementVelocity: 49
+    HookRadius: 1
+    AttractVelocity: 24
+    FrozenAttractVelocity: 14
+    MinAttractDistance: 2.5
+    TargetTimeoutFrames: 60
+    PullTimeoutFrames: 160
+    HookOwnerMaxOutputVelocity: 25
+    HookTargetMaxOutputVelocity: 10
+    PulledByHookState:
+      StateName:
+        Value: Pulled By Hook
+        Hash: 1571109439
+      TransitionFrames: 0

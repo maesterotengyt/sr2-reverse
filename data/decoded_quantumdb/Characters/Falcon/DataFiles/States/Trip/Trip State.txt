@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Trip State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/States/Trip/Trip State
+      Guid:
+        Value: 3709192841875352253
+    Name:
+      Value: Trip
+      Hash: -389377314
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4469008569640467654
+      - Id:
+          Value: 4326306532416129372
+      - Id:
+          Value: 2463960309652150982
+      - Id:
+          Value: 1782041364717042176
+      - Id:
+          Value: 1386324027475872542
+      - Id:
+          Value: 2344740975959397277
+      - Id:
+          Value: 3481061289453470607
+      - Id:
+          Value: 3384115113051079206
+      - Id:
+          Value: 3486630236726583732
+      - Id:
+          Value: 171454816030757266
+      - Id:
+          Value: 4502053617147467365
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation Finished
+          Hash: -1167156220
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Animation Finished Air
+          Hash: -354716864
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

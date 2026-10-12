@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PlayerStatBlockPlayerStat Behaviour
+  Notes:
+  EditorName: PlayerStatBlock
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/ShockWave/DataFiles/States/Explode/Behaviours/PlayerStatBlockPlayerStat Behaviour
+      Guid:
+        Value: 3576149932548133624
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 1
+    Conditions:
+    - Target:
+        TargetEntity: 20
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 2
+        SourceVariableIndex: 9
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 13
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value: Fireball
+          Hash: -1519177643
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value: OnHit
+      Hash: -794549349
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    EventType: 0
+    hitType: 0

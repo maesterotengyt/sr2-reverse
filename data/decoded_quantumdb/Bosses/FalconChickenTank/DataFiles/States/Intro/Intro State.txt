@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Intro State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/Intro/Intro State
+      Guid:
+        Value: 919560650773037772
+    Name:
+      Value: Intro
+      Hash: 1856239017
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1142664045308759191
+      - Id:
+          Value: 2851999163608210380
+      - Id:
+          Value: 2291340840330481654
+      - Id:
+          Value: 3460170025549438692
+      - Id:
+          Value: 4226924435128249658
+      - Id:
+          Value: 1801297399700180484
+      - Id:
+          Value: 3919906529291196936
+      StateInheritedGroups:
+      - Name:
+          Value: IntroFinished
+          Hash: -733513932
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

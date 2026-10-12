@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopSFX LaunchStopSFX Behaviour
+  Notes:
+  EditorName: StopSFX Launch
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Rocket/DataFiles/States/On Destroy/Behaviours/StopSFX LaunchStopSFX Behaviour
+      Guid:
+        Value: 3354411967674016146
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/Items/RocketLaunch

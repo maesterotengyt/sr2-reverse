@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut WallCling
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut WallCling
+      Guid:
+        Value: 334889051537026970
+    ClipIndex: 41
+    ClipName:
+      Value: WallCling
+      Hash: 230432264
+    Duration: 0.83333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 662ea8e49b795af49ba1c744d0b9d1de, type: 2}

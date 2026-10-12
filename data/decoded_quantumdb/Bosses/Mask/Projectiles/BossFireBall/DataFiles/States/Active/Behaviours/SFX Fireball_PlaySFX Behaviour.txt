@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SFX Fireball_PlaySFX Behaviour
+  Notes:
+  EditorName: SFX Fireball
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBall/DataFiles/States/Active/Behaviours/SFX Fireball_PlaySFX Behaviour
+      Guid:
+        Value: 3798579915064034403
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/Campaign/SFX/Boss/C_SFX_Boss_Wiki_Fireball
+    UpdateSoundPosition: 0
+    Delay: 0
+    SetParameters: 0
+    ParameterName:
+    ParameterType: 0
+    ParameterStringValue:
+    ParameterFloatValue: 0

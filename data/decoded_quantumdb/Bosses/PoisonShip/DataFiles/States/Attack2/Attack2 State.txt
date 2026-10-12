@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Attack2 State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/Attack2/Attack2 State
+      Guid:
+        Value: 4142325109189423183
+    Name:
+      Value: Attack2
+      Hash: -190750014
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2207780664851111364
+      - Id:
+          Value: 2358038919361995125
+      - Id:
+          Value: 4179877081895442572
+      - Id:
+          Value: 2560860349726835095
+      - Id:
+          Value: 3806566001074965348
+      - Id:
+          Value: 1970612965267604447
+      - Id:
+          Value: 2976291683320424096
+      - Id:
+          Value: 2159293285625015568
+      StateInheritedGroups:
+      - Name:
+          Value: OnAnimationFinished
+          Hash: 593002173
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

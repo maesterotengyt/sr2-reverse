@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Plataform Small Grapple Template Prefab VariantEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/EndlessPlataform/Costumes/Plataform Small Grapple Template Prefab Variant|EntityPrototype
+      Guid:
+        Value: 3906149245171273966
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: e6b40c89ba1141d40b01e4d8ba08ad16, type: 2}

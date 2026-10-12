@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem RunTurn
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem RunTurn
+      Guid:
+        Value: 424379339184513168
+    ClipIndex: 30
+    ClipName:
+      Value: RunTurn
+      Hash: -1225278200
+    Duration: 0.46666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: bb87195f471918f43ad77f3ea1be04bb, type: 2}

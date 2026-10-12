@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: 2 Platform_RoomConfig
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/Endless/2 Platform_RoomConfig
+      Guid:
+        Value: 1997611158476421365
+    Entities:
+    - Prototype:
+        Id:
+          Value: 674344043710558893
+      RelativePosition:
+        X: 3.8
+        Y: 0.069992
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 674344043710558893
+      RelativePosition:
+        X: -0.39999
+        Y: -0.82999
+        Z: 0

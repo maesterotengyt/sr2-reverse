@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Grounded InputCheck Behaviour
+  Notes:
+  EditorName: Grounded StandardInputCheck
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hook Launch/Behaviours/Grounded InputCheck Behaviour
+      Guid:
+        Value: 1278108910757955490
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    Jump:
+      Action: 1
+      GroupToExecute:
+        GroupName:
+          Value: Jump
+          Hash: -1061763892
+        ExecutionMode: 1
+      TargetState:
+        StateName:
+          Value: Air Jump
+          Hash: 2133937777
+        TransitionFrames: 0
+    Hook:
+      Action: 0
+      GroupToExecute:
+        GroupName:
+          Value:
+          Hash: 0
+        ExecutionMode: 0
+      TargetState:
+        StateName:
+          Value:
+          Hash: 0
+        TransitionFrames: 0
+    Slide:
+      Action: 0
+      GroupToExecute:
+        GroupName:
+          Value:
+          Hash: 0
+        ExecutionMode: 0
+      TargetState:
+        StateName:
+          Value:
+          Hash: 0
+        TransitionFrames: 0

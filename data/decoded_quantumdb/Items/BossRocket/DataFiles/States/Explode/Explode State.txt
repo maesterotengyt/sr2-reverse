@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Explode State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BossRocket/DataFiles/States/Explode/Explode State
+      Guid:
+        Value: 12194905302595253
+    Name:
+      Value: Explode
+      Hash: -124930431
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1179338391930777233
+      - Id:
+          Value: 3546386653984806090
+      - Id:
+          Value: 4108523094834128199
+      - Id:
+          Value: 1844717533101667545
+      - Id:
+          Value: 3166466427434196744
+      - Id:
+          Value: 238041661679889798
+      - Id:
+          Value: 2254324077925423569
+      - Id:
+          Value: 1863954199695933850
+      - Id:
+          Value: 633475340143321996
+      StateInheritedGroups: []

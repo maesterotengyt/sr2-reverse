@@ -1,0 +1,405 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Initial Impulse_ApplyImpulse Behaviour
+  Notes:
+  EditorName: Initial Impulse
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Start LightningWatch/Behaviours/Initial Impulse_ApplyImpulse Behaviour
+      Guid:
+        Value: 3331723621444704602
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 5
+    ImpulseData:
+      FramesDuration: 20
+      UseLocalCoordinates: 0
+      InheritVelocityOnStop: 0
+      XVelocitySettings:
+        LeftStickInfluence: 5
+        LeftStickInfluenceFactor:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 1
+          SourceVariableIndex: 2
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs:
+          - TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 2
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          - TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 100
+            SourceVariableIndex: 26
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+        ApplyInterpolation: 1
+        Loop: 0
+        StartVelocity:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 50
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        TargetVelocity:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        InterpolationCurve:
+          Samples:
+          - RawValue: 0
+          - RawValue: 64
+          - RawValue: 256
+          - RawValue: 576
+          - RawValue: 1024
+          - RawValue: 1600
+          - RawValue: 2304
+          - RawValue: 3136
+          - RawValue: 4096
+          - RawValue: 5184
+          - RawValue: 6400
+          - RawValue: 7744
+          - RawValue: 9216
+          - RawValue: 10816
+          - RawValue: 12544
+          - RawValue: 14400
+          - RawValue: 16384
+          - RawValue: 18496
+          - RawValue: 20736
+          - RawValue: 23104
+          - RawValue: 25600
+          - RawValue: 28224
+          - RawValue: 30976
+          - RawValue: 33856
+          - RawValue: 36864
+          - RawValue: 40000
+          - RawValue: 43264
+          - RawValue: 46656
+          - RawValue: 50176
+          - RawValue: 53824
+          - RawValue: 57600
+          - RawValue: 61504
+          - RawValue: 65536
+          PreWrapMode: 0
+          PostWrapMode: 0
+          StartTime: 0
+          EndTime: 1
+          Resolution: 32
+          OriginalPreWrapMode: 8
+          OriginalPostWrapMode: 8
+          Keys:
+          - Time: 0
+            Value: 0
+            InTangent: 0
+            OutTangent: 0
+            TangentMode: 0
+            TangentModeLeft: 0
+            TangentModeRight: 0
+            WeightedMode: 0
+          - Time: 1
+            Value: 1
+            InTangent: 2
+            OutTangent: 2
+            TangentMode: 0
+            TangentModeLeft: 0
+            TangentModeRight: 0
+            WeightedMode: 0
+        InterpolationStartFrame:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        InterpolationEndFrame:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 20
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+      YVelocitySettings:
+        LeftStickInfluence: 5
+        LeftStickInfluenceFactor:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 100
+          SourceVariableIndex: 27
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        ApplyInterpolation: 1
+        Loop: 0
+        StartVelocity:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 50
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        TargetVelocity:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        InterpolationCurve:
+          Samples:
+          - RawValue: 0
+          - RawValue: 64
+          - RawValue: 256
+          - RawValue: 576
+          - RawValue: 1024
+          - RawValue: 1600
+          - RawValue: 2304
+          - RawValue: 3136
+          - RawValue: 4096
+          - RawValue: 5184
+          - RawValue: 6400
+          - RawValue: 7744
+          - RawValue: 9216
+          - RawValue: 10816
+          - RawValue: 12544
+          - RawValue: 14400
+          - RawValue: 16384
+          - RawValue: 18496
+          - RawValue: 20736
+          - RawValue: 23104
+          - RawValue: 25600
+          - RawValue: 28224
+          - RawValue: 30976
+          - RawValue: 33856
+          - RawValue: 36864
+          - RawValue: 40000
+          - RawValue: 43264
+          - RawValue: 46656
+          - RawValue: 50176
+          - RawValue: 53824
+          - RawValue: 57600
+          - RawValue: 61504
+          - RawValue: 65536
+          PreWrapMode: 0
+          PostWrapMode: 0
+          StartTime: 0
+          EndTime: 1
+          Resolution: 32
+          OriginalPreWrapMode: 8
+          OriginalPostWrapMode: 8
+          Keys:
+          - Time: 0
+            Value: 0
+            InTangent: 0
+            OutTangent: 0
+            TangentMode: 0
+            TangentModeLeft: 0
+            TangentModeRight: 0
+            WeightedMode: 0
+          - Time: 1
+            Value: 1
+            InTangent: 2
+            OutTangent: 2
+            TangentMode: 0
+            TangentModeLeft: 0
+            TangentModeRight: 0
+            WeightedMode: 0
+        InterpolationStartFrame:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        InterpolationEndFrame:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 20
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+    StopImpulseOnExit: 1

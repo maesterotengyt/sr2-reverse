@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FalconChickenTank State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/FalconChickenTank State Machine Data
+      Guid:
+        Value: 3456454252134109261
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: RandomAttack
+        Hash: 817855285
+      Value: 0
+      Notes:
+    - Name:
+        Value: UpDown
+        Hash: -1363797972
+      Value: 0
+      Notes:
+    - Name:
+        Value: Temp
+        Hash: 574879219
+      Value: 0
+      Notes:
+    - Name:
+        Value: Difficulty
+        Hash: 2053560339
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 1075532770075473105
+    - Id:
+        Value: 311508471339893583
+    - Id:
+        Value: 2806022292635398113
+    - Id:
+        Value: 4444108927446075567
+    - Id:
+        Value: 64177345264216935
+    - Id:
+        Value: 1035116961451752711
+    - Id:
+        Value: 3531988812943186508
+    - Id:
+        Value: 3063418858565545894
+    - Id:
+        Value: 3186291598309599549
+    - Id:
+        Value: 288176526933698569
+    - Id:
+        Value: 919560650773037772
+    - Id:
+        Value: 4315022429317785331
+    - Id:
+        Value: 567430356456827371
+    - Id:
+        Value: 476704444183067767
+    - Id:
+        Value: 4483694466391741520
+    InitialState:
+      Value: Activate
+      Hash: -824879934
+    OnUpdateState:
+      Value: On Update
+      Hash: 981287727
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

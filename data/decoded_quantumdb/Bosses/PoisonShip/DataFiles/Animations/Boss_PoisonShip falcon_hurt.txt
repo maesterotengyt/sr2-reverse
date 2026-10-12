@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip falcon_hurt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip falcon_hurt
+      Guid:
+        Value: 4008720996177605811
+    ClipIndex: 16
+    ClipName:
+      Value: falcon_hurt
+      Hash: 1963276029
+    Duration: 1
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 76ab3e27aec341446a108fe3617ffe00, type: 2}

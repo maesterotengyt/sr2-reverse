@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Idle Air State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Idle Air/Idle Air State
+      Guid:
+        Value: 975485894464276990
+    Name:
+      Value: Idle Air
+      Hash: -321647375
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3172951846658016949
+      - Id:
+          Value: 2972527751431840191
+      - Id:
+          Value: 3483375390105357301
+      - Id:
+          Value: 872246762854412636
+      - Id:
+          Value: 1428004810914019359
+      - Id:
+          Value: 1798531184495812516
+      - Id:
+          Value: 2749808157291575375
+      - Id:
+          Value: 1793613551002137027
+      - Id:
+          Value: 2278916133840654177
+      - Id:
+          Value: 4443529071872055296
+      - Id:
+          Value: 322534907076287205
+      - Id:
+          Value: 3626734074451844315
+      - Id:
+          Value: 1977146705986980547
+      - Id:
+          Value: 3861514519390869642
+      - Id:
+          Value: 4377848597120777946
+      - Id:
+          Value: 2837074586799822215
+      - Id:
+          Value: 3561504512749154925
+      StateInheritedGroups:
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Touch Floor
+          Hash: 552812971
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Animation Finished
+          Hash: -1167156220
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

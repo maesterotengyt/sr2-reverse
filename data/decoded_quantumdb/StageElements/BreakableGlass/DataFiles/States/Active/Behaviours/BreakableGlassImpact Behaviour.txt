@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BreakableGlassImpact Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BreakableGlass/DataFiles/States/Active/Behaviours/BreakableGlassImpact Behaviour
+      Guid:
+        Value: 4531641895716616960
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Entity Enter
+      Hash: 698132363
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    OnBreakGroup:
+      GroupName:
+        Value: Break
+        Hash: -844676746
+      ExecutionMode: 1

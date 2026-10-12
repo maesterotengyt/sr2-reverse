@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Update State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/LightningWatch/DataFiles/States/On Update/On Update State
+      Guid:
+        Value: 4162338799626795873
+    Name:
+      Value: On Update
+      Hash: 981287727
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3791885261647670239
+      StateInheritedGroups: []

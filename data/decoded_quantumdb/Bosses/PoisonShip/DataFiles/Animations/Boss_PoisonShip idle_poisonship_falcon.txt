@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip idle_poisonship_falcon
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip idle_poisonship_falcon
+      Guid:
+        Value: 687919748999406923
+    ClipIndex: 24
+    ClipName:
+      Value: idle_poisonship_falcon
+      Hash: -1083805358
+    Duration: 2.0333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d4c4368dd2f97c9418b581d8c71eb413, type: 2}

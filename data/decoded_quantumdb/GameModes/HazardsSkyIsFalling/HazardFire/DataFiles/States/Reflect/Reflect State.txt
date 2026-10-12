@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Reflect State
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardFire/DataFiles/States/Reflect/Reflect State
+      Guid:
+        Value: 3490053312037774792
+    Name:
+      Value: Reflect
+      Hash: 559726596
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1881119423519426155
+      - Id:
+          Value: 351795030394322008
+      - Id:
+          Value: 3946201275535232907
+      StateInheritedGroups: []

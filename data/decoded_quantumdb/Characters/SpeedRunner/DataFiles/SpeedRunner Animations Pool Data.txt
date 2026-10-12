@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/SpeedRunner Animations Pool Data
+      Guid:
+        Value: 574916896250689324
+    ClipsDataRefs:
+    - Id:
+        Value: 4264414977926737951
+    - Id:
+        Value: 399611090312337184
+    - Id:
+        Value: 1456499937109606585
+    - Id:
+        Value: 3552410870839682468
+    - Id:
+        Value: 3617372149942381969
+    - Id:
+        Value: 1501308508378574081
+    - Id:
+        Value: 1481110692579009548
+    - Id:
+        Value: 806654333473761194
+    - Id:
+        Value: 1700572429932027097
+    - Id:
+        Value: 528718154081097514
+    - Id:
+        Value: 3838426522412454671
+    - Id:
+        Value: 435753981746555294
+    - Id:
+        Value: 1765811328276961221
+    - Id:
+        Value: 1294968523928823810
+    - Id:
+        Value: 665031220653668969
+    - Id:
+        Value: 4288880581186734749
+    - Id:
+        Value: 3681670026113448406
+    - Id:
+        Value: 860170738368150461
+    - Id:
+        Value: 1025822584549241631
+    - Id:
+        Value: 4182899103684079654
+    - Id:
+        Value: 2847265966354217572
+    - Id:
+        Value: 999900464838598097
+    - Id:
+        Value: 1214169256171635196
+    - Id:
+        Value: 4420869920560587540
+    - Id:
+        Value: 1822445639265356389
+    - Id:
+        Value: 4036337933950528074
+    - Id:
+        Value: 4141792411065372889
+    - Id:
+        Value: 1423965171658217135
+    - Id:
+        Value: 3775443403434909964
+    - Id:
+        Value: 3753432537875697581
+    - Id:
+        Value: 2019389127655117953
+    - Id:
+        Value: 4491989126680481301
+    - Id:
+        Value: 1262629515404505478
+    - Id:
+        Value: 3553301267213393504
+    - Id:
+        Value: 2927568792568552696
+    - Id:
+        Value: 824395667332397311
+    - Id:
+        Value: 936647762655283221
+    - Id:
+        Value: 640565096872393136
+    - Id:
+        Value: 3544422520542836106
+    - Id:
+        Value: 431817483236846466
+    - Id:
+        Value: 522608203960907822
+    - Id:
+        Value: 4506388243498921100
+    - Id:
+        Value: 964617655034255191
+    - Id:
+        Value: 1470986581693736069
+    - Id:
+        Value: 678846514444498322
+    - Id:
+        Value: 3240757309681814394
+    - Id:
+        Value: 1637810475698399889
+    - Id:
+        Value: 1674810551819939899
+    - Id:
+        Value: 2887878330344434611
+    - Id:
+        Value: 1956052956177178616
+    - Id:
+        Value: 4031163234193455200
+    - Id:
+        Value: 4167506080602433483
+    - Id:
+        Value: 4429559410757927606
+    - Id:
+        Value: 1224799065567449167
+    - Id:
+        Value: 3958911905464272340
+    - Id:
+        Value: 4263170522722189787
+    - Id:
+        Value: 3078407531915024369
+    - Id:
+        Value: 4378787721266560282
+    - Id:
+        Value: 3484551057809536892
+    - Id:
+        Value: 1734290083766331156
+    - Id:
+        Value: 2261551603001337443
+    - Id:
+        Value: 4204404247125138943
+    - Id:
+        Value: 1226105963465517949
+    - Id:
+        Value: 105216366817674672
+    - Id:
+        Value: 1719157029671595378
+    - Id:
+        Value: 414861845495303613
+    - Id:
+        Value: 972868185159598818
+    - Id:
+        Value: 3320176805079487987
+    - Id:
+        Value: 813410488374120424
+    - Id:
+        Value: 924083780580912148
+    - Id:
+        Value: 3284737767322145095
+    - Id:
+        Value: 2522430004467827667
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: SpeedRunner
+  ClipsInputPath: Assets/ProductionAssets/Characters/Speedrunner/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/SpeedRunner/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/SpeedRunner/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: b18a17f7efca81c4fabe9571197e14c7, type: 2}
+  - {fileID: 11400000, guid: c0ff62c319a617b47b8f4d5b20b811f9, type: 2}
+  - {fileID: 11400000, guid: b840f14a8299a0148951034af4ce180c, type: 2}
+  - {fileID: 11400000, guid: 6f961aa94fe464e4991230689c087741, type: 2}
+  - {fileID: 11400000, guid: d951c829d5f75ef45b34cb368e790ca5, type: 2}
+  - {fileID: 11400000, guid: 0474335d0a4040b428e28fa847946795, type: 2}
+  - {fileID: 11400000, guid: 9d9c03a8d0d63ba49a0f1b4fd4747091, type: 2}
+  - {fileID: 11400000, guid: 611f53bc4ec80b9409699c4183cffb08, type: 2}
+  - {fileID: 11400000, guid: 0172fd0846fd597458e95ef11a2e7717, type: 2}
+  - {fileID: 11400000, guid: e19dfff722554b4408c90b8e0c64b5ad, type: 2}
+  - {fileID: 11400000, guid: 3ee3381e71e16074ab7a1f42c0d45ba3, type: 2}
+  - {fileID: 11400000, guid: 18072a6b8ce6d16499971326d97d8585, type: 2}
+  - {fileID: 11400000, guid: 859b57000f186cb4992184fef669adc5, type: 2}
+  - {fileID: 11400000, guid: c13c6862628c0594ab80df06d3af41cb, type: 2}
+  - {fileID: 11400000, guid: 0bf3c9a8b23e7204f93d6c3e07924f20, type: 2}
+  - {fileID: 11400000, guid: 34b243de3bf7cad4bab1d998947f5eec, type: 2}
+  - {fileID: 11400000, guid: c40d3d9a4a89b834d8079cb2dbbe1b76, type: 2}
+  - {fileID: 11400000, guid: 7357e867ec03a874a97dc45e2fdbc28f, type: 2}
+  - {fileID: 11400000, guid: 0b04f63192057c34fa506e208f62f15b, type: 2}
+  - {fileID: 11400000, guid: f4071028c1bf473489b6243842e596c6, type: 2}
+  - {fileID: 11400000, guid: e70f57df34fbb3a4885198a094f9ce75, type: 2}
+  - {fileID: 11400000, guid: 699288f5e0c6d6b48b7eab90451a208a, type: 2}
+  - {fileID: 11400000, guid: 5418966a51b459d428e6feb2d8e71f47, type: 2}
+  - {fileID: 11400000, guid: e351753f73f735841beeb5ba928aaa73, type: 2}
+  - {fileID: 11400000, guid: a05ca2490c286ec47a61c6faeb98707c, type: 2}
+  - {fileID: 11400000, guid: bd41e8fa5d594c640be8b45303821613, type: 2}
+  - {fileID: 11400000, guid: 62d790b8e09d59c449708d3f4f9f9422, type: 2}
+  - {fileID: 11400000, guid: dbd603be99b9f1340852f64677e59709, type: 2}
+  - {fileID: 11400000, guid: ca9ff8125dc3bc94290b9a2847699b20, type: 2}
+  - {fileID: 11400000, guid: 54ddd900a1c2ce44eab2fffe01386aa3, type: 2}
+  - {fileID: 11400000, guid: fceaa67699170b241b17f1ef0f9e0aca, type: 2}
+  - {fileID: 11400000, guid: 459c30535cd81ed499bb83e526e12f8a, type: 2}
+  - {fileID: 11400000, guid: bb146c440043f2e45bf4ed80f217286d, type: 2}
+  - {fileID: 11400000, guid: 149d2b9a27ed76444ba87124a2b144fc, type: 2}
+  - {fileID: 11400000, guid: 536c2190df3529d4f97659ba57aeeed5, type: 2}
+  - {fileID: 11400000, guid: c264478ba9f48e9449475f6614616b65, type: 2}
+  - {fileID: 11400000, guid: 5a8dbc6992de8434a843d44cec3e1943, type: 2}
+  - {fileID: 11400000, guid: 8da879a30d0c0ce438db518a4f8d25de, type: 2}
+  - {fileID: 11400000, guid: 7590a45dcae6e5a46b883a194e52cd98, type: 2}
+  - {fileID: 11400000, guid: a6930d171cfd4c748a01ad1b08cb43ec, type: 2}
+  - {fileID: 11400000, guid: 7fb12c7e41e3bc049aa2df0a1a087247, type: 2}
+  - {fileID: 11400000, guid: cd7181e6b2c614248b727bc8b2c16677, type: 2}
+  - {fileID: 11400000, guid: f27167ced0e099644ab88ae47a05a67a, type: 2}
+  - {fileID: 11400000, guid: 61e103dedf8df014f927fd770b4a6c68, type: 2}
+  - {fileID: 11400000, guid: 05c9cab9e5cdaf546819d9dabdb0cee7, type: 2}
+  - {fileID: 11400000, guid: a435ae192d27d7b43a813fbf1713b091, type: 2}
+  - {fileID: 11400000, guid: 65eb336dc17f2cf4cbd7a180502eb2f4, type: 2}
+  - {fileID: 11400000, guid: d464937044e4fd649a613e1876e5f5f9, type: 2}
+  - {fileID: 11400000, guid: ddf5825a92a978b4492f1c5b96d099fd, type: 2}
+  - {fileID: 11400000, guid: 9feb0efc1bbe99f48832aae5b9e0399c, type: 2}
+  - {fileID: 11400000, guid: 390cd1d9e220a2044b61e2d6aa55edc3, type: 2}
+  - {fileID: 11400000, guid: 71741a211699d864491c21b3a6ada4cb, type: 2}
+  - {fileID: 11400000, guid: 70b044fdce9ae9c458487772b9e9fc25, type: 2}
+  - {fileID: 11400000, guid: 94a0388b6979f4649bfdccd92ba20c4f, type: 2}
+  - {fileID: 11400000, guid: 9dccb9e91ecea8048ab69600bc6d1956, type: 2}
+  - {fileID: 11400000, guid: 817e157323c4ff24c8747dcbcc291b2c, type: 2}
+  - {fileID: 11400000, guid: e4d2c26335adae046867f61ce6fe0e08, type: 2}
+  - {fileID: 11400000, guid: a7643975fe708d64c8a9baafe5f2b701, type: 2}
+  - {fileID: 11400000, guid: 18350211aa8533e49b316a0b8ad7e77b, type: 2}
+  - {fileID: 11400000, guid: ade29d3a3aeaf864994f3c951c4d58f4, type: 2}
+  - {fileID: 11400000, guid: 08ef6bbf855ef9f44ae7511f93b94b1e, type: 2}
+  - {fileID: 11400000, guid: 27eefedea66173540a4d2ec84511c54e, type: 2}
+  - {fileID: 11400000, guid: 56d2823d76543a145b664d23da92f25a, type: 2}
+  - {fileID: 11400000, guid: 0c7fad92d08a2104284d0ce48f59d787, type: 2}
+  - {fileID: 11400000, guid: f80d2517589c42843a940ec235aae524, type: 2}
+  - {fileID: 11400000, guid: c6d964c6ac6ccf6419df3ffb4d783b25, type: 2}
+  - {fileID: 11400000, guid: 2f874b9c26a559041864a227a8db15bf, type: 2}
+  - {fileID: 11400000, guid: ae1ebc1acc2bbbe44a8c1ace786a7ab2, type: 2}
+  - {fileID: 11400000, guid: 2c1f427e067a84947a3b93954a6f2156, type: 2}
+  - {fileID: 11400000, guid: 8e1f2ab41070c6041b322bfc141cad82, type: 2}
+  - {fileID: 11400000, guid: 9d553c61ae08dab4580e23905627e276, type: 2}
+  - {fileID: 11400000, guid: 0ab8f8fbd4e79ba4fa2490d63b546661, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

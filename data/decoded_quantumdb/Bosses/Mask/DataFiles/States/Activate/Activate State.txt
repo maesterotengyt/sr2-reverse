@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Activate State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Activate/Activate State
+      Guid:
+        Value: 4291171798976373727
+    Name:
+      Value: Activate
+      Hash: -824879934
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2635751740460571073
+      - Id:
+          Value: 978381089446168081
+      - Id:
+          Value: 1036427097120295053
+      - Id:
+          Value: 632622953022689683
+      - Id:
+          Value: 3281565455347074344
+      - Id:
+          Value: 707236242581042871
+      StateInheritedGroups: []

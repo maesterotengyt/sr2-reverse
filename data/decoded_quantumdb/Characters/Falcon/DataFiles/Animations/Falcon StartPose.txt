@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon StartPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon StartPose
+      Guid:
+        Value: 4471892247824533667
+    ClipIndex: 33
+    ClipName:
+      Value: StartPose
+      Hash: 865148973
+    Duration: 1.4167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: f70ccc534dbdff345906674e79f52c8e, type: 2}

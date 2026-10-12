@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFireBreath Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/Costumes/BossFireBreath Costume00 Prefab|EntityView
+      Guid:
+        Value: 3956581858673715815
+  Parent: {fileID: 114061268324235159, guid: c2a01b7a96c5b8a46b7c109e15d88a4a, type: 2}

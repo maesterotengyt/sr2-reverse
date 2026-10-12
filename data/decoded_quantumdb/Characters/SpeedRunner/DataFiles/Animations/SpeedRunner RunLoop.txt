@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner RunLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner RunLoop
+      Guid:
+        Value: 522608203960907822
+    ClipIndex: 40
+    ClipName:
+      Value: RunLoop
+      Hash: 2139625004
+    Duration: 1.3667
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 82
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 79a7c247fcfd73940b450889f9d919b5, type: 2}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Enabled State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/LaserMuseum/DataFiles/States/Enabled/Enabled State
+      Guid:
+        Value: 2634630762949985592
+    Name:
+      Value: Enabled
+      Hash: -1585660667
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1302119113685528684
+      - Id:
+          Value: 126670870954315224
+      - Id:
+          Value: 2440126956942516463
+      - Id:
+          Value: 4594880648792318681
+      - Id:
+          Value: 1005914786434276453
+      StateInheritedGroups:
+      - Name:
+          Value: Refresh Attack
+          Hash: 1927307955
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: OnHit
+          Hash: -794549349
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

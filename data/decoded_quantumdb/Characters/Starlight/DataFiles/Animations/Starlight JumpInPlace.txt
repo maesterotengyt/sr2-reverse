@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight JumpInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight JumpInPlace
+      Guid:
+        Value: 3637323115218571193
+    ClipIndex: 21
+    ClipName:
+      Value: JumpInPlace
+      Hash: -1974450650
+    Duration: 0.89999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 778d8b420284ba848a649e8130f1df77, type: 2}

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: RespawnPoint01EntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/RespawnPoint/RespawnPoint01|EntityPrototype
+      Guid:
+        Value: 3867839278795359698
+    Container: {}
+  Parent: {fileID: 114724804207875695, guid: a4bae699a8bf82548a785069cc39ca4d, type: 2}

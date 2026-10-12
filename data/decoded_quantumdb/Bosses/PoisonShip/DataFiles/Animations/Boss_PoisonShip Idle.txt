@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip Idle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip Idle
+      Guid:
+        Value: 3153962057214222045
+    ClipIndex: 22
+    ClipName:
+      Value: Idle
+      Hash: 1881327601
+    Duration: 2.0333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 624079d920a9e3f47afeba19bdef1d55, type: 2}

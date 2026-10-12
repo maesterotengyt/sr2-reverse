@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SetupHitBoxes Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BlasterBullet/DataFiles/States/Explode/Behaviours/SetupHitBoxes Behaviour
+      Guid:
+        Value: 357832451300090211
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    HitBoxes:
+    - ID:
+        Value: Bomb
+        Hash: -1462931839
+      StartFrame: 0
+      EndFrame: 30
+      Radius: 4
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 0
+          Y: 0
+      PointOffsets: []

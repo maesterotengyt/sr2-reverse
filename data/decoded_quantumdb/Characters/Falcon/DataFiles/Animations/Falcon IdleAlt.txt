@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon IdleAlt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon IdleAlt
+      Guid:
+        Value: 3937398526541014230
+    ClipIndex: 17
+    ClipName:
+      Value: IdleAlt
+      Hash: -827052680
+    Duration: 2.4833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 1e4f7cc261e21a840907e26b43553fca, type: 2}

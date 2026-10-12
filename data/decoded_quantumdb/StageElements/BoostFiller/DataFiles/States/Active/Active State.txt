@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BoostFiller/DataFiles/States/Active/Active State
+      Guid:
+        Value: 2428979549002072571
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2436355648491486096
+      - Id:
+          Value: 3093309777640298395
+      - Id:
+          Value: 305512571347359615
+      StateInheritedGroups:
+      - Name:
+          Value: On Enter
+          Hash: 342655988
+        EventToReact: 28
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

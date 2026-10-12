@@ -1,0 +1,21 @@
+// Namespace: 
+[CreateAssetMenu(menuName = "Quantum/StateBehaviour/ChangeStateConditionally_Behaviour", order = -430)]
+public class ChangeStateConditionally_BehaviourAsset : StateBehaviourAsset // TypeDefIndex: 1837
+{
+	// Fields
+	public ChangeStateConditionally_Behaviour Settings; // 0x30
+
+	// Properties
+	public override AssetObject AssetObject { get; }
+
+	// Methods
+
+	// RVA: 0x503090 Offset: 0x501690 VA: 0x180503090 Slot: 4
+	public override AssetObject get_AssetObject() { }
+
+	// RVA: 0x504D20 Offset: 0x503320 VA: 0x180504D20 Slot: 9
+	public override void Reset() { }
+
+	// RVA: 0x503080 Offset: 0x501680 VA: 0x180503080
+	public void .ctor() { }
+}

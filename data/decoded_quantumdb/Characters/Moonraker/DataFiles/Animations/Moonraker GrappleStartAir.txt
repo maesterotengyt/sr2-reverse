@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker GrappleStartAir
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker GrappleStartAir
+      Guid:
+        Value: 4163020488676638523
+    ClipIndex: 12
+    ClipName:
+      Value: GrappleStartAir
+      Hash: -1983025800
+    Duration: 0.36665
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    - Frame: 22
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 26fc70c450952064284a1a7cd37e72ef, type: 2}

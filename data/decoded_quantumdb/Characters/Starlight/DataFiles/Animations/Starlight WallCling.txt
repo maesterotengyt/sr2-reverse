@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight WallCling
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight WallCling
+      Guid:
+        Value: 718364401311135616
+    ClipIndex: 42
+    ClipName:
+      Value: WallCling
+      Hash: 230432264
+    Duration: 0.81667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ecf7338cf74ff80488741920d2ed5162, type: 2}

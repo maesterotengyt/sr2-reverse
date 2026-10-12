@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopVFX Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/DataFiles/States/On Destroy/Behaviours/StopVFX Behaviour
+      Guid:
+        Value: 402277423462300214
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    VFXID:
+      Value: Fireball
+      Hash: -1519177643
+    StopAttributes:
+      StopParticles: 1
+      DeactivateGameObject: 0
+      KeepFinalPosition: 0

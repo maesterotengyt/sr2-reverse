@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GameplayInputSettingsData
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/GameplayInputSettingsData
+      Guid:
+        Value: 4398946954931176398
+    StickMinValues:
+      X: 0.2
+      Y: 0.2
+    StickMaxValues:
+      X: 0.89999
+      Y: 0.89999
+    GeneralDirectionHoldBufferFrames: 3
+    GeneralAxisDeadzone: 0
+    GeneralAxisThreshold: 0.2
+    FlickDirectionBufferFrames: 7
+    FlickAxisDeadzone: 0.2
+    FlickAxisThreshold: 0.59999
+    GroundedDirectionSettings:
+      UpDetectionMinAngle: 35
+      UpDetectionMaxAngle: 145
+      ForwardDetectionMinAngle: -45
+      ForwardDetectionMaxAngle: 35
+      DownDetectionMinAngle: -135
+      DownDetectionMaxAngle: -45
+    AirDirectionSettings:
+      UpDetectionMinAngle: 29
+      UpDetectionMaxAngle: 151
+      ForwardDetectionMinAngle: -45
+      ForwardDetectionMaxAngle: 29
+      DownDetectionMinAngle: -135
+      DownDetectionMaxAngle: -45
+    GameSpecificButtonSettings:
+      HookBufferFrames: 10
+      JumpBufferFrames: 10
+      UseItemBufferFrames: 10

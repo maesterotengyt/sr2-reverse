@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FrogmanBossTongue Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Items/FrogmanBossTongue/DataFiles/States/Active/Behaviours/FrogmanBossTongue Behaviour
+      Guid:
+        Value: 1421348744304827376
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 1
+    AttackDataID:
+      Value: GoldenHook
+      Hash: 213605700
+    MovementVelocity: 28
+    HookRadius: 1
+    AttractVelocity: 50
+    FrozenAttractVelocity: 40
+    MinAttractDistance: 6
+    TargetTimeoutFrames: 180
+    PullTimeoutFrames: 160
+    HookTargetMaxOutputVelocity: 20
+    PulledByHookState:
+      StateName:
+        Value: Pulled By Hook
+        Hash: 1571109439
+      TransitionFrames: 0

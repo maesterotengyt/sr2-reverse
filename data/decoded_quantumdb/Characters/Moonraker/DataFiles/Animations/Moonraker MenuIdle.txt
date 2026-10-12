@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker MenuIdle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker MenuIdle
+      Guid:
+        Value: 4148610440435213972
+    ClipIndex: 25
+    ClipName:
+      Value: MenuIdle
+      Hash: 528646332
+    Duration: 7.4833
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    - Frame: 449
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 487281de9dd7b6947b14f5f35d492042, type: 2}

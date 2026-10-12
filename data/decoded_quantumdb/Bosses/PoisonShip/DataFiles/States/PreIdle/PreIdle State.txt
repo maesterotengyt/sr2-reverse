@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PreIdle State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/PreIdle/PreIdle State
+      Guid:
+        Value: 1371252272255757488
+    Name:
+      Value: PreIdle
+      Hash: 1054040849
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1399077077206652719
+      - Id:
+          Value: 317247957226036690
+      - Id:
+          Value: 141011437086551155
+      - Id:
+          Value: 4420945324347865613
+      StateInheritedGroups: []

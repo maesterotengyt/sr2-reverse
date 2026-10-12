@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker Taunt
+      Guid:
+        Value: 2651277548360913110
+    ClipIndex: 39
+    ClipName:
+      Value: Taunt
+      Hash: -1374391527
+    Duration: 5.05
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    - Frame: 303
+      ObjectsVisibilityData:
+      - MeshHash: -1346165896
+        Value: 1
+      - MeshHash: -808179663
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: -646625582
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: dc2b8f423d9bbcd488d5e61ae3b35cd3, type: 2}

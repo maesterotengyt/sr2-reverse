@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead RunTurn
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Animations/Hothead RunTurn
+      Guid:
+        Value: 701455372263393153
+    ClipIndex: 31
+    ClipName:
+      Value: RunTurn
+      Hash: -1225278200
+    Duration: 0.45
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 0
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    - Frame: 7
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+    - Frame: 8
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 1
+    - Frame: 11
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 1
+      - MeshHash: -2051252990
+        Value: 0
+    - Frame: 12
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 1
+    - Frame: 27
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 1
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 0
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 154e8118faea14b479ffb627051cc138, type: 2}

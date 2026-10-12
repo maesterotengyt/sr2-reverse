@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardsRaceItemAutoTrigger Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/HazardsRaceItemAutoTrigger/Costumes/HazardsRaceItemAutoTrigger Costume00 Prefab|EntityView
+      Guid:
+        Value: 2195863983398181140
+  Parent: {fileID: 114099118695303065, guid: de2cd44dc6820744f9a57b711b2befd8, type: 2}

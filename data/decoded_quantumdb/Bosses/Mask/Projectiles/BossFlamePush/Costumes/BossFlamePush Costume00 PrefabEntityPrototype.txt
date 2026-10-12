@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFlamePush Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFlamePush/Costumes/BossFlamePush Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 952348729827662066
+    Container: {}
+  Parent: {fileID: 114587765826080250, guid: 6da106dab705ee34484f5aff10041872, type: 2}

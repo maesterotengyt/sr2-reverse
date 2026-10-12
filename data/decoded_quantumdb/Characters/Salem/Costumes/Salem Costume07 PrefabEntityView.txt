@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Costume07 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/Costumes/Salem Costume07 Prefab|EntityView
+      Guid:
+        Value: 285850336519713085
+  Parent: {fileID: 114350143044813081, guid: 4830b578e045b0b4ba8bf989bce6aef0, type: 2}

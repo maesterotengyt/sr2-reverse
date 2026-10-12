@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossRocket Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BossRocket/Costumes/BossRocket Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 2040494999673079545
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: ead83a626647bce40834c22b5825dbf3, type: 2}

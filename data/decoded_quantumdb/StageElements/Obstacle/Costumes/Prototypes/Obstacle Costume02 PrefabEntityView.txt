@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Obstacle Costume02 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Obstacle/Costumes/Prototypes/Obstacle Costume02 Prefab|EntityView
+      Guid:
+        Value: 3549495377664140549
+  Parent: {fileID: 114044625135789424, guid: a2d082b29be80ed46a940cddbeb0baaf, type: 2}

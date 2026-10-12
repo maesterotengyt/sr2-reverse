@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner JumpInPlaceFallLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner JumpInPlaceFallLoop
+      Guid:
+        Value: 1262629515404505478
+    ClipIndex: 32
+    ClipName:
+      Value: JumpInPlaceFallLoop
+      Hash: 733245820
+    Duration: 1.5667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 8a66471cd9784ab4f846ef45897bf1f2, type: 2}

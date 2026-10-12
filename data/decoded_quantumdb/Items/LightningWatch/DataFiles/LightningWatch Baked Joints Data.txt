@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: LightningWatch Baked Joints Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/LightningWatch/DataFiles/LightningWatch Baked Joints Data
+      Guid:
+        Value: 1112700913958435767
+    AnimationsJointData: []

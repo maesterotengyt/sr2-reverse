@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Frozen_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Frozen
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/DataFiles/States/Hurt/Behaviours/Go To Frozen_ChangeState Behaviour
+      Guid:
+        Value: 3813946744750337311
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: Frozen
+      Hash: 1641210360
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Frozen
+        Hash: 1641210360
+      TransitionFrames: 0

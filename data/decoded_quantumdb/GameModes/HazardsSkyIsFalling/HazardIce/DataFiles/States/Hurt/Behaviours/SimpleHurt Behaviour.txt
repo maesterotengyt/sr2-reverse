@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SimpleHurt Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardIce/DataFiles/States/Hurt/Behaviours/SimpleHurt Behaviour
+      Guid:
+        Value: 47366562975498568
+    Enabled: 0
+    HasConditions: 0
+    LogicalOperator: 1
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GroupForSuccessfulHit:
+      GroupName:
+        Value: Reflect
+        Hash: 559726596
+      ExecutionMode: 1
+    AttackDatasToReact:
+    - Value: Shockwave
+      Hash: 711611806
+    - Value: Tackle
+      Hash: 1863316784

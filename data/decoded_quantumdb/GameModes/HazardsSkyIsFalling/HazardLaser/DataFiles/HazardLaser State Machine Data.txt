@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardLaser State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardLaser/DataFiles/HazardLaser State Machine Data
+      Guid:
+        Value: 4163964448251759739
+    ParentStateMachine:
+      Id:
+        Value: 204621841673502131
+    Variables:
+    - Name:
+        Value: SpawnVertical
+        Hash: -1580125855
+      Value: 0
+      Notes:
+    States: []
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

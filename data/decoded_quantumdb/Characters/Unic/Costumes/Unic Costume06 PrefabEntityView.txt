@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic Costume06 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/Costumes/Unic Costume06 Prefab|EntityView
+      Guid:
+        Value: 1518080381523621808
+  Parent: {fileID: 114817325062191328, guid: 503367411d9a3da458285b7bfa451caa, type: 2}

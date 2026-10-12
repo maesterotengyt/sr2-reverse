@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopSlideSoundStopSFX Behaviour
+  Notes:
+  EditorName: StopSlideSound
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Slide/Behaviours/StopSlideSoundStopSFX Behaviour
+      Guid:
+        Value: 3812381696968463480
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Leave Floor
+      Hash: -492474547
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/CharactersSFX/CharacterBase/Slide

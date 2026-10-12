@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Check Idle Alt_ExecuteGroup Behaviour
+  Notes: "Check for idle alt state every 240 frames\nIt has a probability of 15% to change state"
+  EditorName: Check Idle Alt
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Idle/Behaviours/Check Idle Alt_ExecuteGroup Behaviour
+      Guid:
+        Value: 4274051468185979074
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 100
+        SourceVariableIndex: 24
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 14
+        SourceVariableIndex: 0
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 1
+        SourceVariableIndex: 41
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs:
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 1
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 100
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 15
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 60
+    EndFrame: -1
+    GroupToExecute:
+      GroupName:
+        Value: Check Idle Alt
+        Hash: -1466924374
+      ExecutionMode: 1
+    RepeatMode: 1
+    FramesInterval: 240
+    RepeatNumber: -1

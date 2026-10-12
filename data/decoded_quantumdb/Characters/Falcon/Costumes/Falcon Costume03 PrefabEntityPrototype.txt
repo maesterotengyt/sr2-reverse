@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon Costume03 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/Costumes/Falcon Costume03 Prefab|EntityPrototype
+      Guid:
+        Value: 704397127563587624
+    Container: {}
+  Parent: {fileID: 114738892719839630, guid: 6bd36acb903c39c47953c223995d0b20, type: 2}

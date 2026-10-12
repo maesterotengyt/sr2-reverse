@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull GrappleSwingUp
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull GrappleSwingUp
+      Guid:
+        Value: 3329381095500608477
+    ClipIndex: 17
+    ClipName:
+      Value: GrappleSwingUp
+      Hash: -1279458569
+    Duration: 0.54999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 117b0c8fb377b70429812e7966b66bb6, type: 2}

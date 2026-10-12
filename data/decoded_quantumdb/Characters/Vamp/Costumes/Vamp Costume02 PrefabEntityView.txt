@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp Costume02 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/Costumes/Vamp Costume02 Prefab|EntityView
+      Guid:
+        Value: 2057354294004471728
+  Parent: {fileID: 114197515695889172, guid: 385f5e1e4ce5f3c4d97a98e398930b2a, type: 2}

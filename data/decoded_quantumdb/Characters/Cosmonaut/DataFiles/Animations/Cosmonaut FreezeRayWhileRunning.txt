@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut FreezeRayWhileRunning
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut FreezeRayWhileRunning
+      Guid:
+        Value: 1325447772018524704
+    ClipIndex: 6
+    ClipName:
+      Value: FreezeRayWhileRunning
+      Hash: 369790486
+    Duration: 0.7
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 30cea8cdc9d4d56428882ae09caea947, type: 2}

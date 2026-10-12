@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner AirVictory
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner AirVictory
+      Guid:
+        Value: 3552410870839682468
+    ClipIndex: 3
+    ClipName:
+      Value: AirVictory
+      Hash: -1214696070
+    Duration: 1.4
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 93014eb291036284fb6e1af14377b44d, type: 2}

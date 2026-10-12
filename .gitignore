@@ -1,6 +1,11 @@
+# Local-only (not committed): game binaries, native-address maps, exported media
 raw/
 assets_export/
-decoded_quantumdb/
-code/
 *.dll
 *.dat
+*.png
+*.wav
+*.ogg
+*.fbx
+*.glb
+*.bank

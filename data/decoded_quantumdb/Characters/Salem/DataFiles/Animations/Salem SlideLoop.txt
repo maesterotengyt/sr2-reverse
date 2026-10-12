@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem SlideLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem SlideLoop
+      Guid:
+        Value: 1298059031357508186
+    ClipIndex: 33
+    ClipName:
+      Value: SlideLoop
+      Hash: 1745144848
+    Duration: 0.16666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d08e874bae08cd44e8c1fb4b345355c1, type: 2}

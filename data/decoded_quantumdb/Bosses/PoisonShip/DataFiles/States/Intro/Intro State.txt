@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Intro State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/Intro/Intro State
+      Guid:
+        Value: 3060968409854476697
+    Name:
+      Value: Intro
+      Hash: 1856239017
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 870029007732827340
+      - Id:
+          Value: 1957178176380356195
+      - Id:
+          Value: 2291340840330481654
+      - Id:
+          Value: 3403143672692296153
+      - Id:
+          Value: 2018744023173517263
+      - Id:
+          Value: 2215243611574212632
+      - Id:
+          Value: 3411527210612976935
+      StateInheritedGroups:
+      - Name:
+          Value: IntroFinished
+          Hash: -733513932
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

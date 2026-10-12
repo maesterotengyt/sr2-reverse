@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Taunt_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Idle/Behaviours/Go To Taunt_ChangeState Behaviour
+      Guid:
+        Value: 3544890689782596489
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 1
+        SourceVariableIndex: 5
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs:
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 3
+          SourceVariableIndex: 44
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 1
+        SourceVariableIndex: 5
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs:
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 3
+          SourceVariableIndex: 45
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 6
+        SourceVariableIndex: 2
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions:
+        - Frames: 3
+          ActionType: 0
+          State: 1
+          Button: 32
+          Direction: 1
+          UseFacingDirection: 0
+          DirectionOverrides: 0
+          Deadzone: 0
+          DetectionThreshold: 0
+          MinAngle: 0
+          MaxAngle: 0
+          OutputValue: 1
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 0
+    GroupName:
+      Value: On Update
+      Hash: 981287727
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Taunt
+        Hash: -1374391527
+      TransitionFrames: 3

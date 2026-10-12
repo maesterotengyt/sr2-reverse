@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Check Idle AltExecuteGroup Behaviour
+  Notes: "Check for idle alt state every 120 frames\nIt has a probability of 25% to change state"
+  EditorName: Check Idle Alt
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Idle Alt/Behaviours/Check Idle AltExecuteGroup Behaviour
+      Guid:
+        Value: 3267468388612072446
+    Enabled: 0
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 1
+        SourceVariableIndex: 41
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs:
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 0
+          SourceVariableIndex: 0
+          FloatValue: 100
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 25
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    EndFrame: -1
+    GroupToExecute:
+      GroupName:
+        Value: Check Idle Alt
+        Hash: -1466924374
+      ExecutionMode: 1
+    RepeatMode: 1
+    FramesInterval: 120
+    RepeatNumber: -1

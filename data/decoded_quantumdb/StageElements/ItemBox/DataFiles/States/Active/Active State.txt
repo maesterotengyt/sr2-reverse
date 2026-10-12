@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/ItemBox/DataFiles/States/Active/Active State
+      Guid:
+        Value: 448760191253644049
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4040755041473204444
+      - Id:
+          Value: 3674363920917540584
+      - Id:
+          Value: 605910200346562552
+      - Id:
+          Value: 4109131221823877867
+      - Id:
+          Value: 1962709591230344349
+      - Id:
+          Value: 2229336378495628708
+      - Id:
+          Value: 564717353202724230
+      - Id:
+          Value: 1434796856828663972
+      StateInheritedGroups:
+      - Name:
+          Value: On Entity Enter
+          Hash: 698132363
+        EventToReact: 28
+        HasConditions: 1
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 10
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 26
+            SourceVariableIndex: 1
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 1527182858
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 100
+            SourceVariableIndex: 5
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 0
+            SourceVariableIndex: 0
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0
+      - Name:
+          Value: On Entity Enter With Item
+          Hash: 2036502351
+        EventToReact: 28
+        HasConditions: 1
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 10
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 26
+            SourceVariableIndex: 1
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 1527182858
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 100
+            SourceVariableIndex: 5
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 0
+            SourceVariableIndex: 0
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 1

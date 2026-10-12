@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Falcon Animations Pool Data
+      Guid:
+        Value: 3533991297871067533
+    ClipsDataRefs:
+    - Id:
+        Value: 3949329322208671850
+    - Id:
+        Value: 449753511769811231
+    - Id:
+        Value: 1864430408316764566
+    - Id:
+        Value: 2113243313299196963
+    - Id:
+        Value: 4052672713308480715
+    - Id:
+        Value: 2548801234596247112
+    - Id:
+        Value: 2701512254801097809
+    - Id:
+        Value: 4598403849994540720
+    - Id:
+        Value: 853216797051423917
+    - Id:
+        Value: 2782803716184662845
+    - Id:
+        Value: 2180496304861579444
+    - Id:
+        Value: 3485467784770514261
+    - Id:
+        Value: 3239166883389686419
+    - Id:
+        Value: 2405269241116201779
+    - Id:
+        Value: 2179625418383149286
+    - Id:
+        Value: 921032303303341109
+    - Id:
+        Value: 4498791368399534321
+    - Id:
+        Value: 3937398526541014230
+    - Id:
+        Value: 3025801882903943064
+    - Id:
+        Value: 3731422102530954627
+    - Id:
+        Value: 2467069460408288331
+    - Id:
+        Value: 4035741385816686841
+    - Id:
+        Value: 4340921346665133327
+    - Id:
+        Value: 2651867575358102298
+    - Id:
+        Value: 65060720185472308
+    - Id:
+        Value: 692919480539243511
+    - Id:
+        Value: 383659898299064677
+    - Id:
+        Value: 3469249035437239592
+    - Id:
+        Value: 1462524947096688059
+    - Id:
+        Value: 2969463866537359336
+    - Id:
+        Value: 633976901191038161
+    - Id:
+        Value: 1840505444681873404
+    - Id:
+        Value: 3659696744073762648
+    - Id:
+        Value: 4471892247824533667
+    - Id:
+        Value: 2129364434587800877
+    - Id:
+        Value: 2499619823232072495
+    - Id:
+        Value: 3533426800020888808
+    - Id:
+        Value: 148529848531699495
+    - Id:
+        Value: 2022251802871057692
+    - Id:
+        Value: 2957488034753532656
+    - Id:
+        Value: 3270639152381985694
+    - Id:
+        Value: 1037717449114975421
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Falcon
+  ClipsInputPath: Assets/ProductionAssets/Characters/Falcon/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/Falcon/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Falcon/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 7063f6be40b5dd54b908695de97c7a9a, type: 2}
+  - {fileID: 11400000, guid: 1fe227b162477f847bcb4a119c462027, type: 2}
+  - {fileID: 11400000, guid: 3be8b18cfb5a2ab48a57588091837aab, type: 2}
+  - {fileID: 11400000, guid: 6fca368a53c902748842c776a092e82a, type: 2}
+  - {fileID: 11400000, guid: 9ead0fb0dc6ea5a45b1e3704aa8696e6, type: 2}
+  - {fileID: 11400000, guid: 730d789e16e40f447ab34984a3b8570b, type: 2}
+  - {fileID: 11400000, guid: 8831709145190dd4b9a5ed7a799e6883, type: 2}
+  - {fileID: 11400000, guid: 6e2d869ee1853074b9604fdbad9d29a6, type: 2}
+  - {fileID: 11400000, guid: 1888602279de4a141bcb4a094bf00e8c, type: 2}
+  - {fileID: 11400000, guid: 1db05b115b16a2e4b9737470d5c57828, type: 2}
+  - {fileID: 11400000, guid: a705e0b30acf0f142a77dfb265cdbaeb, type: 2}
+  - {fileID: 11400000, guid: dabb0a0cb4cc79040b31cfe917fa0761, type: 2}
+  - {fileID: 11400000, guid: 0695602ea9d0a9e4da5824730ccebdbe, type: 2}
+  - {fileID: 11400000, guid: 89bf1f3046008ba48b3bb0e0d53d68e3, type: 2}
+  - {fileID: 11400000, guid: 2634013165fc17c43a5a6f6ab90f4520, type: 2}
+  - {fileID: 11400000, guid: 74fdf5d715d442a4ea8844c32200fddd, type: 2}
+  - {fileID: 11400000, guid: 276932d612a96da4caad6f3ffb183ead, type: 2}
+  - {fileID: 11400000, guid: 3055494f438f4f142a2f6f09775300bf, type: 2}
+  - {fileID: 11400000, guid: 9a318b55022c24844a5e9c9c079755f5, type: 2}
+  - {fileID: 11400000, guid: 3110412fd7a75dd449785dfdfc730b06, type: 2}
+  - {fileID: 11400000, guid: a9493e829c18a384bae16ef6f9daf8ca, type: 2}
+  - {fileID: 11400000, guid: 0ef12d3ab9eaaa941b6002c920cccf67, type: 2}
+  - {fileID: 11400000, guid: b6f0dcff18aeadc4791bd8127872ee17, type: 2}
+  - {fileID: 11400000, guid: d282d391b8b0e3b4c969ae59a462c887, type: 2}
+  - {fileID: 11400000, guid: e6faf50dca7a12944892a72b0c624463, type: 2}
+  - {fileID: 11400000, guid: e056ce3b880d90847ac81f7e3fa94270, type: 2}
+  - {fileID: 11400000, guid: 24b9de6f94f585f4187c243c48d4dde3, type: 2}
+  - {fileID: 11400000, guid: 3902bb9709d35bf4999770fa001cc183, type: 2}
+  - {fileID: 11400000, guid: f7e42913a91ba474c98c8b2dd0b71e45, type: 2}
+  - {fileID: 11400000, guid: c663b5e71b489b34dbaed25f4ed197f8, type: 2}
+  - {fileID: 11400000, guid: 190b6000ab435e54a97e2fbbbb05a1a3, type: 2}
+  - {fileID: 11400000, guid: 110bf287eab400d40a67784653db198c, type: 2}
+  - {fileID: 11400000, guid: 3c3991ff5cecbe349b1c1e65dc6e93db, type: 2}
+  - {fileID: 11400000, guid: 7469f293ca9d6c74885b8635a4bdc8d6, type: 2}
+  - {fileID: 11400000, guid: e2fb07433e4c8f1469db822266e10d12, type: 2}
+  - {fileID: 11400000, guid: 99458b03a082e1448b9aa729f089a572, type: 2}
+  - {fileID: 11400000, guid: 5ad39d8b553b12746b59736bb8a46584, type: 2}
+  - {fileID: 11400000, guid: 7b50525ebc01fb44781804c8c41f2253, type: 2}
+  - {fileID: 11400000, guid: a699ee92c64a87f44aa71e80ec84043c, type: 2}
+  - {fileID: 11400000, guid: 75ea13401c029734a859cb9118e6bac1, type: 2}
+  - {fileID: 11400000, guid: 85cafc5c1a5670040b3cf2e01dc62c0a, type: 2}
+  - {fileID: 11400000, guid: ae7043c496bf4564096d0ca7eeb0c77a, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

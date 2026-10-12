@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: InputCheck Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Land/Behaviours/InputCheck Behaviour
+      Guid:
+        Value: 2140164692208957376
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    Jump:
+      Action: 2
+      GroupToExecute:
+        GroupName:
+          Value:
+          Hash: 0
+        ExecutionMode: 0
+      TargetState:
+        StateName:
+          Value: Jump
+          Hash: -1061763892
+        TransitionFrames: 0
+    Hook:
+      Action: 2
+      GroupToExecute:
+        GroupName:
+          Value:
+          Hash: 0
+        ExecutionMode: 0
+      TargetState:
+        StateName:
+          Value: Hook Launch
+          Hash: 1570704003
+        TransitionFrames: 0
+    Slide:
+      Action: 2
+      GroupToExecute:
+        GroupName:
+          Value:
+          Hash: 0
+        ExecutionMode: 0
+      TargetState:
+        StateName:
+          Value: Slide
+          Hash: 828573697
+        TransitionFrames: 2

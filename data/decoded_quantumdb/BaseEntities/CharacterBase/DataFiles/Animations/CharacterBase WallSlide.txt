@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase WallSlide
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase WallSlide
+      Guid:
+        Value: 3863366930053384222
+    ClipIndex: 24
+    ClipName:
+      Value: WallSlide
+      Hash: 541936593
+    Duration: 0.016663
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ac04db00ca4b423479bf3dbf0e2c8cde, type: 2}

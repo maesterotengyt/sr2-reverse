@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Idle_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Idle
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hook Launch/Behaviours/Go To Idle_ChangeState Behaviour
+      Guid:
+        Value: 193690886406935942
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 1
+        SourceVariableIndex: 5
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs:
+        - TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 3
+          SourceVariableIndex: 5
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 0.5
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 4
+    GroupName:
+      Value: On Cancel Hook
+      Hash: 520799992
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Idle
+        Hash: 1881327601
+      TransitionFrames: 5

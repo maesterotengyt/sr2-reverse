@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To InactiveChangeState Behaviour 1
+  Notes:
+  EditorName: Go To Inactive
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Obstacle/DataFiles/States/Frozen/Behaviours/Go To InactiveChangeState Behaviour 1
+      Guid:
+        Value: 2386339859042799085
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Character Enter
+      Hash: 1139166792
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Destroy
+        Hash: 785740353
+      TransitionFrames: 0

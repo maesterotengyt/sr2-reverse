@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut JumpInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut JumpInPlace
+      Guid:
+        Value: 2590294556956926441
+    ClipIndex: 21
+    ClipName:
+      Value: JumpInPlace
+      Hash: -1974450650
+    Duration: 0.95
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 5931233149984954a9cb39bb145d144d, type: 2}

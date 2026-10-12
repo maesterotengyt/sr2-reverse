@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Wall Slide State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Wall Slide/Wall Slide State
+      Guid:
+        Value: 3832968387025634890
+    Name:
+      Value: Wall Slide
+      Hash: -1374503475
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2847317715843261894
+      - Id:
+          Value: 1694435467093965634
+      - Id:
+          Value: 1306494872091078879
+      - Id:
+          Value: 198185819209350221
+      - Id:
+          Value: 1067852173708276777
+      - Id:
+          Value: 4193511505053157993
+      - Id:
+          Value: 4353490834586631382
+      - Id:
+          Value: 1035361506058964681
+      - Id:
+          Value: 1235975546268448260
+      - Id:
+          Value: 3294144297456864021
+      - Id:
+          Value: 232607689216520206
+      - Id:
+          Value: 2353492537399614010
+      - Id:
+          Value: 28831223392400385
+      - Id:
+          Value: 2898494412375854103
+      - Id:
+          Value: 1149784519058205819
+      - Id:
+          Value: 2203350372185149552
+      - Id:
+          Value: 3586866649532870600
+      StateInheritedGroups:
+      - Name:
+          Value: On Leave Wall
+          Hash: -189065517
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Exit State
+          Hash: 1273453731
+        EventToReact: 2
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

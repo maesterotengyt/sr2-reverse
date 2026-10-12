@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/DataFiles/Unic State Machine Data
+      Guid:
+        Value: 4122427521910512506
+    ParentStateMachine:
+      Id:
+        Value: 2686411458687942432
+    Variables: []
+    States:
+    - Id:
+        Value: 4557158415924454864
+    - Id:
+        Value: 669405056842495706
+    - Id:
+        Value: 1544653193112796495
+    InitialState:
+      Value: Idle
+      Hash: 1881327601
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

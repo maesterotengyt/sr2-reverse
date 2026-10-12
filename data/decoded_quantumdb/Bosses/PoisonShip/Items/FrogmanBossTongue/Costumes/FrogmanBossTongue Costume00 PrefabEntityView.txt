@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FrogmanBossTongue Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Items/FrogmanBossTongue/Costumes/FrogmanBossTongue Costume00 Prefab|EntityView
+      Guid:
+        Value: 1948797577685232047
+  Parent: {fileID: 114705390221481576, guid: 88f6800f184b03c46ab66a7f0dffb751, type: 2}

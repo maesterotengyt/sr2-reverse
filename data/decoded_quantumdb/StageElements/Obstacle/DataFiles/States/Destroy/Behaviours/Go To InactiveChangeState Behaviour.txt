@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To InactiveChangeState Behaviour
+  Notes:
+  EditorName: Go To Inactive
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Obstacle/DataFiles/States/Destroy/Behaviours/Go To InactiveChangeState Behaviour
+      Guid:
+        Value: 1885894250554780704
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Inactive
+        Hash: -200295523
+      TransitionFrames: 0

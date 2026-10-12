@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight FreezeRayInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight FreezeRayInPlace
+      Guid:
+        Value: 3943028873779180079
+    ClipIndex: 6
+    ClipName:
+      Value: FreezeRayInPlace
+      Hash: 1750696149
+    Duration: 0.59999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 18caf0cdced4be347a4e948b05622c19, type: 2}

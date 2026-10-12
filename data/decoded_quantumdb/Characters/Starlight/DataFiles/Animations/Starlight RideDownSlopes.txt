@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight RideDownSlopes
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight RideDownSlopes
+      Guid:
+        Value: 1630897922686793991
+    ClipIndex: 27
+    ClipName:
+      Value: RidedownSlopes
+      Hash: 2033256798
+    Duration: 0.89999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 7a142081917fa4f45940ddf543b0cebe, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull Run
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull Run
+      Guid:
+        Value: 935371114219392340
+    ClipIndex: 30
+    ClipName:
+      Value: Run
+      Hash: -120825126
+    Duration: 0.73332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 93faa7dc768a3b34d82073e83c7ae4ae, type: 2}

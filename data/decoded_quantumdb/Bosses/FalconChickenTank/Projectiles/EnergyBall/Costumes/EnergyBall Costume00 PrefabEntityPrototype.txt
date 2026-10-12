@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: EnergyBall Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/Projectiles/EnergyBall/Costumes/EnergyBall Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 209259619141602529
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: 5ce7c07f7f6c932429acf822dc4da8c6, type: 2}

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic RunTurn
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/DataFiles/Animations/Unic RunTurn
+      Guid:
+        Value: 3907281068416755893
+    ClipIndex: 30
+    ClipName:
+      Value: RunTurn
+      Hash: -1225278200
+    Duration: 0.36665
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -2092916523
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: 2138252657
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: -397173244
+        Value: 1
+      - MeshHash: 2124810857
+        Value: 1
+      - MeshHash: 573226022
+        Value: 1
+      - MeshHash: -956412129
+        Value: 1
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: 2115325285
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -318916156
+        Value: 0
+    - Frame: 21
+      ObjectsVisibilityData:
+      - MeshHash: -2092916523
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: 2138252657
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: -397173244
+        Value: 1
+      - MeshHash: 2124810857
+        Value: 1
+      - MeshHash: 573226022
+        Value: 1
+      - MeshHash: -956412129
+        Value: 1
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: 2115325285
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -318916156
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 8890b7528f7f77c4bb6a17738fceb961, type: 2}

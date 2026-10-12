@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Destroy State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/Destroy/Destroy State
+      Guid:
+        Value: 3186291598309599549
+    Name:
+      Value: Destroy
+      Hash: 785740353
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3530664200094519683
+      - Id:
+          Value: 2251447818280124617
+      - Id:
+          Value: 3967817835912040564
+      - Id:
+          Value: 1407144460725190931
+      - Id:
+          Value: 896270116096986217
+      - Id:
+          Value: 3741920537112937634
+      - Id:
+          Value: 131162333227969379
+      - Id:
+          Value: 4436167069946737377
+      - Id:
+          Value: 2781756688077530278
+      - Id:
+          Value: 920762679028215637
+      - Id:
+          Value: 3388652301453522838
+      - Id:
+          Value: 2250931842532883226
+      StateInheritedGroups: []

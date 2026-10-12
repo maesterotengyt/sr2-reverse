@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Idle State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/Idle/Idle State
+      Guid:
+        Value: 1075532770075473105
+    Name:
+      Value: Idle
+      Hash: 1881327601
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1358985348649799962
+      - Id:
+          Value: 589190831398885225
+      - Id:
+          Value: 1214082538126639956
+      - Id:
+          Value: 566604758009403546
+      - Id:
+          Value: 1044349385223173220
+      StateInheritedGroups: []

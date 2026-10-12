@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossRocket Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/BossRocket/Costumes/BossRocket Costume00 Prefab|EntityView
+      Guid:
+        Value: 4227482399432420124
+  Parent: {fileID: 114243736805655561, guid: ead83a626647bce40834c22b5825dbf3, type: 2}

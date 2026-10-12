@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FreezeRay Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FreezeRay/Costumes/FreezeRay Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 227231900298923119
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: 0f2cd64c67c6a064a82a76d753ecdc12, type: 2}

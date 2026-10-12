@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterTemplate PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameEntityTemplate/CharacterTemplate Prefab|EntityView
+      Guid:
+        Value: 964971553861652773
+  Parent: {fileID: 114642988549198181, guid: c21cbe616723aa049839c85b9fc8b6e3, type: 2}

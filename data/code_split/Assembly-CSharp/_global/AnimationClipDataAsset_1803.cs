@@ -1,0 +1,24 @@
+// Namespace: 
+[CreateAssetMenu(menuName = "Quantum/AnimationClipData", order = -900)]
+public class AnimationClipDataAsset : AssetBase // TypeDefIndex: 1803
+{
+	// Fields
+	public AnimationClipData Settings; // 0x18
+	private const string VISIBILITY_PREFIX = "vis__";
+	private const string BLENDSHAPE_PREFIX = "blend__";
+	public AnimationClip Clip; // 0x20
+
+	// Properties
+	public override AssetObject AssetObject { get; }
+
+	// Methods
+
+	// RVA: 0x4FA3A0 Offset: 0x4F89A0 VA: 0x1804FA3A0 Slot: 4
+	public override AssetObject get_AssetObject() { }
+
+	// RVA: 0x503570 Offset: 0x501B70 VA: 0x180503570 Slot: 9
+	public override void Reset() { }
+
+	// RVA: 0x503080 Offset: 0x501680 VA: 0x180503080
+	public void .ctor() { }
+}

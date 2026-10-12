@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: TauntEvent_PlayerStat Behaviour
+  Notes:
+  EditorName: TauntEvent
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Taunt/Behaviours/TauntEvent_PlayerStat Behaviour
+      Guid:
+        Value: 574851087751604274
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Animation Finished
+      Hash: -1167156220
+    TargetEntity: 11
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    EventType: 2
+    hitType: 0

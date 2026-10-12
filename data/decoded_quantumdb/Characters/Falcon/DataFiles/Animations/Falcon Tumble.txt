@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon Tumble
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon Tumble
+      Guid:
+        Value: 3533426800020888808
+    ClipIndex: 36
+    ClipName:
+      Value: Tumble
+      Hash: 1755747619
+    Duration: 1.3667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ab2ec6627ebaaa346beef4f362fcaca1, type: 2}

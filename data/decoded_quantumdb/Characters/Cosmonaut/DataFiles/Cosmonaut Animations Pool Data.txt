@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Cosmonaut Animations Pool Data
+      Guid:
+        Value: 2725283692376878772
+    ClipsDataRefs:
+    - Id:
+        Value: 1396340980629163525
+    - Id:
+        Value: 4520898907113925564
+    - Id:
+        Value: 3130171699868286940
+    - Id:
+        Value: 3984125832396182299
+    - Id:
+        Value: 3012574353406453722
+    - Id:
+        Value: 3748809028620575877
+    - Id:
+        Value: 1325447772018524704
+    - Id:
+        Value: 4204285334732565280
+    - Id:
+        Value: 3403131576145200113
+    - Id:
+        Value: 3381356150221607126
+    - Id:
+        Value: 2984702722964726312
+    - Id:
+        Value: 3945269008033584103
+    - Id:
+        Value: 1119674890335387564
+    - Id:
+        Value: 3166521075145559311
+    - Id:
+        Value: 1986110155048145440
+    - Id:
+        Value: 34657909003858223
+    - Id:
+        Value: 3107785149691777134
+    - Id:
+        Value: 3771269747866583955
+    - Id:
+        Value: 293733559563078003
+    - Id:
+        Value: 1363000388773653897
+    - Id:
+        Value: 3820723579727216902
+    - Id:
+        Value: 2590294556956926441
+    - Id:
+        Value: 2418710989627189093
+    - Id:
+        Value: 1082995679300433610
+    - Id:
+        Value: 3227812510148784739
+    - Id:
+        Value: 4411280948620937945
+    - Id:
+        Value: 3650804475893774941
+    - Id:
+        Value: 2847402509295487966
+    - Id:
+        Value: 1952133119085774513
+    - Id:
+        Value: 2568260119091589585
+    - Id:
+        Value: 829448102576289182
+    - Id:
+        Value: 3789574951984060288
+    - Id:
+        Value: 1095127387903398796
+    - Id:
+        Value: 2104266753016198566
+    - Id:
+        Value: 2251775057162709636
+    - Id:
+        Value: 4456983879359379201
+    - Id:
+        Value: 4487647312462799796
+    - Id:
+        Value: 248655339714385800
+    - Id:
+        Value: 774592879645745096
+    - Id:
+        Value: 2569895742754989648
+    - Id:
+        Value: 2197388711997819140
+    - Id:
+        Value: 334889051537026970
+    - Id:
+        Value: 3804896313898589155
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Cosmonaut
+  ClipsInputPath: Assets/ProductionAssets/Characters/Cosmonaut/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/Cosmonaut/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Cosmonaut/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 9f8e0988dd8856e4aaefc891355ba6a5, type: 2}
+  - {fileID: 11400000, guid: 8736f2bafabd694459d0a7af8adc5015, type: 2}
+  - {fileID: 11400000, guid: 9d71f33fa646ab34f89ce3f7b4a579c8, type: 2}
+  - {fileID: 11400000, guid: 768a4573680b8b5408f7146720c735b2, type: 2}
+  - {fileID: 11400000, guid: 480603aab66e726409026e791cfb41c0, type: 2}
+  - {fileID: 11400000, guid: 19f12b52f94b2bf4b895da84db19ae4e, type: 2}
+  - {fileID: 11400000, guid: bf56aa016c4274846952827a4a990ae7, type: 2}
+  - {fileID: 11400000, guid: 5ba8160ac8ee0f949866fcd439b7d51a, type: 2}
+  - {fileID: 11400000, guid: 72d08440d288ba441aad9486bcb42e72, type: 2}
+  - {fileID: 11400000, guid: 1def730728224aa448dd9e49bca487c7, type: 2}
+  - {fileID: 11400000, guid: 6896c1617b6411c46b77358920c9700d, type: 2}
+  - {fileID: 11400000, guid: 2b9ee64befd6306479cff13b5537dfee, type: 2}
+  - {fileID: 11400000, guid: a17534259a13e8345921e5b8b970b23f, type: 2}
+  - {fileID: 11400000, guid: bba4388c46a844e42bfebc7625f3950f, type: 2}
+  - {fileID: 11400000, guid: 6076b226a7c31f24e87002dbc71368d9, type: 2}
+  - {fileID: 11400000, guid: 7ab39df6ab33a404890ce9b9e51792ec, type: 2}
+  - {fileID: 11400000, guid: 4dd42e5d9be522f4fad3759b6ec0380a, type: 2}
+  - {fileID: 11400000, guid: cd47711412b62544e8bed1dc66150e0f, type: 2}
+  - {fileID: 11400000, guid: b8dfad93324b0944fbc783895738e8ec, type: 2}
+  - {fileID: 11400000, guid: bac0a5f6d8b7e534d9de7c5655185273, type: 2}
+  - {fileID: 11400000, guid: db1e3aa5a752e5b40a89b2936b8a5b44, type: 2}
+  - {fileID: 11400000, guid: 450c3b1bc71bcae44880596ba4db4466, type: 2}
+  - {fileID: 11400000, guid: 6c94105955f81ee40a51924c988391d5, type: 2}
+  - {fileID: 11400000, guid: 8b08e5e43cebcbe43bcc08dfca99de99, type: 2}
+  - {fileID: 11400000, guid: 5a7edf491a8deaf49b733e567e9ddb74, type: 2}
+  - {fileID: 11400000, guid: a29612799480c3046b6268708bbf31be, type: 2}
+  - {fileID: 11400000, guid: 30148598bad69cc488824568d61c6c01, type: 2}
+  - {fileID: 11400000, guid: a211cc17c7d889c44b1cec318a239463, type: 2}
+  - {fileID: 11400000, guid: 1ab5b5c0d6ed9c3469cf58768a3b44ea, type: 2}
+  - {fileID: 11400000, guid: 8fc2511b41bf4ab4f899cbb88e45e3fc, type: 2}
+  - {fileID: 11400000, guid: f0e5f6623b2a5e04e81ce382fd9531f7, type: 2}
+  - {fileID: 11400000, guid: b3dceade2c2235a4599f7e53c97b77b4, type: 2}
+  - {fileID: 11400000, guid: b4b880c649a7322479e117db36a1c8ac, type: 2}
+  - {fileID: 11400000, guid: ebd534c920ba1014794446c326f172db, type: 2}
+  - {fileID: 11400000, guid: 8ba216b9a71a9194881b2c16e81eaedc, type: 2}
+  - {fileID: 11400000, guid: 188c4dc74213533439cc0c45e16a039a, type: 2}
+  - {fileID: 11400000, guid: 5eeb2a7fee05492459eab9f427564e85, type: 2}
+  - {fileID: 11400000, guid: 66b9a12ed8f24fc4c9734693cbeae8ab, type: 2}
+  - {fileID: 11400000, guid: 2e72a6120d8b6ec40b52af04605bae75, type: 2}
+  - {fileID: 11400000, guid: 1e9974683c3effa47be22f8b8cabd655, type: 2}
+  - {fileID: 11400000, guid: 60d0691f3494a534eafcc566c0781b97, type: 2}
+  - {fileID: 11400000, guid: 16b4463560f8f2e449c3142881873fb0, type: 2}
+  - {fileID: 11400000, guid: 7016e3ee49df0bf40b1f3e8f737afc95, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

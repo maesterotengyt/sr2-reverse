@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Hothead State Machine Data
+      Guid:
+        Value: 3237775401791672973
+    ParentStateMachine:
+      Id:
+        Value: 2686411458687942432
+    Variables: []
+    States:
+    - Id:
+        Value: 3355037618313185562
+    - Id:
+        Value: 3712765099723508011
+    - Id:
+        Value: 594610992948925347
+    - Id:
+        Value: 3834105895344669027
+    InitialState:
+      Value: Idle
+      Hash: 1881327601
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

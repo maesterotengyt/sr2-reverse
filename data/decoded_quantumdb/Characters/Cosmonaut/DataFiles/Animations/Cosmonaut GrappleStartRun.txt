@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut GrappleStartRun
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut GrappleStartRun
+      Guid:
+        Value: 1119674890335387564
+    ClipIndex: 12
+    ClipName:
+      Value: GrappleStartRun
+      Hash: -1524069665
+    Duration: 0.7
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 3b08000095d99a848b1d29f47b55d3f3, type: 2}

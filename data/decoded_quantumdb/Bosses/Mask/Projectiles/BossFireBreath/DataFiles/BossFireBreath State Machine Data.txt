@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFireBreath State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/DataFiles/BossFireBreath State Machine Data
+      Guid:
+        Value: 463275552744389333
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 4592612739263132847
+    - Id:
+        Value: 3304370120022198355
+    - Id:
+        Value: 3759312796499089028
+    - Id:
+        Value: 1915604989520805330
+    - Id:
+        Value: 4085828826375488321
+    - Id:
+        Value: 3783838008580357634
+    InitialState:
+      Value: Start
+      Hash: 78802736
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

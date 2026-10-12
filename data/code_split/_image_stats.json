@@ -1,0 +1,542 @@
+{
+ "mscorlib.dll": {
+  "class": 1114,
+  "struct": 271,
+  "enum": 206,
+  "interface": 110
+ },
+ "Assembly-CSharp.dll": {
+  "class": 2024,
+  "enum": 124,
+  "interface": 17,
+  "struct": 249
+ },
+ "UnityEngine.UIElementsModule.dll": {
+  "class": 1084,
+  "enum": 147,
+  "struct": 239,
+  "interface": 64
+ },
+ "Unity.InputSystem.dll": {
+  "class": 277,
+  "struct": 260,
+  "interface": 23,
+  "enum": 87
+ },
+ "UnityEngine.CoreModule.dll": {
+  "class": 409,
+  "struct": 393,
+  "enum": 240,
+  "interface": 22
+ },
+ "System.Xml.dll": {
+  "class": 512,
+  "enum": 89,
+  "struct": 54,
+  "interface": 15
+ },
+ "System.dll": {
+  "class": 642,
+  "enum": 118,
+  "struct": 106,
+  "interface": 32
+ },
+ "Unity.RenderPipelines.Core.Runtime.dll": {
+  "class": 438,
+  "struct": 154,
+  "enum": 81,
+  "interface": 38
+ },
+ "quantum.code.dll": {
+  "class": 614,
+  "enum": 129,
+  "struct": 335,
+  "interface": 22
+ },
+ "Unity.RenderPipelines.Universal.Runtime.dll": {
+  "class": 402,
+  "struct": 71,
+  "enum": 88
+ },
+ "quantum.core.dll": {
+  "class": 224,
+  "struct": 301,
+  "interface": 22,
+  "enum": 59
+ },
+ "BrainCloud.dll": {
+  "class": 268,
+  "struct": 12,
+  "enum": 39,
+  "interface": 6
+ },
+ "System.Data.dll": {
+  "class": 176,
+  "struct": 29,
+  "enum": 29,
+  "interface": 2
+ },
+ "Unity.Microsoft.GDK.dll": {
+  "class": 646,
+  "struct": 189,
+  "enum": 126
+ },
+ "Unity.TextMeshPro.dll": {
+  "class": 99,
+  "struct": 58,
+  "enum": 35,
+  "interface": 3
+ },
+ "System.Core.dll": {
+  "class": 594,
+  "interface": 7,
+  "struct": 16,
+  "enum": 6
+ },
+ "Newtonsoft.Json.dll": {
+  "class": 228,
+  "enum": 37,
+  "interface": 15,
+  "struct": 14
+ },
+ "ShapesRuntime.dll": {
+  "class": 99,
+  "struct": 30,
+  "enum": 37,
+  "interface": 4
+ },
+ "Unity.Localization.dll": {
+  "class": 304,
+  "struct": 16,
+  "interface": 30,
+  "enum": 19
+ },
+ "Cinemachine.dll": {
+  "class": 138,
+  "struct": 40,
+  "interface": 5,
+  "enum": 48
+ },
+ "UnityEngine.TextCoreTextEngineModule.dll": {
+  "class": 51,
+  "struct": 35,
+  "enum": 21
+ },
+ "UnityEngine.UI.dll": {
+  "class": 118,
+  "struct": 12,
+  "enum": 40,
+  "interface": 35
+ },
+ "Unity.RenderPipelines.Universal.2D.Runtime.dll": {
+  "class": 96,
+  "struct": 51,
+  "enum": 37,
+  "interface": 4
+ },
+ "FMODUnity.dll": {
+  "class": 146,
+  "struct": 89,
+  "enum": 113,
+  "interface": 3
+ },
+ "MathfsAsmdef.dll": {
+  "class": 37,
+  "struct": 88,
+  "enum": 11,
+  "interface": 6
+ },
+ "spine-csharp.dll": {
+  "class": 106,
+  "struct": 10,
+  "enum": 16,
+  "interface": 7
+ },
+ "Unity.RenderPipelines.GPUDriven.Runtime.dll": {
+  "class": 75,
+  "struct": 136,
+  "enum": 11,
+  "interface": 1
+ },
+ "spine-unity.dll": {
+  "class": 101,
+  "struct": 15,
+  "enum": 11,
+  "interface": 7
+ },
+ "Photon3Unity3D.dll": {
+  "class": 64,
+  "struct": 8,
+  "enum": 17,
+  "interface": 4
+ },
+ "Unity.Postprocessing.Runtime.dll": {
+  "class": 102,
+  "enum": 29,
+  "interface": 1,
+  "struct": 4
+ },
+ "Unity.ResourceManager.dll": {
+  "class": 84,
+  "struct": 23,
+  "enum": 11,
+  "interface": 18
+ },
+ "PhotonDeterministic.dll": {
+  "class": 70,
+  "struct": 33,
+  "interface": 11,
+  "enum": 11
+ },
+ "UnityEngine.IMGUIModule.dll": {
+  "class": 39,
+  "enum": 13,
+  "struct": 3
+ },
+ "Mono.Security.dll": {
+  "class": 82,
+  "enum": 11,
+  "interface": 1,
+  "struct": 10
+ },
+ "Unity.Addressables.dll": {
+  "class": 89,
+  "struct": 9,
+  "enum": 5,
+  "interface": 2
+ },
+ "UnityEngine.PropertiesModule.dll": {
+  "class": 82,
+  "enum": 6,
+  "struct": 17,
+  "interface": 32
+ },
+ "Coffee.UIEffect.dll": {
+  "class": 48,
+  "struct": 4,
+  "interface": 1,
+  "enum": 18
+ },
+ "LibUsbDotNet.dll": {
+  "class": 82,
+  "enum": 23,
+  "interface": 1,
+  "struct": 22
+ },
+ "Whinarn.UnityMeshSimplifier.Runtime.dll": {
+  "class": 26,
+  "struct": 12,
+  "enum": 1
+ },
+ "UnityEngine.dll": {
+  "class": 1
+ },
+ "UnityEngine.AnimationModule.dll": {
+  "class": 25,
+  "enum": 16,
+  "struct": 21
+ },
+ "Unity.Timeline.dll": {
+  "class": 51,
+  "struct": 8,
+  "enum": 10,
+  "interface": 9
+ },
+ "Unity.Collections.dll": {
+  "class": 34,
+  "interface": 5,
+  "struct": 79,
+  "enum": 1
+ },
+ "UnityEngine.ParticleSystemModule.dll": {
+  "class": 3,
+  "struct": 45,
+  "enum": 16
+ },
+ "UnityEngine.AndroidJNIModule.dll": {
+  "class": 16,
+  "struct": 2,
+  "enum": 15
+ },
+ "Unity.Microsoft.GDK.Tools.dll": {
+  "class": 42,
+  "struct": 3,
+  "enum": 9
+ },
+ "Unity.Splines.dll": {
+  "class": 21,
+  "struct": 10,
+  "enum": 10,
+  "interface": 5
+ },
+ "HBAO.Universal.Runtime.dll": {
+  "class": 32,
+  "struct": 6,
+  "enum": 12
+ },
+ "System.Net.Http.dll": {
+  "class": 54,
+  "interface": 1,
+  "enum": 3,
+  "struct": 2
+ },
+ "Coffee.UIParticle.dll": {
+  "class": 36,
+  "struct": 3,
+  "interface": 1,
+  "enum": 6
+ },
+ "System.Drawing.dll": {
+  "class": 4,
+  "enum": 1,
+  "struct": 7
+ },
+ "System.Numerics.dll": {
+  "class": 7,
+  "enum": 1,
+  "struct": 7
+ },
+ "HBAO.Runtime.dll": {
+  "class": 9,
+  "struct": 12,
+  "enum": 11
+ },
+ "Unity.Mathematics.dll": {
+  "class": 16,
+  "struct": 20
+ },
+ "UnityEngine.UnityWebRequestModule.dll": {
+  "class": 16,
+  "enum": 3
+ },
+ "UnityEngine.InputForUIModule.dll": {
+  "class": 12,
+  "enum": 10,
+  "struct": 20,
+  "interface": 6
+ },
+ "UnityEngine.TextCoreFontEngineModule.dll": {
+  "class": 3,
+  "struct": 15,
+  "enum": 6
+ },
+ "UnityEngine.HierarchyCoreModule.dll": {
+  "class": 18,
+  "struct": 21,
+  "interface": 2,
+  "enum": 3
+ },
+ "System.Xml.Linq.dll": {
+  "class": 32,
+  "struct": 4,
+  "enum": 3
+ },
+ "UnityEngine.PhysicsModule.dll": {
+  "class": 12,
+  "struct": 7,
+  "enum": 6
+ },
+ "com.rlabrecque.steamworks.net.dll": {
+  "class": 21,
+  "struct": 16,
+  "enum": 9
+ },
+ "AllIn1SpriteShaderAssembly.dll": {
+  "class": 29,
+  "struct": 3,
+  "enum": 2
+ },
+ "UnityEngine.UIModule.dll": {
+  "class": 7,
+  "interface": 1,
+  "enum": 4
+ },
+ "UnityEngine.Physics2DModule.dll": {
+  "class": 14,
+  "struct": 6,
+  "enum": 3
+ },
+ "UnityEngine.VideoModule.dll": {
+  "class": 7,
+  "struct": 1,
+  "enum": 8
+ },
+ "Unity.Burst.dll": {
+  "class": 21,
+  "enum": 6,
+  "struct": 12
+ },
+ "UnityEngine.XRModule.dll": {
+  "class": 11,
+  "enum": 10,
+  "struct": 13
+ },
+ "AMSUISoftMask.dll": {
+  "class": 17,
+  "struct": 3,
+  "enum": 2
+ },
+ "UnityEngine.TextRenderingModule.dll": {
+  "class": 5,
+  "enum": 6,
+  "struct": 5
+ },
+ "ShapesSamples.dll": {
+  "class": 16,
+  "struct": 4,
+  "enum": 1
+ },
+ "UnityEngine.AccessibilityModule.dll": {
+  "class": 13,
+  "struct": 3,
+  "enum": 3,
+  "interface": 2
+ },
+ "UnityEngine.DirectorModule.dll": {
+  "class": 6,
+  "struct": 1,
+  "interface": 1,
+  "enum": 1
+ },
+ "UnityEngine.InputLegacyModule.dll": {
+  "class": 5,
+  "enum": 5,
+  "struct": 3
+ },
+ "UnityEngine.TerrainModule.dll": {
+  "class": 12,
+  "enum": 2,
+  "struct": 3
+ },
+ "UnityEngine.TilemapModule.dll": {
+  "class": 6,
+  "enum": 3,
+  "struct": 6
+ },
+ "UnityEngine.UnityAnalyticsCommonModule.dll": {
+  "class": 35
+ },
+ "UnityEngine.VFXModule.dll": {
+  "class": 11,
+  "enum": 1,
+  "struct": 4
+ },
+ "UnityEngine.AssetBundleModule.dll": {
+  "class": 9
+ },
+ "UnityEngine.SharedInternalsModule.dll": {
+  "class": 26,
+  "enum": 3
+ },
+ "UnityEngine.SubsystemsModule.dll": {
+  "class": 14,
+  "interface": 2
+ },
+ "Unity.InputSystem.ForUI.dll": {
+  "class": 4
+ },
+ "UnityEngine.AudioModule.dll": {
+  "class": 11,
+  "struct": 3
+ },
+ "UnityEngine.UnityWebRequestAssetBundleModule.dll": {
+  "class": 4
+ },
+ "UnityEngine.InputModule.dll": {
+  "class": 3,
+  "enum": 2,
+  "struct": 2
+ },
+ "UnityEngine.JSONSerializeModule.dll": {
+  "class": 2
+ },
+ "UnityEngine.UnityAnalyticsModule.dll": {
+  "class": 9,
+  "enum": 2
+ },
+ "UnityEngine.VRModule.dll": {
+  "class": 3,
+  "enum": 1
+ },
+ "UnityEngine.ImageConversionModule.dll": {
+  "class": 2
+ },
+ "UnityEngine.UnityWebRequestTextureModule.dll": {
+  "class": 3,
+  "enum": 1,
+  "struct": 1
+ },
+ "FMODUnityResonance.dll": {
+  "class": 5,
+  "struct": 4,
+  "enum": 1
+ },
+ "UnityEngine.AIModule.dll": {
+  "class": 3
+ },
+ "UnityEngine.ScreenCaptureModule.dll": {
+  "class": 2,
+  "enum": 1
+ },
+ "UnityEngine.GridModule.dll": {
+  "class": 2
+ },
+ "UnityEngine.SpriteMaskModule.dll": {
+  "class": 2
+ },
+ "UnityEngine.SpriteShapeModule.dll": {
+  "class": 2
+ },
+ "BrainCloudPlugin.dll": {
+  "class": 5,
+  "struct": 2
+ },
+ "Unity.RenderPipeline.Universal.ShaderLibrary.dll": {
+  "class": 2,
+  "enum": 15,
+  "struct": 1
+ },
+ "HBAO.Demo.Universal.Runtime.dll": {
+  "class": 5,
+  "struct": 3
+ },
+ "Unity.MemoryProfiler.dll": {
+  "class": 6,
+  "struct": 3
+ },
+ "System.Runtime.Serialization.dll": {
+  "class": 5
+ },
+ "System.Configuration.dll": {
+  "class": 9,
+  "enum": 1
+ },
+ "websocket-sharp.dll": {
+  "class": 2
+ },
+ "FMODUnityHaptics.dll": {
+  "class": 2,
+  "struct": 1
+ },
+ "Unity.RenderPipelines.Core.Runtime.Shared.dll": {
+  "class": 2
+ },
+ "System.Windows.Forms.dll": {
+  "class": 3
+ },
+ "Coffee.UIEffect.R.dll": {
+  "class": 1,
+  "interface": 1
+ },
+ "Coffee.UIParticle.R.dll": {
+  "class": 1
+ },
+ "Unity.Burst.Unsafe.dll": {
+  "class": 3
+ },
+ "__Generated": {
+  "interface": 1,
+  "class": 3,
+  "struct": 1
+ }
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull AirJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull AirJump
+      Guid:
+        Value: 3241272820884463002
+    ClipIndex: 0
+    ClipName:
+      Value: AirJump
+      Hash: 1059819696
+    Duration: 0.81667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 53d568ba5fcd09f44b82dcaa0782ce3b, type: 2}

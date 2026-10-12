@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hurt State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/Hurt/Hurt State
+      Guid:
+        Value: 563543974397298529
+    Name:
+      Value: Hurt
+      Hash: -1797537374
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3631460419717820991
+      - Id:
+          Value: 2549412942514437843
+      - Id:
+          Value: 797144217102878562
+      - Id:
+          Value: 3328486927043431042
+      - Id:
+          Value: 4513098429279647571
+      - Id:
+          Value: 1212702239758656307
+      - Id:
+          Value: 3528797325583354347
+      StateInheritedGroups:
+      - Name:
+          Value: ReduceLifeBar
+          Hash: 1837730002
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

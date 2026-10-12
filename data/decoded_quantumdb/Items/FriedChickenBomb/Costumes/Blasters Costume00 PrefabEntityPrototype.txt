@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Blasters Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FriedChickenBomb/Costumes/Blasters Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 1727543963697714611
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: a2c2324aedca9fd49a7d6a6ee41acec8, type: 2}

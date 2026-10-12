@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SFX Spike Hit_PlaySFX Behaviour
+  Notes:
+  EditorName: SFX Spike Hit
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Spike/DataFiles/States/Active/Behaviours/SFX Spike Hit_PlaySFX Behaviour
+      Guid:
+        Value: 1997944292259148917
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Hit
+      Hash: -739188597
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/StageElements/SpikeHit
+    UpdateSoundPosition: 0
+    Delay: 0
+    SetParameters: 0
+    ParameterName:
+    ParameterType: 0
+    ParameterStringValue:
+    ParameterFloatValue: 0

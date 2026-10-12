@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardFire State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardFire/DataFiles/HazardFire State Machine Data
+      Guid:
+        Value: 1273348401545664044
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: SpawnVertical
+        Hash: -1580125855
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 4182205158097630394
+    - Id:
+        Value: 3490053312037774792
+    - Id:
+        Value: 2394159387307360304
+    - Id:
+        Value: 2343142796380669433
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

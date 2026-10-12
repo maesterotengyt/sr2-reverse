@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon VictoryBanner
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon VictoryBanner
+      Guid:
+        Value: 2957488034753532656
+    ClipIndex: 39
+    ClipName:
+      Value: VictoryBanner
+      Hash: -314007297
+    Duration: 1.3833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: db8919bd75b955f48a448cf0c7320eed, type: 2}

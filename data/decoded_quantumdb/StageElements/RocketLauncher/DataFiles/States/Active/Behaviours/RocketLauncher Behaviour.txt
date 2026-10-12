@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: RocketLauncher Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/RocketLauncher/DataFiles/States/Active/Behaviours/RocketLauncher Behaviour
+      Guid:
+        Value: 2508511260214208672
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    RocketGameEntity:
+      Id:
+        Value: 481352253504479893
+    ShootCooldownFrames: 150
+    SpawnPosition:
+      X: 1
+      Y: 0
+    LinecastLayers:
+    - LayerIndex: 6
+    - LayerIndex: 10
+    - LayerIndex: 8
+    - LayerIndex: 9

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: InviciDrillHazard Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/InviciDrillHazard/Costumes/InviciDrillHazard Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 4141173797786763968
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: 47c72e8766d2b684db40f8c239962c7f, type: 2}

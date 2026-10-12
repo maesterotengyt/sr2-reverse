@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull JumpForward
+      Guid:
+        Value: 1315392090751173513
+    ClipIndex: 20
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.45
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 35ceb1f1504dc2340ab91c8d94e55f8c, type: 2}

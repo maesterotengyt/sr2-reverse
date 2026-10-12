@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman Run
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Animations/Frogman Run
+      Guid:
+        Value: 438554163109291598
+    ClipIndex: 28
+    ClipName:
+      Value: Run
+      Hash: -120825126
+    Duration: 0.63333
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    - Frame: 38
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: eb004514464cb8a4799011ca40625557, type: 2}

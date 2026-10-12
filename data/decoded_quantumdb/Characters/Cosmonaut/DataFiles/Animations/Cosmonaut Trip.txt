@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut Trip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut Trip
+      Guid:
+        Value: 4487647312462799796
+    ClipIndex: 36
+    ClipName:
+      Value: Trip
+      Hash: -389377314
+    Duration: 0.64999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e110076d90c76784cb2e3cb316ebf697, type: 2}

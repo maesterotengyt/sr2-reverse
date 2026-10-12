@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Self Explode_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Self Explode
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Rocket/DataFiles/States/Active/Behaviours/Go To Self Explode_ChangeState Behaviour
+      Guid:
+        Value: 2122707648729796714
+    Enabled: 1
+    HasConditions: 1
+    LogicalOperator: 0
+    Conditions:
+    - Target:
+        TargetEntity: 11
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 6
+        SourceVariableIndex: 2
+        FloatValue: 0
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions:
+        - Frames: 1
+          ActionType: 0
+          State: 3
+          Button: 32
+          Direction: 0
+          UseFacingDirection: 0
+          DirectionOverrides: 0
+          Deadzone: 0
+          DetectionThreshold: 0
+          MinAngle: 0
+          MaxAngle: 0
+          OutputValue: 1
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Value:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      Comparer: 3
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Self Explode
+        Hash: 938917502
+      TransitionFrames: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopFlyLoopSFXStopSFX Behaviour
+  Notes:
+  EditorName: StopFlyLoopSFX
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Rocket/DataFiles/States/Self Explode/Behaviours/StopFlyLoopSFXStopSFX Behaviour
+      Guid:
+        Value: 808905262427544855
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/Items/RocketFly

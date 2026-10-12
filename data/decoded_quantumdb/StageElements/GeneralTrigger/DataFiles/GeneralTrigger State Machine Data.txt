@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GeneralTrigger State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/GeneralTrigger/DataFiles/GeneralTrigger State Machine Data
+      Guid:
+        Value: 817355611231084068
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: Limiter
+        Hash: -188615770
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 689560315473611405
+    - Id:
+        Value: 2944262464908507175
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

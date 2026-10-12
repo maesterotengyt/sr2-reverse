@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut Taunt
+      Guid:
+        Value: 4456983879359379201
+    ClipIndex: 35
+    ClipName:
+      Value: Taunt
+      Hash: -1374391527
+    Duration: 4
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 0a5f5ca41ca59aa43b7a4fb617b29849, type: 2}

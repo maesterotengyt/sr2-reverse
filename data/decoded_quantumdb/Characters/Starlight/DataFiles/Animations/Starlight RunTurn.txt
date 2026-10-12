@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight RunTurn
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight RunTurn
+      Guid:
+        Value: 1880004993915310507
+    ClipIndex: 30
+    ClipName:
+      Value: RunTurn
+      Hash: -1225278200
+    Duration: 0.46666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e6cf54500bd9c844f9523bd78bcfeba3, type: 2}

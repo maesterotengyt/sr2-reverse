@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SlopeDown Template Prefab VariantEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/EndlessPlataform/Costumes/SlopeDown Template Prefab Variant|EntityPrototype
+      Guid:
+        Value: 4358371233829182270
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: ff1073805164c534abb36ea6447e5e54, type: 2}

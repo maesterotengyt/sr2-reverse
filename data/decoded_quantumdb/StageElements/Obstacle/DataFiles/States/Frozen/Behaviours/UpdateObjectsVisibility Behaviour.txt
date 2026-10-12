@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: UpdateObjectsVisibility Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Obstacle/DataFiles/States/Frozen/Behaviours/UpdateObjectsVisibility Behaviour
+      Guid:
+        Value: 2471985867485735521
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    ObjectsVisibilityData:
+    - RigID:
+        Value:
+        Hash: 0
+      ObjectID:
+        Value: ActiveVisuals
+        Hash: 1017745460
+      Visibility: 1
+      HasConditions: 0
+      LogicalOperator: 0
+      Conditions: []
+    - RigID:
+        Value:
+        Hash: 0
+      ObjectID:
+        Value: InactiveVisuals
+        Hash: 1111682327
+      Visibility: 0
+      HasConditions: 0
+      LogicalOperator: 0
+      Conditions: []
+    - RigID:
+        Value:
+        Hash: 0
+      ObjectID:
+        Value: Outline
+        Hash: 1844400375
+      Visibility: 0
+      HasConditions: 0
+      LogicalOperator: 0
+      Conditions: []

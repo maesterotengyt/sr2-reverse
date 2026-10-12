@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull Land
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull Land
+      Guid:
+        Value: 2065776760105995379
+    ClipIndex: 24
+    ClipName:
+      Value: Land
+      Hash: -2007922027
+    Duration: 0.34999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: b04fbd8ba11566b4190be5e7ded7d02b, type: 2}

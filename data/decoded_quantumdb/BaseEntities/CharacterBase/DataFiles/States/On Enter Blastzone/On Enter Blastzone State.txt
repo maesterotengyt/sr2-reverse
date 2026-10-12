@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Enter Blastzone State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/On Enter Blastzone/On Enter Blastzone State
+      Guid:
+        Value: 112376709354493132
+    Name:
+      Value: On Enter Blastzone
+      Hash: -1162123629
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 374165689977301872
+      StateInheritedGroups: []

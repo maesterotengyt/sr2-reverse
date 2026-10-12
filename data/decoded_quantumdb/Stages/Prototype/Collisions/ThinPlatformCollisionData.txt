@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ThinPlatformCollisionData
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/Prototype/Collisions/ThinPlatformCollisionData
+      Guid:
+        Value: 658300506873341361
+    Vertices:
+    - X: 1.4
+      Y: 0.17
+    - X: -1.4
+      Y: 0.17
+    - X: -1.4
+      Y: -0.17
+    - X: 1.4
+      Y: -0.17
+    Normals:
+    - X: 0
+      Y: 1
+    - X: -1
+      Y: 0
+    - X: 0
+      Y: -1
+    - X: 1
+      Y: 0

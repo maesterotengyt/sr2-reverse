@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut MenuReadyIdle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut MenuReadyIdle
+      Guid:
+        Value: 4411280948620937945
+    ClipIndex: 25
+    ClipName:
+      Value: MenuReadyIdle
+      Hash: -1524527475
+    Duration: 8.5167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e5a620d51c1680c43bd6a486a882b6b3, type: 2}

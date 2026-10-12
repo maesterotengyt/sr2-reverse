@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic StartingPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/DataFiles/Animations/Unic StartingPose
+      Guid:
+        Value: 4449473351734553328
+    ClipIndex: 34
+    ClipName:
+      Value: StartingPose
+      Hash: 1785608743
+    Duration: 0.81667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 69c2d0819d7961c45b380e157a6c79c6, type: 2}

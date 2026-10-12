@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight RollLand
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight RollLand
+      Guid:
+        Value: 4104782509678970693
+    ClipIndex: 28
+    ClipName:
+      Value: RollLand
+      Hash: -395987798
+    Duration: 0.79999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 2a8a8662d94020c45840356c0169a704, type: 2}

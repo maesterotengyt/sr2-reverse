@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman Land
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Animations/Frogman Land
+      Guid:
+        Value: 283184794698450221
+    ClipIndex: 22
+    ClipName:
+      Value: Land
+      Hash: -2007922027
+    Duration: 0.34999
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    - Frame: 21
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 62e1e0594497df249ad4024af1297ea6, type: 2}

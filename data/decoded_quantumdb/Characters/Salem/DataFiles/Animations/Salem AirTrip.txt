@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem AirTrip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem AirTrip
+      Guid:
+        Value: 771561475594816791
+    ClipIndex: 1
+    ClipName:
+      Value: AirTrip
+      Hash: -1049965485
+    Duration: 0.58333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: fb254e497c9eeff4698848adc57eb0ab, type: 2}

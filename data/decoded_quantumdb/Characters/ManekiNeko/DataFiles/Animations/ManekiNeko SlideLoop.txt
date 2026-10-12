@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko SlideLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko SlideLoop
+      Guid:
+        Value: 1619555880785621276
+    ClipIndex: 31
+    ClipName:
+      Value: SlideLoop
+      Hash: 1745144848
+    Duration: 0.16666
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    - Frame: 10
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 7a7d8a0b7a9a1d64f91f7bc8b95281dc, type: 2}

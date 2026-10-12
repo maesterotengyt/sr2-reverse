@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Idle Alt_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Idle Alt
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Idle/Behaviours/Go To Idle Alt_ChangeState Behaviour
+      Guid:
+        Value: 1185462259737895045
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: Check Idle Alt
+      Hash: -1466924374
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Idle Alt
+        Hash: 1382492986
+      TransitionFrames: 0

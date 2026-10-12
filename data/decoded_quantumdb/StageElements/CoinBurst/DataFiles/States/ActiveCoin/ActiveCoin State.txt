@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ActiveCoin State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/CoinBurst/DataFiles/States/ActiveCoin/ActiveCoin State
+      Guid:
+        Value: 1185544220901480466
+    Name:
+      Value: ActiveCoin
+      Hash: -652770807
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3187449069912417527
+      - Id:
+          Value: 2128170984189643539
+      - Id:
+          Value: 814641018511574958
+      - Id:
+          Value: 2160907063295149875
+      - Id:
+          Value: 1849075821410330579
+      - Id:
+          Value: 4164070165748042582
+      StateInheritedGroups:
+      - Name:
+          Value: On Charater Enter
+          Hash: 1509537467
+        EventToReact: 28
+        HasConditions: 1
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 10
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 26
+            SourceVariableIndex: 1
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0

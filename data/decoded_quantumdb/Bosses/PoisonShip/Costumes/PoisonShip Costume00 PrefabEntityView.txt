@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PoisonShip Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Costumes/PoisonShip Costume00 Prefab|EntityView
+      Guid:
+        Value: 618545384752940152
+  Parent: {fileID: 114825818419884204, guid: dcbdc3f0dbc245444aa61f5a54beb0ee, type: 2}

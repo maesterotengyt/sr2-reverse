@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon JumpForward
+      Guid:
+        Value: 3025801882903943064
+    ClipIndex: 18
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.25
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 23b0f02830f61b54fbc29c5bfc2d26b7, type: 2}

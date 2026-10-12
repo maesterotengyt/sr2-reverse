@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Tutorial_GoldenHook
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value:
+      Hash: 0
+    IdleState:
+      Value:
+      Hash: 0
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+  Settings_MechanicTutorialGameMode:
+    Identifier:
+      Path: QuantumDB/DataFiles/GameModes/ItemTutorials/Tutorial_GoldenHook
+      Guid:
+        Value: 1563181044343743744
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 1
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value: Entrance
+      Hash: 1408219545
+    IdleState:
+      Value: Idle
+      Hash: 1881327601
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+    LevelToLoad:
+      Value: AdvancedMechanicTutorial
+      Hash: 686610216
+    Sections:
+    - ID: Section 1
+      LayoutToLoad: GoldenHook1
+      GoalIDs:
+      - ID:
+          Value: GoldenHookSlideDodge
+          Hash: -580977781
+        LocalizationID: GoldenHookGoal1
+        RequiredNotificationsToComplete: 1
+      - ID:
+          Value: GoldenHookWallSlideDodge
+          Hash: 1946681887
+        LocalizationID: GoldenHookGoal2
+        RequiredNotificationsToComplete: 1
+      HurtEvents:
+        RestartOnFreeze: 0
+        RestartOnLethalObstacleHit: 0
+        RestartOnGoldenHookHit: 0
+      HasTimer: 0
+      TimerSeconds: 0
+      ActionOnTimerCompletion: 0
+      InitialMessage: GoldenHook1
+    InitialMessageSpeedModifier:
+      ID:
+        Value: TutorialStart
+        Hash: 1535270293
+      Multiplier: 0
+      AlterSimulation: 1
+      AlterEngine: 0
+    EndSlowDownSpeedModifier:
+      ID:
+        Value: InitialMessage
+        Hash: -1397298625
+      Multiplier: 0.2
+      AlterSimulation: 1
+      AlterEngine: 0

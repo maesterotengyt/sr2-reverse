@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BreakableGlass/DataFiles/States/Active/Active State
+      Guid:
+        Value: 2941540415945495681
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2998814835315389119
+      - Id:
+          Value: 4386131379767026737
+      - Id:
+          Value: 1817362289331051429
+      - Id:
+          Value: 559671042566918423
+      - Id:
+          Value: 4531641895716616960
+      StateInheritedGroups:
+      - Name:
+          Value: On Entity Enter
+          Hash: 698132363
+        EventToReact: 28
+        HasConditions: 1
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 10
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 26
+            SourceVariableIndex: 1
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 395695461
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0
+      - Name:
+          Value: Break
+          Hash: -844676746
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions:
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 2
+            SourceVariableIndex: 10
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 26
+            SourceVariableIndex: 1
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 395695461
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 0
+        - Target:
+            TargetEntity: 40
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 3
+            SourceVariableIndex: 58
+            FloatValue: 0
+            ParameterID:
+              Value:
+              Hash: 0
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Value:
+            TargetEntity: 0
+            TargetIndexParameterID:
+              Value:
+              Hash: 0
+            Source: 0
+            SourceVariableIndex: 0
+            FloatValue: 21
+            ParameterID:
+              Value:
+              Hash: 395695461
+            PrerequisiteEvaluation: 0
+            InputActions: []
+            InputPrerequisites: []
+            SelectedStatusEffectType: 0
+            IgnoreOriginEntity: 0
+            OriginEntity: 0
+            OriginIndexParameterID:
+              Value:
+              Hash: 0
+            Inputs: []
+          Comparer: 2

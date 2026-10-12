@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem JumpForward
+      Guid:
+        Value: 2254554414068849476
+    ClipIndex: 19
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.3
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: b53ab90c17d7eb547afd9b2cd8e6f55b, type: 2}

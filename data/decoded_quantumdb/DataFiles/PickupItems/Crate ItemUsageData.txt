@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Crate ItemUsageData
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/PickupItems/Crate ItemUsageData
+      Guid:
+        Value: 4149387939055055111
+    Usages:
+    - Action: 0
+      ItemUseActiveFrames: 0
+      SFXToPlay: []
+      TargetState:
+        Value:
+        Hash: 0
+      GameEntity:
+        Id:
+          Value: 211698148875958263
+      CheckCollisionsInBetween: 1
+      XPosition:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: -1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      YPosition:
+        TargetEntity: 0
+        TargetIndexParameterID:
+          Value:
+          Hash: 0
+        Source: 0
+        SourceVariableIndex: 0
+        FloatValue: 1
+        ParameterID:
+          Value:
+          Hash: 0
+        PrerequisiteEvaluation: 0
+        InputActions: []
+        InputPrerequisites: []
+        SelectedStatusEffectType: 0
+        IgnoreOriginEntity: 0
+        OriginEntity: 0
+        OriginIndexParameterID:
+          Value:
+          Hash: 0
+        Inputs: []
+      PositionRelativeToSpawner: 1
+      UseSpawnerFacingDirection: 0
+    ButtonUseMode: 0
+    ChargePowerIncreaseSpeed: 1
+    AutoUseOnFullCharge: 0
+    HasInfiniteUses: 0

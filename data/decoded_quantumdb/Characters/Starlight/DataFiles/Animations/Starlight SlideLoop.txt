@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight SlideLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight SlideLoop
+      Guid:
+        Value: 189255540789285403
+    ClipIndex: 33
+    ClipName:
+      Value: SlideLoop
+      Hash: 1745144848
+    Duration: 0.14999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d5e0acabbbb01ae40828518db89767ae, type: 2}

@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Rocket Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Rocket/Costumes/Rocket Costume00 Prefab|EntityView
+      Guid:
+        Value: 2346397289127341445
+  Parent: {fileID: 114243736805655561, guid: 6460b50b3292cf94d9a4395393f8d03d, type: 2}

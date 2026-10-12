@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead Template PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/Costumes/Hothead Template Prefab|EntityView
+      Guid:
+        Value: 2744196365654529714
+  Parent: {fileID: 114642988549198181, guid: ccc839779b49cf24ab09f95b222f5163, type: 2}

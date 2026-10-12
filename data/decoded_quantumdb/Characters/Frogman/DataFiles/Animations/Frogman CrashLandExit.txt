@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman CrashLandExit
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Animations/Frogman CrashLandExit
+      Guid:
+        Value: 496719231135045990
+    ClipIndex: 3
+    ClipName:
+      Value: CrashLandExit
+      Hash: 36187029
+    Duration: 0.39999
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    - Frame: 24
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 74c61c69619e6c040963a15b845b1ec3, type: 2}

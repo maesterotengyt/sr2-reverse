@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/Projectiles/EnergyBall/DataFiles/States/Active/Active State
+      Guid:
+        Value: 697571552478387027
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3520199683263213933
+      - Id:
+          Value: 4294749540803541614
+      - Id:
+          Value: 4256224780762246409
+      - Id:
+          Value: 1253129273702238840
+      - Id:
+          Value: 481069160512886220
+      - Id:
+          Value: 2634388235542857930
+      - Id:
+          Value: 1966625783286748286
+      - Id:
+          Value: 1509976787704220237
+      - Id:
+          Value: 624920706536170625
+      StateInheritedGroups:
+      - Name:
+          Value: Destroy
+          Hash: 785740353
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Floor
+          Hash: -894204328
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Ceiling
+          Hash: -24246483
+        EventToReact: 21
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Left Wall
+          Hash: -435770770
+        EventToReact: 22
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Right Wall
+          Hash: -222720839
+        EventToReact: 23
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

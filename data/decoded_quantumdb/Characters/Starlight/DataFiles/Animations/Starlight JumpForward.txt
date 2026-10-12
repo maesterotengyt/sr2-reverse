@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight JumpForward
+      Guid:
+        Value: 1965364708164862658
+    ClipIndex: 19
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.2167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 7337cd5368b94a446a398bd342fc3296, type: 2}

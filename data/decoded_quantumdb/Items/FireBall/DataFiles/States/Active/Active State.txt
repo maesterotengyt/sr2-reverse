@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FireBall/DataFiles/States/Active/Active State
+      Guid:
+        Value: 2770266467332452818
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3195982387417963555
+      - Id:
+          Value: 850217043301249752
+      - Id:
+          Value: 4041896887236220868
+      - Id:
+          Value: 2773155073793714882
+      - Id:
+          Value: 3713212651759591030
+      - Id:
+          Value: 3017870327833155784
+      - Id:
+          Value: 3065526456074047325
+      - Id:
+          Value: 2567521427950563569
+      - Id:
+          Value: 2552098013031611074
+      - Id:
+          Value: 1345062208186586056
+      - Id:
+          Value: 238904623131540962
+      - Id:
+          Value: 4083444895322442780
+      - Id:
+          Value: 1669548134837696640
+      - Id:
+          Value: 2005477378299997690
+      - Id:
+          Value: 163957225172824174
+      - Id:
+          Value: 444984844465572115
+      - Id:
+          Value: 2662678085325488876
+      - Id:
+          Value: 1335577521855249667
+      - Id:
+          Value: 324389055710124417
+      - Id:
+          Value: 1317031493063910479
+      - Id:
+          Value: 3205842437084941509
+      - Id:
+          Value: 1463122077297363228
+      - Id:
+          Value: 806730600777648861
+      - Id:
+          Value: 2118157174435040914
+      - Id:
+          Value: 2290931978491830081
+      - Id:
+          Value: 2922076271573020783
+      - Id:
+          Value: 2230409341727126751
+      StateInheritedGroups:
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Touch Floor
+          Hash: 552812971
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Leave Floor
+          Hash: -492474547
+        EventToReact: 24
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On End Up Slope
+          Hash: -131563617
+        EventToReact: 34
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hurt
+          Hash: -708559012
+        EventToReact: 11
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Reflect
+          Hash: 559726596
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: PortalVFX
+          Hash: 1505814473
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

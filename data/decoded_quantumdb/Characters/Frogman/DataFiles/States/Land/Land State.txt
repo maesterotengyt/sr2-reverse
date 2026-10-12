@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Land State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/States/Land/Land State
+      Guid:
+        Value: 4156614181160086930
+    Name:
+      Value: Land
+      Hash: -2007922027
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4009938609434969101
+      - Id:
+          Value: 1819008279072348322
+      - Id:
+          Value: 1478690807596649334
+      - Id:
+          Value: 3345204355932074358
+      - Id:
+          Value: 2140164692208957376
+      - Id:
+          Value: 1358560694487085351
+      - Id:
+          Value: 522209036765509382
+      - Id:
+          Value: 3390056497499360330
+      - Id:
+          Value: 1015127245366521421
+      - Id:
+          Value: 2851629094361605429
+      - Id:
+          Value: 1187226032685200799
+      - Id:
+          Value: 4104520593684331028
+      - Id:
+          Value: 2505774554604340284
+      - Id:
+          Value: 1757403263921968284
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation End
+          Hash: -154464824
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

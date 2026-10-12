@@ -1,0 +1,504 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SimulationConfig
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/SimulationConfig
+      Guid:
+        Value: 5
+    Navigation:
+      DefaultNavMeshAgent:
+        Id:
+          Value: 0
+      EnableNavigationCallbacks: 0
+      HeightThresholdForWaypoints: 1
+      HeightThresholdForAvoidance: 1
+      RawPathSize: 256
+      RawPathAllocationStrategy: 0
+      EnableAvoidance: 1
+      AvoidanceRange: 2
+      MaxAvoidanceCandidates: 64
+      VelocityObstacleTruncationFactor: 1.1
+    Physics:
+      Gravity:
+        X: 0
+        Y: -10
+        Z: 0
+      SolverType: 1
+      SolverIterations: 2
+      PositionSolverIterations: 2
+      UseJoints: 0
+      UseAngularVelocity: 0
+      UseVerticalTransform: 1
+      PenetrationAllowance: 0.0099945
+      PenetrationCorrection: 0.5
+      MinLinearIntegration: 0
+      MinAngularIntegration: 0
+      SimplexMinBitShift: 0
+      SimplexMaxBitShift: 2
+      ShapeCastMaxIterations: 16
+      ShapeCastHardTolerance: 0.0099945
+      ShapeCastSoftTolerance: 0.049973
+      AllowSleeping: 1
+      SleepTimeSec: 0.5
+      LinearSleepTolerance: 0.019989
+      AngularSleepToleranceInRad: 0.034882
+      AllowCCD: 0
+      CCDLinearVelocityThreshold: 3
+      CCDAngularVelocityThreshold: 3
+      CCDDistanceTolerance: 0.00099182
+      MaxTimeOfImpactIterations: 16
+      MaxRootFindingIterations: 32
+      DefaultEntriesCapacity: 512
+      DefaultStaticsCapacity: 256
+      DefaultQueriesCapacity: 1024
+      DefaultQueryItemsCapacity: 1024
+      DefaultHitCollectionItemsCapacity: 32
+      DefaultBucketsCapacity: 16
+      DefaultIslandsCapacity: 512
+      DefaultManifoldsCapacity: 512
+      DefaultJointsCapacity: 32
+      DefaultPhysicsMaterial:
+        Id:
+          Value: 2293312225436676055
+      DefaultCharacterController2D:
+        Id:
+          Value: 0
+      DefaultCharacterController3D:
+        Id:
+          Value: 0
+      Layers:
+      - Default
+      - TransparentFX
+      - Ignore Raycast
+      - Character
+      - Water
+      - UI
+      - Stage
+      - ThinPlatform
+      - Wall
+      - Ceiling
+      - TrapDoor
+      - UINoPost
+      - BlastzoneEffects
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      LayerMatrix: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    Entities:
+      CommitCommandsMode: 0
+      DefaultEntityCapacity: 1024
+      DefaultComponentBlockCapacity: 128
+      ComponentTypeConfiguration: []
+    AutoLoadSceneFromMap: 0
+    DeltaTimeType: 0
+    ThreadCount: 3
+    ChecksumSnapshotHistoryLengthSeconds: 3
+    ChecksumErrorDumpOptions: 0
+    HeapTrackingMode: 0
+    HeapPageShift: 14
+    HeapPageCount: 256
+    HeapExtraCount: 0
+    SpeedRunnerSettings:
+      Id:
+        Value: 1226702109004107789
+    PickupItemUsageDatas:
+    - ID:
+        Value: Crate
+        Hash: 496717454
+      Data:
+        Id:
+          Value: 4149387939055055111
+    - ID:
+        Value: TripleCrate
+        Hash: 1848007544
+      Data:
+        Id:
+          Value: 3060151934787330154
+    - ID:
+        Value: RemoteBomb
+        Hash: 804126721
+      Data:
+        Id:
+          Value: 2390569965900767630
+    - ID:
+        Value: GoldenHook
+        Hash: 213605700
+      Data:
+        Id:
+          Value: 2443605265615038271
+    - ID:
+        Value: FreezeRay
+        Hash: -426422639
+      Data:
+        Id:
+          Value: 706330089065152197
+    - ID:
+        Value: InviciDrill
+        Hash: 2035815660
+      Data:
+        Id:
+          Value: 3317691421382155353
+    - ID:
+        Value: Rocket
+        Hash: -597229876
+      Data:
+        Id:
+          Value: 1485441004078509242
+    - ID:
+        Value: FireBall
+        Hash: 265392035
+      Data:
+        Id:
+          Value: 240538795431698995
+    - ID:
+        Value: Shockwave
+        Hash: 711611806
+      Data:
+        Id:
+          Value: 4240678492827438286
+    - ID:
+        Value: Triple Rocket
+        Hash: 71214638
+      Data:
+        Id:
+          Value: 2817493874028970771
+    - ID:
+        Value: HazardFire
+        Hash: -2093924702
+      Data:
+        Id:
+          Value: 4346519022818829975
+    - ID:
+        Value: HazardIce
+        Hash: 503911474
+      Data:
+        Id:
+          Value: 708780059362638886
+    - ID:
+        Value: HazardRocket
+        Hash: -1542506156
+      Data:
+        Id:
+          Value: 2416361122635163854
+    - ID:
+        Value: HazardLaser
+        Hash: 155073449
+      Data:
+        Id:
+          Value: 1455226659722602366
+    - ID:
+        Value: PlasmaBlaster
+        Hash: -1248700181
+      Data:
+        Id:
+          Value: 2006816878485137876
+    - ID:
+        Value: LightningWatch
+        Hash: -1156851578
+      Data:
+        Id:
+          Value: 998209130154535104
+    NPCSettingsData:
+      Id:
+        Value: 2044787326460523361
+    CharacterDatas:
+    - CharacterID:
+        Value: CharacterBase
+        Hash: -1385897878
+      Data:
+        Id:
+          Value: 252206280127534507
+    - CharacterID:
+        Value: SpeedRunner
+        Hash: -1821447590
+      Data:
+        Id:
+          Value: 3979018338757730538
+    - CharacterID:
+        Value: Hothead
+        Hash: -47909766
+      Data:
+        Id:
+          Value: 2646556384600073102
+    - CharacterID:
+        Value: Moonraker
+        Hash: 858134545
+      Data:
+        Id:
+          Value: 1047994337785264195
+    - CharacterID:
+        Value: Unic
+        Hash: 1625065441
+      Data:
+        Id:
+          Value: 1134629947303348688
+    - CharacterID:
+        Value: Cosmonaut
+        Hash: -1487900146
+      Data:
+        Id:
+          Value: 1865781302080127099
+    - CharacterID:
+        Value: Falcon
+        Hash: -1822305374
+      Data:
+        Id:
+          Value: 1049956670487905072
+    - CharacterID:
+        Value: ManekiNeko
+        Hash: 1902119793
+      Data:
+        Id:
+          Value: 918452037666206211
+    - CharacterID:
+        Value: Frogman
+        Hash: 623667775
+      Data:
+        Id:
+          Value: 3731467597804584033
+    - CharacterID:
+        Value: Salem
+        Hash: 1685197089
+      Data:
+        Id:
+          Value: 2977870043693958218
+    - CharacterID:
+        Value: Skull
+        Hash: -463543801
+      Data:
+        Id:
+          Value: 2676298882065527839
+    - CharacterID:
+        Value: Vamp
+        Hash: -282277623
+      Data:
+        Id:
+          Value: 3000629338447448201
+    - CharacterID:
+        Value: Starlight
+        Hash: 1712018379
+      Data:
+        Id:
+          Value: 3185794103620162174
+    GameModes:
+    - GameModeID:
+        Value: Testing
+        Hash: -147550366
+      GameModeAsset:
+        Id:
+          Value: 1695107280117404060
+    - GameModeID:
+        Value: Race
+        Hash: -111860242
+      GameModeAsset:
+        Id:
+          Value: 2328864973786013180
+    - GameModeID:
+        Value: RaceTutorial
+        Hash: -352148231
+      GameModeAsset:
+        Id:
+          Value: 2382794596873189725
+    - GameModeID:
+        Value: PlatformFight
+        Hash: -1509457749
+      GameModeAsset:
+        Id:
+          Value: 2048769399552085000
+    - GameModeID:
+        Value: LapsRace
+        Hash: -160807509
+      GameModeAsset:
+        Id:
+          Value: 1896367613675838970
+    - GameModeID:
+        Value: Collectors
+        Hash: -1499054089
+      GameModeAsset:
+        Id:
+          Value: 1291987349420577125
+    - GameModeID:
+        Value: BuildingSpeedTutorial
+        Hash: -1846781674
+      GameModeAsset:
+        Id:
+          Value: 897571623806345756
+    - GameModeID:
+        Value: MaintainingSpeedTutorial
+        Hash: 2014375558
+      GameModeAsset:
+        Id:
+          Value: 3920485310774174593
+    - GameModeID:
+        Value: SwitchingDirectionsTutorial
+        Hash: -1048442743
+      GameModeAsset:
+        Id:
+          Value: 3183097211516872163
+    - GameModeID:
+        Value: ClimbingWallsTutorial
+        Hash: -780020698
+      GameModeAsset:
+        Id:
+          Value: 3268245492602022522
+    - GameModeID:
+        Value: CratesAndBombsTutorial
+        Hash: 917271570
+      GameModeAsset:
+        Id:
+          Value: 3241010157492848600
+    - GameModeID:
+        Value: GoldenHookTutorial
+        Hash: 1543800433
+      GameModeAsset:
+        Id:
+          Value: 1563181044343743744
+    - GameModeID:
+        Value: FreezeRayTutorial
+        Hash: 317804669
+      GameModeAsset:
+        Id:
+          Value: 2802933682607732716
+    - GameModeID:
+        Value: RocketTutorial
+        Hash: 1168792530
+      GameModeAsset:
+        Id:
+          Value: 3030176273834108562
+    - GameModeID:
+        Value: FireBallTutorial
+        Hash: -1398165558
+      GameModeAsset:
+        Id:
+          Value: 3271389573769581761
+    - GameModeID:
+        Value: ShockwaveTutorial
+        Hash: 1729381439
+      GameModeAsset:
+        Id:
+          Value: 968971353512057184
+    - GameModeID:
+        Value: Training
+        Hash: -1109253482
+      GameModeAsset:
+        Id:
+          Value: 4478029160418182124
+    - GameModeID:
+        Value: TimedRace
+        Hash: 1884903588
+      GameModeAsset:
+        Id:
+          Value: 3023005988650386272
+    - GameModeID:
+        Value: Tournament
+        Hash: 450843038
+      GameModeAsset:
+        Id:
+          Value: 3389492642283250221
+    - GameModeID:
+        Value: HazardsRace
+        Hash: -854136735
+      GameModeAsset:
+        Id:
+          Value: 4009673297355560989
+    - GameModeID:
+        Value: CampaignRace
+        Hash: 1922244331
+      GameModeAsset:
+        Id:
+          Value: 1514932336760762948
+    - GameModeID:
+        Value: EscapeRoom
+        Hash: -1585697950
+      GameModeAsset:
+        Id:
+          Value: 4409015462843153587
+    - GameModeID:
+        Value: BossFight
+        Hash: 1100369909
+      GameModeAsset:
+        Id:
+          Value: 3100408541917284711
+    - GameModeID:
+        Value: EndlessFrog
+        Hash: 1434477619
+      GameModeAsset:
+        Id:
+          Value: 402271164025550110
+    - GameModeID:
+        Value: EndlessFalcon
+        Hash: -2059140519
+      GameModeAsset:
+        Id:
+          Value: 4197098479243945011
+    - GameModeID:
+        Value: CampaignLapsRace
+        Hash: -1147378362
+      GameModeAsset:
+        Id:
+          Value: 1491610698730368472
+    - GameModeID:
+        Value: CampaignHazardsRace
+        Hash: 1617489047
+      GameModeAsset:
+        Id:
+          Value: 791842581808388070
+    GroundLayers:
+    - LayerIndex: 6
+    - LayerIndex: 10
+    - LayerIndex: 8
+    - LayerIndex: 9
+    ThinPlatformLayers:
+    - LayerIndex: 7
+    DefaultCollisionLayer:
+    - LayerIndex: 6
+    - LayerIndex: 10
+    - LayerIndex: 8
+    - LayerIndex: 9
+    DynamicObjectLayers:
+    - LayerIndex: 10
+    SurfaceTypes:
+    - SurfaceType: 0
+      PhysicsMaterialAsset:
+        Id:
+          Value: 2293312225436676055
+    - SurfaceType: 4
+      PhysicsMaterialAsset:
+        Id:
+          Value: 3428734356037246942
+    ComputeRedirectsAndReflects: 0
+    ComputeHitBoxAgainstHitBox: 0
+    GameplayInputSettingsData:
+      Id:
+        Value: 4398946954931176398
+    CombatSettingsData:
+      Id:
+        Value: 2804128894662736424
+    DefaultNPCPlayerSettings:
+      Id:
+        Value: 2425452548036182945
+    GameSpeedModifiersData:
+      Id:
+        Value: 1078415760095649943
+    StatusEffectsData:
+      Id:
+        Value: 0

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Jump State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Jump/Jump State
+      Guid:
+        Value: 292553055046912900
+    Name:
+      Value: Jump
+      Hash: -1061763892
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1914197960271871136
+      - Id:
+          Value: 2932721549587449807
+      - Id:
+          Value: 3927662520814917803
+      - Id:
+          Value: 633444051847013763
+      - Id:
+          Value: 4368190798969132641
+      - Id:
+          Value: 76599385139589669
+      - Id:
+          Value: 852470056246867493
+      - Id:
+          Value: 2082284668530186692
+      - Id:
+          Value: 583266885317730452
+      - Id:
+          Value: 733262508093352464
+      - Id:
+          Value: 3076888617696863153
+      - Id:
+          Value: 184342379684015965
+      - Id:
+          Value: 1174916597977969114
+      - Id:
+          Value: 3334318623100604363
+      - Id:
+          Value: 2140670140992574112
+      - Id:
+          Value: 3837115714132862929
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation Finished
+          Hash: -1167156220
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Touch Floor
+          Hash: 552812971
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

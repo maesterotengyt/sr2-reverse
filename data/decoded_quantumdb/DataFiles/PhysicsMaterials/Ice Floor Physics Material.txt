@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Ice Floor Physics Material
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/PhysicsMaterials/Ice Floor Physics Material
+      Guid:
+        Value: 3428734356037246942
+    Restitution: 0.099991
+    RestitutionCombineFunction: 4
+    FrictionStatic: 0.099991
+    FrictionDynamic: 0.099991
+    FrictionCombineFunction: 4

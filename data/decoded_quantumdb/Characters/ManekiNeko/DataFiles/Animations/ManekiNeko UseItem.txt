@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko UseItem
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko UseItem
+      Guid:
+        Value: 3371311815685405486
+    ClipIndex: 37
+    ClipName:
+      Value: UseItem
+      Hash: -273697329
+    Duration: 0.2
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    - Frame: 12
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 09dbbb19ad2d1a147a27fb578aaa5877, type: 2}

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: RemoteBomb Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/RemoteBomb/Costumes/RemoteBomb Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 1655476257016300343
+    Container: {}
+  Parent: {fileID: 114025901758691103, guid: b12dc7cffd3b15b4b9de3887abf4fc99, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner GoldenHookStart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner GoldenHookStart
+      Guid:
+        Value: 435753981746555294
+    ClipIndex: 11
+    ClipName:
+      Value: GoldenHookStart
+      Hash: -1264408990
+    Duration: 0.63333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a275d45e821d456479d863425af05fe1, type: 2}

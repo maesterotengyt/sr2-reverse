@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HazardFire Physics Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardFire/DataFiles/HazardFire Physics Data
+      Guid:
+        Value: 2251042876119660397
+    ECBPresets: []
+    Gravity: 75
+    FallSpeed: 60
+    AirSpeed: 18
+    AirAcceleration: 20
+    AirFriction: 0
+    AirExtraFrictionThresholdMax: 1
+    AirExtraFrictionThresholdMin: 1
+    AirExtraFrictionFactor: 1
+    WalkSlowSpeed: 80
+    WalkFastSpeed: 80
+    RunSpeed: 80
+    GroundAcceleration: 100
+    GroundFriction: 0
+    GroundExtraFrictionThresholdMax: 1
+    GroundExtraFrictionThresholdMin: 1
+    GroundExtraFrictionFactor: 1
+    MinWallNormal: 0.89999
+    MinSlopeNormal: 0.7
+    CrowdPushRadius: 0.45
+    CrowdPushMaxForce: 2
+    CrowdPushMinForce: 0.5
+    IgnoreThinPlatformCompletely: 0
+    MinDistanceToStandOnThinPlatform: 0.039993
+    KnockbackDecay: 22
+    Restitution: 0.85004
+    MinMagnitudeForBounce: 12
+    HitStunGravity: 32
+    HitStunFallSpeed: 10
+    HitStunAirFriction: 5
+    HitStunGroundFriction: 24
+    OnTouchFloorNotificationMode: 0
+    OnTouchFloorState:
+      Value:
+      Hash: 0
+    OnLeaveFloorNotificationMode: 0
+    OnLeaveFloorState:
+      Value:
+      Hash: 0
+    OnTouchLeftWallNotificationMode: 0
+    OnTouchLeftWallState:
+      Value:
+      Hash: 0
+    OnTouchRightWallNotificationMode: 0
+    OnTouchRightWallState:
+      Value:
+      Hash: 0
+    OnTouchCeilingNotificationMode: 0
+    OnTouchCeilingState:
+      Value:
+      Hash: 0
+    OnEnterBlastzoneNotificationMode: 0
+    OnEnterBlastzoneState:
+      Value:
+      Hash: 0

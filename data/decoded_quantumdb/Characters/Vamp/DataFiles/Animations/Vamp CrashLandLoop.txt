@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp CrashLandLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp CrashLandLoop
+      Guid:
+        Value: 1683873890883493737
+    ClipIndex: 5
+    ClipName:
+      Value: CrashLandLoop
+      Hash: -2064679997
+    Duration: 1.7
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 7a90c029766c1894981dd850e7b7dea8, type: 2}

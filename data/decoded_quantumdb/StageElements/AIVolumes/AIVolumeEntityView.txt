@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: AIVolumeEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/AIVolumes/AIVolume|EntityView
+      Guid:
+        Value: 4362766614203885239
+  Parent: {fileID: 114618682377417806, guid: dc5829382a5df1a438be055f05fd892a, type: 2}

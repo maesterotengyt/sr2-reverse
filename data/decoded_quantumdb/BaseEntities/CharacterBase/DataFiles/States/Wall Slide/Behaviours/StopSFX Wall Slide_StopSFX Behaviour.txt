@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopSFX Wall Slide_StopSFX Behaviour
+  Notes:
+  EditorName: StopSFX Wall Slide
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Wall Slide/Behaviours/StopSFX Wall Slide_StopSFX Behaviour
+      Guid:
+        Value: 2898494412375854103
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Leave Wall
+      Hash: -189065517
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/CharactersSFX/CharacterBase/Slide

@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Global Camera Settings Data Asset
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/StageBase/Global Camera Settings Data Asset
+      Guid:
+        Value: 3722464948448329465
+    FOV: 40
+    EntityMarginOffset: 1
+    HUDSaveSpaceMultiplier: 0

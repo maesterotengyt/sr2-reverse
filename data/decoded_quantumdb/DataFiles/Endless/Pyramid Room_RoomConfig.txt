@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Pyramid Room_RoomConfig
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/Endless/Pyramid Room_RoomConfig
+      Guid:
+        Value: 4050333944062384067
+    Entities:
+    - Prototype:
+        Id:
+          Value: 2424595101815919283
+      RelativePosition:
+        X: -0.25
+        Y: 8.27
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 480049861659409375
+      RelativePosition:
+        X: -10.25
+        Y: 4.52
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 480049861659409375
+      RelativePosition:
+        X: 10.25
+        Y: 4.52
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2418324105420699040
+      RelativePosition:
+        X: 0
+        Y: 2.97
+        Z: 0

@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Spike Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Spike/Costumes/Spike Costume00 Prefab|EntityView
+      Guid:
+        Value: 2276053311196589308
+  Parent: {fileID: 114587765826080250, guid: c2ef8703b80009b43b6b77e9f69665f3, type: 2}

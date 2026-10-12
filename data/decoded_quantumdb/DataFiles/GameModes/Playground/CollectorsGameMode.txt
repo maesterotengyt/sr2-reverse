@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CollectorsGameMode
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value:
+      Hash: 0
+    IdleState:
+      Value:
+      Hash: 0
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+  Settings_RaceGameMode:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value:
+      Hash: 0
+    IdleState:
+      Value:
+      Hash: 0
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+    WaitTimeBetweenRounds: 2
+    WaitTimeToReturnToMainMenu: 3
+    WaitTimeToShowBanners: 1
+    SlowdownTimeModifier:
+      ID:
+        Value: RaceEndSlowdown
+        Hash: -40346943
+      Multiplier: 0.2
+      AlterSimulation: 1
+      AlterEngine: 0
+  Settings_CollectorsGameMode:
+    Identifier:
+      Path: QuantumDB/DataFiles/GameModes/Playground/CollectorsGameMode
+      Guid:
+        Value: 1291987349420577125
+    BlastzoneActive: 0
+    CheckpointsActive: 1
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value: Entrance
+      Hash: 1408219545
+    IdleState:
+      Value: Idle
+      Hash: 1881327601
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+    WaitTimeBetweenRounds: 2
+    WaitTimeToReturnToMainMenu: 3
+    WaitTimeToShowBanners: 1
+    SlowdownTimeModifier:
+      ID:
+        Value: RaceEndSlowdown
+        Hash: -40346943
+      Multiplier: 0.2
+      AlterSimulation: 1
+      AlterEngine: 0
+    MatchTime: 240
+    TreasureSpawnRate: 4
+    MaxTreasures: 3
+    Treasures:
+    - Weight: 100
+      GameEntityData:
+        Id:
+          Value: 4356677038591582339
+      CostumeIndex: 0
+      Value: 5
+    - Weight: 50
+      GameEntityData:
+        Id:
+          Value: 4356677038591582339
+      CostumeIndex: 1
+      Value: 10
+    - Weight: 25
+      GameEntityData:
+        Id:
+          Value: 4356677038591582339
+      CostumeIndex: 2
+      Value: 25
+    - Weight: 20
+      GameEntityData:
+        Id:
+          Value: 1097009214216488601
+      CostumeIndex: 0
+      Value: 0
+    - Weight: 10
+      GameEntityData:
+        Id:
+          Value: 4356677038591582339
+      CostumeIndex: 3
+      Value: 50
+    AttackDatasToDropTreasures:
+    - AttackData:
+        Value: ObstacleHit
+        Hash: 630711795
+      FlipScores: 0
+      ScoreToLoseOnVictim: 2
+      ScoreToEarnOnInstigator: 1
+    - AttackData:
+        Value: RocketExplosion
+        Hash: -1676726146
+      FlipScores: 0
+      ScoreToLoseOnVictim: 16
+      ScoreToEarnOnInstigator: 8
+    - AttackData:
+        Value: RemoteBombImpulse
+        Hash: 302500974
+      FlipScores: 0
+      ScoreToLoseOnVictim: 16
+      ScoreToEarnOnInstigator: 8
+    - AttackData:
+        Value: FireBallHit
+        Hash: -988481172
+      FlipScores: 0
+      ScoreToLoseOnVictim: 16
+      ScoreToEarnOnInstigator: 8
+    - AttackData:
+        Value: Tackle
+        Hash: 1863316784
+      FlipScores: 0
+      ScoreToLoseOnVictim: 10
+      ScoreToEarnOnInstigator: 5
+    - AttackData:
+        Value: LethalObstacle
+        Hash: 1471389329
+      FlipScores: 0
+      ScoreToLoseOnVictim: 2
+      ScoreToEarnOnInstigator: 1
+    - AttackData:
+        Value: GoldenHook
+        Hash: 213605700
+      FlipScores: 1
+      ScoreToLoseOnVictim: 0
+      ScoreToEarnOnInstigator: 0

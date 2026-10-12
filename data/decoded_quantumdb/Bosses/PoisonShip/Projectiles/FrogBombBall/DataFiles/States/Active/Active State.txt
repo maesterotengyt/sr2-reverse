@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Projectiles/FrogBombBall/DataFiles/States/Active/Active State
+      Guid:
+        Value: 489853222176087567
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1559229554678169370
+      - Id:
+          Value: 2710476102977169612
+      - Id:
+          Value: 777477009341813667
+      - Id:
+          Value: 2689874164959918128
+      - Id:
+          Value: 628906063898024007
+      - Id:
+          Value: 1245269421872973657
+      - Id:
+          Value: 4174542423039377984
+      - Id:
+          Value: 672378523364010565
+      - Id:
+          Value: 1174420041134244409
+      - Id:
+          Value: 2869092897536722162
+      StateInheritedGroups:
+      - Name:
+          Value: Destroy
+          Hash: 785740353
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Floor
+          Hash: -894204328
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Ceiling
+          Hash: -24246483
+        EventToReact: 21
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Left Wall
+          Hash: -435770770
+        EventToReact: 22
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Touch Right Wall
+          Hash: -222720839
+        EventToReact: 23
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

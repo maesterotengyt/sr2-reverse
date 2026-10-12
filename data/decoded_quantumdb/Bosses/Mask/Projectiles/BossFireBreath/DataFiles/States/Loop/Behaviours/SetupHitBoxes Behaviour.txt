@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SetupHitBoxes Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/DataFiles/States/Loop/Behaviours/SetupHitBoxes Behaviour
+      Guid:
+        Value: 2439928455094586111
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    HitBoxes:
+    - ID:
+        Value: CenterUp
+        Hash: -1771246486
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 0
+          Y: 0
+      PointOffsets: []
+    - ID:
+        Value: Center
+        Hash: -188234652
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 0
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: L1
+        Hash: -1400998896
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: -4
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: L2
+        Hash: 1657936731
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: -8
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: L3
+        Hash: -1002460251
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: -12
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: L4
+        Hash: 1600335131
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: -16
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: L5
+        Hash: -1156645819
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: -20
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: R1
+        Hash: -734438716
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 4
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: R2
+        Hash: 577631110
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 8
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: R3
+        Hash: 1689420375
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 12
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: R4
+        Hash: 1949966848
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 16
+          Y: -4
+      PointOffsets: []
+    - ID:
+        Value: R5
+        Hash: -1458414098
+      StartFrame: 0
+      EndFrame: -1
+      Radius: 2
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: RocketExplosion
+        Hash: -1676726146
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 20
+          Y: -4
+      PointOffsets: []

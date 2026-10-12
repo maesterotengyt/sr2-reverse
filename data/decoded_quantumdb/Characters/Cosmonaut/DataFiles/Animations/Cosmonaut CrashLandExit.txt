@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut CrashLandExit
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut CrashLandExit
+      Guid:
+        Value: 3984125832396182299
+    ClipIndex: 3
+    ClipName:
+      Value: CrashLandExit
+      Hash: 36187029
+    Duration: 0.39999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: f64ad18f2433fcf479f1a15e76d38e74, type: 2}

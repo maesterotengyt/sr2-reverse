@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman GrappleSwingDown
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Animations/Frogman GrappleSwingDown
+      Guid:
+        Value: 4147427876665156713
+    ClipIndex: 13
+    ClipName:
+      Value: GrappleSwingDown
+      Hash: 740832053
+    Duration: 0.29999
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    - Frame: 18
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 706ad78de5403724a96d87381f63bd64, type: 2}

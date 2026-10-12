@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CheckpointEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Checkpoint/Checkpoint|EntityPrototype
+      Guid:
+        Value: 544101754784751105
+    Container: {}
+  Parent: {fileID: 114703437598541787, guid: 37178ab2c93d4da46a35bfa70cd4cdd0, type: 2}

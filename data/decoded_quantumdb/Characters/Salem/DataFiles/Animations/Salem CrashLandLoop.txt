@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem CrashLandLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem CrashLandLoop
+      Guid:
+        Value: 3654482109988118191
+    ClipIndex: 5
+    ClipName:
+      Value: CrashLandLoop
+      Hash: -2064679997
+    Duration: 1.6667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a12c33d08bc94a14d8a7077eaadc8f58, type: 2}

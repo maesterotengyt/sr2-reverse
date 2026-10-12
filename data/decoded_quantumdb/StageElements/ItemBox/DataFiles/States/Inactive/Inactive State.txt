@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Inactive State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/ItemBox/DataFiles/States/Inactive/Inactive State
+      Guid:
+        Value: 3788557928733313213
+    Name:
+      Value: Inactive
+      Hash: -200295523
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2365455474090005909
+      - Id:
+          Value: 2301741180072620455
+      - Id:
+          Value: 1986496278157804673
+      StateInheritedGroups: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull GrabbedGoldenHookEnd
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull GrabbedGoldenHookEnd
+      Guid:
+        Value: 733136036654116834
+    ClipIndex: 9
+    ClipName:
+      Value: GrabbedGoldenHookEnd
+      Hash: 1342586654
+    Duration: 0.71666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: cac7af46d4a8f514f93c5160c59aa192, type: 2}

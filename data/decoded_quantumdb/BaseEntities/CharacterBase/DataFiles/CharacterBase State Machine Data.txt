@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/CharacterBase State Machine Data
+      Guid:
+        Value: 2686411458687942432
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: BoostSpeed
+        Hash: 1928353524
+      Value: 28.125
+      Notes:
+    - Name:
+        Value: SpeedToRideDown
+        Hash: 145532527
+      Value: 18.75
+      Notes: Used to handle the transition from Run to Ride Down Slopes
+    - Name:
+        Value: IdleAirFromForcedJump
+        Hash: -2006998972
+      Value: 0
+      Notes: Used to determine if the idle air state was triggered by an external force instead of a jump
+    - Name:
+        Value: ShouldDoRoll
+        Hash: 580476591
+      Value: 0
+      Notes: Used to determine if the character should go to the Roll state after landing
+    - Name:
+        Value: ButtonPressesDuringFreeze
+        Hash: -2127201398
+      Value: 0
+      Notes: Used to determine if the player mashed buttons during the freeze state
+    - Name:
+        Value: SlideInvincibility
+        Hash: -1199621862
+      Value: 0
+      Notes: Makes the Character unaffected by the bomb
+    - Name:
+        Value: LastFootstepFrame
+        Hash: 1343398195
+      Value: 0
+      Notes: Used by the FootstepSFX behaviour to temporaly store the last frame used to play a sound
+    - Name:
+        Value: IsOnFire
+        Hash: -1601008314
+      Value: 0
+      Notes: Used for Burn VFX when hit by a fire attack data
+    States:
+    - Id:
+        Value: 975485894464276990
+    - Id:
+        Value: 292553055046912900
+    - Id:
+        Value: 3069393503496225749
+    - Id:
+        Value: 4305508024672507284
+    - Id:
+        Value: 3942966564375125290
+    - Id:
+        Value: 4051701930446447548
+    - Id:
+        Value: 3832968387025634890
+    - Id:
+        Value: 2787023056144337763
+    - Id:
+        Value: 2204866202017762194
+    - Id:
+        Value: 1890029445791531209
+    - Id:
+        Value: 973392766154492225
+    - Id:
+        Value: 1213965607444985589
+    - Id:
+        Value: 2711218316323231047
+    - Id:
+        Value: 1889904479543272821
+    - Id:
+        Value: 1993117245442951140
+    - Id:
+        Value: 1464519278706728388
+    - Id:
+        Value: 941109487278887338
+    - Id:
+        Value: 112376709354493132
+    - Id:
+        Value: 1045118921291758253
+    - Id:
+        Value: 142840961099725019
+    - Id:
+        Value: 343127655453626701
+    - Id:
+        Value: 3226958037362511678
+    - Id:
+        Value: 3860754376065366823
+    - Id:
+        Value: 1913515088487516703
+    - Id:
+        Value: 1056934686690318866
+    - Id:
+        Value: 4600402090914807917
+    - Id:
+        Value: 4287399439418156589
+    - Id:
+        Value: 179792285590128200
+    - Id:
+        Value: 4045619449174414623
+    - Id:
+        Value: 1911244296447535242
+    - Id:
+        Value: 1344146873855764317
+    - Id:
+        Value: 3869718665952593495
+    InitialState:
+      Value: Idle
+      Hash: 1881327601
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

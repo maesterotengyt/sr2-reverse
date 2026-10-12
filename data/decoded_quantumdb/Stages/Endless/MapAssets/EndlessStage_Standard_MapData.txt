@@ -1,0 +1,576 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: EndlessStage_Standard_MapData
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/Endless/MapAssets/EndlessStage_Standard_MapData
+      Guid:
+        Value: 3900807260853568685
+    UserAsset:
+      Id:
+        Value: 3900807260853568685
+    Scene: EndlessStage_Standard
+    ScenePath: Assets/Stages/Endless/Scenes/EndlessStage_Standard.unity
+    SceneGuid: a73df291dfe917b4c93c6a3178410e0a
+    WorldSize: 10240
+    BucketsCount: 16
+    BucketsSubdivisions: 8
+    BucketingAxis: 0
+    SortingAxis: 1
+    TriangleMeshCellSize: 4
+    StaticColliders3DTrianglesData:
+      Id:
+        Value: 3742196463885778898
+    OptionalTriangleMetadataSerializationEnabled: 1
+    SerializeTrianglesMetadata: 0
+    StaticColliders3DTrianglesBinaryFile:
+    GridSizeX: 2
+    GridSizeY: 2
+    GridNodeSize: 2
+    NavMeshLinks: []
+    Regions: []
+    StaticColliders2D: []
+    StaticColliders3D: []
+    MapEntities: []
+  Prototypes:
+  - AIVolume: []
+    BaseGameModeManager: []
+    Blastzone: []
+    BlastzoneTrigger: []
+    BossFightGameModeManager: []
+    BreakableGlass: []
+    CameraManager: []
+    CameraTarget: []
+    CampaignBoss: []
+    CampaignRaceGameModeManager: []
+    Checkpoint: []
+    CheckpointManager: []
+    CollectorCharacter: []
+    CollectorTreasure: []
+    CollectorsGameModeManager: []
+    CollectorsTreasureSpawnArea: []
+    Combat: []
+    CombatArmor: []
+    CombatBlock: []
+    CombatCharge: []
+    CombatDI: []
+    CombatDamage: []
+    CombatPoints: []
+    CombatStamina: []
+    CombatStocks: []
+    CombatTech: []
+    ContinuousRotation: []
+    CustomAnimator: []
+    DestroyEntitiesManager: []
+    DynamicStageElement: []
+    EdgeGrab: []
+    EndlessGameModeManager: []
+    EnergyBar: []
+    EntityModifier: []
+    EntityModifierTarget: []
+    EntityReferencesHandler: []
+    EscapeRoomGameModeManager: []
+    EscapeRoomGoalTrigger: []
+    FrameByFrame: []
+    FrogmanBossTongue: []
+    GameEntity: []
+    GameModeItemAutoTrigger: []
+    GameTimeManager: []
+    GoldenHook: []
+    Grab: []
+    HazardsRaceGameModeManager: []
+    InitialWaitTimer: []
+    InputBuffer: []
+    ItemAutoTrigger: []
+    ItemBox: []
+    Jump: []
+    KinematicBody: []
+    Laser: []
+    LayoutManager: []
+    MatchTimer: []
+    MechanicTutorialGameModeManager: []
+    MechanicTutorialGoalTrigger: []
+    Movable: []
+    MovesetLimiter: []
+    NonDeterministicAnimation: []
+    ParentObject: []
+    PartnersManager: []
+    PersistentEntity: []
+    PhysicsBody: []
+    PhysicsModifier: []
+    PlatformFightGameModeManager: []
+    PlayerManager: []
+    PlayerStats: []
+    RaceGameModeManager: []
+    RaceTutorialGameModeManager: []
+    RespawnPoint: []
+    Rocket: []
+    RocketLauncher: []
+    RoomMember: []
+    SecretRoomTrigger: []
+    Shockwave: []
+    SimpleLineRenderer: []
+    SpawnPoint:
+    - ID:
+      Order: 0
+      FacingDirection:
+        Value: 0
+      Position:
+        X: 0
+        Y: 0
+    SpeedRunnersBlastzone: []
+    SpeedRunnersCharacter: []
+    SpeedRunnersItem: []
+    SpeedRunnersNPC: []
+    Spike: []
+    StageBounds: []
+    StageEdge: []
+    StageHazardSpawnArea: []
+    StageSFX: []
+    StageTimeline: []
+    StateMachine: []
+    Static:
+    - _empty_prototype_dummy_field_: 0
+    StaticRotation: []
+    StatusEffectsHolder: []
+    StatusEffectsModifiers: []
+    StellarCharacter: []
+    StellarNPC: []
+    SuperBoostVolume: []
+    Teams: []
+    TournamentGameModeManager: []
+    TrainingGameModeManager: []
+    TrapDoor: []
+    TrapDoorSwitch: []
+    Trigger: []
+    TriggerPolygonShape: []
+    TriggerSphereShape: []
+    VelocityModifier: []
+    VisibilitySource: []
+    VisibilityTarget: []
+    VisualShake: []
+    CharacterController2D: []
+    CharacterController3D: []
+    NavMeshAvoidanceAgent: []
+    NavMeshAvoidanceObstacle: []
+    NavMeshPathfinder: []
+    NavMeshSteeringAgent: []
+    PhysicsBody2D: []
+    PhysicsBody3D: []
+    PhysicsCollider2D: []
+    PhysicsCollider3D: []
+    PhysicsCallbacks2D: []
+    PhysicsCallbacks3D: []
+    Transform2D:
+    - Position:
+        X: 0
+        Y: -0.54999
+      Rotation: 0
+    Transform2DVertical: []
+    Transform3D: []
+    View: []
+    PhysicsJoints2D: []
+    PhysicsJoints3D: []
+  - AIVolume: []
+    BaseGameModeManager: []
+    Blastzone: []
+    BlastzoneTrigger: []
+    BossFightGameModeManager: []
+    BreakableGlass: []
+    CameraManager:
+    - Entity:
+        SceneIndexPlusOne: 0
+      Active:
+        Value: 1
+      ExcludeAsVisibilitySource:
+        Value: 1
+      CameraManagerData:
+        Id:
+          Value: 273930059560537319
+      GlobalSettingsData:
+        Id:
+          Value: 3722464948448329465
+      CameraRect:
+        TopLeft:
+          X: 0
+          Y: 0
+        BottomRight:
+          X: 0
+          Y: 0
+      Zoom: 0
+      LookAhead:
+        X: 0
+        Y: 0
+    CameraTarget: []
+    CampaignBoss: []
+    CampaignRaceGameModeManager: []
+    Checkpoint: []
+    CheckpointManager: []
+    CollectorCharacter: []
+    CollectorTreasure: []
+    CollectorsGameModeManager: []
+    CollectorsTreasureSpawnArea: []
+    Combat: []
+    CombatArmor: []
+    CombatBlock: []
+    CombatCharge: []
+    CombatDI: []
+    CombatDamage: []
+    CombatPoints: []
+    CombatStamina: []
+    CombatStocks: []
+    CombatTech: []
+    ContinuousRotation: []
+    CustomAnimator: []
+    DestroyEntitiesManager: []
+    DynamicStageElement: []
+    EdgeGrab: []
+    EndlessGameModeManager: []
+    EnergyBar: []
+    EntityModifier: []
+    EntityModifierTarget: []
+    EntityReferencesHandler: []
+    EscapeRoomGameModeManager: []
+    EscapeRoomGoalTrigger: []
+    FrameByFrame: []
+    FrogmanBossTongue: []
+    GameEntity: []
+    GameModeItemAutoTrigger: []
+    GameTimeManager: []
+    GoldenHook: []
+    Grab: []
+    HazardsRaceGameModeManager: []
+    InitialWaitTimer: []
+    InputBuffer: []
+    ItemAutoTrigger: []
+    ItemBox: []
+    Jump: []
+    KinematicBody: []
+    Laser: []
+    LayoutManager: []
+    MatchTimer: []
+    MechanicTutorialGameModeManager: []
+    MechanicTutorialGoalTrigger: []
+    Movable: []
+    MovesetLimiter: []
+    NonDeterministicAnimation: []
+    ParentObject: []
+    PartnersManager: []
+    PersistentEntity: []
+    PhysicsBody: []
+    PhysicsModifier: []
+    PlatformFightGameModeManager: []
+    PlayerManager: []
+    PlayerStats: []
+    RaceGameModeManager: []
+    RaceTutorialGameModeManager: []
+    RespawnPoint: []
+    Rocket: []
+    RocketLauncher: []
+    RoomMember: []
+    SecretRoomTrigger: []
+    Shockwave: []
+    SimpleLineRenderer: []
+    SpawnPoint: []
+    SpeedRunnersBlastzone: []
+    SpeedRunnersCharacter: []
+    SpeedRunnersItem: []
+    SpeedRunnersNPC: []
+    Spike: []
+    StageBounds: []
+    StageEdge: []
+    StageHazardSpawnArea: []
+    StageSFX: []
+    StageTimeline: []
+    StateMachine: []
+    Static: []
+    StaticRotation: []
+    StatusEffectsHolder: []
+    StatusEffectsModifiers: []
+    StellarCharacter: []
+    StellarNPC: []
+    SuperBoostVolume: []
+    Teams: []
+    TournamentGameModeManager: []
+    TrainingGameModeManager: []
+    TrapDoor: []
+    TrapDoorSwitch: []
+    Trigger: []
+    TriggerPolygonShape: []
+    TriggerSphereShape: []
+    VelocityModifier: []
+    VisibilitySource: []
+    VisibilityTarget: []
+    VisualShake: []
+    CharacterController2D: []
+    CharacterController3D: []
+    NavMeshAvoidanceAgent: []
+    NavMeshAvoidanceObstacle: []
+    NavMeshPathfinder: []
+    NavMeshSteeringAgent: []
+    PhysicsBody2D: []
+    PhysicsBody3D: []
+    PhysicsCollider2D: []
+    PhysicsCollider3D: []
+    PhysicsCallbacks2D: []
+    PhysicsCallbacks3D: []
+    Transform2D:
+    - Position:
+        X: 0
+        Y: 0
+      Rotation: 0
+    Transform2DVertical: []
+    Transform3D: []
+    View: []
+    PhysicsJoints2D: []
+    PhysicsJoints3D: []
+  - AIVolume: []
+    BaseGameModeManager: []
+    Blastzone: []
+    BlastzoneTrigger: []
+    BossFightGameModeManager: []
+    BreakableGlass: []
+    CameraManager: []
+    CameraTarget:
+    - Active:
+        Value: 1
+      Visible:
+        Value: 0
+      Entity:
+        SceneIndexPlusOne: 3
+      BaseFocusRect:
+        TopLeft:
+          X: -0.29999
+          Y: 1.4
+        BottomRight:
+          X: 0.29999
+          Y: 0
+      FocusRect:
+        TopLeft:
+          X: -2
+          Y: 3
+        BottomRight:
+          X: 2
+          Y: 1
+      Scale: 0
+      InterpolatePosition:
+        Value: 0
+      VerticalOffset: 1
+      ForwardDistance: 1.6
+      ForwardInterpolationSpeed: 25
+      ViewerIndexes:
+    CampaignBoss:
+    - BossID:
+        ByteCount: 34
+        Bytes: 460061006c0063006f006e0043006800690063006b0065006e00540061006e006b0061006e006b0000000000000000000000000000000000000000000000
+    CampaignRaceGameModeManager: []
+    Checkpoint: []
+    CheckpointManager: []
+    CollectorCharacter: []
+    CollectorTreasure: []
+    CollectorsGameModeManager: []
+    CollectorsTreasureSpawnArea: []
+    Combat: []
+    CombatArmor: []
+    CombatBlock: []
+    CombatCharge: []
+    CombatDI: []
+    CombatDamage: []
+    CombatPoints: []
+    CombatStamina:
+    - Stamina: 10
+      ExtraDamageForKnockback: 10
+      ExtraDamageForKnockbackFrames: 10
+    CombatStocks: []
+    CombatTech: []
+    ContinuousRotation: []
+    CustomAnimator: []
+    DestroyEntitiesManager: []
+    DynamicStageElement: []
+    EdgeGrab: []
+    EndlessGameModeManager: []
+    EnergyBar: []
+    EntityModifier: []
+    EntityModifierTarget: []
+    EntityReferencesHandler: []
+    EscapeRoomGameModeManager: []
+    EscapeRoomGoalTrigger: []
+    FrameByFrame: []
+    FrogmanBossTongue: []
+    GameEntity:
+    - EntityType:
+        Value: 0
+      ID: 0
+      Entity:
+        SceneIndexPlusOne: 0
+      GameEntityData:
+        Id:
+          Value: 927563717057907322
+      Owner:
+        SceneIndexPlusOne: 0
+      OriginalOwner:
+        SceneIndexPlusOne: 0
+      LastSpawned:
+        SceneIndexPlusOne: 0
+      Visible:
+        Value: 0
+      CostumeIndex: 0
+      FacingDirection: 0
+      SmoothRotationStart: 0
+      Rotation: 0
+      RootRotation: 0
+      Scale: 0
+      RotationPivot:
+        X: 0
+        Y: 0
+      ObjectsVisibility: []
+      SlotAttachments: []
+      UseTransform3D:
+        Value: 0
+      Position3D:
+        X: 0
+        Y: 0
+        Z: 0
+      Rotation3D:
+        X: 0
+        Y: 0
+        Z: 0
+      ActiveEntityTint: 0
+      ActiveGameplayTint: 0
+      ActiveStatusTint: 0
+      ActiveOverallTint: 0
+    GameModeItemAutoTrigger: []
+    GameTimeManager: []
+    GoldenHook: []
+    Grab: []
+    HazardsRaceGameModeManager: []
+    InitialWaitTimer: []
+    InputBuffer: []
+    ItemAutoTrigger: []
+    ItemBox: []
+    Jump: []
+    KinematicBody:
+    - Active:
+        Value: 1
+      Velocity:
+        X: 0
+        Y: 0
+    Laser: []
+    LayoutManager: []
+    MatchTimer: []
+    MechanicTutorialGameModeManager: []
+    MechanicTutorialGoalTrigger: []
+    Movable: []
+    MovesetLimiter: []
+    NonDeterministicAnimation: []
+    ParentObject: []
+    PartnersManager: []
+    PersistentEntity: []
+    PhysicsBody: []
+    PhysicsModifier: []
+    PlatformFightGameModeManager: []
+    PlayerManager: []
+    PlayerStats: []
+    RaceGameModeManager: []
+    RaceTutorialGameModeManager: []
+    RespawnPoint: []
+    Rocket: []
+    RocketLauncher: []
+    RoomMember: []
+    SecretRoomTrigger: []
+    Shockwave: []
+    SimpleLineRenderer:
+    - Entity:
+        SceneIndexPlusOne: 3
+      Visible:
+        Value: 0
+      PointA:
+        X: 0
+        Y: 0
+      PointB:
+        X: 0
+        Y: 0
+      PointARotationMode:
+        Value: 0
+      PointBRotationMode:
+        Value: 0
+    SpawnPoint: []
+    SpeedRunnersBlastzone: []
+    SpeedRunnersCharacter: []
+    SpeedRunnersItem: []
+    SpeedRunnersNPC: []
+    Spike: []
+    StageBounds: []
+    StageEdge: []
+    StageHazardSpawnArea: []
+    StageSFX: []
+    StageTimeline: []
+    StateMachine: []
+    Static: []
+    StaticRotation: []
+    StatusEffectsHolder: []
+    StatusEffectsModifiers: []
+    StellarCharacter: []
+    StellarNPC: []
+    SuperBoostVolume: []
+    Teams: []
+    TournamentGameModeManager: []
+    TrainingGameModeManager: []
+    TrapDoor: []
+    TrapDoorSwitch: []
+    Trigger: []
+    TriggerPolygonShape: []
+    TriggerSphereShape: []
+    VelocityModifier: []
+    VisibilitySource: []
+    VisibilityTarget: []
+    VisualShake: []
+    CharacterController2D: []
+    CharacterController3D: []
+    NavMeshAvoidanceAgent: []
+    NavMeshAvoidanceObstacle: []
+    NavMeshPathfinder: []
+    NavMeshSteeringAgent: []
+    PhysicsBody2D: []
+    PhysicsBody3D: []
+    PhysicsCollider2D:
+    - ShapeConfig:
+        ShapeType: 4
+        PolygonCollider:
+          Id:
+            Value: 0
+        CircleRadius: 0
+        EdgeExtent: 0
+        BoxExtents:
+          X: 5
+          Y: 1
+        PositionOffset:
+          X: 0
+          Y: 0.7
+        RotationOffset: 0
+        UserTag: 0
+        IsPersistent: 1
+        CompoundShapes: []
+        IsSetFromSourceCollider: 0
+      Layer: 6
+      IsTrigger: 0
+      PhysicsMaterial:
+        Id:
+          Value: 0
+    PhysicsCollider3D: []
+    PhysicsCallbacks2D:
+    - CallbackFlags:
+        Value: 0
+    PhysicsCallbacks3D: []
+    Transform2D:
+    - Position:
+        X: 19
+        Y: 14
+      Rotation: 0
+    Transform2DVertical: []
+    Transform3D: []
+    View: []
+    PhysicsJoints2D: []
+    PhysicsJoints3D: []

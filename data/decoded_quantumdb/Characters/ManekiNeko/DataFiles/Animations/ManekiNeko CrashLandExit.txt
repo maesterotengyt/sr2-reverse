@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko CrashLandExit
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko CrashLandExit
+      Guid:
+        Value: 876982717550653171
+    ClipIndex: 3
+    ClipName:
+      Value: CrashLandExit
+      Hash: 36187029
+    Duration: 0.39999
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    - Frame: 23
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    - Frame: 24
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a085e294ceb41cd4b83304bd25da1e3e, type: 2}

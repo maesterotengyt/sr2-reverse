@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Slide
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase Slide
+      Guid:
+        Value: 1237323222102219228
+    ClipIndex: 16
+    ClipName:
+      Value: Slide
+      Hash: 828573697
+    Duration: 0.21666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a67fb565e41a2e0478304948dffc63fe, type: 2}

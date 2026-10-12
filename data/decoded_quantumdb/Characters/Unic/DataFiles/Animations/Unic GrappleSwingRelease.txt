@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic GrappleSwingRelease
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/DataFiles/Animations/Unic GrappleSwingRelease
+      Guid:
+        Value: 1029008793488953
+    ClipIndex: 14
+    ClipName:
+      Value: GrappleSwingRelease
+      Hash: -1553775333
+    Duration: 1.3167
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -2092916523
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: 2138252657
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: -397173244
+        Value: 1
+      - MeshHash: 2124810857
+        Value: 1
+      - MeshHash: 573226022
+        Value: 1
+      - MeshHash: -956412129
+        Value: 1
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: 2115325285
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -318916156
+        Value: 0
+    - Frame: 79
+      ObjectsVisibilityData:
+      - MeshHash: -2092916523
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: 2138252657
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: -397173244
+        Value: 1
+      - MeshHash: 2124810857
+        Value: 1
+      - MeshHash: 573226022
+        Value: 1
+      - MeshHash: -956412129
+        Value: 1
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: 2115325285
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -318916156
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: da26b2f26466a9d4aa40796722269d2b, type: 2}

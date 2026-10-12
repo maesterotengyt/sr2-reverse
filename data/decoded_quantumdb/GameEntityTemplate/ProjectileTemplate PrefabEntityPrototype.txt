@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ProjectileTemplate PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameEntityTemplate/ProjectileTemplate Prefab|EntityPrototype
+      Guid:
+        Value: 3163988305526469314
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: 03f30eda62f8bdd4e9644311904cdc57, type: 2}

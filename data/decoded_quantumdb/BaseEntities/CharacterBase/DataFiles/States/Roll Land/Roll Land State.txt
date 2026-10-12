@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Roll Land State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Roll Land/Roll Land State
+      Guid:
+        Value: 4287399439418156589
+    Name:
+      Value: Roll Land
+      Hash: -511007996
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 602385907478338920
+      - Id:
+          Value: 4498985876753517385
+      - Id:
+          Value: 1098869735940475761
+      - Id:
+          Value: 2449081839406824243
+      - Id:
+          Value: 4292746955226180064
+      - Id:
+          Value: 2265068296041995691
+      - Id:
+          Value: 1310673212724943206
+      - Id:
+          Value: 193617710623840360
+      - Id:
+          Value: 2510757149968194179
+      - Id:
+          Value: 3198414714121026137
+      - Id:
+          Value: 4341982205851349487
+      - Id:
+          Value: 4195913479319542571
+      - Id:
+          Value: 3638048599802088951
+      - Id:
+          Value: 1056730317873559513
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation Finish
+          Hash: -1523851607
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Leave Floor
+          Hash: -492474547
+        EventToReact: 24
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

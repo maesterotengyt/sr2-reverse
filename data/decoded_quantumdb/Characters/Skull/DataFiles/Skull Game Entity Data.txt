@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Skull Game Entity Data
+      Guid:
+        Value: 2676298882065527839
+    EntityName:
+      Value: Skull
+      Hash: -463543801
+    EntityType: 1
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 469213309432714565
+    - Id:
+        Value: 1097290024474782624
+    - Id:
+        Value: 1917755874484778411
+    - Id:
+        Value: 2201303376434655596
+    - Id:
+        Value: 911595506288689971
+    - Id:
+        Value: 3258847718656846503
+    - Id:
+        Value: 1504922775887724321
+    - Id:
+        Value: 1079152541144559767
+    RotationPivot:
+      X: 0
+      Y: 0.59999
+    HasEntityModifier: 1
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 4508378088707627678
+    HasCustomAnimator: 1
+    AnimationsPoolData:
+      Id:
+        Value: 2336221265831477697
+    BakedJointsData:
+      Id:
+        Value: 4239572680410692467
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 738467061535214703
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 234063492762599579
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 1
+    MovesetLimiterData:
+      Id:
+        Value: 2454683413066025779

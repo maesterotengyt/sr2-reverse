@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Spawn Treasure State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/CoinBurst/DataFiles/States/Spawn Treasure/Spawn Treasure State
+      Guid:
+        Value: 2790291842182390682
+    Name:
+      Value: Spawn Treasure
+      Hash: 1823572642
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1307063282428386019
+      - Id:
+          Value: 683554267496828789
+      - Id:
+          Value: 4562777200091102586
+      StateInheritedGroups: []

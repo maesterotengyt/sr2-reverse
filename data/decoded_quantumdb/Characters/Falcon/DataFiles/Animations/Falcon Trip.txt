@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon Trip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon Trip
+      Guid:
+        Value: 2499619823232072495
+    ClipIndex: 35
+    ClipName:
+      Value: Trip
+      Hash: -389377314
+    Duration: 0.7
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 4cf9139bdc43db54485f02d8cd2f4550, type: 2}

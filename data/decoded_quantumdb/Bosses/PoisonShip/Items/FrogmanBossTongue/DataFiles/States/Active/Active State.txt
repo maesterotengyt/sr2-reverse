@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Items/FrogmanBossTongue/DataFiles/States/Active/Active State
+      Guid:
+        Value: 337935240317131666
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 177816302505281192
+      - Id:
+          Value: 3147109939084552472
+      - Id:
+          Value: 1421348744304827376
+      - Id:
+          Value: 4596597386432335324
+      StateInheritedGroups: []

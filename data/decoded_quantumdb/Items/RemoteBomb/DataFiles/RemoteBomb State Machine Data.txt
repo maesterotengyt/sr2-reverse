@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: RemoteBomb State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/RemoteBomb/DataFiles/RemoteBomb State Machine Data
+      Guid:
+        Value: 4352176470337330448
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: ComboCount
+        Hash: 743989508
+      Value: 0
+      Notes:
+    - Name:
+        Value: LastVictim
+        Hash: -1301325199
+      Value: -1
+      Notes:
+    - Name:
+        Value: IsFrozen
+        Hash: -19590533
+      Value: 0
+      Notes:
+    - Name:
+        Value: FrozenTimer
+        Hash: 1213913154
+      Value: 0
+      Notes:
+    - Name:
+        Value: LastSpawnedID
+        Hash: -726008072
+      Value: 0
+      Notes:
+    - Name:
+        Value: ComboCount
+        Hash: 743989508
+      Value: 0
+      Notes:
+    - Name:
+        Value: LastVictim
+        Hash: -1301325199
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 2499597153525957918
+    - Id:
+        Value: 140534054434609127
+    - Id:
+        Value: 1204324170113129119
+    - Id:
+        Value: 3953865423832390343
+    InitialState:
+      Value: Idle
+      Hash: 1881327601
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: MuseumTreasureTrigger Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/MuseumTreasureTrigger/Costumes/MuseumTreasureTrigger Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 4040814252374804671
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: 676e2098988eb0e4f8871ca7612749b0, type: 2}

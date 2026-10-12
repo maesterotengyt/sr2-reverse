@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: NPCDefaultSettings
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/NPCDefaultSettings
+      Guid:
+        Value: 2425452548036182945

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut JumpForward
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut JumpForward
+      Guid:
+        Value: 1363000388773653897
+    ClipIndex: 19
+    ClipName:
+      Value: JumpForward
+      Hash: -969453323
+    Duration: 1.2333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 1fa460911dd924745983e820b72420eb, type: 2}

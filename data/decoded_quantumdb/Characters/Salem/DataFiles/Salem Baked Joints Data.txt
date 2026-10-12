@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Baked Joints Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Salem Baked Joints Data
+      Guid:
+        Value: 1289056228264407458
+    AnimationsJointData: []

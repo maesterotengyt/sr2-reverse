@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_FalconTank HurtDefeat
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/Animations/Boss_FalconTank HurtDefeat
+      Guid:
+        Value: 2034928331040989101
+    ClipIndex: 4
+    ClipName:
+      Value: HurtDefeat
+      Hash: -1410432675
+    Duration: 1
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ad256a1a290087f4ab3c0f99f9a33bd1, type: 2}

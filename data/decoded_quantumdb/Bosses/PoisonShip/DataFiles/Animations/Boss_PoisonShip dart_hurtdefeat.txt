@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip dart_hurtdefeat
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip dart_hurtdefeat
+      Guid:
+        Value: 2248098748756190607
+    ClipIndex: 9
+    ClipName:
+      Value: dart_hurtdefeat
+      Hash: -304798145
+    Duration: 1
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a027972b277c5aa419dbffb7986cc849, type: 2}

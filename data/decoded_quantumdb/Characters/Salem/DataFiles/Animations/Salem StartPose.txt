@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem StartPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem StartPose
+      Guid:
+        Value: 2032351198410105880
+    ClipIndex: 35
+    ClipName:
+      Value: StartPose
+      Hash: 865148973
+    Duration: 4.3
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e2545ff0e35e559428642a0eb2131424, type: 2}

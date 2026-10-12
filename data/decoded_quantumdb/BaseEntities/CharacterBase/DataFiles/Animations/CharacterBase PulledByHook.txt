@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase PulledByHook
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase PulledByHook
+      Guid:
+        Value: 246112921116657347
+    ClipIndex: 14
+    ClipName:
+      Value: PulledByHook
+      Hash: 1102491647
+    Duration: 0.16666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 74d102aa30b32684b912e5aaae3d0d74, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp GrappleStartAir
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp GrappleStartAir
+      Guid:
+        Value: 750549978751417882
+    ClipIndex: 11
+    ClipName:
+      Value: GrappleStartAir
+      Hash: -1983025800
+    Duration: 0.34999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 212c14e732752404282890c2acda03cf, type: 2}

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull Costume01 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/Costumes/Skull Costume01 Prefab|EntityPrototype
+      Guid:
+        Value: 1097290024474782624
+    Container: {}
+  Parent: {fileID: 114578716238308850, guid: cca4e48ccd74ed04c8f2b2f52a547e2a, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Destroy State
+  Settings:
+    Identifier:
+      Path: QuantumDB/GameModes/HazardsSkyIsFalling/HazardFire/DataFiles/States/On Destroy/On Destroy State
+      Guid:
+        Value: 2343142796380669433
+    Name:
+      Value: On Destroy
+      Hash: 1220723172
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1627509139766596776
+      - Id:
+          Value: 4499057261536984364
+      - Id:
+          Value: 420052857527293443
+      StateInheritedGroups: []

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StageManager Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/StageManager/Costumes/StageManager Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 4147793345539933231
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: 503548d635eb4e441897ec3ca6f11f15, type: 2}

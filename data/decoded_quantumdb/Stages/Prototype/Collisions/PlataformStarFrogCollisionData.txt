@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PlataformStarFrogCollisionData
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/Prototype/Collisions/PlataformStarFrogCollisionData
+      Guid:
+        Value: 4519934957554892138
+    Vertices:
+    - X: -2.78
+      Y: 0.53999
+    - X: -2.75
+      Y: 4.07
+    - X: -2.75
+      Y: 7.6
+    - X: -22.7
+      Y: 7.6
+    - X: -29.9
+      Y: 0.5
+    Normals:
+    - X: 1
+      Y: -0.0014191
+    - X: 1
+      Y: -0.0014191
+    - X: 0
+      Y: 1
+    - X: -0.70216
+      Y: 0.71204
+    - X: 0.0014648
+      Y: -1

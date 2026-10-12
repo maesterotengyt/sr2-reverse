@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Knocked Out State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Knocked Out/Knocked Out State
+      Guid:
+        Value: 1045118921291758253
+    Name:
+      Value: Knocked Out
+      Hash: -1714075471
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3896262761830392127
+      - Id:
+          Value: 139983749145345769
+      - Id:
+          Value: 2685403798412462937
+      - Id:
+          Value: 2177029581061321021
+      - Id:
+          Value: 1809580001572524751
+      StateInheritedGroups: []

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic IdleAlt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/DataFiles/Animations/Unic IdleAlt
+      Guid:
+        Value: 26346749227530207
+    ClipIndex: 17
+    ClipName:
+      Value: IdleAlt
+      Hash: -827052680
+    Duration: 1.55
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -2092916523
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: 2138252657
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: -397173244
+        Value: 1
+      - MeshHash: 2124810857
+        Value: 1
+      - MeshHash: 573226022
+        Value: 1
+      - MeshHash: -956412129
+        Value: 1
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: 2115325285
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -318916156
+        Value: 0
+    - Frame: 29
+      ObjectsVisibilityData:
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: 683834768
+        Value: 0
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: -669741254
+        Value: 1
+    - Frame: 65
+      ObjectsVisibilityData:
+      - MeshHash: 683834768
+        Value: 0
+      - MeshHash: -669741254
+        Value: 1
+    - Frame: 66
+      ObjectsVisibilityData:
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+    - Frame: 93
+      ObjectsVisibilityData:
+      - MeshHash: -2092916523
+        Value: 1
+      - MeshHash: 1148984569
+        Value: 1
+      - MeshHash: 2138252657
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: -397173244
+        Value: 1
+      - MeshHash: 2124810857
+        Value: 1
+      - MeshHash: 573226022
+        Value: 1
+      - MeshHash: -956412129
+        Value: 1
+      - MeshHash: 683834768
+        Value: 1
+      - MeshHash: -669741254
+        Value: 0
+      - MeshHash: 2115325285
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -318916156
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e92f22a0bd78ea44383ccac6847f9bb5, type: 2}

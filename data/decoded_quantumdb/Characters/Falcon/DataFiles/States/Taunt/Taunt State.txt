@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Taunt State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/States/Taunt/Taunt State
+      Guid:
+        Value: 13095057723475451
+    Name:
+      Value: Taunt
+      Hash: -1374391527
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2438005800486722397
+      - Id:
+          Value: 3144460193636596107
+      - Id:
+          Value: 2591696449195181326
+      - Id:
+          Value: 341659466690630774
+      - Id:
+          Value: 3018061129273455447
+      - Id:
+          Value: 574851087751604274
+      - Id:
+          Value: 3580920702259329046
+      - Id:
+          Value: 344712357609984463
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation Finished
+          Hash: -1167156220
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Start State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/DataFiles/States/Start/Start State
+      Guid:
+        Value: 4592612739263132847
+    Name:
+      Value: Start
+      Hash: 78802736
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3255067517510592510
+      - Id:
+          Value: 3860789586020421776
+      - Id:
+          Value: 592045858448364932
+      - Id:
+          Value: 599230464268948679
+      StateInheritedGroups: []

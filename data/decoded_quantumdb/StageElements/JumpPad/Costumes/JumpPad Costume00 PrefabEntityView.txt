@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: JumpPad Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/JumpPad/Costumes/JumpPad Costume00 Prefab|EntityView
+      Guid:
+        Value: 4545242763838528706
+  Parent: {fileID: 114099118695303065, guid: d10d46dea5076b045abaddcbca68b685, type: 2}

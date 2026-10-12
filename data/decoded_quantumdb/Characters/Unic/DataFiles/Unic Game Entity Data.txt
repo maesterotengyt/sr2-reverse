@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/DataFiles/Unic Game Entity Data
+      Guid:
+        Value: 1134629947303348688
+    EntityName:
+      Value: Unic
+      Hash: 1625065441
+    EntityType: 1
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 1593848999723610358
+    - Id:
+        Value: 411459103820543575
+    - Id:
+        Value: 3814387821158112832
+    - Id:
+        Value: 1192504822303173963
+    - Id:
+        Value: 1640623671953098
+    - Id:
+        Value: 4569577245954974081
+    - Id:
+        Value: 2159411610466054751
+    - Id:
+        Value: 3177745993613197566
+    RotationPivot:
+      X: 0
+      Y: 0.5
+    HasEntityModifier: 1
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 4122427521910512506
+    HasCustomAnimator: 1
+    AnimationsPoolData:
+      Id:
+        Value: 179977529914381274
+    BakedJointsData:
+      Id:
+        Value: 890007439048155573
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 216442616359257128
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 1649793851958192828
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 1905947617718435884
+    HasMovesetLimiter: 1
+    MovesetLimiterData:
+      Id:
+        Value: 2129051911726028121

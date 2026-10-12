@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut Costume07 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/Costumes/Cosmonaut Costume07 Prefab|EntityPrototype
+      Guid:
+        Value: 2409339629281222348
+    Container: {}
+  Parent: {fileID: 114038333544927157, guid: c8563656e7f47ac4db700718490e62ec, type: 2}

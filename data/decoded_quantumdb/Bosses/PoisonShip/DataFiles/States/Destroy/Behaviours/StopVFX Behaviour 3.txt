@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopVFX Behaviour 3
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/States/Destroy/Behaviours/StopVFX Behaviour 3
+      Guid:
+        Value: 1103198101564973203
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    VFXID:
+      Value: BossExplosion
+      Hash: 565213068
+    StopAttributes:
+      StopParticles: 1
+      DeactivateGameObject: 1
+      KeepFinalPosition: 1

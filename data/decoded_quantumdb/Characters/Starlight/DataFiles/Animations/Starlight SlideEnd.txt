@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight SlideEnd
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight SlideEnd
+      Guid:
+        Value: 3749529140050060968
+    ClipIndex: 32
+    ClipName:
+      Value: SlideEnd
+      Hash: 270298943
+    Duration: 0.43332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 0360774192f82114281c19f276700b2b, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FreezeNotify_NotifyFreezeRayAIDodge Behaviour
+  Notes:
+  EditorName: FreezeNotify
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FreezeRay/DataFiles/States/Active/Behaviours/FreezeNotify_NotifyFreezeRayAIDodge Behaviour
+      Guid:
+        Value: 2452331359283674065
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 45
+    EndFrame: 60

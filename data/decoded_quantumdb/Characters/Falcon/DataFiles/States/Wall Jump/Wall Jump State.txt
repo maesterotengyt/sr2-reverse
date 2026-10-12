@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Wall Jump State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/States/Wall Jump/Wall Jump State
+      Guid:
+        Value: 4319760752567512608
+    Name:
+      Value: Wall Jump
+      Hash: 1742641459
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 734255532065145205
+      - Id:
+          Value: 2747724139065437186
+      - Id:
+          Value: 48418595491791183
+      - Id:
+          Value: 2030219692003710980
+      - Id:
+          Value: 3200648184166178464
+      - Id:
+          Value: 3195907848708988218
+      - Id:
+          Value: 1660346861668948252
+      - Id:
+          Value: 16266766222150286
+      - Id:
+          Value: 2710655158857366588
+      - Id:
+          Value: 2781171518638934123
+      - Id:
+          Value: 2252588412678207315
+      - Id:
+          Value: 150219515351426821
+      - Id:
+          Value: 172362956929897317
+      - Id:
+          Value: 4139006212566146572
+      StateInheritedGroups:
+      - Name:
+          Value: On Animation Finished
+          Hash: -1167156220
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

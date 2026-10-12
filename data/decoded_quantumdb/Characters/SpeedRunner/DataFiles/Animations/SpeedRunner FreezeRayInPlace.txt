@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner FreezeRayInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner FreezeRayInPlace
+      Guid:
+        Value: 806654333473761194
+    ClipIndex: 7
+    ClipName:
+      Value: FreezeRayInPlace
+      Hash: 1750696149
+    Duration: 0.34999
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 6
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: 199662549
+        Value: 0
+    - Frame: 7
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+    - Frame: 21
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 1
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 97fb76baa86a1e5499e3c970265456bf, type: 2}

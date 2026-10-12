@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight StartPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight StartPose
+      Guid:
+        Value: 3571842331729871978
+    ClipIndex: 35
+    ClipName:
+      Value: StartPose
+      Hash: 865148973
+    Duration: 4.2833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 9080c83ef182dd84794a10c8ab236ae1, type: 2}

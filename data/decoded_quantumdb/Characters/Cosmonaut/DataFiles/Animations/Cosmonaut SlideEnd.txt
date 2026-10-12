@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut SlideEnd
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut SlideEnd
+      Guid:
+        Value: 3789574951984060288
+    ClipIndex: 31
+    ClipName:
+      Value: SlideEnd
+      Hash: 270298943
+    Duration: 0.43332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e0b3b11b69337184e8f068a8566b0fa6, type: 2}

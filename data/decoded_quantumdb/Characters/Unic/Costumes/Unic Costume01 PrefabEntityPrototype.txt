@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Unic Costume01 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Unic/Costumes/Unic Costume01 Prefab|EntityPrototype
+      Guid:
+        Value: 411459103820543575
+    Container: {}
+  Parent: {fileID: 114831874417830518, guid: fdf6cd2b19e46724fbed7ccdf4bc8acc, type: 2}

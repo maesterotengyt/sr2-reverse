@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon GrappleStartAir
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon GrappleStartAir
+      Guid:
+        Value: 2180496304861579444
+    ClipIndex: 10
+    ClipName:
+      Value: GrappleStartAir
+      Hash: -1983025800
+    Duration: 0.36665
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 7fffe0badc7297e46a578a4509ab1a09, type: 2}

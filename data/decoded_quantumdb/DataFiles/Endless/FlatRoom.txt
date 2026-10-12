@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FlatRoom
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/Endless/FlatRoom
+      Guid:
+        Value: 1311339803926499359
+    Entities:
+    - Prototype:
+        Id:
+          Value: 3498312066051842149
+      RelativePosition:
+        X: -10
+        Y: 0
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 3498312066051842149
+      RelativePosition:
+        X: 10
+        Y: 0
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2424595101815919283
+      RelativePosition:
+        X: 0
+        Y: 2
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2424595101815919283
+      RelativePosition:
+        X: 0
+        Y: 4
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 3498312066051842149
+      RelativePosition:
+        X: -40
+        Y: 0
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 3498312066051842149
+      RelativePosition:
+        X: 40
+        Y: 0
+        Z: 0

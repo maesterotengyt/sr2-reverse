@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFireBreath Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBreath/DataFiles/BossFireBreath Animations Pool Data
+      Guid:
+        Value: 1851359075144913130
+    ClipsDataRefs: []
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix:
+  ClipsInputPath:
+  OptimizedClipsOutputPath:
+  BakedClipsOutputPath:
+  ClipsData: []
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PreAttack State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/PreAttack/PreAttack State
+      Guid:
+        Value: 3174837732116043995
+    Name:
+      Value: PreAttack
+      Hash: -1392058170
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3084350001007934389
+      - Id:
+          Value: 2313941873133532739
+      - Id:
+          Value: 3901453118173214881
+      - Id:
+          Value: 301098437957020731
+      - Id:
+          Value: 3530149294813721325
+      - Id:
+          Value: 848093396255519885
+      - Id:
+          Value: 796074325154207070
+      StateInheritedGroups:
+      - Name:
+          Value: Attack1
+          Hash: 775182663
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Attack2
+          Hash: -190750014
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Attack3
+          Hash: 1830623011
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Taunt
+          Hash: -1374391527
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull CrashLandLoop
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull CrashLandLoop
+      Guid:
+        Value: 1287527314054855909
+    ClipIndex: 5
+    ClipName:
+      Value: CrashLandLoop
+      Hash: -2064679997
+    Duration: 1.6667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e34c26351fefd924d8cde882f5132978, type: 2}

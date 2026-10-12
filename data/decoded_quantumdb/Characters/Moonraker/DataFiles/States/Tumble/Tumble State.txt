@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Tumble State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/States/Tumble/Tumble State
+      Guid:
+        Value: 137839390351456492
+    Name:
+      Value: Tumble
+      Hash: 1755747619
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1179333774841349963
+      - Id:
+          Value: 3316480026106403761
+      - Id:
+          Value: 4289816355374832845
+      - Id:
+          Value: 3183851760185749145
+      - Id:
+          Value: 1439158714764884497
+      - Id:
+          Value: 4530269623132540568
+      - Id:
+          Value: 668668230560824993
+      - Id:
+          Value: 515588081551113782
+      - Id:
+          Value: 2299334266202139123
+      - Id:
+          Value: 1740317379590896404
+      - Id:
+          Value: 483685282062507214
+      - Id:
+          Value: 3647776547915406634
+      - Id:
+          Value: 4313941566721242188
+      - Id:
+          Value: 102122605414473210
+      - Id:
+          Value: 1509967891257994895
+      - Id:
+          Value: 240813961940190108
+      StateInheritedGroups:
+      - Name:
+          Value: On Burn
+          Hash: 697278063
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Exit
+          Hash: -1916462792
+        EventToReact: 2
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hitstun End
+          Hash: 504284387
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

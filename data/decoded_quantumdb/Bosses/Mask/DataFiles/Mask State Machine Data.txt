@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Mask State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/Mask State Machine Data
+      Guid:
+        Value: 3498459296528500791
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: RandomAttack
+        Hash: 817855285
+      Value: 0
+      Notes:
+    - Name:
+        Value: LifeBar
+        Hash: -926363518
+      Value: 100
+      Notes:
+    - Name:
+        Value: UpDown
+        Hash: -1363797972
+      Value: 0
+      Notes:
+    - Name:
+        Value: IsDefeated
+        Hash: 22848223
+      Value: 0
+      Notes:
+    - Name:
+        Value: IsIdle
+        Hash: -1112729182
+      Value: 1
+      Notes:
+    - Name:
+        Value: Difficulty
+        Hash: 2053560339
+      Value: 0
+      Notes:
+    - Name:
+        Value: HitsReceived
+        Hash: -270522873
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 2390453511936574794
+    - Id:
+        Value: 1416923675312589338
+    - Id:
+        Value: 3035693693250921381
+    - Id:
+        Value: 675495548915267411
+    - Id:
+        Value: 4154138370566002187
+    - Id:
+        Value: 1536603946876699723
+    - Id:
+        Value: 2103745884379844751
+    - Id:
+        Value: 4291171798976373727
+    - Id:
+        Value: 3996135320358818587
+    - Id:
+        Value: 2761494502747300658
+    - Id:
+        Value: 3174837732116043995
+    - Id:
+        Value: 2195063234456480862
+    InitialState:
+      Value: Activate
+      Hash: -824879934
+    OnUpdateState:
+      Value: On Update
+      Hash: 981287727
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

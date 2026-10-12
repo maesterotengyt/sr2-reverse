@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Attack3 State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Attack3/Attack3 State
+      Guid:
+        Value: 675495548915267411
+    Name:
+      Value: Attack3
+      Hash: 1830623011
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2716968894548011656
+      - Id:
+          Value: 683464835630848860
+      - Id:
+          Value: 2099541047716585003
+      - Id:
+          Value: 3862633731873247609
+      - Id:
+          Value: 1324355777525569905
+      - Id:
+          Value: 867418628273473265
+      - Id:
+          Value: 901390064422832989
+      - Id:
+          Value: 197428986254859937
+      - Id:
+          Value: 425643232853067401
+      StateInheritedGroups:
+      - Name:
+          Value: OnAnimationFinished
+          Hash: 593002173
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

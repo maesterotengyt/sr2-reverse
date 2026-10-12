@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp JumpForwardFall
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp JumpForwardFall
+      Guid:
+        Value: 4056343803371792541
+    ClipIndex: 20
+    ClipName:
+      Value: JumpForwardFall
+      Hash: -1191434588
+    Duration: 1.3
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 7bafc5ee7e5d1dc468d0d797cb30e8a8, type: 2}

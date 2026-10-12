@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead Tumble
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Animations/Hothead Tumble
+      Guid:
+        Value: 4547144289134548133
+    ClipIndex: 39
+    ClipName:
+      Value: Tumble
+      Hash: 1755747619
+    Duration: 1.4833
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 0
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    - Frame: 4
+      ObjectsVisibilityData:
+      - MeshHash: 1630193858
+        Value: 0
+    - Frame: 5
+      ObjectsVisibilityData:
+      - MeshHash: 1630193858
+        Value: 1
+    - Frame: 49
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+    - Frame: 55
+      ObjectsVisibilityData:
+      - MeshHash: 1630193858
+        Value: 1
+    - Frame: 78
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: 1630193858
+        Value: 1
+    - Frame: 79
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 1
+      - MeshHash: 1630193858
+        Value: 0
+    - Frame: 82
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 1
+      - MeshHash: 1210990215
+        Value: 0
+    - Frame: 83
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 1
+    - Frame: 85
+      ObjectsVisibilityData:
+      - MeshHash: 1210990215
+        Value: 1
+    - Frame: 86
+      ObjectsVisibilityData:
+      - MeshHash: 1210990215
+        Value: 0
+    - Frame: 89
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 0
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 27c39c53fea02624f936b2e292ba27c2, type: 2}

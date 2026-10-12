@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Treasure Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Treasure/DataFiles/Treasure Game Entity Data
+      Guid:
+        Value: 4072636326242218988
+    EntityName:
+      Value: Treasure
+      Hash: 788212124
+    EntityType: 5
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 2262550174747706089
+    - Id:
+        Value: 696973216215210877
+    - Id:
+        Value: 1901642797201527240
+    - Id:
+        Value: 517496900938341732
+    - Id:
+        Value: 584724508168326346
+    - Id:
+        Value: 4280288939254437177
+    - Id:
+        Value: 659355765842232008
+    - Id:
+        Value: 40248170784377694
+    - Id:
+        Value: 4184245967484486606
+    RotationPivot:
+      X: 0
+      Y: 0
+    HasEntityModifier: 0
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 3413138382679746250
+    HasCustomAnimator: 0
+    AnimationsPoolData:
+      Id:
+        Value: 0
+    BakedJointsData:
+      Id:
+        Value: 0
+    HasCombat: 0
+    CombatData:
+      Id:
+        Value: 0
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 0
+    PhysicsData:
+      Id:
+        Value: 0
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 0
+    MovesetLimiterData:
+      Id:
+        Value: 0

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead GrappleStartRun
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Animations/Hothead GrappleStartRun
+      Guid:
+        Value: 658799627682999283
+    ClipIndex: 13
+    ClipName:
+      Value: GrappleStartRun
+      Hash: -1524069665
+    Duration: 0.7
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 1
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    - Frame: 42
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 1
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 91755f42836f2274e8878b14db7de743, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon GrabbedGoldenHookStart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon GrabbedGoldenHookStart
+      Guid:
+        Value: 2782803716184662845
+    ClipIndex: 9
+    ClipName:
+      Value: GrabbedGoldenHookStart
+      Hash: 722133423
+    Duration: 0.34999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 70c06b744d54ec44c8155208d46ffa74, type: 2}

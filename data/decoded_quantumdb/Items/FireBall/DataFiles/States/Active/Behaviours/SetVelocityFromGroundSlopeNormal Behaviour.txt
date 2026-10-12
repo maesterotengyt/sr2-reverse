@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SetVelocityFromGroundSlopeNormal Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FireBall/DataFiles/States/Active/Behaviours/SetVelocityFromGroundSlopeNormal Behaviour
+      Guid:
+        Value: 2773155073793714882
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On End Up Slope
+      Hash: -131563617
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    GroundNormalToUse: 1

@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/ManekiNeko Animations Pool Data
+      Guid:
+        Value: 1592821605276185399
+    ClipsDataRefs:
+    - Id:
+        Value: 950560838237453615
+    - Id:
+        Value: 3491742571535426002
+    - Id:
+        Value: 2593077319301702142
+    - Id:
+        Value: 876982717550653171
+    - Id:
+        Value: 4087328277590929755
+    - Id:
+        Value: 73366028426101753
+    - Id:
+        Value: 2085278687243103259
+    - Id:
+        Value: 3521452215250982344
+    - Id:
+        Value: 1966538724505486799
+    - Id:
+        Value: 2515219205415130734
+    - Id:
+        Value: 2855954885779885547
+    - Id:
+        Value: 324944990454733620
+    - Id:
+        Value: 954431619353085317
+    - Id:
+        Value: 1155736899092693379
+    - Id:
+        Value: 3399879906640080502
+    - Id:
+        Value: 3518772652511333367
+    - Id:
+        Value: 2636828085294888044
+    - Id:
+        Value: 2768675181230764681
+    - Id:
+        Value: 137203521371802763
+    - Id:
+        Value: 2479443072215180257
+    - Id:
+        Value: 1449349711559825883
+    - Id:
+        Value: 3061230066322069435
+    - Id:
+        Value: 2212819243061695065
+    - Id:
+        Value: 77415188695422457
+    - Id:
+        Value: 3291521963770116528
+    - Id:
+        Value: 1819931760063968196
+    - Id:
+        Value: 3368368932344064849
+    - Id:
+        Value: 3185494927518581563
+    - Id:
+        Value: 699972514994030755
+    - Id:
+        Value: 4295717433550934214
+    - Id:
+        Value: 3204904541418077184
+    - Id:
+        Value: 1619555880785621276
+    - Id:
+        Value: 3030990625282601508
+    - Id:
+        Value: 121645512997701849
+    - Id:
+        Value: 1637264995552602059
+    - Id:
+        Value: 50438562051712801
+    - Id:
+        Value: 2479248935339932202
+    - Id:
+        Value: 3371311815685405486
+    - Id:
+        Value: 3517386075983955558
+    - Id:
+        Value: 2389964532963465840
+    - Id:
+        Value: 3329302344030822077
+    - Id:
+        Value: 2861660249184738964
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: ManekiNeko
+  ClipsInputPath: Assets/ProductionAssets/Characters/ManekiNeko/Animations/
+  OptimizedClipsOutputPath: Assets/Characters/ManekiNeko/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/ManekiNeko/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 98b7c8969d3f5c142b48dddce8de5eb6, type: 2}
+  - {fileID: 11400000, guid: 8d0c49be4bbcb4a45ba82702c9bae127, type: 2}
+  - {fileID: 11400000, guid: 3c4b63e68b5f77f4096e7c200228f569, type: 2}
+  - {fileID: 11400000, guid: 8ce57438665615c43bd52bd231b5589c, type: 2}
+  - {fileID: 11400000, guid: 5d044ac88d702e74d9b2b32a505d900b, type: 2}
+  - {fileID: 11400000, guid: 1387abb1677900f47bbaf0676f0a1a93, type: 2}
+  - {fileID: 11400000, guid: f41354990308d8346a430259a378f45e, type: 2}
+  - {fileID: 11400000, guid: eb3796735f7bac74c97b51790aba49ce, type: 2}
+  - {fileID: 11400000, guid: 0a0b31b308ba57e42b176d9da00e129e, type: 2}
+  - {fileID: 11400000, guid: 57f87741a4d0c8d49b391b893697febf, type: 2}
+  - {fileID: 11400000, guid: 02aa575ebcd2dad489fe7a98f71b6de2, type: 2}
+  - {fileID: 11400000, guid: 4246cb01a08c2714db717daabf20a454, type: 2}
+  - {fileID: 11400000, guid: a7534f63fb03920459b8083fcb492c62, type: 2}
+  - {fileID: 11400000, guid: 5ece370775cf2da458cf152a86b6de70, type: 2}
+  - {fileID: 11400000, guid: cb1f42b986bd03440a62725afaa04dad, type: 2}
+  - {fileID: 11400000, guid: 04efd1a7ab6c6fb4cb287226281833b8, type: 2}
+  - {fileID: 11400000, guid: e476d7f7630cfc942b6e6c8c6ccb04b2, type: 2}
+  - {fileID: 11400000, guid: 9485ad3513901c242acfb400d63b7f59, type: 2}
+  - {fileID: 11400000, guid: a4523f83a1a29564e8c8fd5385abac9f, type: 2}
+  - {fileID: 11400000, guid: f94b92a6f26780e43b2dcb895562947a, type: 2}
+  - {fileID: 11400000, guid: b4a7b32e76429b94db246de41abae9c6, type: 2}
+  - {fileID: 11400000, guid: 100141fdf1a0a1146a0056d5163917cb, type: 2}
+  - {fileID: 11400000, guid: 1584e5e7b1bf77844bdba106a4b826cf, type: 2}
+  - {fileID: 11400000, guid: d8da8558c0080b4418745b0b5c928970, type: 2}
+  - {fileID: 11400000, guid: 16ede6341faf62e4d88b7b1825e00d2c, type: 2}
+  - {fileID: 11400000, guid: cdf753f2d0c5e7745959b05d948feb18, type: 2}
+  - {fileID: 11400000, guid: 1df959033a996c9448229a63c86299fa, type: 2}
+  - {fileID: 11400000, guid: b1b3dc71e5d419745a83662e39559eef, type: 2}
+  - {fileID: 11400000, guid: 3ff178c43d96b134d8ce172603f7600d, type: 2}
+  - {fileID: 11400000, guid: a3c720b4c1b9ebf419c8e448f8f18caf, type: 2}
+  - {fileID: 11400000, guid: 06ce310474038034caf816f7d0c4a17a, type: 2}
+  - {fileID: 11400000, guid: f98640d65ac37b24a9210e4be51791c4, type: 2}
+  - {fileID: 11400000, guid: 0c9a9982e05d642499ff9f0b9eceae6b, type: 2}
+  - {fileID: 11400000, guid: 82725f594b0b27c43ad3237812917838, type: 2}
+  - {fileID: 11400000, guid: 4b26ece22bc8a664d937fa0dae2b4677, type: 2}
+  - {fileID: 11400000, guid: 84f3c20a45b3f0d49ba5a4baa7870d66, type: 2}
+  - {fileID: 11400000, guid: a43387cfad02de54bb1158f659cd274c, type: 2}
+  - {fileID: 11400000, guid: af118ffe2088823449620fc1ae6d0298, type: 2}
+  - {fileID: 11400000, guid: 103005ddf65829240a15181826275979, type: 2}
+  - {fileID: 11400000, guid: c601fd1132143d840b64e151979fd479, type: 2}
+  - {fileID: 11400000, guid: d687ec10ca89b314e90513233f590dd6, type: 2}
+  - {fileID: 11400000, guid: d93c886375169e746a1df00342dd1d15, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

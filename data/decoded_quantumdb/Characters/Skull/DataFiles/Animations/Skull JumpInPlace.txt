@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull JumpInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull JumpInPlace
+      Guid:
+        Value: 2834293676883297316
+    ClipIndex: 22
+    ClipName:
+      Value: JumpInPlace
+      Hash: -1974450650
+    Duration: 0.95
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 1df5b745d6e0e7c4ea3dd227b83ad9c0, type: 2}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Default Floor Physics Material
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/PhysicsMaterials/Default Floor Physics Material
+      Guid:
+        Value: 2293312225436676055
+    Restitution: 0
+    RestitutionCombineFunction: 1
+    FrictionStatic: 1
+    FrictionDynamic: 1
+    FrictionCombineFunction: 4

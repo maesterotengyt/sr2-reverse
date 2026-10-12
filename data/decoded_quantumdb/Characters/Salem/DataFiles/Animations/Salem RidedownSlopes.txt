@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem RidedownSlopes
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem RideDownSlopes
+      Guid:
+        Value: 4172368803352895781
+    ClipIndex: 27
+    ClipName:
+      Value: RidedownSlopes
+      Hash: 2033256798
+    Duration: 0.89999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 536187d50bb7fd84d80b5ae94b728cd9, type: 2}

@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner MenuReadyIdle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner MenuReadyIdle
+      Guid:
+        Value: 824395667332397311
+    ClipIndex: 35
+    ClipName:
+      Value: MenuReadyIdle
+      Hash: -1524527475
+    Duration: 9
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    - Frame: 49
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 99
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 148
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 198
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 228
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 229
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 230
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 231
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 234
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 235
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 236
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 237
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 246
+      ObjectsVisibilityData:
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 286
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 295
+      ObjectsVisibilityData:
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 334
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 345
+      ObjectsVisibilityData:
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 383
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 394
+      ObjectsVisibilityData:
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 411
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 413
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 417
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 1
+      - MeshHash: -482743105
+        Value: 1
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 419
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+    - Frame: 420
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+    - Frame: 462
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+    - Frame: 469
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+    - Frame: 496
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+    - Frame: 497
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 1
+    - Frame: 498
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 1
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 499
+      ObjectsVisibilityData:
+      - MeshHash: -482743105
+        Value: 1
+      - MeshHash: -2005965746
+        Value: 0
+    - Frame: 502
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 503
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 0
+      - MeshHash: -482743105
+        Value: 1
+    - Frame: 504
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 505
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+    - Frame: 540
+      ObjectsVisibilityData:
+      - MeshHash: 454699209
+        Value: 1
+      - MeshHash: -482743105
+        Value: 0
+      - MeshHash: 199662549
+        Value: 0
+      - MeshHash: -1787817647
+        Value: 0
+      - MeshHash: -2005965746
+        Value: 0
+      - MeshHash: 1693958223
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d2df4da28819a9145897b6906b6b360b, type: 2}

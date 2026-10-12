@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: UpdateEntityHitFilter Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/DataFiles/States/Active/Behaviours/UpdateEntityHitFilter Behaviour
+      Guid:
+        Value: 3280354943580033786
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 9
+    ResetToDefault: 0
+    HitFilter:
+      AlwaysIfTeam:
+        Value: 0
+      CharacterInteractionPolicy: 2
+      DamageOverrideInfo:
+        EnemySetDamage: 0
+        OwnerSetDamage: 0
+        TeamSetDamage: 0
+        UseSetDamageFromEnemy:
+          Value: 0
+        UseSetDamageFromOwner:
+          Value: 0
+        UseSetDamageFromTeam:
+          Value: 0
+      DamageOwner:
+        Value: 1
+      DamagedByOwner:
+        Value: 1
+      HazardInteractionPolicy: 1
+      IgnoreEnemy:
+        Value: 0
+      IsAlwaysEnemy:
+        Value: 0
+      ItemInteractionPolicy: 2
+      ProjectileInteractionPolicy: 1
+      SameOwnerInteractionPolicy: 0
+      StageInteractionPolicy: 1

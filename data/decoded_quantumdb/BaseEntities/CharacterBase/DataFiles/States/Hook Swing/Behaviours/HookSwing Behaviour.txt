@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HookSwing Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hook Swing/Behaviours/HookSwing Behaviour
+      Guid:
+        Value: 4145572163577724566
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    MaxAngleReachGroup:
+      GroupName:
+        Value: On Cancel Hook
+        Hash: 520799992
+      ExecutionMode: 1
+    HookCancelGroup:
+      GroupName:
+        Value: On Cancel Hook
+        Hash: 520799992
+      ExecutionMode: 1
+    HookStartPoint:
+      X: 0.78
+      Y: 1.4
+    MaxSwingAngle: 17.99

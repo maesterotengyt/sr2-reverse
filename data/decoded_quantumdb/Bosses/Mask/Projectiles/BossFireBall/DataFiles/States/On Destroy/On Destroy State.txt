@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Destroy State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBall/DataFiles/States/On Destroy/On Destroy State
+      Guid:
+        Value: 1057371305623790736
+    Name:
+      Value: On Destroy
+      Hash: 1220723172
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1210366952366124272
+      - Id:
+          Value: 3163530477164005570
+      - Id:
+          Value: 2342318767482098093
+      StateInheritedGroups: []

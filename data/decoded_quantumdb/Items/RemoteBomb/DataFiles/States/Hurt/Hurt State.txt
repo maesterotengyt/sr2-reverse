@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hurt State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/RemoteBomb/DataFiles/States/Hurt/Hurt State
+      Guid:
+        Value: 1204324170113129119
+    Name:
+      Value: Hurt
+      Hash: -1797537374
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3150273702952349524
+      - Id:
+          Value: 7207679088878741
+      - Id:
+          Value: 2092727097532321855
+      - Id:
+          Value: 1854858482572776761
+      - Id:
+          Value: 4348212208964832055
+      StateInheritedGroups:
+      - Name:
+          Value: Frozen
+          Hash: 1641210360
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Destroy
+          Hash: 785740353
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

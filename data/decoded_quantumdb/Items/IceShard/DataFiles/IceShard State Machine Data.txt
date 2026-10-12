@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: IceShard State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/IceShard/DataFiles/IceShard State Machine Data
+      Guid:
+        Value: 1058667388193565264
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 272128865319280587
+    - Id:
+        Value: 2090681843903788288
+    - Id:
+        Value: 293947708213449967
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

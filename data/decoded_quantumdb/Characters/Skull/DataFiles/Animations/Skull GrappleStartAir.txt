@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull GrappleStartAir
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull GrappleStartAir
+      Guid:
+        Value: 1951278398673921250
+    ClipIndex: 12
+    ClipName:
+      Value: GrappleStartAir
+      Hash: -1983025800
+    Duration: 0.36665
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 51d59f939d919e740818fed571b6736f, type: 2}

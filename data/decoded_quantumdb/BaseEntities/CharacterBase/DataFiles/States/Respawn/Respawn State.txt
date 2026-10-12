@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Respawn State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Respawn/Respawn State
+      Guid:
+        Value: 142840961099725019
+    Name:
+      Value: Respawn
+      Hash: 1003687952
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3184551081576724370
+      - Id:
+          Value: 3997495223957482041
+      - Id:
+          Value: 3362695166192784494
+      StateInheritedGroups:
+      - Name:
+          Value: On Respawn End
+          Hash: -2085124691
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

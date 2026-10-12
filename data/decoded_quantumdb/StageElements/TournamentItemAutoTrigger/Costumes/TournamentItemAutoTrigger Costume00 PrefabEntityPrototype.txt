@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: TournamentItemAutoTrigger Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/TournamentItemAutoTrigger/Costumes/TournamentItemAutoTrigger Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 3879444482422743661
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: a45bfb29b65b3f04db2fcc087a9a6182, type: 2}

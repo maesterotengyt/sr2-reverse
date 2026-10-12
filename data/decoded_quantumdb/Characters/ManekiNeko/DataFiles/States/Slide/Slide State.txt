@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Slide State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/States/Slide/Slide State
+      Guid:
+        Value: 490619457940799064
+    Name:
+      Value: Slide
+      Hash: 828573697
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 904105474489350569
+      - Id:
+          Value: 2981573225542629364
+      - Id:
+          Value: 1065450555677890916
+      - Id:
+          Value: 609116491298001927
+      - Id:
+          Value: 122816732045973450
+      - Id:
+          Value: 3738232603350197098
+      - Id:
+          Value: 4299552658890023226
+      - Id:
+          Value: 3913054793314478119
+      - Id:
+          Value: 1474516056877085059
+      - Id:
+          Value: 283210058823098611
+      - Id:
+          Value: 1814781962040855604
+      - Id:
+          Value: 1642004751485326195
+      - Id:
+          Value: 2033822698683376313
+      - Id:
+          Value: 3683319739729672594
+      - Id:
+          Value: 4039462981043577237
+      - Id:
+          Value: 1294618191073898401
+      - Id:
+          Value: 2967330137591591157
+      - Id:
+          Value: 1707336247399057952
+      - Id:
+          Value: 2750619457287495867
+      - Id:
+          Value: 4308165384783461949
+      - Id:
+          Value: 3065830999631077719
+      - Id:
+          Value: 2340901765564044392
+      - Id:
+          Value: 2927998225831423325
+      - Id:
+          Value: 3812381696968463480
+      - Id:
+          Value: 1150231968497457131
+      - Id:
+          Value: 1063191840764032491
+      - Id:
+          Value: 34714741741033522
+      - Id:
+          Value: 3535722035496735093
+      - Id:
+          Value: 1892870958535960296
+      - Id:
+          Value: 2488107039293153514
+      StateInheritedGroups:
+      - Name:
+          Value: On Exit
+          Hash: -1916462792
+        EventToReact: 2
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Touch Floor
+          Hash: 552812971
+        EventToReact: 20
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Leave Floor
+          Hash: -492474547
+        EventToReact: 24
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Instant Jump
+          Hash: 171422061
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Animation End
+          Hash: -154464824
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Moveset Limiter Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/CharacterBase Moveset Limiter Data
+      Guid:
+        Value: 1382520065875389847
+    CustomMovesetLimiters:
+    - MoveName:
+        Value: Air Jump
+        Hash: 2133937777
+      LimitData:
+        MaxUses: 1
+        ResetOnHurt:
+          Value: 0
+        SpendGrounded:
+          Value: 0
+        SpendInAir:
+          Value: 1
+        UsesAvailable: 0

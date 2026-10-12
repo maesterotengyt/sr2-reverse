@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead Costume01 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/Costumes/Hothead Costume01 Prefab|EntityPrototype
+      Guid:
+        Value: 1020884796251874869
+    Container: {}
+  Parent: {fileID: 114067212629291419, guid: 3bb9c90a40a3a224da607757c5f613c3, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Update State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/On Update/On Update State
+      Guid:
+        Value: 2103745884379844751
+    Name:
+      Value: On Update
+      Hash: 981287727
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2462763571473409929
+      - Id:
+          Value: 3878916857480263226
+      - Id:
+          Value: 2020484945880305106
+      - Id:
+          Value: 2974840273479099019
+      - Id:
+          Value: 1615561060528265330
+      - Id:
+          Value: 3641417292643676879
+      - Id:
+          Value: 758597787379108492
+      StateInheritedGroups:
+      - Name:
+          Value: Reset Oscilation
+          Hash: 1086087514
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

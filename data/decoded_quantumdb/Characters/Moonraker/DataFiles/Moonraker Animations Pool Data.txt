@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Moonraker Animations Pool Data
+      Guid:
+        Value: 3668338340232022636
+    ClipsDataRefs:
+    - Id:
+        Value: 1325718924654190226
+    - Id:
+        Value: 3833693500853679192
+    - Id:
+        Value: 831109284442802013
+    - Id:
+        Value: 3804109962317843180
+    - Id:
+        Value: 2068897552047194509
+    - Id:
+        Value: 2361057700809546924
+    - Id:
+        Value: 1358613969595539405
+    - Id:
+        Value: 2142492276939732957
+    - Id:
+        Value: 2135523510833619952
+    - Id:
+        Value: 1667287415489210027
+    - Id:
+        Value: 3473360602350472077
+    - Id:
+        Value: 2090913844620800385
+    - Id:
+        Value: 4163020488676638523
+    - Id:
+        Value: 1116338129150233640
+    - Id:
+        Value: 170837524504279423
+    - Id:
+        Value: 2785154654568651533
+    - Id:
+        Value: 724249256851451792
+    - Id:
+        Value: 1261340775864123617
+    - Id:
+        Value: 2904613006848513472
+    - Id:
+        Value: 2907181441267531669
+    - Id:
+        Value: 3427934042644596451
+    - Id:
+        Value: 4285210480816845350
+    - Id:
+        Value: 2729066328966476034
+    - Id:
+        Value: 3471507451341401087
+    - Id:
+        Value: 1039516629908867354
+    - Id:
+        Value: 4148610440435213972
+    - Id:
+        Value: 1819948798702798456
+    - Id:
+        Value: 3089265613348210310
+    - Id:
+        Value: 2859468372511125703
+    - Id:
+        Value: 123044930104427473
+    - Id:
+        Value: 4185956478601743510
+    - Id:
+        Value: 3109950506882826996
+    - Id:
+        Value: 1495961818276727585
+    - Id:
+        Value: 4470006600260089305
+    - Id:
+        Value: 4442925365865784965
+    - Id:
+        Value: 3562523897438429561
+    - Id:
+        Value: 2799372996642011545
+    - Id:
+        Value: 653117682588247777
+    - Id:
+        Value: 1378575264062364357
+    - Id:
+        Value: 2651277548360913110
+    - Id:
+        Value: 4099799415335252525
+    - Id:
+        Value: 4493106943294005096
+    - Id:
+        Value: 1160035289287565395
+    - Id:
+        Value: 4254157681288219614
+    - Id:
+        Value: 1240572087530161070
+    - Id:
+        Value: 1477002764255743782
+    - Id:
+        Value: 1174297202244817728
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Moonraker
+  ClipsInputPath: Assets/ProductionAssets/Characters/Moonraker/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/Moonraker/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Moonraker/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 9e1b1c7db2523bd42ba71fcc0d7572e5, type: 2}
+  - {fileID: 11400000, guid: c1ce93ddb7395fa43a1b84d92bd928a9, type: 2}
+  - {fileID: 11400000, guid: ca2d8a77ca235e941a5e56ae95710a71, type: 2}
+  - {fileID: 11400000, guid: f29f7e06031e5504bab0829dcfca0965, type: 2}
+  - {fileID: 11400000, guid: 5762eabd2ecac3643ba80a12cbc7f223, type: 2}
+  - {fileID: 11400000, guid: 6f36aac93e809914692f05aade92cbeb, type: 2}
+  - {fileID: 11400000, guid: 495327800e5ca0c46a3edc3b8e4caf5a, type: 2}
+  - {fileID: 11400000, guid: acb50d83bffb4534dbd4ffa87b7f993a, type: 2}
+  - {fileID: 11400000, guid: 16ba37ac599ab714bb37fe394573d74d, type: 2}
+  - {fileID: 11400000, guid: 45ef52b04160c6d40aa83080f220243e, type: 2}
+  - {fileID: 11400000, guid: 3c112f6a558559b499c9f1edcb8fac3c, type: 2}
+  - {fileID: 11400000, guid: bc02bfa97bd87bb41bc19f6555f375bc, type: 2}
+  - {fileID: 11400000, guid: c99c98e912ae1004db6a84d8c7d23adb, type: 2}
+  - {fileID: 11400000, guid: d94fabbb55f23be4d9270819a7734793, type: 2}
+  - {fileID: 11400000, guid: 44226692e2ae4cb4b98a0bb5a5fa8ce5, type: 2}
+  - {fileID: 11400000, guid: 10e8488adaeed634388d3e583fffb8f8, type: 2}
+  - {fileID: 11400000, guid: 30bbbbbf5f410cb458b8370d82fb4750, type: 2}
+  - {fileID: 11400000, guid: 9382e3db0abb82445a4c24c69274ec84, type: 2}
+  - {fileID: 11400000, guid: 49260109cc997f34daa346165932d8e0, type: 2}
+  - {fileID: 11400000, guid: 84adcd009036ac84d898e8536132495f, type: 2}
+  - {fileID: 11400000, guid: 746e8a5205763944094a65049d88cca0, type: 2}
+  - {fileID: 11400000, guid: c996b726e4277124a877bca69b25923a, type: 2}
+  - {fileID: 11400000, guid: 63661af9a9954e548af9b85d53d52d96, type: 2}
+  - {fileID: 11400000, guid: 9d28367f9db89c246a323821b2e3023a, type: 2}
+  - {fileID: 11400000, guid: 7a63c32bd7625a54c8e6bd1a16f0c3c7, type: 2}
+  - {fileID: 11400000, guid: f9534fc97413e334c99b3f94de2f3f89, type: 2}
+  - {fileID: 11400000, guid: 27fb01621fb27594f8914adef13cd8de, type: 2}
+  - {fileID: 11400000, guid: 4f0355a8eeda4ad4cb9597908a948e02, type: 2}
+  - {fileID: 11400000, guid: 58615bbe945deb14d9f9496c0915a132, type: 2}
+  - {fileID: 11400000, guid: 2eff1efba3d352247b0afb261c538199, type: 2}
+  - {fileID: 11400000, guid: b132bb9c5826fc24991d94fcd6b32cb2, type: 2}
+  - {fileID: 11400000, guid: a6dc870b0079a8e469b088206f81ca7b, type: 2}
+  - {fileID: 11400000, guid: 3091acf18cbfb214a875621ed92b9554, type: 2}
+  - {fileID: 11400000, guid: 48d7afcf05fa55348bec58b50faca277, type: 2}
+  - {fileID: 11400000, guid: 49c474a2ad96f654894414112ebf86b3, type: 2}
+  - {fileID: 11400000, guid: d674cce559058a54499328c94e04f9ac, type: 2}
+  - {fileID: 11400000, guid: fabce30b7f583634f99deb215d9e033a, type: 2}
+  - {fileID: 11400000, guid: 5477f492c379f5c4cb931694737799a0, type: 2}
+  - {fileID: 11400000, guid: 0d12b1a3a6e8ae94d8877bff3422af94, type: 2}
+  - {fileID: 11400000, guid: 59dc0f5a1c5675d4c8a4b895d5878d61, type: 2}
+  - {fileID: 11400000, guid: 3a4a33e7ed6dcc44ba2036bcd709fcfb, type: 2}
+  - {fileID: 11400000, guid: 762d791d1dc7cd844a1c547340458d87, type: 2}
+  - {fileID: 11400000, guid: 2687d264838256242a792b25809fa36e, type: 2}
+  - {fileID: 11400000, guid: c68d919dfe5be694fad9b4c797df70b7, type: 2}
+  - {fileID: 11400000, guid: 8475b43676aba4145b12f61fbe1588bb, type: 2}
+  - {fileID: 11400000, guid: e322f1b3cda7b6d489855c0dc38b2fc6, type: 2}
+  - {fileID: 11400000, guid: 6906991c5ee0af24ebb4d22d155056f1, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

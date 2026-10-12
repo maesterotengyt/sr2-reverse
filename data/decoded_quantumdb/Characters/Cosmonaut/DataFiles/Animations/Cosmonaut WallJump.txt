@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut WallJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut WallJump
+      Guid:
+        Value: 3804896313898589155
+    ClipIndex: 42
+    ClipName:
+      Value: WallJump
+      Hash: 650645186
+    Duration: 0.28333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e08df542918e3ab4885e35afc0d29147, type: 2}

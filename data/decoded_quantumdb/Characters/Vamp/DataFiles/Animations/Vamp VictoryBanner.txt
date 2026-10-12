@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp VictoryBanner
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp VictoryBanner
+      Guid:
+        Value: 2220664981288917798
+    ClipIndex: 41
+    ClipName:
+      Value: VictoryBanner
+      Hash: -314007297
+    Duration: 1.3833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 77a21c04c47f21443a7f987ce2f90478, type: 2}

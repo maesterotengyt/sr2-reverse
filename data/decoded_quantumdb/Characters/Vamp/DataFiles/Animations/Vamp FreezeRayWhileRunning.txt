@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp FreezeRayWhileRunning
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp FreezeRayWhileRunning
+      Guid:
+        Value: 412810495227767818
+    ClipIndex: 7
+    ClipName:
+      Value: FreezeRayWhileRunning
+      Hash: 369790486
+    Duration: 0.71666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 63cf5ac9f7f9d1d4ebb44f72f0cf37fd, type: 2}

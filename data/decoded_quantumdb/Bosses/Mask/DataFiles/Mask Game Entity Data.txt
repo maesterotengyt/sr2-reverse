@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Mask Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/Mask Game Entity Data
+      Guid:
+        Value: 2418942542292661212
+    EntityName:
+      Value: Mask
+      Hash: 31464042
+    EntityType: 5
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 396826219338701195
+    RotationPivot:
+      X: 0
+      Y: 0
+    HasEntityModifier: 1
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 3498459296528500791
+    HasCustomAnimator: 1
+    AnimationsPoolData:
+      Id:
+        Value: 638207064401019700
+    BakedJointsData:
+      Id:
+        Value: 2351349089320125103
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 804210515745027492
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 969348729072674712
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 0
+    MovesetLimiterData:
+      Id:
+        Value: 0

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GeneralTrigger Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/GeneralTrigger/Costumes/GeneralTrigger Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 4156768069311227408
+    Container: {}
+  Parent: {fileID: 114243736805655561, guid: 6d081d0fdc98dc44babba60f8fb53e3a, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SlopeRoom_RoomConfig
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/Endless/SlopeRoom_RoomConfig
+      Guid:
+        Value: 1188513097444209982
+    Entities:
+    - Prototype:
+        Id:
+          Value: 3374164896480486870
+      RelativePosition:
+        X: -30
+        Y: 6.77
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2424595101815919283
+      RelativePosition:
+        X: 6.75
+        Y: 11.27
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2424595101815919283
+      RelativePosition:
+        X: 25
+        Y: 5.02
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 1655995809442573328
+      RelativePosition:
+        X: 7.1
+        Y: 3.27
+        Z: 0

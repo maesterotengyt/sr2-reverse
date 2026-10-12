@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Jump
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase Jump
+      Guid:
+        Value: 474477581836711435
+    ClipIndex: 9
+    ClipName:
+      Value: Jump
+      Hash: -1061763892
+    Duration: 0.33333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 560e13c26684dfc4e9a1dd3474524fd3, type: 2}

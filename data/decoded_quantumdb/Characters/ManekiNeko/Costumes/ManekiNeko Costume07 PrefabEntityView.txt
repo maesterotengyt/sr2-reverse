@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko Costume07 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/Costumes/ManekiNeko Costume07 Prefab|EntityView
+      Guid:
+        Value: 1885993326357599343
+  Parent: {fileID: 114016852445014956, guid: 54e7202e8e7cf314fa56dc34facbd15a, type: 2}

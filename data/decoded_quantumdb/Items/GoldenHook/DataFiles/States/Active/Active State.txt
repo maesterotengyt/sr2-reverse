@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/GoldenHook/DataFiles/States/Active/Active State
+      Guid:
+        Value: 2123711669687789717
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2094197673171653718
+      - Id:
+          Value: 206196188640171536
+      - Id:
+          Value: 3350658447100263362
+      - Id:
+          Value: 2721022670580582703
+      - Id:
+          Value: 2215556366134038879
+      - Id:
+          Value: 2331940205794319870
+      - Id:
+          Value: 4055950500417047550
+      - Id:
+          Value: 2415288076120163554
+      - Id:
+          Value: 2660280865085712335
+      - Id:
+          Value: 2088496314250918254
+      - Id:
+          Value: 3432231429585428034
+      - Id:
+          Value: 963880722279468410
+      - Id:
+          Value: 1002570238371140659
+      StateInheritedGroups:
+      - Name:
+          Value: On Collision Detected
+          Hash: 1954166713
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Attract Started
+          Hash: -1208483773
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Attract Finished
+          Hash: 579510892
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Timeout
+          Hash: -572225405
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Hurt
+          Hash: -708559012
+        EventToReact: 11
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Destroy
+          Hash: 785740353
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Detect Slide Target
+          Hash: -342378862
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Detect Wall Slide Target
+          Hash: 440582082
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: TrapDoor Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/TrapDoor/Costumes/TrapDoor Costume00 Prefab|EntityView
+      Guid:
+        Value: 1906515630784208050
+  Parent: {fileID: 114061268324235159, guid: 9bca76afb97516e47a548a3fd9cbcaee, type: 2}

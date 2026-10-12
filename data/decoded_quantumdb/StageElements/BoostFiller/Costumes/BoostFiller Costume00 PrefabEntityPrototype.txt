@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BoostFiller Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BoostFiller/Costumes/BoostFiller Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 480049861659409375
+    Container: {}
+  Parent: {fileID: 114044625135789424, guid: 3a012b8054569c149aa1dcb70b19d8b7, type: 2}

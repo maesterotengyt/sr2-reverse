@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FrogBombBall State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/Projectiles/FrogBombBall/DataFiles/FrogBombBall State Machine Data
+      Guid:
+        Value: 2018445045904524628
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 489853222176087567
+    - Id:
+        Value: 505701528594615828
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

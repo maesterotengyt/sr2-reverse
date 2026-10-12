@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Inactive State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BreakableGlass/DataFiles/States/Inactive/Inactive State
+      Guid:
+        Value: 920149526531927273
+    Name:
+      Value: Inactive
+      Hash: -200295523
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 986399031802294996
+      - Id:
+          Value: 3611537737415905716
+      - Id:
+          Value: 2751554872779750892
+      - Id:
+          Value: 4131184363881190022
+      - Id:
+          Value: 3615674740693562958
+      StateInheritedGroups:
+      - Name:
+          Value: Restore
+          Hash: 1541378822
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

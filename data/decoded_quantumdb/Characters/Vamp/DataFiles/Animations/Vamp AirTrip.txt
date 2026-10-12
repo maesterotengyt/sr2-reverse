@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp AirTrip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp AirTrip
+      Guid:
+        Value: 2300078658927817624
+    ClipIndex: 1
+    ClipName:
+      Value: AirTrip
+      Hash: -1049965485
+    Duration: 0.54999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 78eef9ecc831f5c46883a32fd158f8ec, type: 2}

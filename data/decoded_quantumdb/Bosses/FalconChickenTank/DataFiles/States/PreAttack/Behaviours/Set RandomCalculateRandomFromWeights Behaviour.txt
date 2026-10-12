@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Set RandomCalculateRandomFromWeights Behaviour
+  Notes:
+  EditorName: Set Random
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/PreAttack/Behaviours/Set RandomCalculateRandomFromWeights Behaviour
+      Guid:
+        Value: 2296700390487490864
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    WeightElements:
+    - ID:
+        Value: Attack1
+        Hash: 775182663
+      Weight: 20
+      OutputValue: 1
+    - ID:
+        Value: Attack2
+        Hash: -190750014
+      Weight: 8
+      OutputValue: 2
+    - ID:
+        Value: Attack3
+        Hash: 1830623011
+      Weight: 20
+      OutputValue: 3
+    - ID:
+        Value: Taunt
+        Hash: -1374391527
+      Weight: 4
+      OutputValue: 4
+    ParameterID:
+      Value: RandomAttack
+      Hash: 817855285

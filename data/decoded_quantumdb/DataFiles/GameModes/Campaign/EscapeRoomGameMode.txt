@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: EscapeRoomGameMode
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value:
+      Hash: 0
+    IdleState:
+      Value:
+      Hash: 0
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+  Settings_EscapeRoomGameMode:
+    Identifier:
+      Path: QuantumDB/DataFiles/GameModes/Campaign/EscapeRoomGameMode
+      Guid:
+        Value: 4409015462843153587
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value: Entrance
+      Hash: 1408219545
+    IdleState:
+      Value: Idle
+      Hash: 1881327601
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+    WaitTimeBetweenRounds: 2
+    WaitTimeToReturnToMainMenu: 3
+    WaitTimeToShowBanners: 1
+    Courses:
+    - ID: Act1Chapter1
+      LevelToLoad:
+        Value: Moon
+        Hash: 1405653787
+      LayoutToLoad: B
+      HasTimer: 1
+      TimerSeconds:
+      - RawValue: 4915200
+      - RawValue: 4259840
+      - RawValue: 3604480
+      - RawValue: 2949120
+      OnTimerCompletion: 1
+    - ID: Act3Chapter6
+      LevelToLoad:
+        Value: RedZone
+        Hash: -627102727
+      LayoutToLoad: Standard
+      HasTimer: 1
+      TimerSeconds:
+      - RawValue: 2293760
+      - RawValue: 2031616
+      - RawValue: 1769472
+      - RawValue: 1507328
+      OnTimerCompletion: 1
+    DialogueSpeedModifier:
+      ID:
+        Value: Dialogue
+        Hash: 451757778
+      Multiplier: 0
+      AlterSimulation: 1
+      AlterEngine: 0
+    EndSlowDownSpeedModifier:
+      ID:
+        Value:
+        Hash: 0
+      Multiplier: 0.2
+      AlterSimulation: 1
+      AlterEngine: 0

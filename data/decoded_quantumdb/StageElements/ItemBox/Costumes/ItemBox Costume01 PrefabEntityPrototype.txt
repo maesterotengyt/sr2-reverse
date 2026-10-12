@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ItemBox Costume01 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/ItemBox/Costumes/ItemBox Costume01 Prefab|EntityPrototype
+      Guid:
+        Value: 2424595101815919283
+    Container: {}
+  Parent: {fileID: 114470112387431263, guid: 835a3ab31a6ddc244899a0ee0c6cea42, type: 2}

@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CollectorTreasure Costume03EntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/CollectorTreasure/Costumes/CollectorTreasure Costume03|EntityPrototype
+      Guid:
+        Value: 882971696541126467
+    Container: {}
+  Parent: {fileID: 114002669891404536, guid: da72f78824e9da34298adfbb47033304, type: 2}

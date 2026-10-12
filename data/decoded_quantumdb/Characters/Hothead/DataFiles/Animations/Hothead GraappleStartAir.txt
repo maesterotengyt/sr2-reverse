@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead GraappleStartAir
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Animations/Hothead GraappleStartAir
+      Guid:
+        Value: 3885107303655665680
+    ClipIndex: 7
+    ClipName:
+      Value: GraappleStartAir
+      Hash: 1559837673
+    Duration: 0.31667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 317734cded5505c45b17faf8f3c471eb, type: 2}

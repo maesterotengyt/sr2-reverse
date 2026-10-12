@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp Taunt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp Taunt
+      Guid:
+        Value: 1347559191429161579
+    ClipIndex: 36
+    ClipName:
+      Value: Taunt
+      Hash: -1374391527
+    Duration: 2.7833
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 49c09b23c30a231459f86cf0cf0ac1ed, type: 2}

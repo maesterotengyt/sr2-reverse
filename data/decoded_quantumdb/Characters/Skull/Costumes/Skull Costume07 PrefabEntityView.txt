@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull Costume07 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/Costumes/Skull Costume07 Prefab|EntityView
+      Guid:
+        Value: 4466356782825988950
+  Parent: {fileID: 114904079258986964, guid: f6fa1c755063d984dac0649aafc8ab5d, type: 2}

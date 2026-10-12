@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StageManager State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/StageManager/DataFiles/StageManager State Machine Data
+      Guid:
+        Value: 821657745975949700
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: TriggerID
+        Hash: -1749762173
+      Value: 0
+      Notes:
+    - Name:
+        Value: LLaserID
+        Hash: 1170476268
+      Value: 0
+      Notes:
+    - Name:
+        Value: RLaserID
+        Hash: 1160405034
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 2843830254871050481
+    - Id:
+        Value: 1952282114168440979
+    - Id:
+        Value: 2575694762866668803
+    InitialState:
+      Value: Init
+      Hash: -136512679
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

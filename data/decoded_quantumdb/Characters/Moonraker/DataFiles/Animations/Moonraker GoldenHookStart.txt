@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Moonraker GoldenHookStart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Moonraker/DataFiles/Animations/Moonraker GoldenHookStart
+      Guid:
+        Value: 2135523510833619952
+    ClipIndex: 8
+    ClipName:
+      Value: GoldenHookStart
+      Hash: -1264408990
+    Duration: 0.45
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d50b622287a514f4d8180070ac8890fb, type: 2}

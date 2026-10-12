@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunnersSettingsData
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/SpeedRunnersSettingsData
+      Guid:
+        Value: 1226702109004107789
+    DefaultViewPort:
+      BottomRight:
+        X: 40
+        Y: -22.5
+      TopLeft:
+        X: 0
+        Y: 0
+    MinZoom: 1
+    MaxZoom: 1.35
+    ZoomInSpeed: 0.5
+    ZoomOutSpeed: 5
+    MovementSmoothing: 6
+    CameraOffset:
+      X: 0
+      Y: 4.6875
+    MaxDistanceToCenter:
+      X: 0.34999
+      Y: 0.34999
+    MaxSuddenDeathZoom: 0.34999
+    SinglePlayerMovementSmoothing: 5
+    SinglePlayerCameraOffset:
+      X: 0
+      Y: 3.3
+    RoundWonSlowdownMultiplier: 0.2
+    InviciDrillActiveVFX_ID:
+      Value: InviciDrillActive
+      Hash: -1883472775
+    InviciDrillGroundedVFX_ID:
+      Value: InviciDrillGrounded
+      Hash: 279197851
+    SwitchActivationVFX_ID:
+      Value: SwitchActivation
+      Hash: 1557321439
+    SuperSpeedAccoladeCooldownFrames: 180
+    BigAirAccoladeCooldownFrames: 180
+    FloorIsLavaAccoladeRequiredFrames: 1800
+    SuperSpeedVFX_ID:
+      Value: AccoladeSuperSpeed
+      Hash: 621397095
+    DoubleHitVFX_ID:
+      Value: AccoladeDouble
+      Hash: -939834365
+    TripleHitVFX_ID:
+      Value: AccoladeTriple
+      Hash: -1770486189
+    BackfiredVFX_ID:
+      Value: AccoladeBackfired
+      Hash: 560683089
+    BigAirVFX_ID:
+      Value: AccoladeBigAir
+      Hash: 1221464866
+    TackleVFX_ID:
+      Value: AccoladeTackle
+      Hash: -2116265275
+    GotchaVFX_ID:
+      Value: AccoladeGotcha
+      Hash: 858688756
+    RevengeVFX_ID:
+      Value: AccoladeRevenge
+      Hash: 523816304
+    StillAliveVFX_ID:
+      Value: AccoladeStillAlive
+      Hash: -670355085
+    DodgedVFX_ID:
+      Value: AccoladeDodged
+      Hash: 383580860
+    TheDistanceVFX_ID:
+      Value: AccoladeTheDistance
+      Hash: 419603899
+    FreezeVFX_ID:
+      Value: AccoladeFreeze
+      Hash: -1579117908
+    DeflectedVFX_ID:
+      Value: AccoladeDeflected
+      Hash: -1051596475
+    BlockedVFX_ID:
+      Value: AccoladeBlocked
+      Hash: -1796263642
+    TreasureVFX_ID:
+      Value: AccoladeTreasure
+      Hash: -687593473
+    SwitchActivationSFX_ID: event:/StageElements/TrapDoorActivation
+    SuddenDeathActivationSFX_ID: event:/StageElements/Sudden Death Activate
+    BoostSFX_ID: event:/CharactersSFX/CharacterBase/SuperSpeed
+    SlopeSurfGoalID:
+      Value: SlopeSurf
+      Hash: -917258393
+    ReverseGrappleGoalID:
+      Value: ReverseGrapple
+      Hash: 1419995603
+    BlastzoneMinimalSizePercent: 0.34999
+    BlastzoneReduceSpeed: 0.0099945
+    BlastzoneTimeToForceReduction: 120
+    BlastzoneTimeToShowTimer: 30
+    LastPlayerFramesInBlastzoneToKO: 25
+    NonLastPlayerFramesInBlastzoneToKO: 115
+    RocketKnockback: 15.625
+    DefaultAttackKnockback: 12.5
+    HookCooldownFrames: 15
+    SlideCooldownFrames: 30
+    WallSlideCooldownFrames: 10
+    ObstacleCooldownTime: 24
+    RoundStartItemUseCooldownFrames: 50
+    ItemUseCooldownFramesOnPickup: 30
+    ReverseGrappleWindowFrames: 6
+    CaterpillarWindowFrames: 8
+    MinBoost: 0
+    MaxBoost: 100
+    BoostDepletionRate: 42
+    BoostFillRate: 200
+    SinglePlayerBoostFillMultiplier: 1.1
+    JumpFrames: 15
+    JumpPower: 89.875
+    DoubleJumpPower: 6.25
+    WallJumpPower: 46.875
+    WallJumpUpwardMotionRetainer: 0.5
+    WallJumpAngle: 77.5
+    CaterpillarSpeedBoost: 22
+    AboveWallCheckLinecastStart:
+      X: 0
+      Y: 1.6
+    AboveWallCheckLinecastDistance: 1.5
+    DistanceToStepUp: 0.79999
+    StepUpLinecastStart:
+      X: 1
+      Y: 1.2
+    StepUpLinecastDistance: 4
+    StepUpLinecastColor:
+      R: 255
+      G: 87
+      B: 0
+      A: 255
+    SlopeVelocityInheritanceMultiplier: 1
+    UpSlopeMultiplier: 1
+    DownSlopeMultiplier: 1
+    MaxWalkVelocity: 10.375
+    MaxRunVelocity: 19.75
+    MaxBoostVelocity: 29.125
+    MaxHookVelocity: 24.737
+    MinVelocityToSlide: 9.375
+    MinVelocityForRunTurn: 3
+    VelocityForSuperSpeed: 25
+    Gravity: 31.5
+    MaxFallSpeed: 40.35
+    MinVelocity: 1
+    MinVelocityForTrip: 2
+    MinVelocityForDrag: 10.375
+    TerminalVelocity: 46.875
+    BrakeDeceleration: 37.5
+    SlideDeceleration: 8.5938
+    SlideDecelerationPostBoosting: 12.5
+    SlideDecelerationForBoost: 3.125
+    BoostDeceleration: 9.025
+    WalkAcceleration: 29.125
+    RunAcceleration: 8.8125
+    AirAcceleration: 5.6875
+    AirAccelerationAfterWallJump: 20.75
+    BoostWalkAcceleration: 76.35
+    BoostRunAcceleration: 38.85
+    BoostAcceleration: 26.7
+    GroundDeceleration: 18.75
+    AirDeceleration: 6.25
+    MaxSwingSpeed: 24.938
+    SwingDeceleration: 2.125
+    MaxSuperBoostVelocity: 38.5
+    SuperBoostAcceleration: 18.75
+    SuperBoostDeceleration: 18.75
+    StunnedAcceleration: 0.9375
+    StunnedTurnAcceleration: 4.6875
+    StunnedDeceleration: 2.8125
+    StunnedMaxVelocity: 8.25
+    SlopeSurfActivationVFX_ID:
+      Value: SlopeSurfActivation
+      Hash: -1923357200
+    SlopeSurfActivationSFX_ID:
+      Value:
+      Hash: 0
+    SlopeSurfVerticalVelocityThreshold: 0.5
+    SlopeSurfCooldown: 90
+    FramesToGetBigAir: 240
+    AllowedGrappleSwingForBigAir: 2

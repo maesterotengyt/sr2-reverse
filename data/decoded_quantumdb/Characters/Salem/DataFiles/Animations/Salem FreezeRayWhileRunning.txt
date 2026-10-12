@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem FreezeRayWhileRunning
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem FreezeRayWhileRunning
+      Guid:
+        Value: 3795084884748953316
+    ClipIndex: 7
+    ClipName:
+      Value: FreezeRayWhileRunning
+      Hash: 369790486
+    Duration: 1.25
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 76333247b44e14d458b20313eaa980ac, type: 2}

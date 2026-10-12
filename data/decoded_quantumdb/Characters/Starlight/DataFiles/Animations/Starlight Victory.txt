@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight Victory
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight Victory
+      Guid:
+        Value: 1748807451450694885
+    ClipIndex: 40
+    ClipName:
+      Value: Victory
+      Hash: 1312362448
+    Duration: 2.75
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 83eae4eea2c2d354f85f00755f024b86, type: 2}

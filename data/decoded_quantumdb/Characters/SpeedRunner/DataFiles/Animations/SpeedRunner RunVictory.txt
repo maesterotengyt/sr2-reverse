@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner RunVictory
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner RunVictory
+      Guid:
+        Value: 678846514444498322
+    ClipIndex: 44
+    ClipName:
+      Value: RunVictory
+      Hash: 548148116
+    Duration: 1.6
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 18dad54e322f1b54d9b2ca2939f605de, type: 2}

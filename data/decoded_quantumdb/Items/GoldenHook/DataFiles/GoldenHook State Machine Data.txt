@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GoldenHook State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/GoldenHook/DataFiles/GoldenHook State Machine Data
+      Guid:
+        Value: 4331878934610329995
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables:
+    - Name:
+        Value: Hooked
+        Hash: -670072994
+      Value: 0
+      Notes:
+    States:
+    - Id:
+        Value: 2123711669687789717
+    InitialState:
+      Value: Active
+      Hash: 1190910911
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

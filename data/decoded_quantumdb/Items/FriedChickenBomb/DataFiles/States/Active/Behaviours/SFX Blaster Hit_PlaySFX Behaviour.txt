@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SFX Blaster Hit_PlaySFX Behaviour
+  Notes:
+  EditorName: SFX Blaster Hit
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FriedChickenBomb/DataFiles/States/Active/Behaviours/SFX Blaster Hit_PlaySFX Behaviour
+      Guid:
+        Value: 474529951690010691
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Hit
+      Hash: -739188597
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    SFXEventName: event:/Items/BlasterHit
+    UpdateSoundPosition: 0
+    Delay: 0
+    SetParameters: 0
+    ParameterName:
+    ParameterType: 0
+    ParameterStringValue:
+    ParameterFloatValue: 0

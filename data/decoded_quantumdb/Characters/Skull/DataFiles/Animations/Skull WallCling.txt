@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull WallCling
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull WallCling
+      Guid:
+        Value: 208622717844638347
+    ClipIndex: 43
+    ClipName:
+      Value: WallCling
+      Hash: 230432264
+    Duration: 0.83333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 3e870edf96ea5864583855155343267a, type: 2}

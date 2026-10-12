@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Mask Costume00 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Costumes/Mask Costume00 Prefab|EntityView
+      Guid:
+        Value: 901599174563785687
+  Parent: {fileID: 114007513189690300, guid: cbc4f053c8c28b045832f645bec2c316, type: 2}

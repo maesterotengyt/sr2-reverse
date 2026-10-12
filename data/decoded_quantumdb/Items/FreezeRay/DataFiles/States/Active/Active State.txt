@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/FreezeRay/DataFiles/States/Active/Active State
+      Guid:
+        Value: 4385518481222554872
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1039283128642065130
+      - Id:
+          Value: 86907481351792292
+      - Id:
+          Value: 2452331359283674065
+      - Id:
+          Value: 2290580342942155884
+      - Id:
+          Value: 3908224795010649176
+      - Id:
+          Value: 1609838327067995980
+      - Id:
+          Value: 2573614149714679348
+      - Id:
+          Value: 3452457088544677348
+      - Id:
+          Value: 2744995141927527705
+      - Id:
+          Value: 2060651727356059799
+      - Id:
+          Value: 3254486793571898804
+      StateInheritedGroups:
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

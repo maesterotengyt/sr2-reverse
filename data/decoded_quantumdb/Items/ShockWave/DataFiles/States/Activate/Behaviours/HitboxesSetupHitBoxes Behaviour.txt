@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: HitboxesSetupHitBoxes Behaviour
+  Notes:
+  EditorName: Hitboxes
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/ShockWave/DataFiles/States/Activate/Behaviours/HitboxesSetupHitBoxes Behaviour
+      Guid:
+        Value: 70939701745043266
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    HitBoxes:
+    - ID:
+        Value: Activate
+        Hash: -824879934
+      StartFrame: 0
+      EndFrame: 40
+      Radius: 1
+      HitBoxType: 0
+      Priority: 0
+      HitBoxPositionType: 1
+      JointID:
+        Value:
+        Hash: 0
+      AttackDatas:
+      - Value: ShockwaveStart
+        Hash: 516399314
+      PointPositions:
+      - Frame: 0
+        Position:
+          X: 0
+          Y: 0.5
+      PointOffsets: []

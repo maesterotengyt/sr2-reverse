@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Jump_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Jump
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Slide/Behaviours/Go To Jump_ChangeState Behaviour
+      Guid:
+        Value: 1294618191073898401
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 1
+    Conditions: []
+    GroupName:
+      Value: Instant Jump
+      Hash: 171422061
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Jump
+        Hash: -1061763892
+      TransitionFrames: 0

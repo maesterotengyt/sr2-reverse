@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Idle State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Idle/Idle State
+      Guid:
+        Value: 2390453511936574794
+    Name:
+      Value: Idle
+      Hash: 1881327601
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3006832530107487491
+      - Id:
+          Value: 994192921732259743
+      - Id:
+          Value: 1375908777357982766
+      - Id:
+          Value: 886113112720644376
+      - Id:
+          Value: 1594527044316230770
+      - Id:
+          Value: 3476010616575069732
+      - Id:
+          Value: 414653877652809683
+      StateInheritedGroups: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ManekiNeko JumpInPlace
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/ManekiNeko/DataFiles/Animations/ManekiNeko JumpInPlace
+      Guid:
+        Value: 1449349711559825883
+    ClipIndex: 20
+    ClipName:
+      Value: JumpInPlace
+      Hash: -1974450650
+    Duration: 0.95
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    - Frame: 57
+      ObjectsVisibilityData:
+      - MeshHash: -1416311464
+        Value: 0
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 75870df5e5b353542a199e1114e5537f, type: 2}

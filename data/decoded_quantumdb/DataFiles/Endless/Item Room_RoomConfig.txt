@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Item Room_RoomConfig
+  Settings:
+    Identifier:
+      Path: QuantumDB/DataFiles/Endless/Item Room_RoomConfig
+      Guid:
+        Value: 467283645100301041
+    Entities:
+    - Prototype:
+        Id:
+          Value: 674344043710558893
+      RelativePosition:
+        X: 0
+        Y: -0.029999
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 674344043710558893
+      RelativePosition:
+        X: -22
+        Y: -0.029999
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2366428563159723370
+      RelativePosition:
+        X: -25
+        Y: 4.97
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2366428563159723370
+      RelativePosition:
+        X: -10
+        Y: 7.97
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 480049861659409375
+      RelativePosition:
+        X: -25
+        Y: 6.02
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 480049861659409375
+      RelativePosition:
+        X: -10
+        Y: 9.02
+        Z: 0
+    - Prototype:
+        Id:
+          Value: 2424595101815919283
+      RelativePosition:
+        X: -18.25
+        Y: 9.27
+        Z: 0

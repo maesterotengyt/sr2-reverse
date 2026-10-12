@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_FalconTank Intro
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/Animations/Boss_FalconTank Intro
+      Guid:
+        Value: 3037207206298774516
+    ClipIndex: 6
+    ClipName:
+      Value: Intro
+      Hash: 1856239017
+    Duration: 2
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: cd45979bfa109874399424f3787478f5, type: 2}

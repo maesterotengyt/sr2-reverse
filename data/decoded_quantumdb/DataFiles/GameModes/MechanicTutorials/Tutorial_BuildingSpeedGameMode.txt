@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Tutorial_BuildingSpeedGameMode
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 0
+    InitialTimerFrames: 30
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value:
+      Hash: 0
+    IdleState:
+      Value:
+      Hash: 0
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+  Settings_MechanicTutorialGameMode:
+    Identifier:
+      Path: QuantumDB/DataFiles/GameModes/MechanicTutorials/Tutorial_BuildingSpeedGameMode
+      Guid:
+        Value: 897571623806345756
+    BlastzoneActive: 0
+    CheckpointsActive: 0
+    UseInitialTimer: 1
+    InitialTimerFrames: 15
+    TotalRespawnLength: 6
+    MinRespawnSpacing: 1
+    EntranceState:
+      Value: Entrance
+      Hash: 1408219545
+    IdleState:
+      Value: Idle
+      Hash: 1881327601
+    RespawnState:
+      Value: Respawn
+      Hash: 1003687952
+    LevelToLoad:
+      Value: AdvancedMechanicTutorial
+      Hash: 686610216
+    Sections:
+    - ID: Section 0
+      LayoutToLoad: BuildingSpeed0
+      GoalIDs:
+      - ID:
+          Value: ReachFinish
+          Hash: 330417348
+        LocalizationID: ReachFinish
+        RequiredNotificationsToComplete: 1
+      HurtEvents:
+        RestartOnFreeze: 0
+        RestartOnLethalObstacleHit: 0
+        RestartOnGoldenHookHit: 0
+      HasTimer: 0
+      TimerSeconds: 0
+      ActionOnTimerCompletion: 0
+      InitialMessage: BuildingSpeedSection0
+    - ID: Section 1
+      LayoutToLoad: BuildingSpeed1
+      GoalIDs:
+      - ID:
+          Value: ReachFinish
+          Hash: 330417348
+        LocalizationID: ReachFinish
+        RequiredNotificationsToComplete: 1
+      HurtEvents:
+        RestartOnFreeze: 0
+        RestartOnLethalObstacleHit: 0
+        RestartOnGoldenHookHit: 0
+      HasTimer: 0
+      TimerSeconds: 0
+      ActionOnTimerCompletion: 0
+      InitialMessage: BuildingSpeedSection1
+    - ID: Section 2
+      LayoutToLoad: BuildingSpeed2
+      GoalIDs:
+      - ID:
+          Value: ReachFinish
+          Hash: 330417348
+        LocalizationID: ReachFinish
+        RequiredNotificationsToComplete: 1
+      HurtEvents:
+        RestartOnFreeze: 0
+        RestartOnLethalObstacleHit: 0
+        RestartOnGoldenHookHit: 0
+      HasTimer: 0
+      TimerSeconds: 0
+      ActionOnTimerCompletion: 0
+      InitialMessage: BuildingSpeedSection2
+    - ID: Section 3
+      LayoutToLoad: BuildingSpeed3
+      GoalIDs:
+      - ID:
+          Value: ReachFinish
+          Hash: 330417348
+        LocalizationID: ReachFinish
+        RequiredNotificationsToComplete: 1
+      HurtEvents:
+        RestartOnFreeze: 0
+        RestartOnLethalObstacleHit: 1
+        RestartOnGoldenHookHit: 0
+      HasTimer: 1
+      TimerSeconds: 4.7
+      ActionOnTimerCompletion: 1
+      InitialMessage: BuildingSpeedSection3
+    - ID: Section 4
+      LayoutToLoad: BuildingSpeed4
+      GoalIDs:
+      - ID:
+          Value: ReachFinish
+          Hash: 330417348
+        LocalizationID: ReachFinish
+        RequiredNotificationsToComplete: 1
+      HurtEvents:
+        RestartOnFreeze: 0
+        RestartOnLethalObstacleHit: 1
+        RestartOnGoldenHookHit: 0
+      HasTimer: 0
+      TimerSeconds: 0
+      ActionOnTimerCompletion: 0
+      InitialMessage: BuildingSpeedSection4
+    InitialMessageSpeedModifier:
+      ID:
+        Value: TutorialStart
+        Hash: 1535270293
+      Multiplier: 0
+      AlterSimulation: 1
+      AlterEngine: 0
+    EndSlowDownSpeedModifier:
+      ID:
+        Value: InitialMessage
+        Hash: -1397298625
+      Multiplier: 0.2
+      AlterSimulation: 1
+      AlterEngine: 0

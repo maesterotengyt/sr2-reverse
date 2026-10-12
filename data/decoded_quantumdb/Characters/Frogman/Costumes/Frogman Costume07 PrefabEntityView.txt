@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman Costume07 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/Costumes/Frogman Costume07 Prefab|EntityView
+      Guid:
+        Value: 533693622558239760
+  Parent: {fileID: 114177930474251431, guid: b6e479c5e8d20a84589598e28cd17299, type: 2}

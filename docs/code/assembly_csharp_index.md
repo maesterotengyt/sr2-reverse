@@ -1,0 +1,2497 @@
+# Assembly-CSharp.dll - Unity client code
+
+2414 types.
+
+## Namespaces
+
+- `(global)`: 1824 class, 105 enum, 8 interface, 246 struct
+- `BKPureNature`: 3 class
+- `BrainFailProductions.PolyFew`: 7 class
+- `BrainFailProductions.PolyFew.AsImpL`: 16 class, 1 enum
+- `BrainFailProductions.PolyFew.AsImpL.MathUtil`: 4 class
+- `BrainFailProductions.PolyFewRuntime`: 5 class
+- `GameAnalyticsUtils.Utilities`: 1 class
+- `MasterStylizedExplosion`: 1 class
+- `MasterStylizedExplosions`: 2 class
+- `Microsoft.CodeAnalysis`: 1 class
+- `Photon.Realtime`: 41 class, 15 enum, 1 struct, 7 interface
+- `PilotoStudio`: 2 class
+- `Platforms.Xbox`: 11 class, 1 enum
+- `Quantum`: 31 class, 2 enum, 2 interface, 2 struct
+- `Quantum.Core`: 1 class
+- `Quantum.Prototypes.Unity`: 68 class
+- `System.Runtime.CompilerServices`: 1 class
+- `TankAndHealerStudioAssets`: 2 class
+- `UltimateChatBoxExample`: 3 class
+
+
+## (global) (2183 types)
+
+- class **<Module>** — 0 fields, 0 methods
+- class **<PrivateImplementationDetails>** — 8 fields, 1 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=13** — 0 fields, 0 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=16** — 0 fields, 0 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=288** — 0 fields, 0 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=32** — 0 fields, 0 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=37** — 0 fields, 0 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=58614** — 0 fields, 0 methods
+- struct **<PrivateImplementationDetails>.__StaticArrayInitTypeSize=80160** — 0 fields, 0 methods
+- class **AIVolume_Prototype.<>c__DisplayClass21_0** — 1 fields, 2 methods
+- class **AchievementDataEntry** — 6 fields, 1 methods
+- class **AchievementsData** : ScriptableObject — 1 fields, 1 methods
+- class **AchievementsManager** : SRMonoBehaviour — 1 fields, 10 methods
+- class **AchievementsManager.<>c__DisplayClass3_0** — 1 fields, 2 methods
+- class **AchievementsManager.<>c__DisplayClass8_0** — 1 fields, 2 methods
+- class **AchievementsManager.<>c__DisplayClass9_0** — 1 fields, 2 methods
+- struct **ActStatus** — 3 fields, 0 methods
+- class **ActiveBasicCharacterData** : MonoBehaviour — 1 fields, 2 methods
+- struct **ActiveTint** — 3 fields, 0 methods
+- class **AddHitLag_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **AddHitLag_BehaviourAssetExts** — 0 fields, 1 methods
+- class **AddStatusEffect_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **AddStatusEffect_BehaviourAssetExts** — 0 fields, 1 methods
+- class **AdvancedOperation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **AdvancedOperation_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **AdvancedTutorialInfo** — 6 fields, 0 methods
+- class **AdvancedTutorialMenuOption** : UINavigationElement — 3 fields, 3 methods
+- class **AdvancedTutorialMenuWorld** : MainMenuWorldScreen — 8 fields, 9 methods
+- class **AdvancedTutorialUIData** : ScriptableObject — 2 fields, 1 methods
+- class **AirDodge_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **AirDodge_BehaviourAssetExts** — 0 fields, 1 methods
+- class **AirHorizontalControl_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **AirHorizontalControl_BehaviourAssetExts** — 0 fields, 1 methods
+- class **AlertPopup** : UIPopup — 6 fields, 4 methods
+- class **AnalyticEngine** : MonoBehaviour — 0 fields, 1 methods
+- enum **AnalyticEvent**: None=0, StartMatchCharacters=1, StageSelected=2, GameModePlayed=3
+- struct **AnalyticsGameModePlayedData** — 1 fields, 0 methods
+- class **AnalyticsManager** : MonoBehaviour — 4 fields, 3 methods
+- struct **AnalyticsStageSelectedData** — 2 fields, 0 methods
+- class **AnimationBakedJointsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **AnimationBakedJointsDataAssetExts** — 0 fields, 1 methods
+- class **AnimationClipDataAsset** : AssetBase — 2 fields, 1 methods
+- class **AnimationClipDataAssetExts** — 0 fields, 1 methods
+- class **AnimationsPoolDataAsset** : AssetBase — 8 fields, 3 methods
+- class **AnimationsPoolDataAssetExts** — 0 fields, 1 methods
+- class **AnnouncerUIVOEventNotifier** : SRMonoBehaviour — 1 fields, 2 methods
+- class **AnnouncerVOData** : ScriptableObject — 30 fields, 8 methods
+- class **ApplyImpulse_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ApplyImpulse_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ApplyKinematicMotion_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ApplyKinematicMotion_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ArrayElementTitleAttribute** : PropertyAttribute — 1 fields, 1 methods
+- class **AssetBase** : ScriptableObject — 0 fields, 4 methods
+- class **AssetResourceContainer.<>c** — 5 fields, 6 methods
+- class **AssetResourceContainer.AssetResourceInfoGroup_Addressables** : AssetResourceInfoGroup<AssetResourceContainer.AssetResourceInfo_Addressables> — 0 fields, 1 methods
+- class **AssetResourceContainer.AssetResourceInfoGroup_AssetBundle** : AssetResourceInfoGroup<AssetResourceContainer.AssetResourceInfo_AssetBundle> — 0 fields, 1 methods
+- class **AssetResourceContainer.AssetResourceInfoGroup_Resources** : AssetResourceInfoGroup<AssetResourceContainer.AssetResourceInfo_Resources> — 0 fields, 1 methods
+- class **AssetResourceContainer.AssetResourceInfo_Addressables** : AssetResourceInfo — 1 fields, 1 methods
+- class **AssetResourceContainer.AssetResourceInfo_AssetBundle** : AssetResourceInfo — 2 fields, 1 methods
+- class **AssetResourceContainer.AssetResourceInfo_Resources** : AssetResourceInfo — 1 fields, 1 methods
+- class **AssetResourceContainer.Loader_Addressables** : UnityResourceLoader.LoaderBase<AssetResourceContainer.AssetResourceInfo_Addressables, AsyncOperationHandle<AssetBase>> — 1 fields, 1 methods
+- class **AssetResourceContainer.Loader_AssetBundles** : UnityResourceLoader.LoaderBase<AssetResourceContainer.AssetResourceInfo_AssetBundle, AssetBundleRequest> — 0 fields, 2 methods
+- class **AssetResourceContainer.Loader_AssetBundles.<>c__DisplayClass5_0** — 1 fields, 2 methods
+- class **AssetResourceContainer.Loader_Resources** : UnityResourceLoader.LoaderBase<AssetResourceContainer.AssetResourceInfo_Resources, ResourceRequest> — 0 fields, 1 methods
+- class **AssetResourceInfoGroup.<>c<T>** — 2 fields, 0 methods
+- struct **AttachedProp** — 4 fields, 0 methods
+- class **AttackDatasPoolAsset** : AssetBase — 1 fields, 1 methods
+- class **AttackDatasPoolAssetExts** — 0 fields, 1 methods
+- class **AudioData** : ScriptableObject — 5 fields, 2 methods
+- class **AudioInstance** — 6 fields, 1 methods
+- class **AudioManager** : SRMonoBehaviour — 11 fields, 28 methods
+- class **AudioManager.OnAudioManagerInitialized** : MulticastDelegate — 0 fields, 1 methods
+- class **AudioMatchEvents** : SRMonoBehaviour — 5 fields, 12 methods
+- class **AudioMatchEvents.OnMatchBanksLoaded** : MulticastDelegate — 0 fields, 1 methods
+- class **AudioSettingsPanel** : SettingsSubPanel — 8 fields, 17 methods
+- class **AudioSettingsPanel.<SaveSettingsWithDelay>d__11** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **AudioTool** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **AutoSaveIcon** : MonoBehaviour — 1 fields, 3 methods
+- class **AutoSizeTMPSizes** : MonoBehaviour — 15 fields, 4 methods
+- struct **BadgeBackgroundData** — 3 fields, 0 methods
+- struct **BadgeIconData** — 3 fields, 0 methods
+- class **BadgePlatformIcon** : SRMonoBehaviour — 6 fields, 4 methods
+- struct **BadgeTitleData** — 3 fields, 0 methods
+- struct **BadgeTrailData** — 4 fields, 0 methods
+- class **BadgesPanel** : MainMenuSubPanel — 3 fields, 3 methods
+- class **BaseBehaviourPreview** — 0 fields, 2 methods
+- class **BaseGameModeAsset** : AssetBase — 0 fields, 1 methods
+- class **BaseGameModeAssetExts** — 0 fields, 1 methods
+- class **BasicCharacterControlTrack** : TrackAsset — 0 fields, 1 methods
+- class **BasicCharacterCustomAnimator** : MonoBehaviour — 5 fields, 19 methods
+- class **BasicCharacterCustomAnimator.BasicCharacterAnimData** — 8 fields, 8 methods
+- struct **BasicCharacterCustomAnimator.BasicCharacterAnimData.QueueAnimationElement** — 5 fields, 1 methods
+- enum **BasicCharacterCustomAnimator.BasicCharacterAnimatorUpdateMode**: UnityUpdate=0, EditorUpdate=1, CustomUpdate=2
+- class **BasicCharacterData** : ScriptableObject — 2 fields, 1 methods
+- struct **BasicCharacterData.BasicCharacterClipsData** — 2 fields, 0 methods
+- struct **BasicCharacterData.BasicCharacterSubAnimClipsData** — 2 fields, 0 methods
+- struct **BestChapterTime** — 4 fields, 0 methods
+- struct **BestLevelLapTime** — 4 fields, 0 methods
+- class **BetWinnerMessage** : MonoBehaviour — 2 fields, 2 methods
+- class **BettingAmountSelector** : SRMonoBehaviour — 9 fields, 6 methods
+- class **BettingCharacterContainer** : UINavigationElement — 8 fields, 16 methods
+- class **BettingChipSelector** : UINavigationElement — 3 fields, 2 methods
+- struct **BettingData** — 3 fields, 1 methods
+- class **BettingData.<>c__DisplayClass3_0** — 1 fields, 2 methods
+- class **BettingHUD** : SRMonoBehaviour — 25 fields, 24 methods
+- class **BettingManager** : SRMonoBehaviour — 6 fields, 19 methods
+- class **BettingManager.<>c__DisplayClass14_0** — 1 fields, 2 methods
+- class **BettingManager.<>c__DisplayClass15_0** — 1 fields, 2 methods
+- class **BettingManager.MatchBetResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BettingManager.RoundBetResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BinaryDataAsset** : AssetBase, ISerializationCallbackReceiver — 2 fields, 3 methods
+- struct **BiomeHistory** — 3 fields, 0 methods
+- class **BlastzoneExplosionCameraUpdater** : SRMonoBehaviour — 8 fields, 6 methods
+- class **BlastzoneExplosionCameraUpdater.<RenderAtFixedRate>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **BlastzoneExplosionsHandler** : SRMonoBehaviour — 8 fields, 5 methods
+- class **BlastzoneHUD** : SRMonoBehaviour — 34 fields, 17 methods
+- class **BlastzoneHUD.<DisableExplosionCameraAfterDelay>d__51** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **BlastzoneVisualizer** : MonoBehaviour — 0 fields, 1 methods
+- class **BoostFillerUpdate_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **BoostFillerUpdate_BehaviourAssetExts** — 0 fields, 1 methods
+- class **BossFightCameraManagerDataAsset** : CameraManagerDataAsset — 1 fields, 1 methods
+- class **BossFightCameraManagerDataAssetExts** — 0 fields, 1 methods
+- class **BossFightGameModeAsset** : SpeedRunnersBaseGameModeAsset — 1 fields, 1 methods
+- class **BossFightGameModeAssetExts** — 0 fields, 1 methods
+- class **BossFightManager** : SpeedRunnersGameModeManager — 1 fields, 13 methods
+- class **BossFightMatchHUD** : SpeedRunnersMatchHUD — 7 fields, 5 methods
+- class **BossHealthBar** : SRMonoBehaviour — 7 fields, 9 methods
+- class **BossHealthBar.<AnimateFill>d__8** : IEnumerator<object>, IEnumerator, IDisposable — 6 fields, 1 methods
+- class **BossRocket_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **BossRocket_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **BossUIData** — 3 fields, 0 methods
+- class **BrainCloudManager** : SRMonoBehaviour — 11 fields, 45 methods
+- class **BrainCloudManager.<>c** — 5 fields, 6 methods
+- class **BrainCloudManager.<>c__DisplayClass35_0** — 1 fields, 2 methods
+- class **BrainCloudManager.<>c__DisplayClass44_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass45_0** — 1 fields, 2 methods
+- class **BrainCloudManager.<>c__DisplayClass46_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass47_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass48_0** — 2 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass49_0** — 2 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass50_0** — 2 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass51_0** — 3 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass52_0** — 2 fields, 2 methods
+- class **BrainCloudManager.<>c__DisplayClass53_0** — 3 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass57_0** — 2 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass61_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass62_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass63_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass64_0** — 1 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass66_0** — 1 fields, 2 methods
+- class **BrainCloudManager.<>c__DisplayClass69_0** — 2 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass70_0** — 2 fields, 3 methods
+- class **BrainCloudManager.<>c__DisplayClass71_0** — 1 fields, 2 methods
+- struct **BrainCloudManager.<askEula>d__38** : IAsyncStateMachine — 5 fields, 0 methods
+- class **BrainCloudManager.AuthenticationCheckFinished** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.AuthenticationRequestResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.CreateTournamentRequestResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.FindTournamentRequestResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.GetCurrencyResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.MatchFinishedResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.PlaceMatchBetResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.PlaceRoundBetResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.PostRankedMatchResultsResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.RTTResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.RequestAllPlayerInfoResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.RoundFinishedResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.TournamentLeaveResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.TournamentListResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.TournamentReadyUpResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.TournamentSetPlaying** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.TournamentStatusRequestResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BrainCloudManager.UpdateSpectatorResult** : MulticastDelegate — 0 fields, 1 methods
+- class **BreakableGlassImpact_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **BreakableGlassImpact_BehaviourAssetExts** — 0 fields, 1 methods
+- class **BreakableGlassInactive_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **BreakableGlassInactive_BehaviourAssetExts** — 0 fields, 1 methods
+- class **BreakableGlassManager** : MonoBehaviour — 9 fields, 1 methods
+- class **BuildManifest** — 6 fields, 1 methods
+- class **ButtonAttribute** : Attribute — 1 fields, 2 methods
+- class **ButtonIconRef** — 5 fields, 1 methods
+- class **ByteUtility** — 1 fields, 14 methods
+- struct **CPUDifficultyVisualData** — 2 fields, 0 methods
+- struct **CPULobbyInfo** — 3 fields, 0 methods
+- class **CalculateRandomFromWeights_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CalculateRandomFromWeights_BehaviourAssetExts** — 0 fields, 1 methods
+- enum **CameraFOVSetting**: None=0, Low=1, Medium=2, High=3
+- class **CameraManager** : SRMonoBehaviour — 1 fields, 2 methods
+- class **CameraManagerDataAsset** : AssetBase — 1 fields, 1 methods
+- class **CameraManagerDataAssetExts** — 0 fields, 1 methods
+- class **CameraResolutionHandler** : MonoBehaviour — 2 fields, 5 methods
+- struct **CameraSettingsPreset** — 3 fields, 0 methods
+- class **CameraShakeControllerTransitionClip** : PlayableAsset — 2 fields, 1 methods
+- struct **CameraShakePreset** — 4 fields, 0 methods
+- class **CameraShakePresets** : ScriptableObject — 1 fields, 2 methods
+- class **CameraShakeTransitionBehaviour** : PlayableBehaviour — 3 fields, 1 methods
+- class **CameraShakeTransitionTrack** : TrackAsset — 0 fields, 1 methods
+- class **CampaignActData** — 3 fields, 1 methods
+- class **CampaignActOption** : UINavigationElement — 11 fields, 2 methods
+- class **CampaignBossUIData** : ScriptableObject — 1 fields, 2 methods
+- class **CampaignChapterData** — 14 fields, 1 methods
+- struct **CampaignChapterData.CampaignNPCData** — 3 fields, 0 methods
+- struct **CampaignChapterData.NPCDifficultyData** — 2 fields, 0 methods
+- class **CampaignChapterOption** : UINavigationElement — 8 fields, 7 methods
+- class **CampaignChapterRanksUIData** : ScriptableObject — 1 fields, 2 methods
+- class **CampaignCharacterDialogue** — 6 fields, 1 methods
+- class **CampaignCutscene** — 2 fields, 1 methods
+- class **CampaignCutscenesData** : ScriptableObject — 3 fields, 1 methods
+- class **CampaignCutscenesMediaHUD** : MainMenuScreen — 27 fields, 26 methods
+- class **CampaignCutscenesMediaHUD.<AnimateScreenText>d__48** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CampaignCutscenesMediaHUD.<DelayClearSprites>d__54** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CampaignCutscenesMediaHUD.<FadeCutscene>d__47** : IEnumerator<object>, IEnumerator, IDisposable — 9 fields, 1 methods
+- class **CampaignCutscenesMediaHUD.<LoadSprites>d__51** : IEnumerator<object>, IEnumerator, IDisposable — 8 fields, 2 methods
+- class **CampaignCutscenesMediaHUD.<PlayCutsceneWithDelay>d__56** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CampaignCutscenesMediaHUD.SpriteAssetInfo** — 2 fields, 1 methods
+- class **CampaignData** : ScriptableObject — 1 fields, 1 methods
+- class **CampaignDialogue** — 4 fields, 1 methods
+- class **CampaignDialogueData** : ScriptableObject — 1 fields, 1 methods
+- class **CampaignDialogueMediaHUD** : UIScreen — 28 fields, 12 methods
+- class **CampaignDialogueMediaHUD.<>c__DisplayClass36_0** — 2 fields, 2 methods
+- class **CampaignDialogueMediaHUD.<>c__DisplayClass38_0** — 2 fields, 2 methods
+- class **CampaignDialogueMediaHUD.<WaitUntilHideAnimation>d__41** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CampaignDialogueMediaHUD.<WaitUntilShowAnimation>d__40** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CampaignDialogueMediaHUD.OnCharacterInstanced** : MulticastDelegate — 0 fields, 1 methods
+- class **CampaignGameModeManager** : SpeedRunnersGameModeManager — 1 fields, 10 methods
+- class **CampaignHazardsRaceGameManager** : SpeedRunnersGameModeManager — 0 fields, 11 methods
+- class **CampaignHazardsRaceGameModeAsset** : CampaignRaceGameModeAsset — 1 fields, 1 methods
+- class **CampaignHazardsRaceGameModeAssetExts** — 0 fields, 1 methods
+- class **CampaignHazardsRaceMatchHUD** : SpeedRunnersMatchHUD — 13 fields, 8 methods
+- class **CampaignHazardsRaceMatchHUD.<>c** — 2 fields, 3 methods
+- struct **CampaignHazardsRaceMatchHUD.HazardIndicatorData** — 2 fields, 0 methods
+- class **CampaignLapsRaceGameManager** : SpeedRunnersGameModeManager — 0 fields, 10 methods
+- class **CampaignLapsRaceGameModeAsset** : CampaignRaceGameModeAsset — 1 fields, 1 methods
+- class **CampaignLapsRaceGameModeAssetExts** — 0 fields, 1 methods
+- class **CampaignLapsRaceMatchHUD** : SpeedRunnersMatchHUD — 8 fields, 4 methods
+- class **CampaignManager** — 12 fields, 8 methods
+- class **CampaignMatchHUD** : RaceMatchHUD — 1 fields, 3 methods
+- class **CampaignMenu** : MainMenuScreen — 37 fields, 27 methods
+- class **CampaignMenu.<>c** — 2 fields, 3 methods
+- class **CampaignMenu.<DelayClearSprites>d__52** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CampaignMenu.<LoadSprites>d__50** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **CampaignRaceGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **CampaignRaceGameModeAssetExts** — 0 fields, 1 methods
+- struct **CampaignSaveData** — 3 fields, 0 methods
+- struct **CampaignSaveData.ActStatus** — 3 fields, 0 methods
+- struct **CampaignSaveData.ChapterStatus** — 2 fields, 0 methods
+- class **CancelHoldBar** : SRMonoBehaviour — 7 fields, 3 methods
+- struct **CatchPhraseData** — 3 fields, 0 methods
+- class **ChangeStateConditionally_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ChangeStateConditionally_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ChangeState_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ChangeState_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ChangeableProperty** — 2 fields, 1 methods
+- struct **ChapterRankThreshold** — 2 fields, 0 methods
+- struct **ChapterRankThresholds** — 2 fields, 0 methods
+- struct **ChapterRankUIData** — 2 fields, 0 methods
+- enum **ChapterScoreRank**: S=0, A=1, B=2, C=3
+- struct **ChapterStatus** — 2 fields, 0 methods
+- class **CharacterBoostBar** : ProgressBar — 5 fields, 3 methods
+- class **CharacterController2DConfigAsset** : AssetBase — 1 fields, 1 methods
+- class **CharacterController3DConfigAsset** : AssetBase — 1 fields, 1 methods
+- class **CharacterController3DConfigAssetExt** — 0 fields, 2 methods
+- class **CharacterCostumeData** — 8 fields, 1 methods
+- class **CharacterDataPanel** : MainMenuSubPanel — 14 fields, 5 methods
+- class **CharacterDetails** : ScriptableObject — 8 fields, 2 methods
+- class **CharacterHUD** : SRMonoBehaviour — 28 fields, 19 methods
+- struct **CharacterHUD.CharacterColorData** — 5 fields, 0 methods
+- class **CharacterHUDMedalSlot** : MonoBehaviour — 1 fields, 3 methods
+- class **CharacterIndicator** : SRMonoBehaviour — 17 fields, 18 methods
+- class **CharacterIndicator.<HideAfterTime>d__32** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CharacterIndicator.<ShowIndicatorAfterDelay>d__29** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CharacterIndicator.<WrongDirectionTimeoutRoutine>d__30** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CharacterItemHUD** : SRMonoBehaviour — 5 fields, 6 methods
+- struct **CharacterLevelData** — 2 fields, 0 methods
+- class **CharacterNameEvent** : StellarAudioEventInfo — 1 fields, 1 methods
+- class **CharacterNameIndicator** : SRMonoBehaviour — 19 fields, 20 methods
+- class **CharacterNameIndicator.<HideAfterTime>d__37** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CharacterNameIndicator.<ShowIndicatorAfterDelay>d__36** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CharacterNameIndicator.<WrongDirectionTimeoutRoutine>d__38** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CharacterOutlineManager** : SRMonoBehaviour — 6 fields, 4 methods
+- class **CharacterReferencePoint** : MonoBehaviour — 2 fields, 4 methods
+- class **CharacterSelect** : CharacterSelectBase — 5 fields, 8 methods
+- class **CharacterSelect.<>c** — 2 fields, 3 methods
+- class **CharacterSelect.<>c__DisplayClass14_0** — 1 fields, 2 methods
+- class **CharacterSelectBase** : MainMenuScreen — 8 fields, 12 methods
+- class **CharacterSelectCPUDifficultyMenu** : CharacterSelectSubPanel — 0 fields, 3 methods
+- class **CharacterSelectCharacterSpawner** : SRMonoBehaviour — 11 fields, 6 methods
+- enum **CharacterSelectCharacterSpawner.CharacterSpawnerState**: None=0, Spawning=1, Running=2, Idle=3
+- class **CharacterSelectControlsMenu** : CharacterSelectSubPanel — 4 fields, 5 methods
+- class **CharacterSelectControlsMenu.<>c__DisplayClass5_0** — 2 fields, 2 methods
+- class **CharacterSelectControlsMenu.<>c__DisplayClass5_1** — 2 fields, 2 methods
+- class **CharacterSelectCostumeMenu** : CharacterSelectSubPanel — 2 fields, 4 methods
+- class **CharacterSelectCostumeOption** : CharacterSelectPanelUINavigationElement — 3 fields, 3 methods
+- class **CharacterSelectCostumeSelector** : SRMonoBehaviour — 6 fields, 8 methods
+- class **CharacterSelectEditMenu** : CharacterSelectSubPanel — 2 fields, 8 methods
+- class **CharacterSelectJoinMenu** : CharacterSelectSubPanel — 8 fields, 6 methods
+- class **CharacterSelectOnline** : CharacterSelectBase — 29 fields, 16 methods
+- class **CharacterSelectOnlineBadge** : SRMonoBehaviour — 27 fields, 11 methods
+- enum **CharacterSelectOnlineBadge.OnlineBadgeType**: RealPlayer=0, CPUPlayer=1, FilledCPUPlayer=2, Tip=3
+- class **CharacterSelectPanel** : MonoBehaviour — 1 fields, 5 methods
+- class **CharacterSelectPanelRunnerSlot** : CharacterSelectPanelUINavigationElement — 12 fields, 7 methods
+- class **CharacterSelectPanelUINavigationElement** : UINavigationElement — 3 fields, 6 methods
+- class **CharacterSelectProfileOption** : CharacterSelectPanelUINavigationElement — 2 fields, 3 methods
+- class **CharacterSelectReadyMenu** : CharacterSelectSubPanel — 16 fields, 13 methods
+- class **CharacterSelectRunnerMenu** : CharacterSelectSubPanel — 5 fields, 9 methods
+- class **CharacterSelectSubPanel** : SRMonoBehaviour — 5 fields, 3 methods
+- class **CharacterSelectTournament** : CharacterSelectBase — 16 fields, 8 methods
+- class **CharacterSelectTraining** : CharacterSelectBase — 1 fields, 3 methods
+- class **CharacterSelectWorldBackground** : MonoBehaviour — 13 fields, 3 methods
+- struct **CharacterSelectWorldBackgroundStateData** — 2 fields, 0 methods
+- class **CharacterSelector** : SRMonoBehaviour — 33 fields, 25 methods
+- class **CharacterSelector.<>c** — 2 fields, 3 methods
+- class **CharacterSelector.<>c__DisplayClass42_0** — 1 fields, 2 methods
+- class **CharacterSelector.<>c__DisplayClass57_0** — 1 fields, 2 methods
+- class **CharacterSelector.OnSelectorActivated** : MulticastDelegate — 0 fields, 1 methods
+- class **CharacterSelector.OnSelectorDeactivated** : MulticastDelegate — 0 fields, 1 methods
+- class **CharacterSelector.OnSelectorUpdated** : MulticastDelegate — 0 fields, 1 methods
+- enum **CharacterSelectorLocation**: Undefined=0, Ready=1, ReadySelection=2, EditMenu=3, RunnerMenu=4, ControlsMenu=5, ProfileMenu=6, InputMapping=7, JoinMenu=8, CPUDifficulty=9, CostumeMenu=10
+- struct **CharacterStats** — 3 fields, 0 methods
+- struct **CharacterToPreload** — 2 fields, 0 methods
+- class **CharacterViewer** : StellarTestRunner — 54 fields, 61 methods
+- class **CharacterViewer.<>c** — 2 fields, 3 methods
+- class **CharacterViewer.<>c__DisplayClass103_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass104_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass105_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass105_1** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass105_2** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass105_3** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass74_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass75_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass76_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass79_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass80_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass82_0** — 1 fields, 2 methods
+- class **CharacterViewer.<>c__DisplayClass83_0** — 1 fields, 2 methods
+- struct **CharacterViewerAnimationData** — 22 fields, 7 methods
+- class **CharacterViewerAnimationEditor** : MonoBehaviour — 17 fields, 30 methods
+- class **CharacterViewerAnimationEditor.<ShowGeneralOptions>d__38** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CharacterViewerAnimationEditor.<ShowOptions>d__46** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CharacterViewerAnimationList** : MonoBehaviour — 16 fields, 19 methods
+- class **CharacterViewerAnimationList.<>c__DisplayClass19_0** — 1 fields, 2 methods
+- class **CharacterViewerAnimationList.<>c__DisplayClass20_0** — 1 fields, 2 methods
+- class **CharacterViewerAnimationList.<>c__DisplayClass23_0** — 1 fields, 2 methods
+- class **CharacterViewerAnimationList.<>c__DisplayClass24_0** — 1 fields, 2 methods
+- class **CharacterViewerAnimationListElement** : MonoBehaviour — 4 fields, 1 methods
+- class **CharacterViewerAnimationPlayBar** : MonoBehaviour — 15 fields, 15 methods
+- class **CharacterViewerAnimationPlayBar.<RestartFrameByFrame>d__21** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CharacterViewerCPU** : StellarMonoBehaviour — 11 fields, 16 methods
+- class **CharacterViewerCPU.<>c** — 3 fields, 4 methods
+- class **CharacterViewerCPU.<>c__DisplayClass13_0** — 2 fields, 3 methods
+- class **CharacterViewerCPU.<>c__DisplayClass15_0** — 2 fields, 2 methods
+- struct **CharacterViewerCPUAction** — 3 fields, 0 methods
+- class **CharacterViewerCPUActionElement** : MonoBehaviour — 13 fields, 13 methods
+- class **CharacterViewerCPUSettingsEditor** : MonoBehaviour — 20 fields, 19 methods
+- class **CharacterViewerCPUSettingsEditor.<>c** — 2 fields, 3 methods
+- class **CharacterViewerCPUSettingsEditor.<>c__DisplayClass24_0** — 1 fields, 2 methods
+- class **CharacterViewerCameraControl** : StellarMonoBehaviour — 12 fields, 15 methods
+- class **CharacterViewerCharacterData** : ScriptableObject — 3 fields, 1 methods
+- class **CharacterViewerCharacterSelect** : StellarMonoBehaviour — 21 fields, 18 methods
+- class **CharacterViewerCharacterSelect.<>c** — 2 fields, 3 methods
+- class **CharacterViewerCharacterSelect.<CharacterReadySubrutine>d__33** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CharacterViewerCharacterSelect.<SpawnCharacterCoroutine>d__31** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CharacterViewerCharacterSelectSlot** : StellarMonoBehaviour — 9 fields, 11 methods
+- class **CharacterViewerData** : ScriptableObject — 6 fields, 2 methods
+- class **CharacterViewerDragDropItemSlot** : MonoBehaviour, IBeginDragHandler, IEventSystemHandler, IEndDragHandler, IDragHandler, IPointerMoveHandler, IPointerExitHandler — 13 fields, 8 methods
+- class **CharacterViewerDragDropList** : MonoBehaviour, IDropHandler, IEventSystemHandler — 13 fields, 10 methods
+- class **CharacterViewerDragDropList.<>c__DisplayClass16_0** — 1 fields, 3 methods
+- struct **CharacterViewerExtraOptionsData** — 5 fields, 0 methods
+- struct **CharacterViewerExtraSetting** — 3 fields, 0 methods
+- class **CharacterViewerExtraSettings** : MonoBehaviour — 16 fields, 20 methods
+- class **CharacterViewerExtraSettings.<>c** — 6 fields, 7 methods
+- class **CharacterViewerExtraSettingsElement** : MonoBehaviour — 13 fields, 19 methods
+- class **CharacterViewerExtraSettingsElement.<>c** — 3 fields, 4 methods
+- class **CharacterViewerGeneralSettingsPanel** : MonoBehaviour — 10 fields, 19 methods
+- class **CharacterViewerGeneralSettingsPanel.<>c__DisplayClass13_0** — 1 fields, 2 methods
+- class **CharacterViewerGeneralSettingsPanel.<>c__DisplayClass16_0** — 1 fields, 2 methods
+- struct **CharacterViewerInputFrames** — 2 fields, 0 methods
+- class **CharacterViewerInputSettingPanel** : MonoBehaviour — 14 fields, 18 methods
+- class **CharacterViewerInputSettingPanel.<>c** — 2 fields, 3 methods
+- class **CharacterViewerInputSettingPanel.<>c__DisplayClass24_0** — 1 fields, 2 methods
+- class **CharacterViewerInputSettingPanel.<>c__DisplayClass26_0** — 1 fields, 2 methods
+- class **CharacterViewerInputSettingPanel.<>c__DisplayClass28_0** — 2 fields, 3 methods
+- class **CharacterViewerInputSettingPanel.<>c__DisplayClass29_0** — 1 fields, 2 methods
+- class **CharacterViewerInputSettingPanel.<ShowInputsTab>d__17** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- struct **CharacterViewerInputSettingPanel.KeyFrame** — 2 fields, 0 methods
+- struct **CharacterViewerInputSettingPanel.KeyMap** — 2 fields, 0 methods
+- class **CharacterViewerMapIcon** : Selectable, IDragHandler, IEventSystemHandler — 10 fields, 5 methods
+- class **CharacterViewerOrganizerElement** : CharacterViewerAnimationListElement — 4 fields, 5 methods
+- enum **CharacterViewerPanelType**: Undefined=0, GeneralSettings=1, CPUSettings=2
+- class **CharacterViewerPlaylistEditor** : MonoBehaviour — 17 fields, 17 methods
+- class **CharacterViewerPlaylistEditor.<>c** — 2 fields, 3 methods
+- class **CharacterViewerPlaylistEditor.<>c__DisplayClass25_0** — 1 fields, 2 methods
+- class **CharacterViewerPlaylistElement** : CharacterViewerAnimationListElement — 7 fields, 5 methods
+- class **CharacterViewerPositionMap** : MonoBehaviour — 6 fields, 4 methods
+- struct **CharacterViewerPositionMap.RectCoordinates** — 2 fields, 2 methods
+- class **CharacterViewerPositionSettings** : MonoBehaviour — 5 fields, 6 methods
+- class **CharacterViewerPositioningTooltip** : Selectable — 14 fields, 7 methods
+- class **CharacterViewerSimulatedController** : StellarController — 2 fields, 1 methods
+- struct **CharacterViewerSimulatedInput** — 3 fields, 0 methods
+- class **CharacterViewerSkinSelectSlot** : MonoBehaviour — 8 fields, 10 methods
+- class **CharacterViewerStateAnimationElement** : CharacterViewerAnimationListElement — 5 fields, 4 methods
+- class **CharacterVisualsData** : MonoBehaviour — 4 fields, 1 methods
+- struct **CharacterVisualsData.SubAnimatorOutput** — 3 fields, 0 methods
+- class **CharactersDetails** : ScriptableObject — 1 fields, 5 methods
+- class **CharactersSelectorsManager** : SRMonoBehaviour — 5 fields, 26 methods
+- class **ChatBoxManager** : SRMonoBehaviour — 21 fields, 25 methods
+- class **ChatBoxManager.<>c** — 2 fields, 3 methods
+- class **ChatBoxManager.<>c__DisplayClass40_0** — 1 fields, 2 methods
+- struct **ChatBoxManager.<AddMessage>d__40** : IAsyncStateMachine — 8 fields, 0 methods
+- struct **ChatBoxManager.<CanCommunicateWithUser>d__41** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **ChatBoxManager.<FilterMessageAsync>d__44** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **ChatBoxManager.<OnInputFieldSubmitted>d__39** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **ChatBoxManager.<SendChatMessageAsync>d__43** : IAsyncStateMachine — 6 fields, 0 methods
+- class **ChatBoxManager.<StartingRoundTimer>d__35** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **CheatsManager** : MonoBehaviour — 25 fields, 31 methods
+- class **CheckForLedgeClimb_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CheckForLedgeClimb_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CheckForTech_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CheckForTech_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CheckGrabbableEntities_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CheckGrabbableEntities_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CheckSlopeSurfSetup_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CheckSlopeSurfSetup_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CheckpointDirectionVisualizer** : MonoBehaviour — 0 fields, 1 methods
+- class **CheckpointManager_Prototype.<>c__DisplayClass6_0** — 1 fields, 3 methods
+- class **ClearAttackCharge_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ClearAttackCharge_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CollectorTreasureTriggered_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CollectorTreasureTriggered_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CollectorsGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **CollectorsGameModeAssetExts** — 0 fields, 1 methods
+- class **CollectorsHUDTimer** : SRMonoBehaviour — 5 fields, 2 methods
+- class **CollectorsHUDTreasureCursor** : MonoBehaviour — 4 fields, 3 methods
+- class **CollectorsHUDTreasureCursorsManager** : SRMonoBehaviour — 9 fields, 4 methods
+- class **CollectorsMatchHUD** : SpeedRunnersMatchHUD — 9 fields, 3 methods
+- class **CollectorsTreasureSpawnAreaVisualizer** : MonoBehaviour — 0 fields, 1 methods
+- struct **ColorList** — 1 fields, 0 methods
+- class **CombatDataAsset** : AssetBase — 1 fields, 1 methods
+- class **CombatDataAssetExts** — 0 fields, 1 methods
+- class **CombatSettingsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **CombatSettingsDataAssetExts** — 0 fields, 1 methods
+- class **Combat_Prototype.<>c__DisplayClass30_0** — 1 fields, 2 methods
+- class **CombiningInformation.CombineMetaData** — 4 fields, 1 methods
+- enum **CombiningInformation.CompressionQuality**: LOW=0, MEDIUM=1, HIGH=2
+- enum **CombiningInformation.CompressionType**: UNCOMPRESSED=0, DXT1=1, ETC2_RGB=2, PVRTC_RGB4=3, ASTC_RGB=4
+- enum **CombiningInformation.DiffuseColorSpace**: NON_LINEAR=0, LINEAR=1
+- class **CombiningInformation.MaterialEntity** — 12 fields, 2 methods
+- class **CombiningInformation.MaterialProperties** — 21 fields, 5 methods
+- class **CombiningInformation.MeshData** — 6 fields, 1 methods
+- struct **CombiningInformation.Resolution** — 2 fields, 0 methods
+- class **CombiningInformation.TextureArrayGroup** — 10 fields, 2 methods
+- class **CombiningInformation.TextureArrayUserSettings** — 10 fields, 1 methods
+- class **CommandsExample.Command** — 4 fields, 1 methods
+- class **ComponentPrototypeRefWrapper** : ComponentPrototypeRefWrapperBase — 2 fields, 1 methods
+- class **ComponentPrototypeRefWrapperBase** — 1 fields, 1 methods
+- class **ConfirmationPopup** : UIPopup — 9 fields, 4 methods
+- enum **ConfirmationPopup.Style**: Default=0, ConfirmAndCancel=1, CancelAndConfirm=2
+- class **ContentSizeFitterEx** : ContentSizeFitter — 2 fields, 1 methods
+- struct **ControllerButtonIcon** — 2 fields, 0 methods
+- class **ControllerIcons** : ScriptableObject — 2 fields, 2 methods
+- struct **ControllerInputMapping** — 4 fields, 1 methods
+- struct **ControllerInputState** — 4 fields, 0 methods
+- struct **ControllerInputsState** — 3 fields, 8 methods
+- enum **ControllerKey**: None=0, FaceTop=1, FaceBottom=2, FaceRight=3, FaceLeft=4, Start=5, Select=6, BumperL=7, BumperR=8, TriggerL=9, TriggerR=10, DPadUp=11, DPadDown=12, DPadLeft=13, DPadRight=14, LeftStickUp=15, LeftStickDown=16, LeftStickLeft=17, LeftStickRight=18, LeftStickPress=19, RightStickUp=20, RightStickDown=21, RightStickLeft=22, RightStickRight=23, RightStickPress=24
+- class **ControllerMapping** : ScriptableObject — 1 fields, 1 methods
+- struct **ControllerMappingData** — 2 fields, 0 methods
+- class **CopyUtility** — 1 fields, 7 methods
+- class **CopyUtility.<>c** — 2 fields, 3 methods
+- class **CopyUtility.<>c__DisplayClass4_0** — 2 fields, 2 methods
+- class **CopyUtility.ArrayTraverse** — 2 fields, 2 methods
+- class **CopyUtility.ReferenceEqualityComparer** : EqualityComparer<object> — 0 fields, 1 methods
+- class **CreateLobbyMenuWorld** : MainMenuWorldScreen — 28 fields, 12 methods
+- class **CreateLobbyMenuWorld.<>c** — 2 fields, 3 methods
+- enum **CreateLobbyMessage**: None=0, CreatingLobbyMessage=1, CreatingBrawlMessage=2
+- class **CreatePlayerCopy_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **CreatePlayerCopy_BehaviourAssetExts** — 0 fields, 1 methods
+- class **CreditsData** : ScriptableObject — 5 fields, 1 methods
+- struct **CreditsRoleData** — 2 fields, 0 methods
+- class **CreditsRoleGroup** : MonoBehaviour — 2 fields, 2 methods
+- class **CreditsScreen** : MainMenuScreen — 15 fields, 6 methods
+- class **CreditsScreen.<ResetWithDelay>d__26** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- struct **CreditsSectionData** — 2 fields, 0 methods
+- class **CreditsSectionTitle** : MonoBehaviour — 1 fields, 2 methods
+- class **CustomAnimatorManager** : MonoBehaviour — 9 fields, 9 methods
+- class **CustomButtonEvent** : MonoBehaviour, ISelectHandler, IEventSystemHandler, IDeselectHandler, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler — 5 fields, 1 methods
+- class **CustomData** : ScriptableObject — 4 fields, 1 methods
+- class **CustomExitPopup** : UIPopup — 5 fields, 5 methods
+- class **CustomLog** — 5 fields, 21 methods
+- class **CustomLogData** — 1 fields, 1 methods
+- class **CustomLogHandler** : StellarMonoBehaviour — 0 fields, 3 methods
+- class **CustomSubAnimatorManager** — 9 fields, 6 methods
+- class **CustomThumbStickInput** : Selectable, IDragHandler, IEventSystemHandler — 6 fields, 4 methods
+- class **CustomToggleButton** : MonoBehaviour — 10 fields, 9 methods
+- struct **CustomToggleButton.AnimationToggle** — 5 fields, 0 methods
+- class **CustomToggleGroup** : MonoBehaviour — 4 fields, 4 methods
+- class **CustomizationOption** : UINavigationElement — 6 fields, 6 methods
+- class **CustomizationSubScreen** : SRMonoBehaviour — 10 fields, 14 methods
+- class **CustomizationSubScreen.<>c__DisplayClass12_0** — 3 fields, 3 methods
+- class **CustomizationSubScreen.<>c__DisplayClass13_0** — 1 fields, 2 methods
+- class **CustomizationSubScreen.<>c__DisplayClass14_0** — 3 fields, 3 methods
+- class **CustomizationSubScreen.<>c__DisplayClass15_0** — 1 fields, 2 methods
+- class **CustomizationSubScreen.<>c__DisplayClass16_0** — 3 fields, 3 methods
+- class **CustomizationSubScreen.<>c__DisplayClass17_0** — 1 fields, 2 methods
+- class **CustomizationSubScreen.<>c__DisplayClass18_0** — 3 fields, 3 methods
+- class **CustomizationSubScreen.<>c__DisplayClass19_0** — 1 fields, 2 methods
+- class **CustomizationSubScreen.<>c__DisplayClass20_0** — 3 fields, 3 methods
+- class **CustomizationSubScreen.<>c__DisplayClass21_0** — 1 fields, 2 methods
+- class **CutsceneCharacterTextBox** : SRMonoBehaviour — 17 fields, 11 methods
+- class **CutsceneCharacterTextBox.<>c__DisplayClass19_0** — 2 fields, 2 methods
+- class **CutsceneCharacterTextBox.<SetupPlayCharacterAnimation>d__18** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CutsceneCharacterTextBox.<ShowBox>d__20** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CutsceneCharacterTextBox.<ShowButtonsOnly>d__21** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CutsceneCharacterTextBox.<StopDialogueMusic>d__22** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CutsceneCharacterTextBox.<Typewritter>d__26** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **CutsceneCharacterTextBox.OnCharacterInstanced** : MulticastDelegate — 0 fields, 1 methods
+- class **CutsceneDialogue** — 4 fields, 1 methods
+- struct **DLCCharacter** — 2 fields, 0 methods
+- class **DLCData** : ScriptableObject — 1 fields, 2 methods
+- struct **DLCPlatformsData** — 8 fields, 0 methods
+- class **DangerIndicator** : SRMonoBehaviour — 10 fields, 12 methods
+- class **DangerIndicator.<ShowAndHideRoutine>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **Dash_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Dash_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DataManager** : MonoBehaviour — 5 fields, 10 methods
+- class **DataSet.FaceGroupData** — 3 fields, 2 methods
+- struct **DataSet.FaceIndices** — 3 fields, 0 methods
+- class **DataSet.ObjectData** — 5 fields, 1 methods
+- class **DebugMenu** : MonoBehaviour — 1 fields, 4 methods
+- class **DebugMenuStatsPanel** : MonoBehaviour — 6 fields, 4 methods
+- class **DefaultMatchRules** : ScriptableObject — 1 fields, 1 methods
+- class **DefaultPlayerSettings** : ScriptableObject — 1 fields, 1 methods
+- class **DefaultSaveData** : ScriptableObject — 1 fields, 1 methods
+- class **DeleteInputProfileSubMenu** : InputProfileSubMenu — 5 fields, 3 methods
+- class **DeleteInputProfileSubMenu.<>c__DisplayClass5_0** — 2 fields, 2 methods
+- class **DeleteInputProfileSubMenu.<>c__DisplayClass6_0** — 2 fields, 2 methods
+- class **DepthNormalsFeature** : ScriptableRendererFeature — 3 fields, 1 methods
+- class **DepthNormalsFeature.DepthNormalsPass** : ScriptableRenderPass — 7 fields, 4 methods
+- class **DestroyEntitiesManager_Prototype.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- class **DestroyEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **DestroyEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DetectEntityThrow_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **DetectEntityThrow_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DetectIdleAir_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **DetectIdleAir_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DetectLand_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **DetectLand_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DetectWallSlide_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **DetectWallSlide_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DeterministicSessionConfigAsset** : ScriptableObject — 1 fields, 2 methods
+- class **DevSaveManager** — 2 fields, 4 methods
+- struct **DevSaveManager.DeveloperSave** — 4 fields, 0 methods
+- class **DiagonalMenu** : MonoBehaviour — 2 fields, 3 methods
+- struct **DialogueData** — 1 fields, 0 methods
+- enum **Difficulty**: Easy=0, Medium=1, Hard=2, Unfair=3
+- class **DisableAIVolume_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **DisableAIVolume_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DisableEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **DisableEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DiscordButton** : UINavigationElement — 2 fields, 7 methods
+- class **DistanceCullingSystem** : MonoBehaviour — 3 fields, 2 methods
+- struct **DistanceFog** — 2 fields, 0 methods
+- class **DrawObjectsPass** : ScriptableRenderPass — 5 fields, 1 methods
+- class **DropEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **DropEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **DynamicBone** : MonoBehaviour — 47 fields, 44 methods
+- class **DynamicBone.<>c__DisplayClass69_0** — 1 fields, 2 methods
+- enum **DynamicBone.FreezeAxis**: None=0, X=1, Y=2, Z=3
+- class **DynamicBone.Particle** — 20 fields, 1 methods
+- class **DynamicBone.ParticleTree** — 6 fields, 1 methods
+- enum **DynamicBone.UpdateMode**: Normal=0, AnimatePhysics=1, UnscaledTime=2, Default=3
+- class **DynamicBoneCollider** : DynamicBoneColliderBase — 9 fields, 10 methods
+- class **DynamicBoneColliderBase** : MonoBehaviour — 4 fields, 3 methods
+- enum **DynamicBoneColliderBase.Bound**: Outside=0, Inside=1
+- enum **DynamicBoneColliderBase.Direction**: X=0, Y=1, Z=2
+- class **DynamicBonePlaneCollider** : DynamicBoneColliderBase — 1 fields, 3 methods
+- class **DynamicStageElementVisualizer** : MonoBehaviour — 9 fields, 11 methods
+- struct **ECBVisualInstance** — 5 fields, 5 methods
+- class **EditInputProfile** : InputProfileSubMenu — 9 fields, 9 methods
+- class **EditInputProfile.<>c__DisplayClass10_0** — 2 fields, 2 methods
+- class **EditInputProfile.<>c__DisplayClass10_1** — 2 fields, 2 methods
+- struct **EmoteData** — 1 fields, 0 methods
+- struct **EmoteGraphicsData** — 4 fields, 0 methods
+- class **EmotesGraphicData** : ScriptableObject — 1 fields, 2 methods
+- class **EmotesManager** : SRMonoBehaviour — 35 fields, 37 methods
+- class **EmotesManager.<HidePreviewWithDelay>d__55** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **EmotesManager.<StartingRoundTimer>d__48** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **EncryptionHelper** — 0 fields, 2 methods
+- class **EndlessBossFightGameModeAsset** : BossFightGameModeAsset — 1 fields, 1 methods
+- class **EndlessBossFightGameModeAssetExts** — 0 fields, 1 methods
+- class **EndlessCameraManagerAsset** : CameraManagerDataAsset — 1 fields, 1 methods
+- class **EndlessCameraManagerAssetExts** — 0 fields, 1 methods
+- class **EndlessGameModeManager_Prototype.<>c__DisplayClass5_0** — 1 fields, 2 methods
+- class **EntityComponentAIVolume** : EntityComponentBase<AIVolume_Prototype, AIVolume_Prototype> — 0 fields, 1 methods
+- class **EntityComponentBase** : MonoBehaviour — 0 fields, 4 methods
+- class **EntityComponentBase<TPrototype>** : EntityComponentBase — 1 fields, 0 methods
+- class **EntityComponentBaseGameModeManager** : EntityComponentBase<BaseGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentBlastzone** : EntityComponentBase<Blastzone_Prototype> — 0 fields, 1 methods
+- class **EntityComponentBlastzoneTrigger** : EntityComponentBase<BlastzoneTrigger_Prototype, BlastzoneTrigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentBossFightGameModeManager** : EntityComponentBase<BossFightGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentBreakableGlass** : EntityComponentBase<BreakableGlass_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCameraManager** : EntityComponentBase<CameraManager_Prototype, CameraManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCameraTarget** : EntityComponentBase<CameraTarget_Prototype, CameraTarget_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCampaignBoss** : EntityComponentBase<CampaignBoss_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCampaignRaceGameModeManager** : EntityComponentBase<CampaignRaceGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCharacterController2D** : EntityComponentBase<CharacterController2D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCharacterController3D** : EntityComponentBase<CharacterController3D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCheckpoint** : EntityComponentBase<Checkpoint_Prototype, Checkpoint_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCheckpointManager** : EntityComponentBase<CheckpointManager_Prototype, CheckpointManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCollectorCharacter** : EntityComponentBase<CollectorCharacter_Prototype, CollectorCharacter_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCollectorTreasure** : EntityComponentBase<CollectorTreasure_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCollectorsGameModeManager** : EntityComponentBase<CollectorsGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCollectorsTreasureSpawnArea** : EntityComponentBase<CollectorsTreasureSpawnArea_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombat** : EntityComponentBase<Combat_Prototype, Combat_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatArmor** : EntityComponentBase<CombatArmor_Prototype, CombatArmor_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatBlock** : EntityComponentBase<CombatBlock_Prototype, CombatBlock_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatCharge** : EntityComponentBase<CombatCharge_Prototype, CombatCharge_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatDI** : EntityComponentBase<CombatDI_Prototype, CombatDI_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatDamage** : EntityComponentBase<CombatDamage_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatPoints** : EntityComponentBase<CombatPoints_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatStamina** : EntityComponentBase<CombatStamina_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatStocks** : EntityComponentBase<CombatStocks_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCombatTech** : EntityComponentBase<CombatTech_Prototype, CombatTech_Prototype> — 0 fields, 1 methods
+- class **EntityComponentContinuousRotation** : EntityComponentBase<ContinuousRotation_Prototype> — 0 fields, 1 methods
+- class **EntityComponentCustomAnimator** : EntityComponentBase<CustomAnimator_Prototype, CustomAnimator_Prototype> — 0 fields, 1 methods
+- class **EntityComponentDestroyEntitiesManager** : EntityComponentBase<DestroyEntitiesManager_Prototype, DestroyEntitiesManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentDynamicStageElement** : EntityComponentBase<DynamicStageElement_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEdgeGrab** : EntityComponentBase<EdgeGrab_Prototype, EdgeGrab_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEndlessGameModeManager** : EntityComponentBase<EndlessGameModeManager_Prototype, EndlessGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEnergyBar** : EntityComponentBase<EnergyBar_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEntityModifier** : EntityComponentBase<EntityModifier_Prototype, EntityModifier_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEntityModifierTarget** : EntityComponentBase<EntityModifierTarget_Prototype, EntityModifierTarget_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEntityReferencesHandler** : EntityComponentBase<EntityReferencesHandler_Prototype, EntityReferencesHandler_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEscapeRoomGameModeManager** : EntityComponentBase<EscapeRoomGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentEscapeRoomGoalTrigger** : EntityComponentBase<EscapeRoomGoalTrigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentFrameByFrame** : EntityComponentBase<FrameByFrame_Prototype> — 0 fields, 1 methods
+- class **EntityComponentFrogmanBossTongue** : EntityComponentBase<FrogmanBossTongue_Prototype, FrogmanBossTongue_Prototype> — 0 fields, 1 methods
+- class **EntityComponentGameEntity** : EntityComponentBase<GameEntity_Prototype, GameEntity_Prototype> — 0 fields, 1 methods
+- class **EntityComponentGameModeItemAutoTrigger** : EntityComponentBase<GameModeItemAutoTrigger_Prototype, GameModeItemAutoTrigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentGameTimeManager** : EntityComponentBase<GameTimeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentGoldenHook** : EntityComponentBase<GoldenHook_Prototype, GoldenHook_Prototype> — 0 fields, 1 methods
+- class **EntityComponentGrab** : EntityComponentBase<Grab_Prototype, Grab_Prototype> — 0 fields, 1 methods
+- class **EntityComponentHazardsRaceGameModeManager** : EntityComponentBase<HazardsRaceGameModeManager_Prototype, HazardsRaceGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentInitialWaitTimer** : EntityComponentBase<InitialWaitTimer_Prototype> — 0 fields, 1 methods
+- class **EntityComponentInputBuffer** : EntityComponentBase<InputBuffer_Prototype, InputBuffer_Prototype> — 0 fields, 1 methods
+- class **EntityComponentItemAutoTrigger** : EntityComponentBase<ItemAutoTrigger_Prototype, ItemAutoTrigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentItemBox** : EntityComponentBase<ItemBox_Prototype> — 0 fields, 1 methods
+- class **EntityComponentJump** : EntityComponentBase<Jump_Prototype, Jump_Prototype> — 0 fields, 1 methods
+- class **EntityComponentKinematicBody** : EntityComponentBase<KinematicBody_Prototype> — 0 fields, 1 methods
+- class **EntityComponentLaser** : EntityComponentBase<Laser_Prototype> — 0 fields, 1 methods
+- class **EntityComponentLayoutManager** : EntityComponentBase<LayoutManager_Prototype, LayoutManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentMatchTimer** : EntityComponentBase<MatchTimer_Prototype> — 0 fields, 1 methods
+- class **EntityComponentMechanicTutorialGameModeManager** : EntityComponentBase<MechanicTutorialGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentMechanicTutorialGoalTrigger** : EntityComponentBase<MechanicTutorialGoalTrigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentMovable** : EntityComponentBase<Movable_Prototype> — 0 fields, 1 methods
+- class **EntityComponentMovesetLimiter** : EntityComponentBase<MovesetLimiter_Prototype> — 0 fields, 1 methods
+- class **EntityComponentNavMeshAvoidanceAgent** : EntityComponentBase<NavMeshAvoidanceAgent_Prototype> — 0 fields, 1 methods
+- class **EntityComponentNavMeshAvoidanceObstacle** : EntityComponentBase<NavMeshAvoidanceObstacle_Prototype> — 0 fields, 1 methods
+- class **EntityComponentNavMeshPathfinder** : EntityComponentBase<NavMeshPathfinder_Prototype> — 1 fields, 1 methods
+- class **EntityComponentNavMeshSteeringAgent** : EntityComponentBase<NavMeshSteeringAgent_Prototype> — 0 fields, 1 methods
+- class **EntityComponentNonDeterministicAnimation** : EntityComponentBase<NonDeterministicAnimation_Prototype> — 0 fields, 1 methods
+- class **EntityComponentParentObject** : EntityComponentBase<ParentObject_Prototype, ParentObject_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPartnersManager** : EntityComponentBase<PartnersManager_Prototype, PartnersManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPersistentEntity** : EntityComponentBase<PersistentEntity_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsBody** : EntityComponentBase<PhysicsBody_Prototype, PhysicsBody_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsBody2D** : EntityComponentBase<PhysicsBody2D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsBody3D** : EntityComponentBase<PhysicsBody3D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsCallbacks2D** : EntityComponentBase<PhysicsCallbacks2D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsCallbacks3D** : EntityComponentBase<PhysicsCallbacks3D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsCollider2D** : EntityComponentBase<PhysicsCollider2D_Prototype> — 1 fields, 2 methods
+- class **EntityComponentPhysicsCollider3D** : EntityComponentBase<PhysicsCollider3D_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPhysicsJoints2D** : EntityComponentBase<PhysicsJoints2D_Prototype, PhysicsJoints2D_Prototype> — 0 fields, 3 methods
+- class **EntityComponentPhysicsJoints3D** : EntityComponentBase<PhysicsJoints3D_Prototype, PhysicsJoints3D_Prototype> — 0 fields, 3 methods
+- class **EntityComponentPhysicsModifier** : EntityComponentBase<PhysicsModifier_Prototype, PhysicsModifier_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPlatformFightGameModeManager** : EntityComponentBase<PlatformFightGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPlayerManager** : EntityComponentBase<PlayerManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentPlayerStats** : EntityComponentBase<PlayerStats_Prototype, PlayerStats_Prototype> — 0 fields, 1 methods
+- class **EntityComponentRaceGameModeManager** : EntityComponentBase<RaceGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentRaceTutorialGameModeManager** : EntityComponentBase<RaceTutorialGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentRespawnPoint** : EntityComponentBase<RespawnPoint_Prototype, RespawnPoint_Prototype> — 0 fields, 1 methods
+- class **EntityComponentRocket** : EntityComponentBase<Rocket_Prototype, Rocket_Prototype> — 0 fields, 1 methods
+- class **EntityComponentRocketLauncher** : EntityComponentBase<RocketLauncher_Prototype, RocketLauncher_Prototype> — 0 fields, 1 methods
+- class **EntityComponentRoomMember** : EntityComponentBase<RoomMember_Prototype, RoomMember_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSecretRoomTrigger** : EntityComponentBase<SecretRoomTrigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentShockwave** : EntityComponentBase<Shockwave_Prototype, Shockwave_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSimpleLineRenderer** : EntityComponentBase<SimpleLineRenderer_Prototype, SimpleLineRenderer_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSpawnPoint** : EntityComponentBase<SpawnPoint_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSpeedRunnersBlastzone** : EntityComponentBase<SpeedRunnersBlastzone_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSpeedRunnersCharacter** : EntityComponentBase<SpeedRunnersCharacter_Prototype, SpeedRunnersCharacter_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSpeedRunnersItem** : EntityComponentBase<SpeedRunnersItem_Prototype, SpeedRunnersItem_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSpeedRunnersNPC** : EntityComponentBase<SpeedRunnersNPC_Prototype, SpeedRunnersNPC_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSpike** : EntityComponentBase<Spike_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStageBounds** : EntityComponentBase<StageBounds_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStageEdge** : EntityComponentBase<StageEdge_Prototype, StageEdge_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStageHazardSpawnArea** : EntityComponentBase<StageHazardSpawnArea_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStageSFX** : EntityComponentBase<StageSFX_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStageTimeline** : EntityComponentBase<StageTimeline_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStateMachine** : EntityComponentBase<StateMachine_Prototype, StateMachine_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStatic** : EntityComponentBase<Static_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStaticRotation** : EntityComponentBase<StaticRotation_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStatusEffectsHolder** : EntityComponentBase<StatusEffectsHolder_Prototype, StatusEffectsHolder_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStatusEffectsModifiers** : EntityComponentBase<StatusEffectsModifiers_Prototype, StatusEffectsModifiers_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStellarCharacter** : EntityComponentBase<StellarCharacter_Prototype, StellarCharacter_Prototype> — 0 fields, 1 methods
+- class **EntityComponentStellarNPC** : EntityComponentBase<StellarNPC_Prototype, StellarNPC_Prototype> — 0 fields, 1 methods
+- class **EntityComponentSuperBoostVolume** : EntityComponentBase<SuperBoostVolume_Prototype, SuperBoostVolume_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTeams** : EntityComponentBase<Teams_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTournamentGameModeManager** : EntityComponentBase<TournamentGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTrainingGameModeManager** : EntityComponentBase<TrainingGameModeManager_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTransform2D** : EntityComponentBase<Transform2D_Prototype> — 2 fields, 2 methods
+- class **EntityComponentTransform2DVertical** : EntityComponentBase<Transform2DVertical_Prototype> — 2 fields, 2 methods
+- class **EntityComponentTransform3D** : EntityComponentBase<Transform3D_Prototype> — 2 fields, 2 methods
+- class **EntityComponentTrapDoor** : EntityComponentBase<TrapDoor_Prototype, TrapDoor_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTrapDoorSwitch** : EntityComponentBase<TrapDoorSwitch_Prototype, TrapDoorSwitch_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTrigger** : EntityComponentBase<Trigger_Prototype, Trigger_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTriggerPolygonShape** : EntityComponentBase<TriggerPolygonShape_Prototype> — 0 fields, 1 methods
+- class **EntityComponentTriggerSphereShape** : EntityComponentBase<TriggerSphereShape_Prototype> — 0 fields, 1 methods
+- class **EntityComponentVelocityModifier** : EntityComponentBase<VelocityModifier_Prototype, VelocityModifier_Prototype> — 0 fields, 1 methods
+- class **EntityComponentView** : EntityComponentBase<View_Prototype> — 0 fields, 1 methods
+- class **EntityComponentVisibilitySource** : EntityComponentBase<VisibilitySource_Prototype, VisibilitySource_Prototype> — 0 fields, 1 methods
+- class **EntityComponentVisibilityTarget** : EntityComponentBase<VisibilityTarget_Prototype, VisibilityTarget_Prototype> — 0 fields, 1 methods
+- class **EntityComponentVisualShake** : EntityComponentBase<VisualShake_Prototype, VisualShake_Prototype> — 0 fields, 1 methods
+- class **EntityJoint** — 2 fields, 1 methods
+- class **EntityModifierTarget_Prototype.<>c__DisplayClass5_0** — 1 fields, 3 methods
+- class **EntityObject** — 8 fields, 7 methods
+- class **EntityProp** — 3 fields, 3 methods
+- class **EntityPrototype** : MonoBehaviour, IQuantumPrefabNestedAssetHost — 8 fields, 5 methods
+- class **EntityPrototype.CheckComponentDuplicatesVisitor** : ComponentPrototypeVisitor — 2 fields, 1 methods
+- struct **EntityPrototype.InitialNavMeshTargetInfo** — 4 fields, 0 methods
+- struct **EntityPrototype.NavMeshAvoidanceAgentInfo** — 1 fields, 0 methods
+- struct **EntityPrototype.NavMeshPathfinderInfo** — 3 fields, 0 methods
+- struct **EntityPrototype.NavMeshSpec** — 3 fields, 0 methods
+- struct **EntityPrototype.NavMeshSteeringAgentInfo** — 3 fields, 0 methods
+- struct **EntityPrototype.OverrideFP** — 2 fields, 0 methods
+- struct **EntityPrototype.PhysicsBodyGeneric** — 12 fields, 3 methods
+- struct **EntityPrototype.PhysicsColliderGeneric** — 8 fields, 0 methods
+- struct **EntityPrototype.Transform2DVerticalInfo** — 3 fields, 0 methods
+- class **EntityPrototypeAsset** : AssetBase, IQuantumPrefabNestedAsset<EntityPrototype>, IQuantumPrefabNestedAsset — 5 fields, 2 methods
+- class **EntityPrototypeAsset.Visitor** : ComponentPrototypeVisitor — 0 fields, 1 methods
+- class **EntityPrototypeAssetExts** — 0 fields, 1 methods
+- class **EntityPrototypeBakedAsset** : EntityPrototypeAsset, IQuantumPrefabBakedAsset — 1 fields, 1 methods
+- struct **EntityPrototypeRefWrapper** — 2 fields, 0 methods
+- enum **EntityPrototypeTransformMode**: Transform2D=0, Transform3D=1, None=2
+- class **EntityPrototypeUtils** — 0 fields, 8 methods
+- class **EntityPrototypeUtils.<>c** — 2 fields, 3 methods
+- class **EntityReferencesHandler_Prototype.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- class **EntityRig** — 10 fields, 10 methods
+- class **EntityView** : MonoBehaviour, IQuantumPrefabNestedAssetHost — 24 fields, 8 methods
+- class **EntityView.EntityUnityEvent** : UnityEvent<QuantumGame> — 0 fields, 1 methods
+- struct **EntityView.UpdatePostionParameter** — 8 fields, 0 methods
+- class **EntityViewAsset** : AssetBase, IQuantumPrefabNestedAsset<EntityView>, IQuantumPrefabNestedAsset — 2 fields, 3 methods
+- enum **EntityViewAssetStatus**: NotLoaded=0, Loading=1, Loaded=2, Error=3
+- class **EntityViewBakedAsset** : EntityViewAsset, IQuantumPrefabBakedAsset, QuantumPrefabAsset.IListener — 2 fields, 1 methods
+- enum **EntityViewBindBehaviour**: NonVerified=0, Verified=1
+- class **EntityViewUpdater** : MonoBehaviour — 8 fields, 33 methods
+- struct **EnvironmentColorSettings** — 6 fields, 0 methods
+- struct **EnvironmentData** — 5 fields, 0 methods
+- class **EquipableItemOption** : UINavigationElement — 5 fields, 5 methods
+- class **EscapeRoomGameModeAsset** : SpeedRunnersBaseGameModeAsset — 1 fields, 1 methods
+- class **EscapeRoomGameModeAssetExts** — 0 fields, 1 methods
+- class **EscapeRoomManager** : SpeedRunnersGameModeManager — 0 fields, 9 methods
+- class **EscapeRoomMatchHUD** : SpeedRunnersMatchHUD — 10 fields, 8 methods
+- class **EscapeRoomTimer** : SRMonoBehaviour — 12 fields, 6 methods
+- class **EulaPopup** : UIPopup — 11 fields, 8 methods
+- enum **EulaPopup.Style**: Default=0, ConfirmAndCancel=1, CancelAndConfirm=2
+- class **ExecuteGroupConditionally_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ExecuteGroupConditionally_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ExecuteGroupOnLinecastHit_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **ExecuteGroupOnLinecastHit_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ExecuteGroup_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **ExecuteGroup_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **ExperienceData** — 5 fields, 0 methods
+- class **ExperienceEventButton** : UINavigationElement — 5 fields, 2 methods
+- class **ExtrasMenuWorld** : MainMenuWorldScreen — 2 fields, 4 methods
+- class **FMODAudioInstance** : AudioInstance — 1 fields, 1 methods
+- class **FMODAudioTool** : AudioTool — 4 fields, 14 methods
+- class **FMODAudioTool.<LoadBankRoutine>d__32** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **FMODAudioTool.<PlaySFXDelayed>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 12 fields, 1 methods
+- struct **FMODSFXEvent** — 3 fields, 1 methods
+- class **FPMathUtils** — 0 fields, 22 methods
+- class **FPMathUtils.<>c** — 2 fields, 3 methods
+- class **FPSDebugger** : MonoBehaviour — 18 fields, 8 methods
+- class **FastFall_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **FastFall_BehaviourAssetExts** — 0 fields, 1 methods
+- class **FileLoadingManager** : SRMonoBehaviour — 3 fields, 5 methods
+- class **FileLoadingManager.<>c__DisplayClass10_0** — 1 fields, 2 methods
+- class **FileLoadingManager.<>c__DisplayClass8_0** — 2 fields, 2 methods
+- class **FileLoadingManager.<>c__DisplayClass9_0** — 1 fields, 2 methods
+- class **FileLoadingManager.OnCharacterInstanced** : MulticastDelegate — 0 fields, 1 methods
+- class **FileLoadingManager.OnCharacterRenderLoaded** : MulticastDelegate — 0 fields, 1 methods
+- class **FileLoadingManager.OnCharacterTrailInstanced** : MulticastDelegate — 0 fields, 1 methods
+- class **FindClosestEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **FindClosestEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Flinch_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Flinch_BehaviourAssetExts** — 0 fields, 1 methods
+- class **FollowEntity_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **FollowEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **FootstepSFXEventDefinition** — 2 fields, 0 methods
+- class **FootstepSFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **FootstepSFX_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ForceCameraTargetPosition_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ForceCameraTargetPosition_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Freeze_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Freeze_BehaviourAssetExts** — 0 fields, 1 methods
+- class **FrogmanBossTongue_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **FrogmanBossTongue_BehaviourAssetExts** — 0 fields, 1 methods
+- class **GA_MiniJSON.Parser** : IDisposable — 1 fields, 14 methods
+- enum **GA_MiniJSON.Parser.TOKEN**: NONE=0, CURLY_OPEN=1, CURLY_CLOSE=2, SQUARED_OPEN=3, SQUARED_CLOSE=4, COLON=5, COMMA=6, STRING=7, NUMBER=8, TRUE=9, FALSE=10, NULL=11
+- class **GA_MiniJSON.Serializer** — 1 fields, 7 methods
+- class **GameAdjustmentOptions** : PauseSubMenu — 10 fields, 14 methods
+- class **GameAnalytics** : MonoBehaviour — 9 fields, 1 methods
+- class **GameAnalyticsManager** : AnalyticEngine — 2 fields, 1 methods
+- enum **GameContext**: None=0, MainMenu=1, WinnerScreen=2, LevelUpScreen=3, LocalRace=4, OnlineRace=5, Loading=6
+- class **GameCubeAdapterState** — 29 fields, 8 methods
+- class **GameCubeController** : StellarController — 4 fields, 2 methods
+- class **GameEntityDataAsset** : AssetBase — 1 fields, 1 methods
+- class **GameEntityDataAssetExts** — 0 fields, 1 methods
+- class **GameEntityEditorSave** — 4 fields, 16 methods
+- class **GameEntityEditorSave.<>c** — 2 fields, 3 methods
+- struct **GameEntityEditorSaveData** — 2 fields, 1 methods
+- struct **GameEntityEditorWorkspaceData** — 2 fields, 3 methods
+- struct **GameEntityEditorWorkspaces** — 1 fields, 6 methods
+- class **GameEntityEntityLightReciever** : MonoBehaviour — 1 fields, 1 methods
+- class **GameEntityManager** : StellarMonoBehaviour — 18 fields, 11 methods
+- class **GameEntityObjectsManager** : MonoBehaviour — 10 fields, 17 methods
+- class **GameEntityPollUpdater** : MonoBehaviour — 0 fields, 1 methods
+- class **GameEntityRenderManager** : MonoBehaviour — 19 fields, 22 methods
+- struct **GameEntityRenderer** — 1 fields, 0 methods
+- class **GameEntityStatePreviewManager** : MonoBehaviour — 12 fields, 12 methods
+- class **GameEvents** : MonoBehaviour — 7 fields, 1 methods
+- class **GameEvents.OnLoadingScreenRemoved** : MulticastDelegate — 0 fields, 1 methods
+- class **GameEvents.OnMatchCancelled** : MulticastDelegate — 0 fields, 1 methods
+- class **GameEvents.OnMatchFinished** : MulticastDelegate — 0 fields, 1 methods
+- class **GameEvents.OnMatchLoadEnded** : MulticastDelegate — 0 fields, 1 methods
+- class **GameEvents.OnMatchLoadStarted** : MulticastDelegate — 0 fields, 1 methods
+- class **GameEvents.OnMatchStarted** : MulticastDelegate — 0 fields, 1 methods
+- class **GameEvents.OnPlayerLeftDuringMatch** : MulticastDelegate — 0 fields, 1 methods
+- class **GameManager** : MonoBehaviour — 22 fields, 15 methods
+- class **GameModeManager** : SRMonoBehaviour — 3 fields, 4 methods
+- class **GameModeManager.<>c__DisplayClass7_0** — 2 fields, 2 methods
+- class **GameModeManager.OnGameModeObjectsReady** : MulticastDelegate — 0 fields, 1 methods
+- struct **GameModePrefabReference** — 2 fields, 1 methods
+- enum **GamePlatform**: Undefined=0, Windows=1, Steam=2, Epic=3, MicrosoftStore=4, Switch=5, Switch2=6, PS4=7, PS5=8, XboxOne=9, XboxSeries=10
+- enum **GamePlatformFamily**: Undefined=0, PC=1, Nintendo=2, PlayStation=3, Xbox=4
+- class **GameSettingsPanel** : SettingsSubPanel — 24 fields, 18 methods
+- class **GameSettingsPanel.<SaveSettingsWithDelay>d__26** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **GameSpeedModifiersDataAsset** : AssetBase — 1 fields, 1 methods
+- class **GameSpeedModifiersDataAssetExts** — 0 fields, 1 methods
+- class **GameSpeedSelector** : StellarSelectorOption — 3 fields, 3 methods
+- class **GameStateManager** : SRMonoBehaviour — 13 fields, 27 methods
+- class **GameStateManager.<>c__DisplayClass42_0** — 1 fields, 2 methods
+- class **GamecubeAdapterDriver** : MonoBehaviour — 11 fields, 10 methods
+- class **GamecubeAdapterDriver.Status** — 4 fields, 1 methods
+- struct **GameplayControllerMapping** — 2 fields, 0 methods
+- class **GameplayEmote** : SRMonoBehaviour — 21 fields, 19 methods
+- class **GameplayEmote.<HideEmoteWithDelay>d__40** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **GameplayInputSettingsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **GameplayInputSettingsDataAssetExts** — 0 fields, 1 methods
+- struct **GameplayKeyboardMapping** — 2 fields, 0 methods
+- class **GdkPlatformSettings** — 3 fields, 1 methods
+- struct **GizmoUtils.GizmosJointParams** — 13 fields, 0 methods
+- enum **GizmoUtils.GizmosJointParams.GizmosJointType**: None=0, DistanceJoint2D=1, DistanceJoint3D=2, SpringJoint2D=3, SpringJoint3D=4, HingeJoint2D=5, HingeJoint3D=6
+- class **GlobalCameraSettingsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **GlobalCameraSettingsDataAssetExts** — 0 fields, 1 methods
+- struct **GlossaryItemData** — 6 fields, 0 methods
+- class **GlossaryItemsData** : ScriptableObject — 1 fields, 2 methods
+- class **GlossaryMenuOption** : UINavigationElement — 5 fields, 3 methods
+- class **GoldenHook_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **GoldenHook_BehaviourAssetExts** — 0 fields, 1 methods
+- class **GrabDataAsset** : AssetBase — 1 fields, 1 methods
+- class **GrabDataAssetExts** — 0 fields, 1 methods
+- class **GrabLaunch_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **GrabLaunch_BehaviourAssetExts** — 0 fields, 1 methods
+- class **GrabPummel_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **GrabPummel_BehaviourAssetExts** — 0 fields, 1 methods
+- class **GraphicsSettingsPanel** : SettingsSubPanel — 14 fields, 5 methods
+- class **HUDEndAnimation** : SRMonoBehaviour — 21 fields, 15 methods
+- struct **HUDEndAnimation.CharacterColorData** — 1 fields, 0 methods
+- class **HUDIntroAnimation** : SRMonoBehaviour — 8 fields, 9 methods
+- class **HandleHookLaunchAnimations_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **HandleHookLaunchAnimations_BehaviourAssetExts** — 0 fields, 1 methods
+- class **HazardsRaceGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **HazardsRaceGameModeAssetExts** — 0 fields, 1 methods
+- class **HazardsRaceGameModeManager_Prototype.<>c__DisplayClass9_0** — 1 fields, 2 methods
+- class **HazardsRaceMatchHUD** : SpeedRunnersMatchHUD — 15 fields, 7 methods
+- struct **HazardsRaceMatchHUD.HazardIndicatorData** — 2 fields, 0 methods
+- class **HideIfNullAttribute** : PropertyAttribute — 1 fields, 3 methods
+- class **HideOnStart** : MonoBehaviour — 0 fields, 2 methods
+- class **HierarchyDebugger** : UIScreen — 3 fields, 2 methods
+- class **HierarchyDebuggerEnabler** : StellarMonoBehaviour — 1 fields, 3 methods
+- class **HierarchyDebuggerOption** : UINavigationElement — 4 fields, 5 methods
+- enum **HierarchyElementType**: Undefined=0, Base=1, Inherit=2, Override=3, Local=4
+- struct **HitBoxVisualInstance** — 6 fields, 6 methods
+- class **HitLagOverride_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **HitLagOverride_BehaviourAssetExts** — 0 fields, 1 methods
+- class **HookLaunch_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **HookLaunch_BehaviourAssetExts** — 0 fields, 1 methods
+- class **HookSwing_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **HookSwing_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **HurtBoxVisualInstance** — 6 fields, 5 methods
+- class **Hurt_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Hurt_BehaviourAssetExts** — 0 fields, 1 methods
+- interface **IQuantumPrefabBakedAsset** — 0 fields, 0 methods
+- interface **IQuantumPrefabNestedAsset** — 0 fields, 0 methods
+- interface **IQuantumPrefabNestedAsset<THostingComponent>** : IQuantumPrefabNestedAsset — 0 fields, 0 methods
+- interface **IQuantumPrefabNestedAssetHost** — 0 fields, 0 methods
+- interface **IQuantumUnityDispatcher** — 0 fields, 0 methods
+- class **IQuantumUnityDispatcherExtensions** — 0 fields, 1 methods
+- interface **IStellarCollisionsVisualizer** — 0 fields, 0 methods
+- class **Idle_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Idle_BehaviourAssetExts** — 0 fields, 1 methods
+- enum **IndicatorState**: Indicator=0, Death=1, WrongDirection=2, Hide=3, TemporaryHide=4
+- class **InfiniteParallax3D** : MonoBehaviour — 5 fields, 3 methods
+- class **InitManager** : SRMonoBehaviour — 7 fields, 7 methods
+- class **InputCheck_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **InputCheck_BehaviourAssetExts** — 0 fields, 1 methods
+- enum **InputContext**: Gameplay=0, UI=1, UIAndGameplay=2
+- enum **InputDeviceType**: Undefined=0, Simulated=1, Keyboard=2, XboxController=3, PS4Controller=4, PS5Controller=5, SwitchController=6, GamecubeController=7, SwitchJoyLeft=8, SwitchJoyRight=9
+- class **InputEditorSubMenu** : InputProfileSubMenu — 16 fields, 9 methods
+- class **InputEditorSubMenu.<>c__DisplayClass17_0** — 1 fields, 2 methods
+- class **InputFieldSpinner** : MonoBehaviour — 9 fields, 5 methods
+- struct **InputFlagLocalization** — 2 fields, 0 methods
+- class **InputLocalizationData** : ScriptableObject — 1 fields, 2 methods
+- class **InputLocalizationData.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- struct **InputMode** — 3 fields, 0 methods
+- class **InputOption** : UINavigationElement — 4 fields, 2 methods
+- class **InputOptionToggle** : UINavigationElement — 4 fields, 4 methods
+- struct **InputProfile** — 5 fields, 0 methods
+- class **InputProfileConfirmSubMenu** : InputProfileSubMenu — 4 fields, 2 methods
+- class **InputProfileNewProfileSubMenu** : InputProfileSubMenu — 6 fields, 7 methods
+- class **InputProfileOption** : UINavigationElement — 5 fields, 2 methods
+- class **InputProfileSelectSubMenu** : InputProfileSubMenu — 13 fields, 6 methods
+- class **InputProfileSelectSubMenu.<ToggleWithDelay>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **InputProfileSubMenu** : SRMonoBehaviour — 3 fields, 2 methods
+- class **InputProfileWorldScreen** : MainMenuWorldScreen — 15 fields, 4 methods
+- class **IntroBanner** : SRMonoBehaviour — 6 fields, 10 methods
+- class **IntroBanners** : SRMonoBehaviour — 4 fields, 12 methods
+- class **InvitationData** — 3 fields, 1 methods
+- class **InvitationManager** : SRMonoBehaviour — 0 fields, 4 methods
+- class **ItemBoxTriggered_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ItemBoxTriggered_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ItemBubbleHUD** : SRMonoBehaviour — 13 fields, 6 methods
+- class **ItemBubbleHUD.<HideBubbleAfterDelay>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- enum **ItemEvent**: RocketsHit=0, BombsHit=1, FreezeRaysHit=2, CratesHit=3, InvinciDrillsHit=4, FireBallsHit=5, ShockWavesHit=6, GoldenHooksHit=7
+- class **ItemGlossaryMenu** : MainMenuScreen — 8 fields, 6 methods
+- class **ItemIndicatorUIData** : ScriptableObject — 4 fields, 1 methods
+- struct **ItemUIData** — 3 fields, 0 methods
+- class **ItemUseCheck_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ItemUseCheck_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ItemsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **ItemsDataAssetExts** — 0 fields, 1 methods
+- class **ItemsUIData** : ScriptableObject — 1 fields, 2 methods
+- class **JoinPrivateLobbyWorld** : MainMenuWorldScreen — 7 fields, 6 methods
+- class **JoinPrivateLobbyWorld.<>c__DisplayClass9_0** — 2 fields, 3 methods
+- class **JoinTournamentWorld** : MainMenuWorldScreen — 6 fields, 4 methods
+- class **JsonUtilityArrays** — 0 fields, 0 methods
+- class **JsonUtilityArrays.Wrapper<T>** — 1 fields, 0 methods
+- class **JumpAnticipation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **JumpAnticipation_BehaviourAssetExts** — 0 fields, 1 methods
+- class **JumpSettingsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **JumpSettingsDataAssetExts** — 0 fields, 1 methods
+- class **Jump_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Jump_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **KeyboardButtonIcon** — 3 fields, 0 methods
+- class **KeyboardIcons** : ScriptableObject — 1 fields, 2 methods
+- struct **KeyboardInputMapping** — 3 fields, 1 methods
+- struct **KeyboardInputState** — 4 fields, 0 methods
+- struct **KeyboardInputsState** — 2 fields, 8 methods
+- class **KeyboardMapping** : ScriptableObject — 1 fields, 1 methods
+- class **KnockOut_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **KnockOut_BehaviourAssetExts** — 0 fields, 1 methods
+- class **KnockedOut_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **KnockedOut_BehaviourAssetExts** — 0 fields, 1 methods
+- class **LandLag_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **LandLag_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **LanguageData** — 2 fields, 0 methods
+- class **LapsAndPlacementManager** : SRMonoBehaviour — 11 fields, 5 methods
+- class **LapsRaceGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **LapsRaceGameModeAssetExts** — 0 fields, 1 methods
+- class **LapsRaceMatchHUD** : SpeedRunnersMatchHUD — 8 fields, 3 methods
+- class **Laser_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Laser_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **LastSelectedCharacterCostume** — 2 fields, 0 methods
+- class **LaunchPreloader** : MonoBehaviour — 3 fields, 5 methods
+- class **Launched_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Launched_BehaviourAssetExts** — 0 fields, 1 methods
+- class **LayoutManager_Prototype.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- enum **LeavingLobbyMessage**: None=0, LeavingLobbyMessage=1
+- class **Letterbox** : MonoBehaviour — 6 fields, 7 methods
+- class **LevelLayoutSelector** : SRMonoBehaviour — 19 fields, 12 methods
+- class **LevelSelect** : LevelSelectBase — 2 fields, 6 methods
+- class **LevelSelect.<>c** — 4 fields, 5 methods
+- class **LevelSelect.<StartLevel>d__7** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **LevelSelectBase** : MainMenuScreen — 10 fields, 17 methods
+- struct **LevelSelectBase.GameModeStagesBlacklist** — 2 fields, 0 methods
+- class **LevelSelectOnline** : LevelSelectBase — 8 fields, 9 methods
+- class **LevelSelectOnline.<StartLevel>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **LevelSelectOnlinePlayerSelection** : SRMonoBehaviour — 5 fields, 3 methods
+- class **LevelSelectOption** : UINavigationElement — 8 fields, 5 methods
+- class **LevelSelectTraining** : LevelSelectBase — 1 fields, 5 methods
+- class **LevelSelectTraining.<>c** — 4 fields, 5 methods
+- class **LevelSelectTraining.<StartLevel>d__5** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **LevelSelectTrainingWorld** : MainMenuWorldScreen — 3 fields, 4 methods
+- class **LevelSelectedAnimation** : MonoBehaviour — 3 fields, 3 methods
+- class **LevelSelector** : SRMonoBehaviour — 21 fields, 14 methods
+- class **LevelSelector.OnSelectorUpdated** : MulticastDelegate — 0 fields, 1 methods
+- class **LevelUpExperienceBar** : SRMonoBehaviour — 12 fields, 5 methods
+- class **LevelUpExperienceBar.<AnimateFill>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 6 fields, 1 methods
+- class **LevelUpExperienceBar.<LevelUpSequence>d__14** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **LevelUpExperienceBar.OnLevelUpBarFinished** : MulticastDelegate — 0 fields, 1 methods
+- class **LevelUpScreen** : SRMonoBehaviour — 45 fields, 12 methods
+- class **LightController** : StellarMonoBehaviour — 18 fields, 5 methods
+- class **LightControllerTransitionBehaviour** : PlayableBehaviour — 2 fields, 1 methods
+- class **LightControllerTransitionClip** : PlayableAsset — 1 fields, 1 methods
+- class **LightControllerTransitionTrack** : TrackAsset — 0 fields, 1 methods
+- class **LightSettings** — 4 fields, 1 methods
+- class **LightVolumeModifier** : MonoBehaviour — 6 fields, 8 methods
+- class **LightVolumeModifier.ShaderProperty** — 7 fields, 1 methods
+- class **LightingPreset** — 9 fields, 1 methods
+- class **LightingPresets** : ScriptableObject — 1 fields, 3 methods
+- class **LoadBalancingClient.CallbackTargetChange** — 2 fields, 1 methods
+- class **LoadBalancingClient.EncryptionDataParameters** — 0 fields, 1 methods
+- class **LoadBalancingPeer.<>c** — 3 fields, 4 methods
+- class **Loader.<>c__DisplayClass52_0** — 2 fields, 3 methods
+- class **Loader.<>c__DisplayClass53_0** — 2 fields, 3 methods
+- struct **Loader.<Build>d__43** : IAsyncStateMachine — 13 fields, 0 methods
+- class **Loader.<DownloadFile>d__57** : IEnumerator<object>, IEnumerator, IDisposable — 10 fields, 1 methods
+- class **Loader.<DownloadFileWebGL>d__59** : IEnumerator<object>, IEnumerator, IDisposable — 10 fields, 1 methods
+- class **Loader.<DownloadTexFileWebGL>d__60** : IEnumerator<object>, IEnumerator, IDisposable — 10 fields, 1 methods
+- class **Loader.<GetProgress>d__58** : IEnumerator<object>, IEnumerator, IDisposable — 5 fields, 1 methods
+- struct **Loader.<Load>d__33** : IAsyncStateMachine — 12 fields, 0 methods
+- struct **Loader.<LoadFromNetwork>d__34** : IAsyncStateMachine — 14 fields, 0 methods
+- class **Loader.<LoadFromNetworkWebGL>d__35** : IEnumerator<object>, IEnumerator, IDisposable — 14 fields, 1 methods
+- struct **Loader.<LoadMaterialTexture>d__51** : IAsyncStateMachine — 9 fields, 0 methods
+- struct **Loader.<LoadMaterialTexture>d__52** : IAsyncStateMachine — 6 fields, 0 methods
+- class **Loader.<LoadMaterialTextureWebGL>d__53** : IEnumerator<object>, IEnumerator, IDisposable — 5 fields, 1 methods
+- struct **Loader.<NetworkedBuild>d__44** : IAsyncStateMachine — 19 fields, 0 methods
+- class **Loader.<NetworkedBuildWebGL>d__45** : IEnumerator<object>, IEnumerator, IDisposable — 14 fields, 2 methods
+- struct **Loader.BuildStats** — 3 fields, 0 methods
+- struct **Loader.Stats** — 5 fields, 0 methods
+- class **LoaderObj.<>c__DisplayClass4_0** — 3 fields, 3 methods
+- class **LoaderObj.<>c__DisplayClass5_0** — 4 fields, 3 methods
+- class **LoaderObj.<>c__DisplayClass7_0** — 2 fields, 3 methods
+- class **LoaderObj.<>c__DisplayClass8_0** — 2 fields, 3 methods
+- struct **LoaderObj.<LoadMaterialLibrary>d__6** : IAsyncStateMachine — 7 fields, 0 methods
+- struct **LoaderObj.<LoadMaterialLibrary>d__7** : IAsyncStateMachine — 8 fields, 0 methods
+- class **LoaderObj.<LoadMaterialLibraryWebGL>d__8** : IEnumerator<object>, IEnumerator, IDisposable — 5 fields, 1 methods
+- struct **LoaderObj.<LoadModelFile>d__3** : IAsyncStateMachine — 6 fields, 0 methods
+- struct **LoaderObj.<LoadModelFileNetworked>d__4** : IAsyncStateMachine — 8 fields, 0 methods
+- class **LoaderObj.<LoadModelFileNetworkedWebGL>d__5** : IEnumerator<object>, IEnumerator, IDisposable — 6 fields, 1 methods
+- class **LoaderObj.<LoadOrDownloadText>d__20** : IEnumerator<object>, IEnumerator, IDisposable — 6 fields, 1 methods
+- class **LoaderObj.BumpParamDef** — 4 fields, 1 methods
+- class **LoadingPopup** : UIPopup — 1 fields, 2 methods
+- class **LoadingProgressBar** : MonoBehaviour — 1 fields, 3 methods
+- class **LoadingScreen** : UIScreen — 2 fields, 4 methods
+- enum **LoadingState**: None=0, LoadingMainMenu=1, LoadingMatch=2, LoadingScreenScene=3, Connecting=4, Disconnection=5
+- class **LoadingTextAnimation** : MonoBehaviour — 5 fields, 3 methods
+- class **LoadingUIManager** : SRMonoBehaviour — 4 fields, 7 methods
+- class **LoadingUIManager.<HideLoadingScreenCoroutine>d__9** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- enum **LobbyCPUDifficulty**: Easy=0, Medium=1, Hard=2, Unfair=3, Random=4
+- enum **LobbyCPUsNumberSetting**: None=0, Fill=1, _1=2, _2=3, _3=4, _4=5, _5=6, _6=7
+- struct **LobbyGameModeData** — 2 fields, 0 methods
+- enum **LobbyJoinMethod**: JoinPhotonRoomFirst=0, JoinPlatformLobbyFirst=1
+- class **LobbyListWorld** : MainMenuWorldScreen — 11 fields, 9 methods
+- class **LobbyListWorld.<RefreshCoroutine>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **LobbyMenuWorld** : MainMenuWorldScreen — 3 fields, 9 methods
+- class **LobbyOption** : UINavigationElement — 13 fields, 5 methods
+- class **LocalHubWorld** : MainMenuWorldScreen — 4 fields, 6 methods
+- class **LocalPlay8CharactersDebug** : SRMonoBehaviour — 2 fields, 2 methods
+- class **LogoParadeScreen** : MainMenuScreen — 7 fields, 3 methods
+- class **MSEExampleSpawner** : MonoBehaviour — 3 fields, 4 methods
+- class **MainMenu** : SRMonoBehaviour — 20 fields, 27 methods
+- class **MainMenuCharacterSpawner** : SRMonoBehaviour — 18 fields, 11 methods
+- class **MainMenuCharacterSpawner.<IdleDelay>d__23** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- enum **MainMenuContext**: None=0, Hub=1, LocalMatch=2, OnlineLobby=3
+- class **MainMenuCostumeFooter** : SRMonoBehaviour — 8 fields, 13 methods
+- class **MainMenuCostumeFooter.<>c__DisplayClass13_0** — 1 fields, 2 methods
+- class **MainMenuCostumeFooter.<SkinChangeCooldown>d__19** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **MainMenuCostumeFooter.<TriggerAnimationNextFrame>d__18** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **MainMenuData** : ScriptableObject — 3 fields, 2 methods
+- class **MainMenuFeedbackPanel** : MainMenuSubPanel — 0 fields, 4 methods
+- class **MainMenuHeader** : SRMonoBehaviour — 41 fields, 38 methods
+- class **MainMenuHeader.<HideAndDeactiivate>d__50** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **MainMenuHeader.TabOptionSelected** : MulticastDelegate — 0 fields, 1 methods
+- class **MainMenuHeaderTab** : UINavigationElement — 1 fields, 1 methods
+- class **MainMenuHub** : MainMenuScreen — 34 fields, 17 methods
+- class **MainMenuHubPanel** : MainMenuSubPanel — 33 fields, 13 methods
+- class **MainMenuHubPanel.<>c** — 2 fields, 3 methods
+- class **MainMenuHubPanel.<>c__DisplayClass42_0** — 1 fields, 2 methods
+- class **MainMenuHubPanel.<Fade>d__47** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **MainMenuHubPanel.<FadeToggleText>d__46** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **MainMenuLevelOption** : UINavigationElement — 6 fields, 4 methods
+- class **MainMenuLevelSelectPanel** : MainMenuSubPanel — 1 fields, 3 methods
+- class **MainMenuLobbyManager** : SRMonoBehaviour — 21 fields, 39 methods
+- class **MainMenuPanelRunnerSlot** : UINavigationElement — 12 fields, 8 methods
+- class **MainMenuPlayerBadge** : MonoBehaviour — 4 fields, 2 methods
+- class **MainMenuScreen** : UIScreen — 6 fields, 7 methods
+- class **MainMenuScreen.<EnableNextCamera>d__13** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **MainMenuScreen.<FinishTransitionCoroutine>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- struct **MainMenuScreen.MainMenuCameraTransition** — 2 fields, 1 methods
+- struct **MainMenuScreen.MainMenuScreenCameraData** — 3 fields, 0 methods
+- class **MainMenuStreetTexts** : SRMonoBehaviour — 12 fields, 8 methods
+- class **MainMenuSubPanel** : SRMonoBehaviour — 5 fields, 3 methods
+- class **MainMenuWorldScreen** : SRMonoBehaviour — 2 fields, 3 methods
+- class **MainMenuWorldScreen.<>c** — 2 fields, 3 methods
+- class **MapAsset** : AssetBase — 2 fields, 1 methods
+- class **MapAssetExts** — 0 fields, 1 methods
+- class **MapData** : MonoBehaviour — 6 fields, 5 methods
+- enum **MapData.DrawMode**: PhysicsArea=4, PhysicsBuckets=8, NavMeshArea=16, NavMeshGrid=32, All=60
+- class **MapDataBaker** — 1 fields, 16 methods
+- class **MapDataBaker.<>c** — 4 fields, 5 methods
+- class **MapDataBaker.<>c__DisplayClass13_0<T>** — 2 fields, 0 methods
+- class **MapDataBaker.<>c__DisplayClass6_0** — 1 fields, 2 methods
+- enum **MapDataBaker.BuildTrigger**: SceneSave=0, PlaymodeChange=1, Build=2, Manual=3
+- class **MapDataBakerCallback** — 0 fields, 1 methods
+- class **MapDataBakerCallbackAttribute** : Attribute — 1 fields, 3 methods
+- class **MapNavMesh** — 4 fields, 7 methods
+- class **MapNavMesh.<>c** — 3 fields, 6 methods
+- class **MapNavMesh.<>c__DisplayClass8_0** — 1 fields, 3 methods
+- class **MapNavMesh.BakeData** — 11 fields, 1 methods
+- enum **MapNavMesh.FindClosestTriangleCalculation**: BruteForce=0, SpiralOut=1
+- struct **MapNavMesh.GizmoNavmeshData** — 2 fields, 0 methods
+- class **MapNavMesh.ImportSettings** — 15 fields, 1 methods
+- class **MapNavMeshBakeData** : MapNavMesh.BakeData — 0 fields, 1 methods
+- class **MapNavMeshBaker.<>c** — 2 fields, 3 methods
+- class **MapNavMeshBaker.<>c__DisplayClass18_0** — 1 fields, 2 methods
+- class **MapNavMeshBaker.<>c__DisplayClass4_0** — 2 fields, 7 methods
+- class **MapNavMeshBaker.<>c__DisplayClass4_1** — 2 fields, 2 methods
+- class **MapNavMeshBaker.<>c__DisplayClass4_2** — 1 fields, 5 methods
+- class **MapNavMeshBaker.<>c__DisplayClass7_0** — 1 fields, 2 methods
+- struct **MapNavMeshBaker.TriangleCenterGrid** — 1 fields, 0 methods
+- struct **MapNavMeshBaker.TriangleCenterGrid.Pair** — 2 fields, 0 methods
+- struct **MapNavMeshBaker.Vector3Double** — 3 fields, 13 methods
+- class **MapNavMeshDebugDrawer** : MonoBehaviour — 8 fields, 1 methods
+- class **MapNavMeshDefinition** : MonoBehaviour — 19 fields, 6 methods
+- class **MapNavMeshDefinition.<>c__DisplayClass21_0** — 1 fields, 2 methods
+- enum **MapNavMeshDefinition.FindClosestTriangleCalculation**: BruteForce=0, SpiralOut=1
+- struct **MapNavMeshLink** — 6 fields, 0 methods
+- class **MapNavMeshRegion** : MonoBehaviour — 4 fields, 1 methods
+- enum **MapNavMeshRegion.RegionCastType**: CastRegion=0, NoRegion=1
+- struct **MapNavMeshTriangle** — 6 fields, 0 methods
+- class **MapNavMeshUnity** : MonoBehaviour — 2 fields, 1 methods
+- struct **MapNavMeshVertex** — 4 fields, 0 methods
+- class **MatchCountdownHud** : SRMonoBehaviour — 10 fields, 6 methods
+- struct **MatchData** — 4 fields, 0 methods
+- class **MatchLoadingScreen** : LoadingScreen — 1 fields, 3 methods
+- class **MatchPreloader** : SRMonoBehaviour — 2 fields, 5 methods
+- class **MatchPreloader.OnMatchPreloaded** : MulticastDelegate — 0 fields, 1 methods
+- class **MatchResourcesManager** : MonoBehaviour — 4 fields, 7 methods
+- class **MatchResourcesManager.OnMatchResourcesReady** : MulticastDelegate — 0 fields, 1 methods
+- enum **MatchType**: Online=0, Offline=1, Both=2
+- class **MatchmakingManager** : SRMonoBehaviour — 15 fields, 17 methods
+- enum **MatchmakingManager.MatchmakingState**: None=0, WaitingForOpponent=1, CreatingLobby=2, JoiningLobby=3, LeavingLobby=4, CheckingLobbies=5, Canceling=6
+- class **MatchmakingManager.OnMatchmakingFinished** : MulticastDelegate — 0 fields, 1 methods
+- enum **MatchmakingMode**: None=0, Ranked=1, Ranked1v1=2, QuickplayDefault=3, Quickplay8Players=4, Playground=5, Tournament=6
+- struct **MatchmakingModeImage** — 2 fields, 0 methods
+- class **MaterialChangeTransitionBehaviour** : PlayableBehaviour — 7 fields, 1 methods
+- class **MaterialChangeTransitionClip** : PlayableAsset — 3 fields, 1 methods
+- class **MaterialChangeTransitionTrack** : TrackAsset — 0 fields, 1 methods
+- class **MathUtils** — 0 fields, 5 methods
+- class **MechanicTutorialDialogueHUD** : TutorialDialogueHUD — 6 fields, 8 methods
+- enum **MechanicTutorialDialogueHUD.SubScreen**: Dialogues=0, FullScreenVideo=1
+- class **MechanicTutorialGameModeAsset** : SpeedRunnersBaseGameModeAsset — 1 fields, 1 methods
+- class **MechanicTutorialGameModeAssetExts** — 0 fields, 1 methods
+- class **MechanicTutorialGoalsHUD** : MonoBehaviour — 6 fields, 3 methods
+- class **MechanicTutorialManager** : SpeedRunnersGameModeManager — 1 fields, 13 methods
+- class **MechanicTutorialMatchHUD** : SpeedRunnersMatchHUD — 16 fields, 11 methods
+- class **MechanicTutorialTimer** : SRMonoBehaviour — 3 fields, 3 methods
+- class **MenuPlayerHighlight** : MonoBehaviour — 9 fields, 8 methods
+- class **MenuPlayersHighlight** : MonoBehaviour — 2 fields, 9 methods
+- struct **MenuPlayersHighlight.PlayerHighlightData** — 2 fields, 0 methods
+- class **MeshCombiner.<>c** — 5 fields, 6 methods
+- struct **MeshCombiner.BlendShape** — 2 fields, 1 methods
+- struct **MeshCombiner.BlendShapeFrame** — 6 fields, 2 methods
+- class **MeshCombiner.MeshUtils** — 0 fields, 12 methods
+- struct **MeshCombiner.SkinnedRenderer** — 8 fields, 0 methods
+- struct **MeshCombiner.StaticRenderer** — 5 fields, 0 methods
+- class **MicrosoftStoreOnlineSystem.<>c** — 3 fields, 4 methods
+- class **MicrosoftStoreOnlineSystem.<>c__DisplayClass62_0** — 2 fields, 2 methods
+- class **MicrosoftStoreOnlineSystem.<>c__DisplayClass64_0** — 4 fields, 2 methods
+- class **MicrosoftStoreOnlineSystem.<>c__DisplayClass72_0** — 2 fields, 2 methods
+- class **MicrosoftStoreOnlineSystem.<AuthTimeoutRoutine>d__36** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- struct **MicrosoftStoreOnlineSystem.<CanCommunicateWithUser>d__64** : IAsyncStateMachine — 5 fields, 0 methods
+- class **MicrosoftStoreOnlineSystem.<CheckConnectionAfterResume>d__55** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- struct **MicrosoftStoreOnlineSystem.<FilterTextAsync>d__62** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **MicrosoftStoreOnlineSystem.<RetryAuthTokenAsync>d__58** : IAsyncStateMachine — 4 fields, 0 methods
+- struct **MicrosoftStoreOnlineSystem.<ValidateMultiplayerAccess>d__53** : IAsyncStateMachine — 4 fields, 0 methods
+- enum **MicrosoftStoreOnlineSystem.OnlineState**: None=0, Hosting=1, Joining=2
+- class **MicrosoftStoreSaveSystem.<>c** — 2 fields, 3 methods
+- struct **MicrosoftStoreSaveSystem.<>c__DisplayClass12_0** — 4 fields, 0 methods
+- class **MicrosoftStoreSaveSystem.<>c__DisplayClass13_0** — 4 fields, 3 methods
+- struct **MicrosoftStoreSaveSystem.<>c__DisplayClass14_0** — 3 fields, 0 methods
+- class **MicrosoftStoreSaveSystem.<>c__DisplayClass4_0** — 2 fields, 2 methods
+- struct **MicrosoftStoreSaveSystem.<InitAsync>d__4** : IAsyncStateMachine — 5 fields, 0 methods
+- enum **MicrosoftStoreSaveSystem.OperationResult**: Success=0, Fail=1, Error=2, InProgress=3, Undefined=4
+- class **MicrosoftStoreSystem.<>c** — 2 fields, 3 methods
+- class **MicrosoftStoreSystem.<>c__DisplayClass34_0** — 2 fields, 2 methods
+- class **MicrosoftStoreSystem.<>c__DisplayClass36_0** — 2 fields, 2 methods
+- class **MicrosoftStoreSystem.<DispatchTaskQueue>d__28** : IEnumerator<object>, IEnumerator, IDisposable — 2 fields, 1 methods
+- struct **MicrosoftStoreSystem.<InitServices>d__30** : IAsyncStateMachine — 4 fields, 0 methods
+- class **MicrosoftUserManager.<>c__DisplayClass11_0** — 2 fields, 2 methods
+- class **MicrosoftUserManager.<>c__DisplayClass12_0** — 2 fields, 2 methods
+- class **MicrosoftUserManager.<>c__DisplayClass13_0** — 3 fields, 2 methods
+- struct **MicrosoftUserManager.<InitAsync>d__9** : IAsyncStateMachine — 5 fields, 0 methods
+- class **MinimapVisualizer** : MonoBehaviour — 2 fields, 2 methods
+- enum **ModelUtil.MtlBlendMode**: OPAQUE=0, CUTOUT=1, FADE=2, TRANSPARENT=3
+- class **ModifyBlastzone_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ModifyBlastzone_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ModifyCameraManagerData_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ModifyCameraManagerData_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ModifyContinuousRotation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ModifyContinuousRotation_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ModifyStageEdge_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ModifyStageEdge_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ModifyStageElementAnimation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ModifyStageElementAnimation_BehaviourAssetExts** — 0 fields, 1 methods
+- class **MonoBehaviourEmpty.<>c__DisplayClass6_0** — 2 fields, 2 methods
+- class **MonoBehaviourEmpty.<>c__DisplayClass6_0.<<StartCoroutineAndDestroy>g__Routine|0>d** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **MoveToEdge_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **MoveToEdge_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **MovementControllerMapping** — 2 fields, 0 methods
+- struct **MovementKeyboardMapping** — 2 fields, 0 methods
+- enum **MovementType**: LeftStick=0, DPad=1, Custom=2
+- class **MovesetLimiterDataAsset** : AssetBase — 1 fields, 1 methods
+- class **MovesetLimiterDataAssetExts** — 0 fields, 1 methods
+- class **MultipleHandlesSlider** : Slider — 9 fields, 10 methods
+- class **MultipleHandlesSlider.<>c__DisplayClass10_0** — 1 fields, 2 methods
+- class **MultipleHandlesSlider.<>c__DisplayClass11_0** — 1 fields, 2 methods
+- struct **MultipleHandlesSlider.Handle** — 3 fields, 0 methods
+- struct **NPCData** — 9 fields, 1 methods
+- class **NPCSettingsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **NPCSettingsDataAssetExts** — 0 fields, 1 methods
+- class **NSControllerSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **NSDLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **NSNetworkManager** — 0 fields, 1 methods
+- class **NSOnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 1 methods
+- class **NSSaveDataHandler** — 0 fields, 1 methods
+- class **NSSaveSystem** : StellarPlatformSaveSystem — 0 fields, 1 methods
+- class **NSSystem** : StellarPlatformSystem — 0 fields, 1 methods
+- class **NavMeshAgentConfigAsset** : AssetBase — 1 fields, 1 methods
+- class **NavMeshAgentConfigAssetExts** — 0 fields, 1 methods
+- class **NavMeshAsset** : AssetBase — 1 fields, 1 methods
+- class **NavMeshAssetExts** — 0 fields, 1 methods
+- class **NetworkClient** : LoadBalancingClient, IPhotonPeerListener — 0 fields, 1 methods
+- class **NetworkUseRequest** : CustomYieldInstruction — 0 fields, 1 methods
+- class **NonDeterministicAnimationManager** : MonoBehaviour — 2 fields, 3 methods
+- class **NotifyFreezeRayAIDodge_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **NotifyFreezeRayAIDodge_BehaviourAssetExts** — 0 fields, 1 methods
+- class **NotifyGeneralCharacterVOEvent_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **NotifyGeneralCharacterVOEvent_BehaviourAssetExts** — 0 fields, 1 methods
+- class **NotifyGoalID_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **NotifyGoalID_BehaviourAssetExts** — 0 fields, 1 methods
+- class **NotifyItemRefresh_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **NotifyItemRefresh_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ObjectBuilder.BuildStatus** — 11 fields, 1 methods
+- class **ObjectBuilder.ProgressInfo** — 4 fields, 1 methods
+- struct **ObjectIDRetarget** — 2 fields, 0 methods
+- struct **ObjectImporter.<ImportModelAsync>d__31** : IAsyncStateMachine — 10 fields, 0 methods
+- struct **ObjectImporter.<ImportModelFromNetwork>d__32** : IAsyncStateMachine — 13 fields, 0 methods
+- enum **ObjectImporter.ImportPhase**: Idle=0, TextureImport=1, ObjLoad=2, AssetBuild=3, Done=4
+- class **ObjectRotator** : MonoBehaviour — 1 fields, 2 methods
+- class **ObjectShake** : MonoBehaviour — 5 fields, 4 methods
+- class **OnlineAuthenticate** : SRMonoBehaviour — 4 fields, 5 methods
+- class **OnlineBadgeElement** : SRMonoBehaviour — 7 fields, 3 methods
+- enum **OnlineCondition**: Any=0, OnlineOnly=1, OfflineOnly=2
+- enum **OnlineConnectMode**: None=0, PlatformInvitation=1
+- class **OnlineConnectUI** : SRMonoBehaviour — 1 fields, 3 methods
+- class **OnlineCoordinator** : SRMonoBehaviour — 11 fields, 30 methods
+- class **OnlineCoordinator.<CreateLobbyRoutine>d__19** : IEnumerator<object>, IEnumerator, IDisposable — 8 fields, 1 methods
+- class **OnlineCoordinator.<CreateTournamentLobbyRoutine>d__21** : IEnumerator<object>, IEnumerator, IDisposable — 9 fields, 1 methods
+- class **OnlineCoordinator.<DisconnectRoutine>d__40** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **OnlineCoordinator.<JoinLobbyWithPhotonRoomIDRoutine>d__26** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **OnlineCoordinator.<JoinLobbyWithPlatformLobbyIDRoutine>d__28** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **OnlineCoordinator.<LeaveLobbyRoutine>d__32** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **OnlineCoordinator.<ReconnectRoutine>d__37** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **OnlineCoordinator.OnCreatingLobbyFinish** : MulticastDelegate — 0 fields, 1 methods
+- class **OnlineCoordinator.OnJoinLobbyFinish** : MulticastDelegate — 0 fields, 1 methods
+- class **OnlineHub** : MainMenuScreen — 5 fields, 13 methods
+- class **OnlineHub.<ConnectionTimeoutRoutine>d__18** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **OnlineHubWorld** : MainMenuWorldScreen — 8 fields, 12 methods
+- enum **OnlineLobbyType**: Undefined=0, Default=1, QuickPlayDefault=2, QuickPlay8Players=3, Tournament=4, Ranked=5, Ranked1v1=6, Playground=7
+- class **OnlineManager** : SRMonoBehaviour — 12 fields, 18 methods
+- class **OnlineManager.<>c** — 4 fields, 5 methods
+- class **OnlineManager.OnEmoteSent** : MulticastDelegate — 0 fields, 1 methods
+- class **OnlineManager.OnMessageSent** : MulticastDelegate — 0 fields, 1 methods
+- enum **OnlineManager.OnlineMode**: None=0, Custom=1, QuickplayDefault=2, QuickPlay8Players=3, Ranked=4, Ranked1v1=5, Tournament=6, Playground=7
+- class **OnlineMatchManager** : SRMonoBehaviour — 5 fields, 14 methods
+- class **OnlineMatchManager.<StartOnlineMatchRoutine>d__6** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **OnlineMenuOption** : UINavigationElement — 4 fields, 2 methods
+- class **OnlineModeDisplay** : MonoBehaviour — 2 fields, 2 methods
+- class **OnlineModeOption** : UINavigationElement — 10 fields, 2 methods
+- class **OnlineModeSelect** : MainMenuScreen — 5 fields, 12 methods
+- class **OnlineModeSelect.<>c** — 2 fields, 3 methods
+- class **OnlineModeSelectWorld** : MainMenuWorldScreen — 6 fields, 9 methods
+- class **OnlinePlayerList** : SRMonoBehaviour — 6 fields, 7 methods
+- class **OnlinePlayerList.<>c__DisplayClass9_0** — 2 fields, 2 methods
+- class **OnlineProperties** : StellarOnlineProperties — 27 fields, 44 methods
+- class **OnlineRankedData** : ScriptableObject — 6 fields, 1 methods
+- class **OnlineRatingManager** : SRMonoBehaviour — 13 fields, 23 methods
+- class **OnlineRatingManager.<>c__DisplayClass35_0** — 1 fields, 2 methods
+- class **OnlineRatingManager.PostRatingCompleted** : MulticastDelegate — 0 fields, 1 methods
+- class **OnlineRatingManager.ServerInfoRequestFinished** : MulticastDelegate — 0 fields, 1 methods
+- class **OnlineSettingsPanel** : SettingsSubPanel — 12 fields, 9 methods
+- class **OnlineSettingsPanel.<SaveSettingsWithDelay>d__14** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **OrderedAudioEventInfo** : StellarAudioEventInfo — 2 fields, 1 methods
+- enum **OutlineColor**: MaxContrast=0, FromPlayerOrder=1
+- struct **OutlineColorOptionData** — 2 fields, 0 methods
+- struct **OutlineOnlineOptionData** — 2 fields, 0 methods
+- enum **OutlineVisibility**: AllPlayers=0, OnlyMe=1, EnhanceMyVisibility=2
+- class **OutlinesData** : ScriptableObject — 3 fields, 1 methods
+- class **PS5ActivitiesSystem** : StellarMonoBehaviour — 1 fields, 1 methods
+- class **PS5ControllerSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **PS5DLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **PS5OnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 1 methods
+- class **PS5SaveSystem** : StellarPlatformSaveSystem — 0 fields, 1 methods
+- class **PS5System** : StellarPlatformSystem — 4 fields, 1 methods
+- class **PS5TrophiesSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **Panel** — 10 fields, 1 methods
+- enum **ParamType**: Color=0, DarkColor=1, Active=2
+- class **ParentObject_Prototype.<>c__DisplayClass2_0** — 1 fields, 2 methods
+- class **ParticleHandler.<Flow>d__11** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **ParticleHandler.<StopParticleAfterTime>d__14** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **ParticleHandler.<WaitUntilParticleSystemStops>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **ParticlesObj** : ScriptableObject — 1 fields, 1 methods
+- class **PartnersManager_Prototype.<>c__DisplayClass4_0** — 1 fields, 2 methods
+- class **PauseHoldBar** : SRMonoBehaviour — 7 fields, 3 methods
+- class **PauseMenu** : UIScreen — 6 fields, 14 methods
+- class **PauseMenu.OnPauseStateChanged** : MulticastDelegate — 0 fields, 1 methods
+- struct **PauseMenuConditionalElement** — 3 fields, 1 methods
+- class **PauseMenuSettings** : PauseSubMenu — 1 fields, 5 methods
+- class **PauseSubMenu** : SRMonoBehaviour — 8 fields, 2 methods
+- class **PauseSubMenu.<Disable>d__11** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- enum **PauseSubMenuID**: None=0, Settings=1, LeaveRaceWarning=2, RestartRaceWarning=3, GameAdjustments=4, PlayerList=5
+- class **PhotonCallbacks** : IOnEventCallback, IConnectionCallbacks, IInRoomCallbacks, ILobbyCallbacks, IMatchmakingCallbacks — 0 fields, 5 methods
+- enum **PhotonEventCode**: StartSimulation=110, StartMatch=111, RoomMigrationFinished=112, StartTimer=113, StopTimer=114, ChatMessage=115, EmoteMessage=116, KickedFromRoom=117
+- class **PhotonServerSettings** : ScriptableObject — 4 fields, 4 methods
+- class **PhysicsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **PhysicsDataAssetExts** — 0 fields, 1 methods
+- class **PhysicsJoints2D_Prototype.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- class **PhysicsJoints3D_Prototype.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- class **PhysicsMaterialAsset** : AssetBase — 1 fields, 1 methods
+- class **PhysicsMaterialAssetExt** — 0 fields, 1 methods
+- class **PickupItemUsageDataAsset** : AssetBase — 1 fields, 1 methods
+- class **PickupItemUsageDataAssetExts** — 0 fields, 1 methods
+- enum **Platform**: None=0, PC=1, NintendoSwitch=2, NintendoSwitch2=3, PS4=4, PS5=5, XboxOne=6, XboxSeries=7
+- class **PlatformFightGameModeAsset** : SpeedRunnersBaseGameModeAsset — 1 fields, 1 methods
+- class **PlatformFightGameModeAssetExts** — 0 fields, 1 methods
+- class **PlatformMaterialSelector** : MonoBehaviour — 2 fields, 3 methods
+- struct **PlatformMaterialSelector.PlatformMaterialOverride** — 2 fields, 0 methods
+- class **PlatformOverrides** : MonoBehaviour — 2 fields, 5 methods
+- class **PlatformOverrides.PerformancePreset** — 5 fields, 1 methods
+- enum **PlatformOverrides.QualityPreset**: Any=0, Low=1, Medium=2, High=3
+- struct **PlatformOverrides.ShaderReplacement** — 2 fields, 0 methods
+- class **Play1DBlendspace_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **Play1DBlendspace_BehaviourAssetExts** — 0 fields, 1 methods
+- class **PlayAnimation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlayAnimation_BehaviourAssetExts** — 0 fields, 1 methods
+- class **PlayBasicCharacterAnimation** : PlayableAsset — 2 fields, 1 methods
+- class **PlayBasicCharacterAnimationBehaviour** : PlayableBehaviour — 9 fields, 1 methods
+- class **PlayBasicCharacterSubAnimation** : PlayBasicCharacterAnimation — 1 fields, 1 methods
+- class **PlayBasicCharacterSubAnimationBehaviour** : PlayBasicCharacterAnimationBehaviour — 1 fields, 1 methods
+- class **PlayCameraShake_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlayCameraShake_BehaviourAssetExts** — 0 fields, 1 methods
+- class **PlaySFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlaySFX_BehaviourAssetExts** — 0 fields, 1 methods
+- class **PlaySubAnimation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlaySubAnimation_BehaviourAssetExts** — 0 fields, 1 methods
+- class **PlayTint_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlayTint_BehaviourAssetExts** — 0 fields, 1 methods
+- class **PlayVFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlayVFX_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **PlayerBetData** — 2 fields, 0 methods
+- struct **PlayerBiomeEventData** — 4 fields, 0 methods
+- struct **PlayerChatMessage** — 2 fields, 0 methods
+- struct **PlayerCustomization** — 5 fields, 1 methods
+- class **PlayerCustomizationData** : ScriptableObject — 7 fields, 16 methods
+- class **PlayerDebugStats** : SRMonoBehaviour — 7 fields, 3 methods
+- struct **PlayerEmoteMessage** — 2 fields, 0 methods
+- class **PlayerHealthBar** : MonoBehaviour — 4 fields, 7 methods
+- class **PlayerInputData** — 3 fields, 1 methods
+- struct **PlayerItemEventData** — 3 fields, 0 methods
+- struct **PlayerLevelData** — 3 fields, 0 methods
+- class **PlayerListOnlineBadge** : SRMonoBehaviour — 12 fields, 4 methods
+- class **PlayerListOptions** : SRMonoBehaviour — 17 fields, 16 methods
+- class **PlayerListOptions.<>c** — 2 fields, 3 methods
+- class **PlayerListOptions.<>c__DisplayClass18_0** — 2 fields, 2 methods
+- class **PlayerListOptions.<>c__DisplayClass19_0** — 2 fields, 2 methods
+- enum **PlayerLobbyLocation**: Undefined=0, WaitingToJoin=1, InLobby=2, LevelSelect=3, CharacterSelect=4, OnMatch=5, OnResults=6, WaitingRematch=7
+- class **PlayerProfileElement** : SRMonoBehaviour — 3 fields, 1 methods
+- class **PlayerProfileHeader** : SRMonoBehaviour — 2 fields, 4 methods
+- class **PlayerProfileMenu** : MainMenuScreen — 19 fields, 10 methods
+- struct **PlayerRaceResult** — 7 fields, 1 methods
+- struct **PlayerRankedEventData** — 2 fields, 0 methods
+- struct **PlayerRankedInfo** — 2 fields, 2 methods
+- class **PlayerSettingsAsset** : AssetBase — 1 fields, 1 methods
+- class **PlayerSettingsAssetExts** — 0 fields, 1 methods
+- struct **PlayerSimulationData** — 4 fields, 0 methods
+- class **PlayerStat_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PlayerStat_BehaviourAssetExts** — 0 fields, 1 methods
+- enum **PlayerState**: Undefined=0, WaitingMatchStart=1, WaitingSimulation=2, LoadingCharacters=3, LoadingStage=4, Playing=5, InLobbyMenu=6
+- class **PlayerStats_Prototype.<>c__DisplayClass23_0** — 1 fields, 2 methods
+- struct **PlayerTotalGamesEventData** — 3 fields, 0 methods
+- struct **PlayerTreasureEventData** — 2 fields, 0 methods
+- class **PlaygroundGameModeDebugUpdater** : SRMonoBehaviour — 2 fields, 3 methods
+- enum **PlaygroundGameModeDebugUpdater.PlaygroundGameMode**: FromServer=0, LapsRace=1, HazardsRace=2, Collectors=3, Last=4
+- class **PlaygroundRulesPanel** : MainMenuSubPanel — 12 fields, 2 methods
+- class **PointerEvents** : MonoBehaviour, IPointerDownHandler, IEventSystemHandler, IPointerUpHandler, IPointerEnterHandler, IPointerExitHandler — 4 fields, 1 methods
+- class **PolyfewRuntime.<>c** — 20 fields, 21 methods
+- class **PolyfewRuntime.<>c__DisplayClass11_0** — 12 fields, 1 methods
+- class **PolyfewRuntime.<>c__DisplayClass11_1** — 5 fields, 3 methods
+- class **PolyfewRuntime.<>c__DisplayClass12_0** — 10 fields, 1 methods
+- class **PolyfewRuntime.<>c__DisplayClass12_1** — 5 fields, 3 methods
+- class **PolyfewRuntime.<>c__DisplayClass13_0** — 12 fields, 1 methods
+- class **PolyfewRuntime.<>c__DisplayClass13_1** — 5 fields, 3 methods
+- class **PolyfewRuntime.<>c__DisplayClass14_0** — 12 fields, 1 methods
+- class **PolyfewRuntime.<>c__DisplayClass14_1** — 4 fields, 3 methods
+- class **PolyfewRuntime.<>c__DisplayClass20_0** — 2 fields, 2 methods
+- class **PolyfewRuntime.<>c__DisplayClass21_0** — 3 fields, 3 methods
+- class **PolyfewRuntime.<>c__DisplayClass22_0** — 2 fields, 2 methods
+- struct **PolyfewRuntime.<ExportGameObjectToOBJ>d__22** : IAsyncStateMachine — 9 fields, 0 methods
+- struct **PolyfewRuntime.<ImportOBJFromFileSystem>d__20** : IAsyncStateMachine — 10 fields, 0 methods
+- struct **PolyfewRuntime.<ImportOBJFromNetwork>d__21** : IAsyncStateMachine — 15 fields, 0 methods
+- class **PolyfewRuntime.CustomMeshActionStructure** — 3 fields, 1 methods
+- class **PolyfewRuntime.MaterialProperties** — 18 fields, 2 methods
+- enum **PolyfewRuntime.MeshCombineTarget**: SkinnedAndStatic=0, StaticOnly=1, SkinnedOnly=2
+- class **PolyfewRuntime.MeshRendererPair** — 2 fields, 2 methods
+- class **PolyfewRuntime.OBJExportOptions** — 5 fields, 1 methods
+- class **PolyfewRuntime.OBJImportOptions** : ImportOptions — 0 fields, 1 methods
+- class **PolyfewRuntime.ObjectMeshPairs** : Dictionary<GameObject, PolyfewRuntime.MeshRendererPair> — 0 fields, 1 methods
+- class **PolyfewRuntime.PreservationSphere** — 3 fields, 1 methods
+- class **PolyfewRuntime.ReferencedNumeric<T>** — 1 fields, 0 methods
+- class **PolyfewRuntime.SimplificationOptions** — 13 fields, 2 methods
+- class **PolygonColliderAsset** : AssetBase — 1 fields, 1 methods
+- class **PolygonColliderAssetExt** — 0 fields, 1 methods
+- class **PolygonReduction.<>c** — 5 fields, 6 methods
+- class **PolygonReduction.<>c__DisplayClass31_0** — 2 fields, 2 methods
+- class **PolygonReduction.<>c__DisplayClass32_0** — 2 fields, 3 methods
+- class **PolygonReduction.<>c__DisplayClass33_0** — 2 fields, 2 methods
+- class **PolygonReduction.<ShowMessage>d__40** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **PolygonReduction.<UpdateProgress>d__42** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **PopupManager** : SRMonoBehaviour — 25 fields, 22 methods
+- class **PopupManager.OnConfirmSelected** : MulticastDelegate — 0 fields, 1 methods
+- class **PopupManager.OnOption1Selected** : MulticastDelegate — 0 fields, 1 methods
+- enum **PopupType**: None=0, Alert=1, Loading=2, Confirmation=3
+- enum **Position**: Left=0, Right=1
+- class **PracticeMenu** : MainMenuScreen — 1 fields, 1 methods
+- class **PracticeMenuModeDisplay** : MonoBehaviour — 2 fields, 2 methods
+- class **PracticeMenuOption** : UINavigationElement — 9 fields, 2 methods
+- class **PracticeMenuWorld** : MainMenuWorldScreen — 7 fields, 10 methods
+- enum **PreviewElementsMask**: ECB=1, HurtBoxes=2, HitBoxes=4, VFX=8
+- class **PrintMessage_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **PrintMessage_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ProfanityList** : ScriptableObject — 1 fields, 1 methods
+- class **ProgressBar** : MonoBehaviour — 6 fields, 5 methods
+- class **ProgressionData** : ScriptableObject — 11 fields, 3 methods
+- class **ProgressionData.<>c__DisplayClass11_0** — 1 fields, 2 methods
+- class **ProgressionData.<>c__DisplayClass12_0** — 1 fields, 2 methods
+- class **ProgressionManager** : SRMonoBehaviour — 4 fields, 20 methods
+- class **ProgressionManager.<>c__DisplayClass11_0** — 1 fields, 2 methods
+- class **ProgressionManager.<>c__DisplayClass14_0** — 1 fields, 2 methods
+- class **ProgressionManager.<>c__DisplayClass20_0** — 1 fields, 2 methods
+- class **ProgressionManager.<>c__DisplayClass21_0** — 1 fields, 2 methods
+- class **ProgressionManager.<>c__DisplayClass6_0** — 1 fields, 3 methods
+- class **ProgressionManager.<>c__DisplayClass7_0** — 1 fields, 3 methods
+- class **ProjectileMove** : MonoBehaviour — 4 fields, 4 methods
+- enum **PropertyType**: Float=0, Color=1, Vector=2
+- class **QuantumAOT** — 62 fields, 2 methods
+- class **QuantumCallback** : QuantumUnityStaticDispatcherAdapter<QuantumUnityCallbackDispatcher, CallbackBase> — 0 fields, 2 methods
+- class **QuantumCallbackHandler_DebugDraw** — 0 fields, 1 methods
+- class **QuantumCallbackHandler_DebugDraw.<>c** — 5 fields, 6 methods
+- class **QuantumCallbackHandler_DebugDraw.CompositeDisposable** : IDisposable — 1 fields, 2 methods
+- class **QuantumCallbackHandler_FrameDiffer** — 0 fields, 1 methods
+- class **QuantumCallbackHandler_FrameDiffer.<>c** — 2 fields, 3 methods
+- class **QuantumCallbackHandler_LegacyQuantumCallback** — 0 fields, 1 methods
+- class **QuantumCallbackHandler_LegacyQuantumCallback.<>c** — 11 fields, 12 methods
+- class **QuantumCallbackHandler_LegacyQuantumCallback.CompositeDisposabe** : IDisposable — 1 fields, 2 methods
+- class **QuantumCallbackHandler_StartRecording** — 0 fields, 2 methods
+- class **QuantumCallbackHandler_StartRecording.<>c** — 3 fields, 4 methods
+- class **QuantumCallbackHandler_StartRecording.CompositeDisposable** : IDisposable — 1 fields, 2 methods
+- class **QuantumCallbackHandler_UnityCallbacks** : IDisposable — 7 fields, 7 methods
+- class **QuantumCallbackHandler_UnityCallbacks.<>c** — 2 fields, 3 methods
+- class **QuantumCallbackHandler_UnityCallbacks.<>c__DisplayClass8_0** — 1 fields, 3 methods
+- class **QuantumCallbackHandler_UnityCallbacks.<LoadScene>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 2 methods
+- class **QuantumCallbackHandler_UnityCallbacks.<SwitchScene>d__11** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 2 methods
+- class **QuantumCallbackHandler_UnityCallbacks.<UnloadScene>d__13** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 2 methods
+- class **QuantumCallbacks** : MonoBehaviour — 1 fields, 2 methods
+- class **QuantumEditorSettings** : ScriptableObject — 63 fields, 11 methods
+- struct **QuantumEditorSettings.AssetResourcePath** — 2 fields, 1 methods
+- enum **QuantumEditorSettings.GizmosMode**: None=0, OnDraw=1, OnSelected=2, OnApplicationPlaying=4
+- enum **QuantumEntityComponentInspectorMode**: ShowMonoBehaviours=0, InlineInEntityPrototypeAndShowMonoBehavioursStubs=1, InlineInEntityPrototypeAndHideMonoBehaviours=2
+- class **QuantumEvent** : QuantumUnityStaticDispatcherAdapter<QuantumUnityEventDispatcher, EventBase> — 0 fields, 1 methods
+- class **QuantumFrameDiffer** : MonoBehaviour — 2 fields, 4 methods
+- class **QuantumFrameDiffer.QuantumFrameDifferGUIRuntime** : QuantumFrameDifferGUI — 0 fields, 1 methods
+- class **QuantumFrameDifferGUI** — 6 fields, 16 methods
+- class **QuantumFrameDifferGUI.<>c** — 8 fields, 9 methods
+- class **QuantumFrameDifferGUI.<>c__DisplayClass55_0** — 5 fields, 3 methods
+- class **QuantumFrameDifferGUI.FrameData** — 5 fields, 1 methods
+- class **QuantumFrameDifferGUI.FrameDifferState** : ISerializationCallbackReceiver — 2 fields, 6 methods
+- class **QuantumFrameDifferGUI.LongestCommonSequence** — 1 fields, 2 methods
+- struct **QuantumFrameDifferGUI.LongestCommonSequence.DiffChunk** — 4 fields, 0 methods
+- class **QuantumFrameDifferGUI.StateEntry** — 6 fields, 1 methods
+- class **QuantumGameGizmos** — 0 fields, 11 methods
+- class **QuantumInputRecorderStarter** : MonoBehaviour — 0 fields, 1 methods
+- class **QuantumInstantReplayDemo** : MonoBehaviour — 16 fields, 13 methods
+- enum **QuantumJobsMaxCountMode**: AutoDetect=0, Custom=1
+- class **QuantumLoadBalancingClient** : LoadBalancingClient, IConnectionCallbacks — 1 fields, 2 methods
+- enum **QuantumMapDataBakeFlags**: None=0, Obsolete_BakeMapData=1, BakeMapData=96, BakeMapPrototypes=32, BakeMapColliders=64, BakeUnityNavMesh=8, ImportUnityNavMesh=4, BakeNavMesh=2, ClearUnityNavMesh=256, GenerateAssetDB=16, SaveUnityAssets=128
+- class **QuantumMapLoader** : MonoBehaviour — 2 fields, 5 methods
+- class **QuantumMemoryStats** : MonoBehaviour — 12 fields, 6 methods
+- class **QuantumMultiClientPlayer** : MonoBehaviour, IConnectionCallbacks, IMatchmakingCallbacks, IInRoomCallbacks, IOnEventCallback — 18 fields, 19 methods
+- class **QuantumMultiClientPlayerView** : MonoBehaviour — 5 fields, 1 methods
+- class **QuantumMultiClientRunner** : MonoBehaviour — 12 fields, 10 methods
+- class **QuantumMultiClientRunner.<>c__DisplayClass12_0** — 1 fields, 3 methods
+- class **QuantumMultiClientRunner.<>c__DisplayClass14_0** — 1 fields, 2 methods
+- class **QuantumMultiClientRunner.<>c__DisplayClass17_0** — 2 fields, 4 methods
+- class **QuantumMultiClientRunner.<Start>d__12** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **QuantumNetworkCommunicator.<>c__DisplayClass16_0** — 1 fields, 2 methods
+- enum **QuantumNetworkCommunicator.QuitBehaviour**: LeaveRoom=0, LeaveRoomAndBecomeInactive=1, Disconnect=2, None=3
+- class **QuantumPrefabAsset** : ScriptableObject — 2 fields, 5 methods
+- interface **QuantumPrefabAsset.IListener** — 0 fields, 0 methods
+- struct **QuantumPrefabAsset.LoadContext** — 3 fields, 2 methods
+- class **QuantumPrefabAsset_Addressable** : QuantumPrefabAsset — 1 fields, 1 methods
+- class **QuantumPrefabAsset_Addressable.<>c__DisplayClass1_0** — 1 fields, 2 methods
+- class **QuantumPrefabAsset_AssetBundle** : QuantumPrefabAsset — 4 fields, 3 methods
+- class **QuantumPrefabAsset_AssetBundle.<>c__DisplayClass4_0** — 2 fields, 2 methods
+- class **QuantumPrefabAsset_Resource** : QuantumPrefabAsset — 2 fields, 2 methods
+- class **QuantumPrefabAsset_Resource.<>c__DisplayClass2_0** — 2 fields, 2 methods
+- class **QuantumProfilingClientConstants** — 0 fields, 0 methods
+- class **QuantumProfilingClientInfo** — 3 fields, 4 methods
+- class **QuantumProfilingClientInfo.<>c__DisplayClass6_0** — 1 fields, 2 methods
+- class **QuantumProfilingClientInfo.CustomProperty** — 2 fields, 1 methods
+- class **QuantumRunner** : MonoBehaviour, IDisposable — 12 fields, 32 methods
+- class **QuantumRunner.<>c** — 5 fields, 6 methods
+- struct **QuantumRunner.StartParameters** — 19 fields, 0 methods
+- class **QuantumRunnerLocalDebug** : QuantumCallbacks — 9 fields, 6 methods
+- class **QuantumRunnerLocalDebug.<SaveAndReload>d__14** : IEnumerator<object>, IEnumerator, IDisposable — 5 fields, 1 methods
+- struct **QuantumRunnerLocalDebug.<Start>d__9** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **QuantumRunnerLocalDebug.DynamicAssetDBSettings** — 1 fields, 0 methods
+- class **QuantumRunnerLocalDebug.DynamicAssetDBSettings.InitialDynamicAssetsRequestedUnityEvent** : UnityEvent<DynamicAssetDB> — 0 fields, 1 methods
+- class **QuantumRunnerLocalReplay** : MonoBehaviour — 10 fields, 4 methods
+- class **QuantumRunnerLocalSavegame** : MonoBehaviour — 5 fields, 3 methods
+- class **QuantumSimpleReplaySaver** : MonoBehaviour — 2 fields, 2 methods
+- class **QuantumStaticBoxCollider2D** : MonoBehaviour — 6 fields, 5 methods
+- class **QuantumStaticBoxCollider3D** : MonoBehaviour — 0 fields, 1 methods
+- class **QuantumStaticCircleCollider2D** : MonoBehaviour — 5 fields, 5 methods
+- class **QuantumStaticColliderSettings** — 4 fields, 1 methods
+- class **QuantumStaticEdgeCollider2D** : MonoBehaviour — 7 fields, 6 methods
+- class **QuantumStaticMeshCollider3D** : MonoBehaviour — 0 fields, 1 methods
+- class **QuantumStaticPolygonCollider2D** : MonoBehaviour — 7 fields, 5 methods
+- class **QuantumStaticSphereCollider3D** : MonoBehaviour — 0 fields, 1 methods
+- class **QuantumStaticTerrainCollider3D** : MonoBehaviour — 4 fields, 2 methods
+- class **QuantumStats** : MonoBehaviour — 14 fields, 9 methods
+- class **QuantumTaskRunnerJobs** : MonoBehaviour, IDisposable, IDeterministicPlatformTaskRunner — 5 fields, 6 methods
+- struct **QuantumTaskRunnerJobs.ActionJob** : IJob — 1 fields, 0 methods
+- enum **QuantumToolbarAnchor**: Legacy=0, Center=1, Left=2, Right=3
+- enum **QuantumToolbarZone**: ToolbarZoneRightAlign=0, ToolbarZoneLeftAlign=1
+- class **QuantumUnityCallbackDispatcher** : CallbackDispatcher, IQuantumUnityDispatcher — 0 fields, 2 methods
+- class **QuantumUnityEventDispatcher** : EventDispatcher, IQuantumUnityDispatcher — 0 fields, 1 methods
+- class **QuantumUnityMemoryLayoutVerifierPlatform** : MemoryLayoutVerifier.IPlatform — 0 fields, 1 methods
+- class **QuantumUnityNativeAllocator** : Native.Allocator — 0 fields, 1 methods
+- class **QuantumUnityNativeUtility** : Native.Utility — 0 fields, 2 methods
+- class **QuantumUnityNativeUtility.ObjectPinner** — 3 fields, 5 methods
+- class **QuantumUnityStaticDispatcherAdapter** — 0 fields, 1 methods
+- class **QuantumUnityStaticDispatcherAdapter.Worker** : MonoBehaviour — 1 fields, 2 methods
+- class **RaceGameModeAsset** : SpeedRunnersBaseGameModeAsset — 1 fields, 1 methods
+- class **RaceGameModeAssetExts** — 0 fields, 1 methods
+- class **RaceMatchHUD** : SpeedRunnersMatchHUD — 11 fields, 4 methods
+- class **RaceMatchHUD.<>c__DisplayClass13_0** — 1 fields, 2 methods
+- class **RaceTutorialGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **RaceTutorialGameModeAssetExts** — 0 fields, 1 methods
+- class **RaceTutorialManager** : SpeedRunnersGameModeManager — 2 fields, 11 methods
+- struct **RankData** — 4 fields, 0 methods
+- enum **RankLeague**: NoRank=0, Beginner=1, Advanced=2, Expert=3, Bronze=4, Silver=5, Gold=6, Platinum=7, Diamond=8
+- class **RankUpPopup** : SRMonoBehaviour — 4 fields, 4 methods
+- class **RankedLeaderboard** — 2 fields, 2 methods
+- class **RankedLeaderboardEntry** — 4 fields, 1 methods
+- struct **RankedMatchResultInfo** — 2 fields, 1 methods
+- struct **RatingSearchData** — 4 fields, 0 methods
+- class **RawAssetAssetExt** — 0 fields, 1 methods
+- class **ReadOnlyField** : PropertyAttribute — 0 fields, 1 methods
+- class **RectTransformAutoRebuild** : MonoBehaviour — 2 fields, 3 methods
+- class **RectTransformHorizontalExpander** : MonoBehaviour — 5 fields, 2 methods
+- struct **RectTransformHorizontalExpander.RectPadding** — 2 fields, 0 methods
+- class **Redirect_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Redirect_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Reflect_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Reflect_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ReflectionUtils.<>c** — 8 fields, 9 methods
+- class **ReflectionUtils.DelegateSwizzle** — 3 fields, 4 methods
+- struct **ReflectionUtils.InstanceAccessor<TValue>** — 2 fields, 0 methods
+- struct **ReflectionUtils.StaticAccessor<TValue>** — 2 fields, 0 methods
+- class **RefreshAttack_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **RefreshAttack_BehaviourAssetExts** — 0 fields, 1 methods
+- struct **RegionData** — 5 fields, 0 methods
+- class **RegionHandler.<>c** — 2 fields, 3 methods
+- class **RegionHandler.<>c__DisplayClass31_0** — 1 fields, 2 methods
+- class **RegionPinger.<RegionPingCoroutine>d__22** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **RegularPauseMenu** : PauseMenu — 13 fields, 17 methods
+- class **RegularPauseMenu.<ResetDefautTimeBlend>d__34** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **ReportWindow** : SRMonoBehaviour — 18 fields, 13 methods
+- class **ReportWindow.<>c__DisplayClass28_0** — 1 fields, 2 methods
+- class **ReportWindow.<CaptureScreenshotBytes>d__29** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **ReportWindow.<MoveFiles>d__30** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **ReportWindow.<ProcessReportSequence>d__28** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **ReportWindow.OnReportWindowStateChanged** : MulticastDelegate — 0 fields, 1 methods
+- enum **ReserveSelectorContext**: None=0, ComingFromLeftSelector=1, ComingFromRightSelector=2, Highlight=3
+- class **ResetMovesetLimiters_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ResetMovesetLimiters_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ResetRuntimePhysics_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ResetRuntimePhysics_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ResetTimeline_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ResetTimeline_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ResetVelocityOnWallDetection_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **ResetVelocityOnWallDetection_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Respawn_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Respawn_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ResultScreen** : UIScreen — 5 fields, 7 methods
+- class **RewardUnlockedPopup** : SRMonoBehaviour — 29 fields, 8 methods
+- class **RewardUnlockedPopup.<>c__DisplayClass33_0** — 3 fields, 3 methods
+- class **RewardUnlockedPopup.<HideAndDeactivate>d__32** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **RocketLauncher_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **RocketLauncher_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Rocket_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Rocket_BehaviourAssetExts** — 0 fields, 1 methods
+- class **RockingMovement** : MonoBehaviour — 19 fields, 3 methods
+- class **RoomConfigAsset** : AssetBase — 1 fields, 1 methods
+- class **RoomConfigAssetExts** — 0 fields, 1 methods
+- struct **RoomData** — 3 fields, 0 methods
+- class **RoomMigrator** : MonoBehaviour — 0 fields, 8 methods
+- class **RotateBasedOnVelocity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **RotateBasedOnVelocity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **RotateObject** : MonoBehaviour — 4 fields, 2 methods
+- class **RotateSmooth_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **RotateSmooth_BehaviourAssetExts** — 0 fields, 1 methods
+- class **RotateSpawnedMesh** : MonoBehaviour — 2 fields, 3 methods
+- class **RotateToMouse** : MonoBehaviour — 6 fields, 4 methods
+- class **Rotate_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **Rotate_BehaviourAssetExts** — 0 fields, 1 methods
+- class **RoundWinnerBannerStar** : MonoBehaviour — 4 fields, 5 methods
+- struct **Ruleset** — 3 fields, 0 methods
+- class **RulesetsManager** : MonoBehaviour — 2 fields, 2 methods
+- class **RunTurn_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **RunTurn_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Run_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Run_BehaviourAssetExts** — 0 fields, 1 methods
+- class **RunnerPanel** : MainMenuSubPanel — 7 fields, 11 methods
+- class **SRGameAnalytics** : GameAnalytics — 0 fields, 1 methods
+- class **SRMonoBehaviour** : MonoBehaviour — 0 fields, 33 methods
+- class **SaveData** — 84 fields, 15 methods
+- class **SaveData.OnBlockListUpdated** : MulticastDelegate — 0 fields, 1 methods
+- class **SaveManager** : SRMonoBehaviour — 5 fields, 12 methods
+- struct **SavedPlayerData** — 5 fields, 0 methods
+- class **ScaleShaker** : MonoBehaviour — 6 fields, 4 methods
+- class **ScaleUpdater** : MonoBehaviour — 2 fields, 4 methods
+- class **SceneLight** — 10 fields, 1 methods
+- class **SceneLoader** : SRMonoBehaviour — 6 fields, 16 methods
+- class **SceneLoader.<ResumeLoadWatchdog>d__23** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **SceneLoader.<ShowLoadingScreen>d__13** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **ScreenExplosionVFX** : SRMonoBehaviour — 6 fields, 9 methods
+- class **ScreenExplosionVFX.<ExplosionsChainCoroutine>d__10** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **ScreenExplosionVFX.<ScreenExplosionsChainDirection>d__11** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **ScreenFooter** : MonoBehaviour — 11 fields, 8 methods
+- enum **ScreenFooterBackgroundState**: ToMedium=0, ToLarge=1, Hide=2, Show=3
+- class **ScreenFooterButton** : SRMonoBehaviour — 4 fields, 3 methods
+- enum **ScreenFooterState**: None=0, ButtonIcons=1, LoadingLabel=2, Hidden=3
+- class **ScreenIDDropdownAttribute** : PropertyAttribute — 0 fields, 1 methods
+- struct **ScreenSceneData** — 2 fields, 0 methods
+- class **ScreenSceneID** — 0 fields, 0 methods
+- class **ScreenScenesData** : ScriptableObject — 2 fields, 2 methods
+- class **ScrollingRows** : MonoBehaviour — 6 fields, 4 methods
+- struct **SearchbarFilter** — 2 fields, 0 methods
+- class **SecretRoomTriggerManager** : MonoBehaviour — 11 fields, 4 methods
+- class **SetAnimationSpeed_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SetAnimationSpeed_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetAnimationWeight_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SetAnimationWeight_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetParameterSFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SetParameterSFX_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetVelocityFromGroundSlopeNormal_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SetVelocityFromGroundSlopeNormal_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SettingsManager** : SRMonoBehaviour — 2 fields, 9 methods
+- class **SettingsMenu** : MainMenuScreen — 0 fields, 3 methods
+- class **SettingsMenuWorld** : MainMenuWorldScreen — 12 fields, 13 methods
+- class **SettingsPanelManager** : MonoBehaviour — 3 fields, 5 methods
+- class **SettingsSubPanel** : SRMonoBehaviour — 6 fields, 2 methods
+- enum **SettingsSubPanelID**: Undefined=0, Hub=1, Game=2, Graphics=3, Audio=4, Online=5
+- class **SetupArmor_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **SetupArmor_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetupHitBoxesFromLinecast_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **SetupHitBoxesFromLinecast_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetupHitBoxes_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SetupHitBoxes_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetupHurtBoxes_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SetupHurtBoxes_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetupIntangibility_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **SetupIntangibility_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SetupInvincibility_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **SetupInvincibility_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ShapesCollisionVisualizer** : ImmediateModeShapeDrawer, IStellarCollisionsVisualizer — 10 fields, 3 methods
+- class **ShapesDebugger** : MonoBehaviour — 0 fields, 1 methods
+- class **ShockwavePower_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ShockwavePower_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Shockwave_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Shockwave_BehaviourAssetExts** — 0 fields, 1 methods
+- class **ShowIfBoolAttribute** : PropertyAttribute — 2 fields, 3 methods
+- class **ShowIfEnumAttribute** : PropertyAttribute — 2 fields, 3 methods
+- struct **SimpleCPUData** — 3 fields, 0 methods
+- class **SimpleCustomAnimator** — 10 fields, 9 methods
+- class **SimpleCustomAnimator.CustomAnimatorPlayableInfo** — 10 fields, 1 methods
+- class **SimpleHurt_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SimpleHurt_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SimpleLineRendererManager** : MonoBehaviour — 11 fields, 3 methods
+- class **SimpleLoadingScreen** : LoadingScreen — 1 fields, 2 methods
+- class **SimpleObjectRotator** : MonoBehaviour — 1 fields, 2 methods
+- class **SimplePlatformCameraManagerDataAsset** : CameraManagerDataAsset — 1 fields, 1 methods
+- class **SimplePlatformCameraManagerDataAssetExts** — 0 fields, 1 methods
+- struct **SimulatedButton** — 3 fields, 0 methods
+- struct **SimulatedDeviceInput** — 26 fields, 6 methods
+- class **SimulationConfigAsset** : AssetBase — 1 fields, 2 methods
+- class **SimulationConfigAssetExts** — 0 fields, 1 methods
+- class **SimulationConfigAssetHelper** — 0 fields, 3 methods
+- enum **SimulationConfigAssetHelper.PhysicsType**: Physics3D=0, Physics2D=1
+- class **SimulationManager** : SRMonoBehaviour — 2 fields, 11 methods
+- struct **SkinsData** — 1 fields, 0 methods
+- class **SlideOnDownSlope_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **SlideOnDownSlope_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Slide_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Slide_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpawnEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SpawnEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpawnProjectiles** : MonoBehaviour — 7 fields, 4 methods
+- class **SpeedRunnerMovement_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SpeedRunnerMovement_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersBaseGameModeAsset** : BaseGameModeAsset — 1 fields, 1 methods
+- class **SpeedRunnersBaseGameModeAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersCamera** : StellarCamera — 6 fields, 6 methods
+- class **SpeedRunnersCameraManagerDataAsset** : CameraManagerDataAsset — 1 fields, 1 methods
+- class **SpeedRunnersCameraManagerDataAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersCharacterManager** : StellarCharacterManager — 18 fields, 12 methods
+- class **SpeedRunnersCharacterTrail** : SRMonoBehaviour — 3 fields, 4 methods
+- class **SpeedRunnersCharacterTrailManager** : SRMonoBehaviour — 26 fields, 8 methods
+- class **SpeedRunnersCharacterTrailManager.TrailObject** — 4 fields, 1 methods
+- class **SpeedRunnersCharacterVOData** : ScriptableObject — 14 fields, 8 methods
+- class **SpeedRunnersCharacterVOData.<>c** — 2 fields, 3 methods
+- class **SpeedRunnersDetectWallSlide_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **SpeedRunnersDetectWallSlide_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersEntrance_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SpeedRunnersEntrance_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersFilePaths** — 1 fields, 2 methods
+- class **SpeedRunnersGameModeManager** : StellarGameMode — 0 fields, 2 methods
+- class **SpeedRunnersJump_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SpeedRunnersJump_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersKnockedOut_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SpeedRunnersKnockedOut_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersMatchHUD** : StellarGameModeHUD — 27 fields, 27 methods
+- class **SpeedRunnersMatchHUD.<>c** — 6 fields, 7 methods
+- class **SpeedRunnersMatchHUD.<>c__DisplayClass71_0** — 1 fields, 3 methods
+- class **SpeedRunnersMatchHUD.<AllowKnockOut>d__83** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **SpeedRunnersSettingsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **SpeedRunnersSettingsDataAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersSingleTargetCamera** : SpeedRunnersCamera — 2 fields, 3 methods
+- class **SpeedRunnersTestingGameModeAsset** : SpeedRunnersBaseGameModeAsset — 1 fields, 1 methods
+- class **SpeedRunnersTestingGameModeAssetExts** — 0 fields, 1 methods
+- class **SpeedRunnersWallSlide_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **SpeedRunnersWallSlide_BehaviourAssetExts** — 0 fields, 1 methods
+- class **Spring** — 5 fields, 9 methods
+- class **SpringLineRendererManager** : SimpleLineRendererManager — 9 fields, 2 methods
+- struct **SpriteTintCategory** — 2 fields, 0 methods
+- class **StageCollisionsVisualizer** : MonoBehaviour — 0 fields, 1 methods
+- class **StageData** : ScriptableObject — 7 fields, 3 methods
+- class **StageHazardSpawnAreaVisualizer** : MonoBehaviour — 0 fields, 1 methods
+- class **StageID** — 15 fields, 5 methods
+- struct **StageLayout** — 7 fields, 0 methods
+- class **StageLayoutLoader** : StellarStageLayoutLoader — 0 fields, 4 methods
+- class **StageManager** : StellarMonoBehaviour — 2 fields, 2 methods
+- struct **StageMusicData** — 4 fields, 0 methods
+- enum **StageType**: MenuScene=0, Stage=1, Development=2
+- class **StagesData** : ScriptableObject — 1 fields, 3 methods
+- class **StartAttackCharge_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StartAttackCharge_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StartInviciDrill_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StartInviciDrill_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StartShake_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StartShake_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StateAsset** : AssetBase — 1 fields, 1 methods
+- class **StateAssetExts** — 0 fields, 1 methods
+- class **StateBehaviourAsset** : AssetBase — 3 fields, 3 methods
+- class **StateBehaviourAssetExts** — 0 fields, 1 methods
+- class **StateBehaviourWithEndFrameAsset** : StateBehaviourAsset — 0 fields, 1 methods
+- class **StateBehaviourWithEndFrameAssetExts** — 0 fields, 1 methods
+- class **StateDropdown** : MonoBehaviour — 6 fields, 2 methods
+- class **StateMachineDataAsset** : AssetBase — 1 fields, 1 methods
+- class **StateMachineDataAssetExts** — 0 fields, 1 methods
+- class **StateSearchBar** : MonoBehaviour — 4 fields, 8 methods
+- class **StatusEffectBaseAsset** : AssetBase — 0 fields, 1 methods
+- class **StatusEffectBaseAssetExts** — 0 fields, 1 methods
+- class **StatusEffectDamageOverTimeAsset** : StatusEffectBaseAsset — 1 fields, 1 methods
+- class **StatusEffectDamageOverTimeAssetExts** — 0 fields, 1 methods
+- class **StatusEffectsDataAsset** : AssetBase — 1 fields, 1 methods
+- class **StatusEffectsDataAssetExts** — 0 fields, 1 methods
+- class **StatusEffectsHolder_Prototype.<>c__DisplayClass2_0** — 1 fields, 2 methods
+- class **StellarAudioEventInfo** — 2 fields, 1 methods
+- class **StellarAudioSystem** : MonoBehaviour — 3 fields, 29 methods
+- class **StellarAudioSystem.<UnLoadBankDelayed>d__28** : IEnumerator<object>, IEnumerator, IDisposable — 5 fields, 1 methods
+- class **StellarAudioSystem.OnBankListLoaded** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarAudioSystem.OnBankLoaded** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarAudioTool** : AudioTool — 0 fields, 1 methods
+- class **StellarCamera** : StellarMonoBehaviour — 6 fields, 5 methods
+- class **StellarCameraSystem** : MonoBehaviour — 8 fields, 21 methods
+- struct **StellarCharacterData** — 7 fields, 2 methods
+- class **StellarCharacterManager** : StellarMonoBehaviour — 5 fields, 6 methods
+- class **StellarCollisionsVisualizerData** : ScriptableObject — 20 fields, 1 methods
+- class **StellarController** : StellarInputDevice — 2 fields, 3 methods
+- class **StellarCursorManager** : StellarMonoBehaviour — 1 fields, 3 methods
+- class **StellarCursorManager.<HideCursor>d__2** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **StellarDLCSystem** : StellarMonoBehaviour — 1 fields, 3 methods
+- class **StellarData** : ScriptableObject — 33 fields, 5 methods
+- class **StellarDataSystem** : StellarMonoBehaviour — 5 fields, 17 methods
+- class **StellarDebugSystem** : MonoBehaviour — 7 fields, 6 methods
+- class **StellarEvents** — 22 fields, 0 methods
+- class **StellarEvents.OnCharacterActivated** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnCharacterCreated** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnCharacterDeactivated** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnConnectOnline** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnConnectedToPhotonServers** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnJoinedPhotonLobby** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnLoadingScene** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnLobbyCreationResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnLobbyJoinResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnLobbyLeft** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnOnlineDisconnection** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnOnlineTimeoutError** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnOtherPlayerJoinPhotonRoom** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnOtherPlayerLeavePhotonRoom** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnPhotomRoomInfoUpdate** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnPhotonReconnect** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnPhotonRegionListReceived** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnPhotonRoomCreation** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnPhotonRoomLeave** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnPlatformLobbyLeave** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnReceivedCustomEvent** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarEvents.OnSetPlayerDataInRoom** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarFileLoadingSystem** : MonoBehaviour — 5 fields, 16 methods
+- class **StellarFileLoadingSystem.<>c__DisplayClass11_0** — 2 fields, 2 methods
+- class **StellarFileLoadingSystem.<>c__DisplayClass14_0** — 5 fields, 2 methods
+- class **StellarFileLoadingSystem.<>c__DisplayClass17_0** — 5 fields, 2 methods
+- class **StellarFileLoadingSystem.<>c__DisplayClass9_0** — 2 fields, 2 methods
+- class **StellarFileLoadingSystem.OnGameObjectInstantiated** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarFileLoadingSystem.OnSpriteLoaded** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarFileLoadingSystem.OnSpriteLoadedWithPath** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarFilePaths** — 5 fields, 6 methods
+- class **StellarGameMode** : StellarMonoBehaviour — 3 fields, 1 methods
+- class **StellarGameModeHUD** : StellarMonoBehaviour — 1 fields, 2 methods
+- class **StellarGameModeSystem** : MonoBehaviour — 3 fields, 11 methods
+- class **StellarGameTimeSystem** : StellarMonoBehaviour — 3 fields, 13 methods
+- class **StellarGameTimeSystem.<AdvanceFrame>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **StellarHoldBar** : StellarMonoBehaviour — 8 fields, 3 methods
+- class **StellarIconsManager** : StellarMonoBehaviour — 3 fields, 12 methods
+- class **StellarIconsManager.OnRefreshButtonIcons** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarInputDevice** — 16 fields, 12 methods
+- class **StellarInputField** : MonoBehaviour — 1 fields, 7 methods
+- class **StellarInputSystem** : StellarMonoBehaviour — 18 fields, 75 methods
+- class **StellarInputSystem.<>c** — 3 fields, 4 methods
+- class **StellarInputSystem.<SetInputModeDelay>d__56** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **StellarInputSystem.OnInputDeviceActivated** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarInputSystem.OnInputDeviceDisconnected** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarInputSystem.OnInputDeviceReconnected** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarInvitationsManager** : StellarMonoBehaviour — 1 fields, 6 methods
+- class **StellarManager** : MonoBehaviour — 21 fields, 11 methods
+- class **StellarManager.OnStellarInitialized** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarMatchmakingSystem** : StellarMonoBehaviour — 5 fields, 19 methods
+- class **StellarMonoBehaviour** : MonoBehaviour — 0 fields, 18 methods
+- class **StellarNSControllerSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarNSDLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **StellarNSOnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 1 methods
+- class **StellarNSSaveSystem** : StellarPlatformSaveSystem — 0 fields, 1 methods
+- class **StellarNSSystem** : StellarPlatformSystem — 0 fields, 1 methods
+- class **StellarOnlineProperties** — 23 fields, 60 methods
+- class **StellarOnlineSystem** : StellarMonoBehaviour — 18 fields, 50 methods
+- class **StellarOnlineSystem.<>c** — 2 fields, 3 methods
+- class **StellarOnlineSystem.<>c__DisplayClass79_0** — 1 fields, 2 methods
+- class **StellarOnlineTimer** : StellarMonoBehaviour — 5 fields, 9 methods
+- class **StellarOnlineTimer.OnTimerEnd** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarOnlineTimer.OnTimerUpdate** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPCGamePad** : StellarController — 1 fields, 1 methods
+- class **StellarPCInputSystem** : StellarMonoBehaviour — 6 fields, 12 methods
+- class **StellarPCInputSystem.<>c__DisplayClass8_0** — 2 fields, 2 methods
+- class **StellarPCKeyboard** : StellarInputDevice — 3 fields, 2 methods
+- class **StellarPCSaveSystem** : StellarPlatformSaveSystem — 2 fields, 3 methods
+- class **StellarPCSaveSystem.<>c** — 2 fields, 3 methods
+- class **StellarPCSaveSystem.<>c__DisplayClass4_0** — 3 fields, 2 methods
+- struct **StellarPCSaveSystem.<AsyncSave>d__4** : IAsyncStateMachine — 7 fields, 0 methods
+- class **StellarPCSimpleOnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 2 methods
+- class **StellarPCSimpleOnlineSystem.<>c** — 2 fields, 3 methods
+- class **StellarPCSystem** : StellarPlatformSystem — 1 fields, 2 methods
+- class **StellarPS5ActivitiesSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarPS5ControllerSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarPS5DLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **StellarPS5OnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 1 methods
+- class **StellarPS5SaveSystem** : StellarPlatformSaveSystem — 0 fields, 1 methods
+- class **StellarPS5System** : StellarPlatformSystem — 0 fields, 1 methods
+- class **StellarPS5TrophiesSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarPlatformDLCSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarPlatformEvents** : MonoBehaviour — 12 fields, 1 methods
+- class **StellarPlatformEvents.OnAuthenticationBraincloudResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnInvitationReceived** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnLoadedDataResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnPlatformLobbyCreationResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnPlatformLobbyJoinResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnPlatformLobbyLeft** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnPlatformOnlineConnectionResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnPlayerSignOut** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnSaveDataExist** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnSaveDataSaved** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnSaveSystemReady** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformEvents.OnVirtualKeyboardResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarPlatformOnlineSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarPlatformSaveSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarPlatformSystem** : StellarMonoBehaviour — 12 fields, 14 methods
+- struct **StellarPlatformSystemData** — 2 fields, 0 methods
+- class **StellarPlayer** — 6 fields, 10 methods
+- class **StellarRoomMigrator** : StellarMonoBehaviour — 13 fields, 10 methods
+- class **StellarRoomMigrator.OnTimeoutEvent** : MulticastDelegate — 0 fields, 1 methods
+- enum **StellarRoomMigrator.RoomMigrationState**: None=0, CreatingNewRoom=1, ReceivingRoomID=2, Reconnecting=3, LookingForRoom=4, JoiningRoom=5, WaitingForMigrationEnd=6, ReadyForMatch=7, MatchStarted=8
+- class **StellarSaveSystem** : StellarMonoBehaviour — 3 fields, 11 methods
+- class **StellarSaveSystem.OnLoadDataResult** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarSaveSystem.OnStartedSavingData** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarSceneLoadingSystem** : StellarMonoBehaviour — 6 fields, 14 methods
+- class **StellarSceneLoadingSystem.<>c__DisplayClass16_0** — 2 fields, 2 methods
+- class **StellarSceneLoadingSystem.OnAdditiveSceneLoaded** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarSelectorOption** : UINavigationElement — 5 fields, 8 methods
+- class **StellarSelectorOption.InteractEventClass** : UnityEvent<int> — 0 fields, 1 methods
+- class **StellarServerOperations** : StellarMonoBehaviour — 0 fields, 14 methods
+- class **StellarServerOperations.<>c** — 2 fields, 3 methods
+- class **StellarSettingsSystem** : StellarMonoBehaviour — 2 fields, 18 methods
+- class **StellarSettingsSystem.<>c** — 2 fields, 3 methods
+- class **StellarSettingsSystem.<>c__DisplayClass18_0** — 1 fields, 2 methods
+- class **StellarSimulationSystem** : QuantumCallbacks — 16 fields, 42 methods
+- class **StellarSimulationSystem.OnSimulationEnded** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarSimulationSystem.OnSimulationStarted** : MulticastDelegate — 0 fields, 1 methods
+- class **StellarSliderOption** : UINavigationElement — 4 fields, 6 methods
+- class **StellarSliderOption.InteractEventClass** : UnityEvent<float> — 0 fields, 1 methods
+- class **StellarStageCamera** : StellarCamera — 0 fields, 4 methods
+- class **StellarStageLayoutLoader** : StellarMonoBehaviour — 3 fields, 6 methods
+- class **StellarSteamDLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **StellarSteamOnlineSystem** : StellarPlatformOnlineSystem — 4 fields, 7 methods
+- class **StellarSteamOnlineSystem.<>c** — 2 fields, 3 methods
+- class **StellarSteamSystem** : StellarPCSystem — 5 fields, 6 methods
+- class **StellarStillCamera** : StellarCamera — 6 fields, 4 methods
+- class **StellarSwitchOption** : StellarSelectorOption — 8 fields, 5 methods
+- class **StellarTestRunner** : StellarMonoBehaviour — 3 fields, 2 methods
+- struct **StellarTileData** — 3 fields, 0 methods
+- class **StellarTileInstance** : MonoBehaviour — 1 fields, 1 methods
+- class **StellarTileMap** : MonoBehaviour — 3 fields, 8 methods
+- struct **StellarTileMapCellData** — 3 fields, 1 methods
+- class **StellarTileMapEditorData** — 12 fields, 3 methods
+- class **StellarTileSetData** : ScriptableObject — 1 fields, 2 methods
+- class **StellarToggleOption** : UINavigationElement — 5 fields, 5 methods
+- class **StellarToggleOption.InteractEventClass** : UnityEvent<bool> — 0 fields, 1 methods
+- class **StellarUIAnimator** : StellarMonoBehaviour — 8 fields, 12 methods
+- class **StellarUIAnimator.<CancelSelectedStateCoroutine>d__13** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- enum **StellarUIAnimator.SelectedState**: None=0, SelectState=1, SelectStateOnce=2, SelectStateExclusive=3
+- class **StellarUISystem** : MonoBehaviour — 2 fields, 4 methods
+- class **StellarXboxControllerSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **StellarXboxDLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **StellarXboxOnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 1 methods
+- class **StellarXboxSaveSystem** : StellarPlatformSaveSystem — 0 fields, 1 methods
+- class **StellarXboxSystem** : StellarPlatformSystem — 0 fields, 1 methods
+- class **StopAllVFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopAllVFX_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopEdgeGrab_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopEdgeGrab_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopFastFall_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopFastFall_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopImpulse_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopImpulse_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopJump_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopJump_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopSFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopSFX_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopShake_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopShake_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopStatusEffect_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopStatusEffect_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopTint_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopTint_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StopVFX_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **StopVFX_BehaviourAssetExts** — 0 fields, 1 methods
+- class **StringUtils** — 0 fields, 3 methods
+- class **Stunned_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **Stunned_BehaviourAssetExts** — 0 fields, 1 methods
+- class **SubAnimationsPoolData** — 7 fields, 4 methods
+- class **SuperSpeedBrosCameraManagerDataAsset** : CameraManagerDataAsset — 1 fields, 1 methods
+- class **SuperSpeedBrosCameraManagerDataAssetExts** — 0 fields, 1 methods
+- class **SuperSpeedPreset** — 5 fields, 1 methods
+- class **SuperSpeedPresetData** : ScriptableObject — 1 fields, 1 methods
+- class **SwitchIconOverride** : SRMonoBehaviour — 2 fields, 2 methods
+- class **SystemConnectionSummary.SCSBitPos** — 0 fields, 1 methods
+- struct **SystemMessage** — 2 fields, 0 methods
+- class **SystemMessages** : ScriptableObject — 1 fields, 2 methods
+- class **SystemServices.<>c__DisplayClass10_0** — 1 fields, 2 methods
+- class **SystemServices.<>c__DisplayClass11_0** — 1 fields, 2 methods
+- class **SystemServices.<>c__DisplayClass7_0** — 3 fields, 3 methods
+- class **SystemServices.<>c__DisplayClass9_0** — 2 fields, 2 methods
+- struct **SystemServices.<AsyncReachabilityCheck>d__10** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **SystemServices.<AsyncResourceDownload>d__9** : IAsyncStateMachine — 7 fields, 0 methods
+- struct **SystemServices.<RunDelayedCommand>d__17** : IAsyncStateMachine — 5 fields, 0 methods
+- struct **SystemServices.<SendHTTPRequestAsync>d__7** : IAsyncStateMachine — 14 fields, 0 methods
+- class **SystemServices.<UnityAsyncGETRequest>d__3** : IEnumerator<object>, IEnumerator, IDisposable — 7 fields, 1 methods
+- class **SystemServices.<UnityAsyncPOSTRequest>d__6** : IEnumerator<object>, IEnumerator, IDisposable — 8 fields, 1 methods
+- struct **SystemServices.<WriteBytesAsync>d__20** : IAsyncStateMachine — 7 fields, 0 methods
+- struct **SystemServices.<WriteTextureAsync>d__19** : IAsyncStateMachine — 10 fields, 0 methods
+- class **SystemServices.HTTPMethod** — 1 fields, 1 methods
+- enum **SystemServices.HTTPMethod.HTTPMethods**: POST=0, GET=1
+- enum **SystemServices.ImageFormat**: PNG=0, JPG=1, EXR=2
+- struct **SystemServices.MessagePatternPair** — 2 fields, 5 methods
+- struct **SystemServices.RegexPatterns** — 6 fields, 0 methods
+- class **TMPWarpText** : MonoBehaviour — 4 fields, 8 methods
+- class **TerrainColliderAsset** : AssetBase — 1 fields, 1 methods
+- class **TerrainColliderAssetExt** — 0 fields, 1 methods
+- class **TestRunner** : StellarTestRunner — 2 fields, 9 methods
+- class **TestRunner.<>c** — 4 fields, 5 methods
+- class **TestingGameModeAsset** : BaseGameModeAsset — 1 fields, 1 methods
+- class **TestingGameModeAssetExts** — 0 fields, 1 methods
+- class **TextProxy** : MonoBehaviour — 2 fields, 2 methods
+- class **TextureLoader.TgaHeader** — 12 fields, 1 methods
+- class **ThrowEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **ThrowEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **TimedRaceGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **TimedRaceGameModeAssetExts** — 0 fields, 1 methods
+- struct **Tint** — 6 fields, 0 methods
+- class **TintData** : ScriptableObject — 1 fields, 1 methods
+- class **TintSprite** : MonoBehaviour — 3 fields, 2 methods
+- class **TintSpriteManager** : MonoBehaviour — 0 fields, 2 methods
+- class **TintSpritesData** : ScriptableObject — 1 fields, 2 methods
+- class **TitleScreen** : MainMenuScreen — 5 fields, 8 methods
+- enum **TournamentAnnouncerVOEvent**: TournamentStart=0, TournamentRound=1, TournamentFinal=2, TournamentWinner=3, TournamentNameEvent=4
+- class **TournamentBracketWinnerPanel** : SRMonoBehaviour — 3 fields, 3 methods
+- struct **TournamentData** — 6 fields, 5 methods
+- class **TournamentData.<>c** — 3 fields, 4 methods
+- class **TournamentData.<>c__DisplayClass9_0** — 1 fields, 2 methods
+- class **TournamentFindingPanel** : MonoBehaviour — 2 fields, 3 methods
+- class **TournamentGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **TournamentGameModeAssetExts** — 0 fields, 1 methods
+- class **TournamentManager** : SRMonoBehaviour — 24 fields, 47 methods
+- class **TournamentManager.OnJoinTournamentFinish** : MulticastDelegate — 0 fields, 1 methods
+- class **TournamentManager.TournamentUpdate** : MulticastDelegate — 0 fields, 1 methods
+- class **TournamentMatchResult** : MainMenuScreen — 26 fields, 8 methods
+- class **TournamentMatchResultCharacterFloor** : MonoBehaviour — 1 fields, 1 methods
+- class **TournamentMatchResultCharacterSpawner** : SRMonoBehaviour — 19 fields, 14 methods
+- class **TournamentMatchResultCharacterSpawner.CharacterInstanceFinished** : MulticastDelegate — 0 fields, 1 methods
+- class **TournamentMatchResultPlayerStats** : MonoBehaviour — 5 fields, 3 methods
+- class **TournamentMatchResultWorld** : MainMenuWorldScreen — 12 fields, 5 methods
+- class **TournamentOption** : UINavigationElement — 6 fields, 5 methods
+- struct **TournamentPhaseData** — 9 fields, 2 methods
+- class **TournamentPhaseSegment** : MonoBehaviour — 4 fields, 5 methods
+- class **TournamentPhaseSegment.<>c** — 2 fields, 3 methods
+- class **TournamentPhaseSegment.<>c__DisplayClass5_0** — 3 fields, 2 methods
+- struct **TournamentPlayer** — 9 fields, 0 methods
+- class **TournamentPlayerSlot** : SRMonoBehaviour — 10 fields, 6 methods
+- enum **TournamentPlayerState**: None=0, Waiting=1, KnockedOut=2, Ready=3, Playing=4, Timeout=5, Winner=6
+- enum **TournamentResultScreenDebugMode**: None=0, WinFinal=1, Qualified=2, Eliminated=3
+- enum **TournamentResultState**: ThrowingBombs=0, ExplodingBombs=1, ShowingStats=2, WaitingForWinnersToExit=3, Qualified=4, Eliminated=5, WonTournament=6
+- class **TournamentRoomSlot** : UINavigationElement — 10 fields, 10 methods
+- class **TournamentRoomSlot.<>c** — 2 fields, 3 methods
+- class **TournamentRoomSlot.<DelayAnimation>d__15** : IEnumerator<object>, IEnumerator, IDisposable — 5 fields, 1 methods
+- class **TournamentRoomSpectatorPreview** : SRMonoBehaviour — 5 fields, 4 methods
+- struct **TournamentRoomSpectatorPreview.PlayerData** — 3 fields, 0 methods
+- enum **TournamentRoomState**: None=0, NPCs=1, Playing=2, Empty=3, Waiting=4
+- class **TournamentScreen** : MainMenuScreen — 7 fields, 5 methods
+- enum **TournamentState**: None=0, Filling=1, Starting=2, Playing=3, Started=4, Finished=5, Ready=6, Waiting=7
+- class **TournamentWorldScreen** : MainMenuWorldScreen — 29 fields, 8 methods
+- class **TournamentWorldScreen.<>c** — 4 fields, 5 methods
+- class **TournamentsListWorld** : MainMenuWorldScreen — 16 fields, 14 methods
+- class **TournamentsListWorld.<>c** — 2 fields, 3 methods
+- class **TournamentsListWorld.<RefreshListCoroutine>d__21** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- enum **TournamentsListWorld.TournamentsListPanel**: None=0, List=1, NotFound=2, Search=3
+- class **TournamentsMenuWorld** : MainMenuWorldScreen — 4 fields, 7 methods
+- class **TrainingGameModeAsset** : RaceGameModeAsset — 1 fields, 1 methods
+- class **TrainingGameModeAssetExts** — 0 fields, 1 methods
+- class **TrainingManager** : SpeedRunnersGameModeManager — 1 fields, 2 methods
+- class **TrainingMatchHUD** : SpeedRunnersMatchHUD — 22 fields, 11 methods
+- class **TrainingMatchHUDChronometer** : SRMonoBehaviour — 7 fields, 5 methods
+- class **TrainingMatchHUDPrompt** : MonoBehaviour — 3 fields, 3 methods
+- struct **TrajectorySegments** — 9 fields, 1 methods
+- class **TransformKeyFramesDataAsset** : AssetBase — 1 fields, 1 methods
+- class **TransformKeyFramesDataAssetExts** — 0 fields, 1 methods
+- class **TransformUtils** — 0 fields, 3 methods
+- enum **Transition**: Imediate=0, FadeInto=1, FadeBlack=2, FadeBlackInto=3, SwipeLeft=4
+- enum **TransitionContext**: None=0, GameLaunch=1, CharacterSelect=2, LevelSelect=3, OnlineLobby=4, OnlineMenu=5, PlatformInvitation=6, PhotonRoomInvitation=7, LocalMatch=8, Training=9, Practice=10, AdvancedTutorial=11, Tournament=12, Campaign=13, NetworkError=14
+- class **TransitionScene** : SRMonoBehaviour — 0 fields, 2 methods
+- class **TrapDoorSwitchManager** : GameEntityPollUpdater — 5 fields, 2 methods
+- class **TriggerVisualizer** : MonoBehaviour — 0 fields, 1 methods
+- class **Trigger_Prototype.<>c__DisplayClass5_0** — 1 fields, 2 methods
+- class **TutorialActionPrompt** : SRMonoBehaviour — 4 fields, 2 methods
+- class **TutorialDialogueHUD** : UIScreen — 8 fields, 10 methods
+- class **TutorialDialogueHUD.DialogueFinished** : MulticastDelegate — 0 fields, 1 methods
+- class **TutorialDialoguesData** : ScriptableObject — 1 fields, 2 methods
+- struct **TutorialEventData** — 2 fields, 0 methods
+- class **TutorialPromptsManager** : MonoBehaviour — 1 fields, 3 methods
+- struct **TutorialSectionDialogue** — 4 fields, 0 methods
+- enum **UIAnnouncerVOEvent**: EnterLevelSelectScreen=0, LevelSelected=1, Countdown3=2, Countdown2=3, Countdown1=4, MatchStart=5, EnterCharacterSelectScreen=6
+- class **UIButtonIcon** : StellarMonoBehaviour — 3 fields, 2 methods
+- struct **UIControllerMapping** — 2 fields, 0 methods
+- enum **UIKey**: Up=0, Down=1, Left=2, Right=3, Up2=4, Down2=5, Left2=6, Right2=7, Confirm=8, Cancel=9, Option1=10, Option2=11, BumperL=12, BumperR=13, TriggerL=14, TriggerR=15, Pause=16, Start=17, Select=18, L3=19, R3=20
+- struct **UIKeyboardMapping** — 2 fields, 0 methods
+- class **UIManager** : SRMonoBehaviour — 26 fields, 22 methods
+- class **UIManager.OnInputDeviceDisconnected** : MulticastDelegate — 0 fields, 1 methods
+- class **UINavigationElement** : StellarMonoBehaviour — 20 fields, 23 methods
+- class **UINavigationElement.<>c__DisplayClass46_0** — 1 fields, 2 methods
+- class **UINavigationElement.<SelectionDelayed>d__37** : IEnumerator<object>, IEnumerator, IDisposable — 4 fields, 1 methods
+- class **UINavigator** : StellarMonoBehaviour — 39 fields, 33 methods
+- struct **UINavigator.CustomNavigationData** — 4 fields, 0 methods
+- struct **UINavigator.ElementInfo** — 2 fields, 0 methods
+- enum **UINavigator.NavigationStyles**: Vertical=0, Horizontal=1, HorizontalBumpers=2, Grid=3, Custom=4
+- class **UINavigatorExtendedCalls** : MonoBehaviour — 8 fields, 5 methods
+- class **UINavigatorExtendedCalls.DownOverflowClass** : UnityEvent<int> — 0 fields, 1 methods
+- class **UINavigatorExtendedCalls.LeftOverflowClass** : UnityEvent<int> — 0 fields, 1 methods
+- class **UINavigatorExtendedCalls.RightOverflowClass** : UnityEvent<int> — 0 fields, 1 methods
+- class **UINavigatorExtendedCalls.UpOverflowEventClass** : UnityEvent<int> — 0 fields, 1 methods
+- class **UINavigatorUtils** : MonoBehaviour — 0 fields, 4 methods
+- class **UIPlayerNavigator** — 13 fields, 24 methods
+- class **UIPopup** : SRMonoBehaviour — 3 fields, 4 methods
+- class **UIPopup.<DestroyPopup>d__8** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **UIRenderCamera** : MonoBehaviour — 2 fields, 5 methods
+- class **UIScreen** : StellarMonoBehaviour — 8 fields, 8 methods
+- class **UIScreen.<DisableScreen>d__23** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **UIScreenID** — 0 fields, 0 methods
+- class **UIWorldIndicator** : StellarMonoBehaviour — 6 fields, 3 methods
+- class **UIWorldOffScreenIndicator** : StellarMonoBehaviour — 16 fields, 7 methods
+- class **UltimateChatBox.ChatInformation** — 14 fields, 14 methods
+- class **UltimateChatBox.ChatStyle** — 10 fields, 3 methods
+- struct **UltimateChatBox.DisplayConfig** — 14 fields, 0 methods
+- class **UnityDB** — 1 fields, 14 methods
+- class **UnityDB.Context** : IDisposable — 5 fields, 2 methods
+- interface **UnityResourceLoader.ILoader** : IDisposable — 0 fields, 0 methods
+- class **UnityResourceLoader.UnityAssetResource** : AssetResource — 4 fields, 1 methods
+- class **UnitySourceGeneratedAssemblyMonoScriptTypes_v1** — 0 fields, 2 methods
+- struct **UnitySourceGeneratedAssemblyMonoScriptTypes_v1.MonoScriptData** — 5 fields, 0 methods
+- struct **Unlockable** — 2 fields, 0 methods
+- enum **UnlockableType**: Icon=0, Background=1, CatchPhrase=2, Title=3, Trail=4, Skins=5
+- class **UpDownMoveObject** : MonoBehaviour — 3 fields, 3 methods
+- class **UpdateAttackCharge_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UpdateAttackCharge_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UpdateEdgeGrabBox_BehaviourAsset** : StateBehaviourWithEndFrameAsset — 1 fields, 1 methods
+- class **UpdateEdgeGrabBox_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UpdateEntityHitFilter_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UpdateEntityHitFilter_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UpdateEnvironmentCollisionBox_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UpdateEnvironmentCollisionBox_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UpdateObjectsVisibility_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UpdateObjectsVisibility_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UpdateSlotsAttachment_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UpdateSlotsAttachment_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UseEntity_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UseEntity_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UseGroundRotation_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **UseGroundRotation_BehaviourAssetExts** — 0 fields, 1 methods
+- class **UtilityServicesRuntime.OBJExporterImporter** — 9 fields, 14 methods
+- class **UtilityServicesRuntime.OBJExporterImporter.<>c__DisplayClass22_0** — 4 fields, 3 methods
+- struct **UtilityServicesRuntime.OBJExporterImporter.<ExportMeshToOBJ>d__15** : IAsyncStateMachine — 17 fields, 0 methods
+- struct **UtilityServicesRuntime.OBJExporterImporter.<ImportFromLocalFileSystem>d__20** : IAsyncStateMachine — 10 fields, 0 methods
+- struct **UtilityServicesRuntime.OBJExporterImporter.<ImportFromNetwork>d__21** : IAsyncStateMachine — 16 fields, 0 methods
+- struct **UtilityServicesRuntime.OBJExporterImporter.<ImportFromNetworkWebGL>d__22** : IAsyncStateMachine — 13 fields, 0 methods
+- struct **VFXEntry** — 3 fields, 2 methods
+- class **VFXManager** : MonoBehaviour — 3 fields, 9 methods
+- class **VFXObject** : StellarMonoBehaviour — 10 fields, 10 methods
+- class **VFXPool** : MonoBehaviour — 3 fields, 3 methods
+- class **ViewGCData** : MonoBehaviour — 0 fields, 2 methods
+- class **ViewportOnlyRenderer** : ScriptableRenderer — 3 fields, 1 methods
+- class **ViewportOnlyRendererData** : ScriptableRendererData — 3 fields, 1 methods
+- enum **VirtualKeyboardMode**: Disabled=0, Enabled=1, EnabledWithActivation=2
+- class **WallSlide_BehaviourAsset** : StateBehaviourAsset — 1 fields, 1 methods
+- class **WallSlide_BehaviourAssetExts** — 0 fields, 1 methods
+- class **WinnerScreen** : SRMonoBehaviour — 30 fields, 8 methods
+- class **WinnerScreen.<ExitResults>d__36** : IEnumerator<object>, IEnumerator, IDisposable — 3 fields, 1 methods
+- class **WinnerSegmentController** : MonoBehaviour — 2 fields, 2 methods
+- class **XboxController** : StellarController — 0 fields, 1 methods
+- class **XboxUser.<>c__DisplayClass28_0** — 6 fields, 6 methods
+- class **XboxUser.<>c__DisplayClass29_0** — 2 fields, 2 methods
+- class **XboxUser.<>c__DisplayClass30_0** — 1 fields, 2 methods
+- class **XboxUser.<>c__DisplayClass31_0** — 1 fields, 2 methods
+- class **XboxUser.<>c__DisplayClass32_0** — 1 fields, 2 methods
+- class **XboxUser.<>c__DisplayClass33_0** — 1 fields, 2 methods
+- enum **ZoomPresets**: Manual=0, x2=1, x1=2, x0_5=3, x0_25=4, x0_125=5
+- class **__JobReflectionRegistrationOutput__1221673671587648887** — 0 fields, 2 methods
+
+## Quantum.Prototypes.Unity (68 types)
+
+- class **AIVolume_Prototype** : PrototypeAdapter<AIVolume_Prototype> — 21 fields, 1 methods
+- class **BlastzoneTrigger_Prototype** : PrototypeAdapter<BlastzoneTrigger_Prototype> — 1 fields, 1 methods
+- class **CameraManager_Prototype** : PrototypeAdapter<CameraManager_Prototype> — 8 fields, 1 methods
+- class **CameraTarget_Prototype** : PrototypeAdapter<CameraTarget_Prototype> — 11 fields, 1 methods
+- class **CheckpointManager_Prototype** : PrototypeAdapter<CheckpointManager_Prototype> — 6 fields, 1 methods
+- class **Checkpoint_Prototype** : PrototypeAdapter<Checkpoint_Prototype> — 4 fields, 1 methods
+- class **ChildEntity_Prototype** : PrototypeAdapter<ChildEntity_Prototype> — 2 fields, 1 methods
+- class **CollectorCharacter_Prototype** : PrototypeAdapter<CollectorCharacter_Prototype> — 2 fields, 1 methods
+- class **CombatArmor_Prototype** : PrototypeAdapter<CombatArmor_Prototype> — 3 fields, 1 methods
+- class **CombatBlock_Prototype** : PrototypeAdapter<CombatBlock_Prototype> — 6 fields, 1 methods
+- class **CombatCharge_Prototype** : PrototypeAdapter<CombatCharge_Prototype> — 4 fields, 1 methods
+- class **CombatDI_Prototype** : PrototypeAdapter<CombatDI_Prototype> — 5 fields, 1 methods
+- class **CombatTech_Prototype** : PrototypeAdapter<CombatTech_Prototype> — 4 fields, 1 methods
+- class **Combat_Prototype** : PrototypeAdapter<Combat_Prototype> — 30 fields, 1 methods
+- class **CustomAnimator_Prototype** : PrototypeAdapter<CustomAnimator_Prototype> — 26 fields, 1 methods
+- class **DestroyEntitiesManager_Prototype** : PrototypeAdapter<DestroyEntitiesManager_Prototype> — 1 fields, 1 methods
+- class **EdgeGrab_Prototype** : PrototypeAdapter<EdgeGrab_Prototype> — 10 fields, 1 methods
+- class **EndlessGameModeManager_Prototype** : PrototypeAdapter<EndlessGameModeManager_Prototype> — 5 fields, 1 methods
+- class **EntityModifierTarget_Prototype** : PrototypeAdapter<EntityModifierTarget_Prototype> — 5 fields, 1 methods
+- class **EntityModifier_Prototype** : PrototypeAdapter<EntityModifier_Prototype> — 2 fields, 1 methods
+- class **EntityReferencesHandler_Prototype** : PrototypeAdapter<EntityReferencesHandler_Prototype> — 1 fields, 1 methods
+- class **FrogmanBossTongue_Prototype** : PrototypeAdapter<FrogmanBossTongue_Prototype> — 6 fields, 1 methods
+- class **GameEntityReference_Prototype** : PrototypeAdapter<GameEntityReference_Prototype> — 2 fields, 1 methods
+- class **GameEntity_Prototype** : PrototypeAdapter<GameEntity_Prototype> — 24 fields, 1 methods
+- class **GameModeItemAutoTrigger_Prototype** : PrototypeAdapter<GameModeItemAutoTrigger_Prototype> — 2 fields, 1 methods
+- class **GoldenHook_Prototype** : PrototypeAdapter<GoldenHook_Prototype> — 6 fields, 1 methods
+- class **Grab_Prototype** : PrototypeAdapter<Grab_Prototype> — 19 fields, 1 methods
+- class **HazardsRaceGameModeManager_Prototype** : PrototypeAdapter<HazardsRaceGameModeManager_Prototype> — 9 fields, 1 methods
+- class **HitEvent_Prototype** : PrototypeAdapter<HitEvent_Prototype> — 2 fields, 1 methods
+- class **HitInfo_Prototype** : PrototypeAdapter<HitInfo_Prototype> — 30 fields, 1 methods
+- class **InputBuffer_Prototype** : PrototypeAdapter<InputBuffer_Prototype> — 13 fields, 1 methods
+- class **ItemAutoTrigger_Prototype** : PrototypeAdapter<ItemAutoTrigger_Prototype> — 4 fields, 1 methods
+- class **Joint2D_Prototype** : PrototypeAdapter<Joint2D_Prototype> — 18 fields, 1 methods
+- class **Joint3D_Prototype** : PrototypeAdapter<Joint3D_Prototype> — 19 fields, 1 methods
+- class **Jump_Prototype** : PrototypeAdapter<Jump_Prototype> — 11 fields, 1 methods
+- class **LayoutManager_Prototype** : PrototypeAdapter<LayoutManager_Prototype> — 1 fields, 1 methods
+- class **ParentObject_Prototype** : PrototypeAdapter<ParentObject_Prototype> — 2 fields, 1 methods
+- class **PartnersManager_Prototype** : PrototypeAdapter<PartnersManager_Prototype> — 4 fields, 1 methods
+- class **PhysicsBody_Prototype** : PrototypeAdapter<PhysicsBody_Prototype> — 55 fields, 1 methods
+- class **PhysicsJoints2D_Prototype** : PrototypeAdapter<PhysicsJoints2D_Prototype> — 1 fields, 1 methods
+- class **PhysicsJoints3D_Prototype** : PrototypeAdapter<PhysicsJoints3D_Prototype> — 1 fields, 1 methods
+- class **PhysicsModifier_Prototype** : PrototypeAdapter<PhysicsModifier_Prototype> — 2 fields, 1 methods
+- class **PlayerStats_Prototype** : PrototypeAdapter<PlayerStats_Prototype> — 23 fields, 1 methods
+- class **RespawnPoint_Prototype** : PrototypeAdapter<RespawnPoint_Prototype> — 3 fields, 1 methods
+- class **RocketLauncher_Prototype** : PrototypeAdapter<RocketLauncher_Prototype> — 2 fields, 1 methods
+- class **Rocket_Prototype** : PrototypeAdapter<Rocket_Prototype> — 4 fields, 1 methods
+- class **RoomMember_Prototype** : PrototypeAdapter<RoomMember_Prototype> — 1 fields, 1 methods
+- class **RuntimeStatusEffect_Prototype** : PrototypeAdapter<RuntimeStatusEffect_Prototype> — 6 fields, 1 methods
+- class **Shockwave_Prototype** : PrototypeAdapter<Shockwave_Prototype> — 4 fields, 1 methods
+- class **SimpleLineRenderer_Prototype** : PrototypeAdapter<SimpleLineRenderer_Prototype> — 6 fields, 1 methods
+- class **SpeedRunnersCharacter_Prototype** : PrototypeAdapter<SpeedRunnersCharacter_Prototype> — 66 fields, 1 methods
+- class **SpeedRunnersItem_Prototype** : PrototypeAdapter<SpeedRunnersItem_Prototype> — 2 fields, 1 methods
+- class **SpeedRunnersNPC_Prototype** : PrototypeAdapter<SpeedRunnersNPC_Prototype> — 21 fields, 1 methods
+- class **StageEdge_Prototype** : PrototypeAdapter<StageEdge_Prototype> — 3 fields, 1 methods
+- class **StageEntity_Prototype** : PrototypeAdapter<StageEntity_Prototype> — 2 fields, 1 methods
+- class **StateMachine_Prototype** : PrototypeAdapter<StateMachine_Prototype> — 18 fields, 1 methods
+- class **StatusEffectsHolder_Prototype** : PrototypeAdapter<StatusEffectsHolder_Prototype> — 2 fields, 1 methods
+- class **StatusEffectsModifiers_Prototype** : PrototypeAdapter<StatusEffectsModifiers_Prototype> — 8 fields, 1 methods
+- class **StellarCharacter_Prototype** : PrototypeAdapter<StellarCharacter_Prototype> — 9 fields, 1 methods
+- class **StellarNPC_Prototype** : PrototypeAdapter<StellarNPC_Prototype> — 3 fields, 1 methods
+- class **SuperBoostVolume_Prototype** : PrototypeAdapter<SuperBoostVolume_Prototype> — 2 fields, 1 methods
+- class **TrapDoorSwitch_Prototype** : PrototypeAdapter<TrapDoorSwitch_Prototype> — 7 fields, 1 methods
+- class **TrapDoor_Prototype** : PrototypeAdapter<TrapDoor_Prototype> — 7 fields, 1 methods
+- class **Trigger_Prototype** : PrototypeAdapter<Trigger_Prototype> — 5 fields, 1 methods
+- class **VelocityModifier_Prototype** : PrototypeAdapter<VelocityModifier_Prototype> — 12 fields, 1 methods
+- class **VisibilitySource_Prototype** : PrototypeAdapter<VisibilitySource_Prototype> — 3 fields, 1 methods
+- class **VisibilityTarget_Prototype** : PrototypeAdapter<VisibilityTarget_Prototype> — 11 fields, 1 methods
+- class **VisualShake_Prototype** : PrototypeAdapter<VisualShake_Prototype> — 5 fields, 1 methods
+
+## Photon.Realtime (64 types)
+
+- class **ActorProperties** — 0 fields, 1 methods
+- class **AppSettings** — 16 fields, 9 methods
+- enum **AuthModeOption**: Auth=0, AuthOnce=1, AuthOnceWss=2
+- class **AuthenticationValues** — 5 fields, 13 methods
+- enum **ClientAppType**: Realtime=0, Voice=1, Fusion=2
+- enum **ClientState**: PeerCreated=0, Authenticating=1, Authenticated=2, JoiningLobby=3, JoinedLobby=4, DisconnectingFromMasterServer=5, DisconnectingFromMasterserver=5, ConnectingToGameServer=6, ConnectingToGameserver=6, ConnectedToGameServer=7, ConnectedToGameserver=7, Joining=8, Joined=9, Leaving=10, DisconnectingFromGameServer=11, DisconnectingFromGameserver=11, ConnectingToMasterServer=12, ConnectingToMasterserver=12, Disconnecting=13, Disconnected=14, ConnectedToMasterServer=15, ConnectedToMasterserver=15, ConnectedToMaster=15, ConnectingToNameServer=16, ConnectedToNameServer=17, DisconnectingFromNameServer=18, ConnectWithFallbackProtocol=19, ConnectWithoutAuthOnceWss=20
+- class **ConnectionCallbacksContainer** : List<IConnectionCallbacks>, IConnectionCallbacks — 1 fields, 1 methods
+- class **ConnectionHandler** : MonoBehaviour — 13 fields, 16 methods
+- enum **CustomAuthenticationType**: Custom=0, Steam=1, Facebook=2, Oculus=3, PlayStation4=4, PlayStation=4, Xbox=5, Viveport=10, NintendoSwitch=11, PlayStation5=12, Playstation5=12, Epic=13, FacebookGaming=15, None=255
+- class **CustomTypesUnity** — 3 fields, 8 methods
+- enum **DisconnectCause**: None=0, ExceptionOnConnect=1, DnsExceptionOnConnect=2, ServerAddressInvalid=3, Exception=4, SendException=5, ReceiveException=6, ServerTimeout=7, ClientTimeout=8, DisconnectByServerLogic=9, DisconnectByServerReasonUnknown=10, InvalidAuthentication=11, CustomAuthenticationFailed=12, AuthenticationTicketExpired=13, MaxCcuReached=14, InvalidRegion=15, OperationNotAllowedInCurrentState=16, DisconnectByClientLogic=17, DisconnectByOperationLimit=18, DisconnectByDisconnectMessage=19, ApplicationQuit=20
+- enum **EncryptionMode**: PayloadEncryption=0, DatagramEncryptionGCM=13
+- class **EnterRoomParams** — 7 fields, 1 methods
+- class **ErrorCode** — 0 fields, 1 methods
+- class **ErrorInfo** — 1 fields, 1 methods
+- class **ErrorInfoCallbacksContainer** : List<IErrorInfoCallback>, IErrorInfoCallback — 1 fields, 1 methods
+- enum **EventCaching**: DoNotCache=0, MergeCache=1, ReplaceCache=2, RemoveCache=3, AddToRoomCache=4, AddToRoomCacheGlobal=5, RemoveFromRoomCache=6, RemoveFromRoomCacheForActorsLeft=7, SliceIncreaseIndex=10, SliceSetIndex=11, SlicePurgeIndex=12, SlicePurgeUpToIndex=13
+- class **EventCode** — 0 fields, 1 methods
+- class **Extensions** — 1 fields, 10 methods
+- class **FindFriendsOptions** — 3 fields, 2 methods
+- class **FriendInfo** — 3 fields, 9 methods
+- class **GamePropertyKey** — 0 fields, 1 methods
+- interface **IConnectionCallbacks** — 0 fields, 0 methods
+- interface **IErrorInfoCallback** — 0 fields, 0 methods
+- interface **IInRoomCallbacks** — 0 fields, 0 methods
+- interface **ILobbyCallbacks** — 0 fields, 0 methods
+- interface **IMatchmakingCallbacks** — 0 fields, 0 methods
+- interface **IOnEventCallback** — 0 fields, 0 methods
+- interface **IWebRpcCallback** — 0 fields, 0 methods
+- class **InRoomCallbacksContainer** : List<IInRoomCallbacks>, IInRoomCallbacks — 1 fields, 1 methods
+- enum **JoinMode**: Default=0, CreateIfNotExists=1, JoinOrRejoin=2, RejoinOnly=3
+- enum **JoinType**: CreateRoom=0, JoinRoom=1, JoinRandomRoom=2, JoinRandomOrCreateRoom=3, JoinOrCreateRoom=4
+- class **LoadBalancingClient** : IPhotonPeerListener — 53 fields, 114 methods
+- class **LoadBalancingPeer** : PhotonPeer — 1 fields, 11 methods
+- class **LobbyCallbacksContainer** : List<ILobbyCallbacks>, ILobbyCallbacks — 1 fields, 1 methods
+- enum **LobbyType**: Default=0, SqlLobby=2, AsyncRandomLobby=3
+- class **MatchMakingCallbacksContainer** : List<IMatchmakingCallbacks>, IMatchmakingCallbacks — 1 fields, 1 methods
+- enum **MatchmakingMode**: FillRoom=0, SerialMatching=1, RandomMatching=2
+- class **MonoBehaviourEmpty** : MonoBehaviour — 2 fields, 6 methods
+- class **OpJoinRandomRoomParams** — 7 fields, 1 methods
+- class **OperationCode** — 0 fields, 1 methods
+- class **ParameterCode** — 0 fields, 1 methods
+- class **PhotonPing** : IDisposable — 7 fields, 3 methods
+- struct **PhotonPortDefinition** — 4 fields, 1 methods
+- class **PingMono** : PhotonPing — 1 fields, 1 methods
+- class **Player** — 9 fields, 24 methods
+- enum **PropertyTypeFlag**: None=0, Game=1, Actor=2, GameAndActor=3
+- class **RaiseEventOptions** — 7 fields, 2 methods
+- enum **ReceiverGroup**: Others=0, All=1, MasterClient=2
+- class **Region** — 4 fields, 13 methods
+- class **RegionHandler** — 15 fields, 16 methods
+- class **RegionPinger** — 11 fields, 14 methods
+- class **Room** : RoomInfo — 8 fields, 42 methods
+- class **RoomInfo** — 13 fields, 9 methods
+- enum **RoomOptionBit**: CheckUserOnJoin=1, DeleteCacheOnLeave=2, SuppressRoomEvents=4, PublishUserId=8, DeleteNullProps=16, BroadcastPropsChangeToAll=32, SuppressPlayerInfo=64
+- class **RoomOptions** — 14 fields, 17 methods
+- enum **ServerConnection**: MasterServer=0, GameServer=1, NameServer=2
+- class **SupportLogger** : MonoBehaviour, IConnectionCallbacks, IMatchmakingCallbacks, IInRoomCallbacks, ILobbyCallbacks, IErrorInfoCallback — 6 fields, 15 methods
+- class **SystemConnectionSummary** — 12 fields, 8 methods
+- class **TypedLobby** — 3 fields, 4 methods
+- class **TypedLobbyInfo** : TypedLobby — 2 fields, 1 methods
+- class **WebFlags** — 2 fields, 10 methods
+- class **WebRpcCallbacksContainer** : List<IWebRpcCallback>, IWebRpcCallback — 1 fields, 1 methods
+- class **WebRpcResponse** — 4 fields, 12 methods
+
+## Quantum (37 types)
+
+- class **AssetResourceContainer** : ScriptableObject — 4 fields, 8 methods
+- class **AssetResourceInfo** — 2 fields, 4 methods
+- class **AssetResourceInfoGroup** — 0 fields, 3 methods
+- class **AssetResourceInfoGroup<T>** : AssetResourceInfoGroup — 1 fields, 0 methods
+- class **CallbackUnitySceneLoadBegin** : QuantumGame.CallbackBase, ICallbackUnityScene — 1 fields, 1 methods
+- class **CallbackUnitySceneLoadDone** : QuantumGame.CallbackBase, ICallbackUnityScene — 1 fields, 1 methods
+- class **CallbackUnitySceneUnloadBegin** : QuantumGame.CallbackBase, ICallbackUnityScene — 1 fields, 1 methods
+- class **CallbackUnitySceneUnloadDone** : QuantumGame.CallbackBase, ICallbackUnityScene — 1 fields, 1 methods
+- class **DebugDraw** — 20 fields, 18 methods
+- class **DebugMesh** — 5 fields, 5 methods
+- class **EditorDefines** — 0 fields, 0 methods
+- class **EditorRectUtils** — 0 fields, 24 methods
+- class **EntityPrototypeConverter** — 3 fields, 5 methods
+- class **EnumFlagsAttribute** : PropertyAttribute — 1 fields, 3 methods
+- struct **FloatMinMax** — 2 fields, 1 methods
+- class **GameObjectUtils** — 0 fields, 10 methods
+- class **GizmoUtils** — 0 fields, 28 methods
+- interface **ICallbackUnityScene** — 0 fields, 0 methods
+- interface **IQuantumEditorGUI** — 0 fields, 0 methods
+- class **InspectorButtonAttribute** : PropertyAttribute — 3 fields, 4 methods
+- class **LocalReferenceAttribute** : PropertyAttribute — 0 fields, 1 methods
+- class **MapNavMeshBaker** — 3 fields, 17 methods
+- class **MinMaxSliderAttribute** : PropertyAttribute — 2 fields, 2 methods
+- class **MultiTypeReferenceAttribute** : PropertyAttribute — 1 fields, 1 methods
+- class **ProgressBar** : IDisposable — 5 fields, 6 methods
+- class **PrototypeAdapter** — 0 fields, 1 methods
+- class **PrototypeAdapter<PrototypeType>** : PrototypeAdapter — 0 fields, 0 methods
+- struct **QuantumGizmoStyle** — 1 fields, 3 methods
+- class **QuantumInspectorAttribute** : PropertyAttribute — 0 fields, 1 methods
+- class **QuantumInstantReplay** : IDisposable — 6 fields, 14 methods
+- class **QuantumInstantReplayLegacy** — 11 fields, 26 methods
+- enum **QuantumInstantReplaySeekMode**: Disabled=0, FromStartSnapshot=1, FromIntermediateSnapshots=2
+- class **QuantumPropertyAttributeProxyAttribute** : PropertyAttribute — 1 fields, 2 methods
+- class **QuantumUnityJsonSerializer** : JsonAssetSerializerBase — 0 fields, 1 methods
+- class **ReflectionUtils** — 0 fields, 25 methods
+- enum **UnityCallbackId**: UnitySceneLoadBegin=13, UnitySceneLoadDone=14, UnitySceneUnloadBegin=15, UnitySceneUnloadDone=16
+- class **UnityResourceLoader** : IResourceLoader, IDisposable — 5 fields, 8 methods
+
+## BrainFailProductions.PolyFew.AsImpL (17 types)
+
+- class **DataSet** — 9 fields, 14 methods
+- class **ImportOptions** — 14 fields, 1 methods
+- class **Loader** : MonoBehaviour — 18 fields, 29 methods
+- class **LoaderObj** : Loader — 2 fields, 11 methods
+- class **LoadingProgress** — 1 fields, 1 methods
+- class **MaterialData** — 17 fields, 1 methods
+- class **ModelImportInfo** — 4 fields, 1 methods
+- class **ModelUtil** — 0 fields, 6 methods
+- class **MultiObjectImporter** : ObjectImporter — 4 fields, 3 methods
+- class **ObjectBuilder** — 9 fields, 14 methods
+- class **ObjectImporter** : MonoBehaviour — 16 fields, 16 methods
+- class **ObjectImporterUI** : MonoBehaviour — 4 fields, 7 methods
+- class **PathSettings** : MonoBehaviour — 2 fields, 4 methods
+- enum **RootPathEnum**: Url=0, DataPath=1, DataPathParent=2, PersistentDataPath=3, CurrentPath=4
+- class **SingleLoadingProgress** — 6 fields, 1 methods
+- class **TextureLoader** : MonoBehaviour — 0 fields, 7 methods
+- class **Triangulator** — 0 fields, 2 methods
+
+## Platforms.Xbox (12 types)
+
+- class **MicrosoftStoreOnlineSystem** : StellarPlatformOnlineSystem — 29 fields, 44 methods
+- class **MicrosoftStoreSaveSystem** : StellarPlatformSaveSystem — 2 fields, 12 methods
+- class **MicrosoftStoreSystem** : StellarPCSystem — 17 fields, 21 methods
+- class **MicrosoftUserManager** — 5 fields, 9 methods
+- enum **UserOpResult**: Success=0, NoDefaultUser=1, ResolveUserIssueRequired=2, UnclearedVetoes=3, UnknownError=4
+- class **XboxControllerSystem** : StellarMonoBehaviour — 0 fields, 1 methods
+- class **XboxDLCSystem** : StellarPlatformDLCSystem — 0 fields, 1 methods
+- class **XboxOnlineSystem** : StellarPlatformOnlineSystem — 0 fields, 1 methods
+- class **XboxSaveSystem** : StellarPlatformSaveSystem — 0 fields, 1 methods
+- class **XboxSystem** : StellarPlatformSystem — 0 fields, 1 methods
+- class **XboxUser** — 7 fields, 21 methods
+- class **XboxUserManager** — 0 fields, 1 methods
+
+## BrainFailProductions.PolyFew (7 types)
+
+- class **CombiningInformation** — 4 fields, 10 methods
+- class **ObjectMaterialLinks** : MonoBehaviour — 3 fields, 4 methods
+- class **PolyFew** : MonoBehaviour — 0 fields, 1 methods
+- class **RefreshEnforcer** : MonoBehaviour — 0 fields, 3 methods
+- class **SystemServices** — 1 fields, 17 methods
+- class **ToleranceSphere** : ScriptableObject — 5 fields, 3 methods
+- class **ToleranceSphereJson** — 5 fields, 5 methods
+
+## BrainFailProductions.PolyFewRuntime (5 types)
+
+- class **FlyCamera** : MonoBehaviour — 13 fields, 4 methods
+- class **MeshCombiner** — 4 fields, 20 methods
+- class **PolyfewRuntime** : MonoBehaviour — 0 fields, 21 methods
+- class **PolygonReduction** : MonoBehaviour — 27 fields, 18 methods
+- class **UtilityServicesRuntime** : MonoBehaviour — 0 fields, 8 methods
+
+## BrainFailProductions.PolyFew.AsImpL.MathUtil (4 types)
+
+- class **MathUtility** — 0 fields, 4 methods
+- class **Triangle** — 3 fields, 1 methods
+- class **Triangulation** — 0 fields, 8 methods
+- class **Vertex** — 6 fields, 12 methods
+
+## UltimateChatBoxExample (3 types)
+
+- class **ChatStylesExample** : MonoBehaviour — 5 fields, 4 methods
+- class **CommandsExample** : MonoBehaviour — 3 fields, 5 methods
+- class **KillFeedExampleTest** : MonoBehaviour — 3 fields, 2 methods
+
+## BKPureNature (3 types)
+
+- class **BK_EnvironmentManager** : MonoBehaviour — 25 fields, 6 methods
+- class **BK_FreeCamera** : MonoBehaviour — 6 fields, 5 methods
+- class **ParticleFollowLightManager** : MonoBehaviour — 3 fields, 6 methods
+
+## TankAndHealerStudioAssets (2 types)
+
+- class **UltimateChatBox** : MonoBehaviour — 170 fields, 129 methods
+- class **UltimateChatBoxStyles** — 11 fields, 1 methods
+
+## PilotoStudio (2 types)
+
+- class **ParticleHandler** : MonoBehaviour — 9 fields, 7 methods
+- class **ParticleShowcase** : MonoBehaviour — 3 fields, 6 methods
+
+## MasterStylizedExplosions (2 types)
+
+- class **AutoRotate** : MonoBehaviour — 1 fields, 2 methods
+- class **SubEmitterByTime** : MonoBehaviour — 4 fields, 2 methods
+
+## Microsoft.CodeAnalysis (1 types)
+
+- class **EmbeddedAttribute** : Attribute — 0 fields, 1 methods
+
+## System.Runtime.CompilerServices (1 types)
+
+- class **IsUnmanagedAttribute** : Attribute — 0 fields, 1 methods
+
+## GameAnalyticsUtils.Utilities (1 types)
+
+- class **GA_MiniJSON** — 0 fields, 3 methods
+
+## Quantum.Core (1 types)
+
+- class **QuantumNetworkCommunicator** : ICommunicator — 6 fields, 1 methods
+
+## MasterStylizedExplosion (1 types)
+
+- class **BillBoardParticles** : MonoBehaviour — 1 fields, 2 methods

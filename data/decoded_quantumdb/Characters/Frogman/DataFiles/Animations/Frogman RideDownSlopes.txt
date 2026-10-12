@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman RideDownSlopes
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Animations/Frogman RideDownSlopes
+      Guid:
+        Value: 1183575771132336655
+    ClipIndex: 26
+    ClipName:
+      Value: RideDownSlopes
+      Hash: 849797334
+    Duration: 0.91666
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    - Frame: 55
+      ObjectsVisibilityData:
+      - MeshHash: 877013611
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: f6bd65bb38914c94ca122c2e19773de0, type: 2}

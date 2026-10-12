@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Swift Peaks Camera Manager Data Asset
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    StageCameraBounds:
+      BottomRight:
+        X: -32768
+        Y: 32768
+      TopLeft:
+        X: 32768
+        Y: -32768
+    DefaultViewPort:
+      BottomRight:
+        X: 22.5
+        Y: -15
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 0
+    HorizontalOffset: 0
+    ProjectionOffset: 0
+    ZoomInMultiplier: 0
+    ZoomOutMultiplier: 0
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 12
+    ZoomInterpolationSpeed: 14
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5
+  Settings_SpeedRunnersCameraManagerData:
+    Identifier:
+      Path: QuantumDB/Stages/SwiftPeaks/Camera/Swift Peaks Camera Manager Data Asset
+      Guid:
+        Value: 1694656516480562396
+    StageCameraBounds:
+      BottomRight:
+        X: 170
+        Y: -52
+      TopLeft:
+        X: -178
+        Y: 61
+    DefaultViewPort:
+      BottomRight:
+        X: 37.5
+        Y: -21.093
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 4
+    HorizontalOffset: 0
+    ProjectionOffset: 0.1848
+    ZoomInMultiplier: 0.5
+    ZoomOutMultiplier: 5
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 45
+    ZoomInterpolationSpeed: 45
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5

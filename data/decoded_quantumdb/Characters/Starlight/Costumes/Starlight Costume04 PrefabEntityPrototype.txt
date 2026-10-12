@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight Costume04 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/Costumes/Starlight Costume04 Prefab|EntityPrototype
+      Guid:
+        Value: 1166121169441178628
+    Container: {}
+  Parent: {fileID: 114156371104904051, guid: d926c7d0e53dc704f91f62a8af500a04, type: 2}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: On Update State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/States/On Update/On Update State
+      Guid:
+        Value: 1035116961451752711
+    Name:
+      Value: On Update
+      Hash: 981287727
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3377423146800986052
+      - Id:
+          Value: 3477572491139340210
+      - Id:
+          Value: 1970673255495515248
+      - Id:
+          Value: 3677108687096035137
+      - Id:
+          Value: 4228313465709352952
+      - Id:
+          Value: 4194883767531895991
+      - Id:
+          Value: 2925325994883753954
+      StateInheritedGroups:
+      - Name:
+          Value: Reset Oscilation
+          Hash: 1086087514
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Destroy
+          Hash: 785740353
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

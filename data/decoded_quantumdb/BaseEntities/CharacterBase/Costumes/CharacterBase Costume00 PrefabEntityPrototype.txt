@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Costume00 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/Costumes/CharacterBase Costume00 Prefab|EntityPrototype
+      Guid:
+        Value: 3081773775100452412
+    Container: {}
+  Parent: {fileID: 114264357844037074, guid: 8274ba9177c30fb4b926584b4d33f905, type: 2}

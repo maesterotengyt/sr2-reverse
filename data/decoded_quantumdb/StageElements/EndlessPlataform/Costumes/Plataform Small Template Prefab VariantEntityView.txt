@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Plataform Small Template Prefab VariantEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/EndlessPlataform/Costumes/Plataform Small Template Prefab Variant|EntityView
+      Guid:
+        Value: 4526506431598209402
+  Parent: {fileID: 114243736805655561, guid: 92f5272fd72bc994793ec58d8d99bbdf, type: 2}

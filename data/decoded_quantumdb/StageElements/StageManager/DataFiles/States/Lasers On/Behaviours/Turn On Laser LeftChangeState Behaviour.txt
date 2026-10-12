@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Turn On Laser LeftChangeState Behaviour
+  Notes:
+  EditorName: Turn On Laser Left
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/StageManager/DataFiles/States/Lasers On/Behaviours/Turn On Laser LeftChangeState Behaviour
+      Guid:
+        Value: 3729765000344747102
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 1
+    TargetIndexParameterID:
+      Value: RLaserID
+      Hash: 1160405034
+    StartFrame: 2
+    TargetState:
+      StateName:
+        Value: Enabled
+        Hash: -1585660667
+      TransitionFrames: 0

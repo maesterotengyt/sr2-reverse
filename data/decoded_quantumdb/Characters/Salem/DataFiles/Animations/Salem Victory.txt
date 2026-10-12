@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem Victory
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem Victory
+      Guid:
+        Value: 1374127906551869855
+    ClipIndex: 41
+    ClipName:
+      Value: Victory
+      Hash: 1312362448
+    Duration: 0.89999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 879289418504df24697385857bf7f55d, type: 2}

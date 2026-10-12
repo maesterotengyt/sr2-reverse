@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Cosmonaut UseItem
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Cosmonaut/DataFiles/Animations/Cosmonaut UseItem
+      Guid:
+        Value: 774592879645745096
+    ClipIndex: 38
+    ClipName:
+      Value: UseItem
+      Hash: -273697329
+    Duration: 0.2
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: cbe924f54251a2a4c95b5758827e6821, type: 2}

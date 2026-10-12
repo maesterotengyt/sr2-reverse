@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight FreezeRayWhileRunning
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight FreezeRayWhileRunning
+      Guid:
+        Value: 2685169689606688942
+    ClipIndex: 7
+    ClipName:
+      Value: FreezeRayWhileRunning
+      Hash: 369790486
+    Duration: 1.25
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: d89b040d354f01a4e9e3a5e3644ef142, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp SlideStart
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp SlideStart
+      Guid:
+        Value: 3664916111803712514
+    ClipIndex: 34
+    ClipName:
+      Value: SlideStart
+      Hash: 1757789066
+    Duration: 0.11665
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 09221d6a61f93c44c828664b053a4ad6, type: 2}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: FalconChickenTank Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/FalconChickenTank/DataFiles/FalconChickenTank Animations Pool Data
+      Guid:
+        Value: 338031914494911709
+    ClipsDataRefs:
+    - Id:
+        Value: 1202129993518548079
+    - Id:
+        Value: 3994720099948902746
+    - Id:
+        Value: 1317822207859550412
+    - Id:
+        Value: 4552481658574323297
+    - Id:
+        Value: 2034928331040989101
+    - Id:
+        Value: 2166548602418558406
+    - Id:
+        Value: 3037207206298774516
+    - Id:
+        Value: 2680205094118943391
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Boss_FalconTank
+  ClipsInputPath: Assets/ProductionAssets/Bosses/FalconTank/Animations/
+  OptimizedClipsOutputPath: Assets/Bosses/FalconChickenTank/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Bosses/FalconChickenTank/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: a651bc40e8b7c7841b12c99d7a837763, type: 2}
+  - {fileID: 11400000, guid: 4abe6320aa0e35e4fb74e90efb86cf7b, type: 2}
+  - {fileID: 11400000, guid: 5c7cf45325f561843bbec033eba8f1ff, type: 2}
+  - {fileID: 11400000, guid: daef846796adb214aa06d897c515992e, type: 2}
+  - {fileID: 11400000, guid: 3cfdaff32ea1ef84a9a83273112a31bb, type: 2}
+  - {fileID: 11400000, guid: 5da155172ac825842bf1e60a807afdef, type: 2}
+  - {fileID: 11400000, guid: 878ff940c7428b64c8a04c02193b7ec1, type: 2}
+  - {fileID: 11400000, guid: 0fb21c5d4f848064ea69fe40939cf728, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

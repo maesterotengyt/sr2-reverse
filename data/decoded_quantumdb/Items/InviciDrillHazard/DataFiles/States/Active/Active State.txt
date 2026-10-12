@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/InviciDrillHazard/DataFiles/States/Active/Active State
+      Guid:
+        Value: 1219907099644483340
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2867403394895439334
+      - Id:
+          Value: 8747640628856262
+      - Id:
+          Value: 544357041381521049
+      - Id:
+          Value: 4068353445523879568
+      - Id:
+          Value: 1922486757065039960
+      - Id:
+          Value: 1427178357677225249
+      - Id:
+          Value: 684506788333530760
+      - Id:
+          Value: 1959885224854814844
+      - Id:
+          Value: 3012719525869057795
+      - Id:
+          Value: 3311744268339518911
+      - Id:
+          Value: 467588200771741146
+      - Id:
+          Value: 3736990994251757215
+      - Id:
+          Value: 3553007029595866500
+      StateInheritedGroups:
+      - Name:
+          Value: Refresh Attack
+          Hash: 1927307955
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Update
+          Hash: 981287727
+        EventToReact: 3
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Ground State Change
+          Hash: 1865072803
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

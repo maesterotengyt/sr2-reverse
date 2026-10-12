@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon SlideEnd
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon SlideEnd
+      Guid:
+        Value: 633976901191038161
+    ClipIndex: 30
+    ClipName:
+      Value: SlideEnd
+      Hash: 270298943
+    Duration: 0.43332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 4dc0e72a3823b1d4091b50bccc3a37a6, type: 2}

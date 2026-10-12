@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Defeated State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Defeated/Defeated State
+      Guid:
+        Value: 4154138370566002187
+    Name:
+      Value: Defeated
+      Hash: 1556986206
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2999809712480131322
+      - Id:
+          Value: 402903597015467967
+      StateInheritedGroups: []

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Freeze Ray 2 Camera Manager Data
+  Settings:
+    Identifier:
+      Path:
+      Guid:
+        Value: 0
+    StageCameraBounds:
+      BottomRight:
+        X: -32768
+        Y: 32768
+      TopLeft:
+        X: 32768
+        Y: -32768
+    DefaultViewPort:
+      BottomRight:
+        X: 22.5
+        Y: -15
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 0
+    HorizontalOffset: 0
+    ProjectionOffset: 0
+    ZoomInMultiplier: 0
+    ZoomOutMultiplier: 0
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 12
+    ZoomInterpolationSpeed: 14
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5
+  Settings_SpeedRunnersCameraManagerData:
+    Identifier:
+      Path: QuantumDB/Stages/AdvancedMechanicTutorial/Camera/Freeze Ray 2 Camera Manager Data
+      Guid:
+        Value: 2458746856400088251
+    StageCameraBounds:
+      BottomRight:
+        X: 32768
+        Y: -32768
+      TopLeft:
+        X: -32768
+        Y: 32768
+    DefaultViewPort:
+      BottomRight:
+        X: 0
+        Y: -15
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 1.99
+    HorizontalOffset: 0
+    ProjectionOffset: 0.1848
+    ZoomInMultiplier: 0.48
+    ZoomOutMultiplier: 1.97
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 45
+    ZoomInterpolationSpeed: 45
+    TiltCamera: 0
+    TiltXAngle: 0.93
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5

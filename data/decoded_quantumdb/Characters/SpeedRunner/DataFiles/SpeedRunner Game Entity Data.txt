@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/SpeedRunner Game Entity Data
+      Guid:
+        Value: 3979018338757730538
+    EntityName:
+      Value: SpeedRunner
+      Hash: -1821447590
+    EntityType: 1
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 2691725024712517490
+    - Id:
+        Value: 1277986961661975972
+    - Id:
+        Value: 269241784747283628
+    - Id:
+        Value: 1517328873334211353
+    - Id:
+        Value: 2897401541045337567
+    - Id:
+        Value: 2835166456116116298
+    - Id:
+        Value: 2931671136415353583
+    - Id:
+        Value: 4560305756217898989
+    RotationPivot:
+      X: 0
+      Y: 0.7
+    HasEntityModifier: 1
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 2143156988808466622
+    HasCustomAnimator: 1
+    AnimationsPoolData:
+      Id:
+        Value: 574916896250689324
+    BakedJointsData:
+      Id:
+        Value: 3022417303049241062
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 2958131741440057135
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 2276599178747942525
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 3851664489037418557
+    HasMovesetLimiter: 1
+    MovesetLimiterData:
+      Id:
+        Value: 4237560637407544603

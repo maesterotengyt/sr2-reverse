@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ExecuteGroupConditionally Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hurt/Behaviours/ExecuteGroupConditionally Behaviour
+      Guid:
+        Value: 2803808106607213364
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    ConditionalGroups:
+    - GroupToExecute:
+        GroupName:
+          Value: Hurt
+          Hash: -1797537374
+        ExecutionMode: 1
+      LogicalOperator: 0
+      Conditions:
+      - Target:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 9
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: -1199621862
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        Value:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 13
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value: RemoteBombImpulse
+            Hash: 302500974
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        Comparer: 0
+      - Target:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 5
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value: SlideInvincibility
+            Hash: -1199621862
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        Value:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 14
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: 0
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        Comparer: 0
+    - GroupToExecute:
+        GroupName:
+          Value: Hurt
+          Hash: -1797537374
+        ExecutionMode: 1
+      LogicalOperator: 0
+      Conditions:
+      - Target:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 9
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value:
+            Hash: -1199621862
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        Value:
+          TargetEntity: 0
+          TargetIndexParameterID:
+            Value:
+            Hash: 0
+          Source: 13
+          SourceVariableIndex: 0
+          FloatValue: 0
+          ParameterID:
+            Value: RemoteBombImpulse
+            Hash: 302500974
+          PrerequisiteEvaluation: 0
+          InputActions: []
+          InputPrerequisites: []
+          SelectedStatusEffectType: 0
+          IgnoreOriginEntity: 0
+          OriginEntity: 0
+          OriginIndexParameterID:
+            Value:
+            Hash: 0
+          Inputs: []
+        Comparer: 1

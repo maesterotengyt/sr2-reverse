@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GreyBoxFirstLevel_Camera Manager Data Asset
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/Casino/Camera/GreyBoxFirstLevel_Camera Manager Data Asset
+      Guid:
+        Value: 955993278248332356
+    StageCameraBounds:
+      BottomRight:
+        X: 173
+        Y: -60
+      TopLeft:
+        X: -240
+        Y: 58
+    DefaultViewPort:
+      BottomRight:
+        X: 22.5
+        Y: -15
+      TopLeft:
+        X: 0
+        Y: 0
+    MaxHUDMultiplier: 4
+    VerticalOffset: 1.6
+    HorizontalOffset: 0
+    ProjectionOffset: 0
+    ZoomInMultiplier: 5
+    ZoomOutMultiplier: 10
+    ApplyInterpolation: 1
+    PositionInterpolationSpeed: 12
+    ZoomInterpolationSpeed: 14
+    TiltCamera: 0
+    TiltXAngle: 0.5
+    TiltMaxAngle: 18
+    TiltSpeed: 5
+    TiltFactor: 0.5

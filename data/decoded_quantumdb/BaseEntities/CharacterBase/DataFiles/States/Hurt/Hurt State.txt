@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hurt State
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Hurt/Hurt State
+      Guid:
+        Value: 1889904479543272821
+    Name:
+      Value: Hurt
+      Hash: -1797537374
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 2487212285093897719
+      - Id:
+          Value: 2424996445348192963
+      - Id:
+          Value: 2307834075119990056
+      - Id:
+          Value: 1640833979801953303
+      - Id:
+          Value: 1121571113808034949
+      - Id:
+          Value: 2364131108886690485
+      - Id:
+          Value: 2515880951742701158
+      - Id:
+          Value: 23944475104791073
+      - Id:
+          Value: 2803808106607213364
+      - Id:
+          Value: 3287002315241122133
+      - Id:
+          Value: 2100879717627165923
+      - Id:
+          Value: 4299009378882307973
+      - Id:
+          Value: 1872270491855829457
+      - Id:
+          Value: 2119318958789369466
+      - Id:
+          Value: 2719754281977252138
+      - Id:
+          Value: 377879282557092352
+      - Id:
+          Value: 4599031632000832182
+      - Id:
+          Value: 3876731357936744609
+      - Id:
+          Value: 3695869477448638518
+      - Id:
+          Value: 3791865084484387609
+      - Id:
+          Value: 1157004413664856303
+      - Id:
+          Value: 3438337872123662188
+      - Id:
+          Value: 3787809371993515258
+      - Id:
+          Value: 4145608461605896783
+      - Id:
+          Value: 3224722439489273993
+      - Id:
+          Value: 3509981420749728222
+      StateInheritedGroups:
+      - Name:
+          Value: Hurt
+          Hash: -1797537374
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: ParryTint
+          Hash: 1703105215
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Trip
+          Hash: -389377314
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Tumble
+          Hash: 1755747619
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Freeze
+          Hash: -982740557
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Unfreeze
+          Hash: -1424126328
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Impulse
+          Hash: -1270256002
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Go to Idle
+          Hash: 2089361666
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

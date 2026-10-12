@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SpeedRunner StartingPose
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/SpeedRunner/DataFiles/Animations/SpeedRunner StartingPose
+      Guid:
+        Value: 3484551057809536892
+    ClipIndex: 58
+    ClipName:
+      Value: StartingPose
+      Hash: 1785608743
+    Duration: 0.53333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 2c46e17b3e795954da8601375efeb79f, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase SpecialAttack
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/CharacterBase SpecialAttack
+      Guid:
+        Value: 3394551624393401479
+    ClipIndex: 17
+    ClipName:
+      Value: SpecialAttack
+      Hash: -1934590933
+    Duration: 1.8333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 05ca4bcb9c7eb5c44992e7657fca3662, type: 2}

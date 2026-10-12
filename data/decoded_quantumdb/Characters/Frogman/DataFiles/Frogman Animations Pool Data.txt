@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Frogman Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Frogman/DataFiles/Frogman Animations Pool Data
+      Guid:
+        Value: 2753293040246894589
+    ClipsDataRefs:
+    - Id:
+        Value: 3397351063575096711
+    - Id:
+        Value: 2542763791044492467
+    - Id:
+        Value: 3105275409044305280
+    - Id:
+        Value: 496719231135045990
+    - Id:
+        Value: 1838375714130514148
+    - Id:
+        Value: 3289067671381334449
+    - Id:
+        Value: 119895284132048480
+    - Id:
+        Value: 2415307385493314934
+    - Id:
+        Value: 145380454287922259
+    - Id:
+        Value: 596253892765740463
+    - Id:
+        Value: 84389341131590697
+    - Id:
+        Value: 728613393526917198
+    - Id:
+        Value: 1376240958044043421
+    - Id:
+        Value: 4147427876665156713
+    - Id:
+        Value: 4303890148428107023
+    - Id:
+        Value: 285694435026482500
+    - Id:
+        Value: 1076622640988370842
+    - Id:
+        Value: 178464975031547816
+    - Id:
+        Value: 2591859899148128832
+    - Id:
+        Value: 910117492435454201
+    - Id:
+        Value: 1846163711964290975
+    - Id:
+        Value: 1781771650975300658
+    - Id:
+        Value: 283184794698450221
+    - Id:
+        Value: 2022976241444113231
+    - Id:
+        Value: 684163268089497807
+    - Id:
+        Value: 944500237200906259
+    - Id:
+        Value: 1183575771132336655
+    - Id:
+        Value: 4391282841565258215
+    - Id:
+        Value: 438554163109291598
+    - Id:
+        Value: 259858729554960582
+    - Id:
+        Value: 735248832602153770
+    - Id:
+        Value: 429457967633356950
+    - Id:
+        Value: 4131221485690594615
+    - Id:
+        Value: 3186479705780617387
+    - Id:
+        Value: 3835683835619097632
+    - Id:
+        Value: 3299940628174288579
+    - Id:
+        Value: 151603571623071119
+    - Id:
+        Value: 1601177207619685286
+    - Id:
+        Value: 332835882473089162
+    - Id:
+        Value: 1358347143323563678
+    - Id:
+        Value: 1308305291513894606
+    - Id:
+        Value: 2753045176037650656
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: Frogman
+  ClipsInputPath: Assets/ProductionAssets/Characters/Frogman/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/Frogman/General/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/Characters/Frogman/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: 9c37e0b30225643439cd8b74926fcb1b, type: 2}
+  - {fileID: 11400000, guid: ca6d54367aa67b54890c14cc8675a9b3, type: 2}
+  - {fileID: 11400000, guid: 2279dfa38f9ec8d4a836615d61de0885, type: 2}
+  - {fileID: 11400000, guid: 98c9dd90c5030cd46aad0873e92348d4, type: 2}
+  - {fileID: 11400000, guid: b25261d296c006149be3cce6dd1e149b, type: 2}
+  - {fileID: 11400000, guid: 41680368d5cf4ef418b7100429adf783, type: 2}
+  - {fileID: 11400000, guid: 24ba100b79cd0094590ce59e605629c1, type: 2}
+  - {fileID: 11400000, guid: 91a1f8270a51c594b966ae45c8ef67bc, type: 2}
+  - {fileID: 11400000, guid: f634977d2c24bef439ebd785de3199ee, type: 2}
+  - {fileID: 11400000, guid: 0f6d826a14941924fa6fd8c4b5bde182, type: 2}
+  - {fileID: 11400000, guid: afb8836e51211dc41b847ee4ec256951, type: 2}
+  - {fileID: 11400000, guid: c6149682f395bbe4b95b3fece733d278, type: 2}
+  - {fileID: 11400000, guid: e7cf51639640c654084f2659a10a078b, type: 2}
+  - {fileID: 11400000, guid: 431d4f37d51309e448d0d38f4ac42798, type: 2}
+  - {fileID: 11400000, guid: cd72dd96da384634299ffe9f532c91c6, type: 2}
+  - {fileID: 11400000, guid: e7dc7a273a5d60f44a6e71a14a33824d, type: 2}
+  - {fileID: 11400000, guid: eac82eadb42edd3459b9065daac5fe4c, type: 2}
+  - {fileID: 11400000, guid: 068c2e0db2a779a4ea032d98d2b1c09d, type: 2}
+  - {fileID: 11400000, guid: fe97319cd899bd641a746545ac5f21d0, type: 2}
+  - {fileID: 11400000, guid: 8e5157849ef3a614fb0459f1562a7396, type: 2}
+  - {fileID: 11400000, guid: 7e9f37ed7d135344cbbd28a778257712, type: 2}
+  - {fileID: 11400000, guid: 5008de4d23df8b04996448d8d4265003, type: 2}
+  - {fileID: 11400000, guid: 45baa0cc9586394438a16dc330fc22bf, type: 2}
+  - {fileID: 11400000, guid: 70c8c7794a1a42d4683e9296da77cf6e, type: 2}
+  - {fileID: 11400000, guid: 63bc4a6808a47d84d94572b67b00bafd, type: 2}
+  - {fileID: 11400000, guid: 974b55f1672aaa842bacb28da728cbce, type: 2}
+  - {fileID: 11400000, guid: a7d0b65c13c48604fa0bde95d2c1773d, type: 2}
+  - {fileID: 11400000, guid: a0a3287cf70dca64098eeb5f9e0ceeab, type: 2}
+  - {fileID: 11400000, guid: 1d67f4d4ee8fbe044bb8d1a19ab48d19, type: 2}
+  - {fileID: 11400000, guid: d730c25c5fbe3804a9500e4d4c991a8e, type: 2}
+  - {fileID: 11400000, guid: f1854eb1526010546a5d2d030fb55a67, type: 2}
+  - {fileID: 11400000, guid: 5a1edeb5ce73d844da702c3f6c7c145f, type: 2}
+  - {fileID: 11400000, guid: 375b936099c6b1b4d973ee8bc009e253, type: 2}
+  - {fileID: 11400000, guid: 4798297982da9934388c80d3a7b774c5, type: 2}
+  - {fileID: 11400000, guid: b7039a27b6728604f8daa0a4b5a88725, type: 2}
+  - {fileID: 11400000, guid: 0d324f66bbd18294a969d2d21c13f5e9, type: 2}
+  - {fileID: 11400000, guid: cf5985fef3ea4b644b05d67e8af080ab, type: 2}
+  - {fileID: 11400000, guid: 1a55deaf0605b934db032b5712c7e6cf, type: 2}
+  - {fileID: 11400000, guid: fdc633004187a9a4b8d9a24db5c8fe2b, type: 2}
+  - {fileID: 11400000, guid: 8f0d8770e7c2ed14897a322d2d758346, type: 2}
+  - {fileID: 11400000, guid: 4506bb467af0353439b701e3aee6ba5e, type: 2}
+  - {fileID: 11400000, guid: 9cafdfe6c53238348be2f2d82161b568, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

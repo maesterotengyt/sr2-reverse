@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Shockwave Behaviour
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/ShockWave/DataFiles/States/Activate/Behaviours/Shockwave Behaviour
+      Guid:
+        Value: 4367080040321036221
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    ShockwaveDelay: 0.5
+    InterpolationFramesDuration: 30
+    InterpolationCurve:
+      Samples:
+      - RawValue: 0
+      - RawValue: 4032
+      - RawValue: 7936
+      - RawValue: 11712
+      - RawValue: 15360
+      - RawValue: 18880
+      - RawValue: 22272
+      - RawValue: 25536
+      - RawValue: 28672
+      - RawValue: 31680
+      - RawValue: 34560
+      - RawValue: 37312
+      - RawValue: 39936
+      - RawValue: 42432
+      - RawValue: 44800
+      - RawValue: 47040
+      - RawValue: 49152
+      - RawValue: 51136
+      - RawValue: 52992
+      - RawValue: 54720
+      - RawValue: 56320
+      - RawValue: 57792
+      - RawValue: 59136
+      - RawValue: 60352
+      - RawValue: 61440
+      - RawValue: 62400
+      - RawValue: 63232
+      - RawValue: 63936
+      - RawValue: 64512
+      - RawValue: 64960
+      - RawValue: 65280
+      - RawValue: 65472
+      - RawValue: 65536
+      PreWrapMode: 0
+      PostWrapMode: 0
+      StartTime: 0
+      EndTime: 1
+      Resolution: 32
+      OriginalPreWrapMode: 8
+      OriginalPostWrapMode: 8
+      Keys:
+      - Time: 0
+        Value: 0
+        InTangent: 2
+        OutTangent: 2
+        TangentMode: 0
+        TangentModeLeft: 0
+        TangentModeRight: 0
+        WeightedMode: 0
+      - Time: 1
+        Value: 1
+        InTangent: 0
+        OutTangent: 0
+        TangentMode: 0
+        TangentModeLeft: 0
+        TangentModeRight: 0
+        WeightedMode: 0

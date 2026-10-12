@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp IdleAlt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp IdleAlt
+      Guid:
+        Value: 3056617267763597539
+    ClipIndex: 18
+    ClipName:
+      Value: IdleAlt
+      Hash: -827052680
+    Duration: 5.0667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 41e9029de9ce28641a92ff5a6209a69a, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_PoisonShip Attack1
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/PoisonShip/DataFiles/Animations/Boss_PoisonShip Attack1
+      Guid:
+        Value: 1417638555965046676
+    ClipIndex: 0
+    ClipName:
+      Value: Attack1
+      Hash: 775182663
+    Duration: 2.3333
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 153def21885250e429ea1bf768604e51, type: 2}

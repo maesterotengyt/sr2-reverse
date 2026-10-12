@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Lasers On State
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/StageManager/DataFiles/States/Lasers On/Lasers On State
+      Guid:
+        Value: 2843830254871050481
+    Name:
+      Value: Lasers On
+      Hash: 1039405927
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 4080677258343235706
+      - Id:
+          Value: 3729765000344747102
+      StateInheritedGroups: []

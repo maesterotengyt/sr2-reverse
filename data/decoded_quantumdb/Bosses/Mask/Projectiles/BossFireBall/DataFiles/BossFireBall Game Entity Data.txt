@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BossFireBall Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/Projectiles/BossFireBall/DataFiles/BossFireBall Game Entity Data
+      Guid:
+        Value: 338150380257773631
+    EntityName:
+      Value: BossFireBall
+      Hash: -1401175799
+    EntityType: 3
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 4449799913153050753
+    RotationPivot:
+      X: 0
+      Y: 0
+    HasEntityModifier: 1
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 458613543813436011
+    HasCustomAnimator: 0
+    AnimationsPoolData:
+      Id:
+        Value: 0
+    BakedJointsData:
+      Id:
+        Value: 0
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 3761415483698602277
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 1685912355815398907
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 0
+    MovesetLimiterData:
+      Id:
+        Value: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem UseItem
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem UseItem
+      Guid:
+        Value: 47887558795089573
+    ClipIndex: 40
+    ClipName:
+      Value: UseItem
+      Hash: -273697329
+    Duration: 0.2
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: ec827bd480d29934f8c0371a1d62d213, type: 2}

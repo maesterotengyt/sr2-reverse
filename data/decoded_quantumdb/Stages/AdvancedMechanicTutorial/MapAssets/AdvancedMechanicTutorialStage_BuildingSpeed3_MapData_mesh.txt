@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: AdvancedMechanicTutorialStage_BuildingSpeed3_MapData_mesh
+  Settings:
+    Identifier:
+      Path: QuantumDB/Stages/AdvancedMechanicTutorial/MapAssets/AdvancedMechanicTutorialStage_BuildingSpeed3_MapData_mesh
+      Guid:
+        Value: 3446470585591236152
+    Data: 00000000
+    IsCompressed: 0
+  SourceTextAsset: {fileID: 0}

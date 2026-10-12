@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Hothead SlideEnd
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Hothead/DataFiles/Animations/Hothead SlideEnd
+      Guid:
+        Value: 606870720047145638
+    ClipIndex: 32
+    ClipName:
+      Value: SlideEnd
+      Hash: 270298943
+    Duration: 0.56667
+    BakedVisibilityData:
+    - Frame: 0
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 0
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    - Frame: 8
+      ObjectsVisibilityData:
+      - MeshHash: 749340491
+        Value: 0
+    - Frame: 9
+      ObjectsVisibilityData:
+      - MeshHash: 749340491
+        Value: 1
+    - Frame: 11
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: 749340491
+        Value: 1
+    - Frame: 12
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 1
+      - MeshHash: 749340491
+        Value: 0
+    - Frame: 18
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 1
+      - MeshHash: 749340491
+        Value: 0
+    - Frame: 19
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: 749340491
+        Value: 1
+    - Frame: 34
+      ObjectsVisibilityData:
+      - MeshHash: 2123415292
+        Value: 0
+      - MeshHash: -1708945670
+        Value: 0
+      - MeshHash: -2051252990
+        Value: 0
+      - MeshHash: 1210990215
+        Value: 0
+      - MeshHash: 749340491
+        Value: 1
+      - MeshHash: 1630193858
+        Value: 0
+      - MeshHash: 231928865
+        Value: 1
+      - MeshHash: 1026418503
+        Value: 1
+      - MeshHash: 625820557
+        Value: 1
+      - MeshHash: 304531374
+        Value: 1
+      - MeshHash: 319894525
+        Value: 1
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: c3b6c19d1c6310d449dc7592f13fca5e, type: 2}

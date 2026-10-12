@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: SlopePlataformEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/EndlessPlataform/Costumes/SlopePlataform|EntityView
+      Guid:
+        Value: 2919731217980042505
+  Parent: {fileID: 114099118695303065, guid: b2aea47b892ba85448415234516371a6, type: 2}

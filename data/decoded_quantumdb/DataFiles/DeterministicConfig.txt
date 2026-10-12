@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: DeterministicConfig
+  Config:
+    PlayerCount: 0
+    ChecksumCrossPlatformDeterminism: 0
+    LockstepSimulation: 0
+    AggressiveSendMode: 1
+    UpdateFPS: 60
+    ChecksumInterval: 0
+    RollbackWindow: 60
+    InputHardTolerance: 16
+    InputRedundancy: 3
+    InputRepeatMaxDistance: 40
+    SessionStartTimeout: 1
+    TimeCorrectionRate: 4
+    MinTimeCorrectionFrames: 1
+    MinOffsetCorrectionDiff: 1
+    TimeScaleMin: 100
+    TimeScalePingMin: 100
+    TimeScalePingMax: 300
+    InputDelayMin: 0
+    InputDelayMax: 60
+    InputDelayPingStart: 100
+    InputFixedSizeEnabled: 1
+    InputFixedSize: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull DoubleJump
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull DoubleJump
+      Guid:
+        Value: 1512074643621177666
+    ClipIndex: 6
+    ClipName:
+      Value: DoubleJump
+      Hash: -922094764
+    Duration: 0.81667
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: f0d499f03d26b3b45b97feaa2880780a, type: 2}

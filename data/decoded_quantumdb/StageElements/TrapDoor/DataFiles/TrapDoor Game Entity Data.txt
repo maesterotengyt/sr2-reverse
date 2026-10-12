@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: TrapDoor Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/TrapDoor/DataFiles/TrapDoor Game Entity Data
+      Guid:
+        Value: 1755505593968029786
+    EntityName:
+      Value: TrapDoor
+      Hash: 2058138378
+    EntityType: 5
+    EntityPrototypeCostumes: []
+    RotationPivot:
+      X: 0
+      Y: 0
+    HasEntityModifier: 0
+    HasStateMachine: 0
+    StateMachineData:
+      Id:
+        Value: 0
+    HasCustomAnimator: 0
+    AnimationsPoolData:
+      Id:
+        Value: 0
+    BakedJointsData:
+      Id:
+        Value: 0
+    HasCombat: 0
+    CombatData:
+      Id:
+        Value: 0
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 0
+    PhysicsData:
+      Id:
+        Value: 0
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 0
+    MovesetLimiterData:
+      Id:
+        Value: 0

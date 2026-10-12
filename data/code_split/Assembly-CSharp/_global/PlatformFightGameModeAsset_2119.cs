@@ -1,0 +1,25 @@
+// Namespace: 
+[CreateAssetMenu(menuName = "Quantum/BaseGameMode/SpeedRunnersBaseGameMode/PlatformFightGameMode", order = -859)]
+public class PlatformFightGameModeAsset : SpeedRunnersBaseGameModeAsset // TypeDefIndex: 2119
+{
+	// Fields
+	public PlatformFightGameMode Settings_PlatformFightGameMode; // 0x20
+
+	// Properties
+	public override string AssetObjectPropertyPath { get; }
+	public override AssetObject AssetObject { get; }
+
+	// Methods
+
+	// RVA: 0x5150D0 Offset: 0x5136D0 VA: 0x1805150D0 Slot: 5
+	public override string get_AssetObjectPropertyPath() { }
+
+	// RVA: 0x504300 Offset: 0x502900 VA: 0x180504300 Slot: 4
+	public override AssetObject get_AssetObject() { }
+
+	// RVA: 0x515010 Offset: 0x513610 VA: 0x180515010 Slot: 9
+	public override void Reset() { }
+
+	// RVA: 0x503080 Offset: 0x501680 VA: 0x180503080
+	public void .ctor() { }
+}

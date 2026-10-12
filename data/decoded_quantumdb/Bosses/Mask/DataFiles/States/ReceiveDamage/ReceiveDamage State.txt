@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: ReceiveDamage State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/ReceiveDamage/ReceiveDamage State
+      Guid:
+        Value: 2195063234456480862
+    Name:
+      Value: ReceiveDamage
+      Hash: -817675055
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 3151661997153117238
+      - Id:
+          Value: 4459234985577111392
+      - Id:
+          Value: 1515668326620582759
+      - Id:
+          Value: 4309150080369615441
+      StateInheritedGroups:
+      - Name:
+          Value: OnAnimFinished
+          Hash: 638382447
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

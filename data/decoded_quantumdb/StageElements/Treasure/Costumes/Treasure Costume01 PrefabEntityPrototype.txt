@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Treasure Costume01 PrefabEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/Treasure/Costumes/Treasure Costume01 Prefab|EntityPrototype
+      Guid:
+        Value: 696973216215210877
+    Container: {}
+  Parent: {fileID: 114061268324235159, guid: 7c6e51af51ad73a48add1efb4a707bf2, type: 2}

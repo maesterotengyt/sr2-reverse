@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon Costume07 PrefabEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/Costumes/Falcon Costume07 Prefab|EntityView
+      Guid:
+        Value: 1955224411745722706
+  Parent: {fileID: 114955215445487071, guid: fd1a8c99f326cf14893e056a68b9f9ee, type: 2}

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Attack1 State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Attack1/Attack1 State
+      Guid:
+        Value: 1416923675312589338
+    Name:
+      Value: Attack1
+      Hash: 775182663
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1940396979066977413
+      - Id:
+          Value: 2062338028578714067
+      - Id:
+          Value: 3036171188363627369
+      - Id:
+          Value: 4426411555510308933
+      - Id:
+          Value: 3980214244046919036
+      - Id:
+          Value: 3794072611062671111
+      - Id:
+          Value: 3239003436813536658
+      - Id:
+          Value: 1112706082669137787
+      - Id:
+          Value: 1542815455632932335
+      - Id:
+          Value: 1853325164343970600
+      - Id:
+          Value: 941528622518754025
+      - Id:
+          Value: 468284210843619287
+      - Id:
+          Value: 1207833603145838235
+      - Id:
+          Value: 732304456002042928
+      - Id:
+          Value: 1503407262972721506
+      - Id:
+          Value: 2953289072153936296
+      - Id:
+          Value: 3039088976052193736
+      - Id:
+          Value: 2540742638730047802
+      - Id:
+          Value: 4022311619861703616
+      - Id:
+          Value: 2849462429312844659
+      - Id:
+          Value: 4432585838885688437
+      - Id:
+          Value: 2387922482529704295
+      - Id:
+          Value: 406389339024961479
+      - Id:
+          Value: 3071569131595374249
+      - Id:
+          Value: 596066317901144254
+      - Id:
+          Value: 1066957011249718305
+      - Id:
+          Value: 1768890831553768645
+      - Id:
+          Value: 678574420723669068
+      StateInheritedGroups:
+      - Name:
+          Value: Wave1
+          Hash: 1344400396
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Wave2
+          Hash: -144942218
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: Wave3
+          Hash: 864231587
+        EventToReact: 0
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

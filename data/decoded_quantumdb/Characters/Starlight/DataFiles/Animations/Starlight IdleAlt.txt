@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight IdleAlt
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight IdleAlt
+      Guid:
+        Value: 2438465765766790552
+    ClipIndex: 18
+    ClipName:
+      Value: IdleAlt
+      Hash: -827052680
+    Duration: 2.4167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: dad9c9516614c474ab3fc8867d4403b1, type: 2}

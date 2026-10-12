@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Salem MenuReadyIdle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Salem/DataFiles/Animations/Salem MenuReadyIdle
+      Guid:
+        Value: 3569556272249525220
+    ClipIndex: 25
+    ClipName:
+      Value: MenuReadyIdle
+      Hash: -1524527475
+    Duration: 10.6
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 6c31bca608aa6bc41924a598eedea793, type: 2}

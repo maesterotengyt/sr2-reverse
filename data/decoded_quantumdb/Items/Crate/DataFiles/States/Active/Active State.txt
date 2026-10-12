@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Active State
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/DataFiles/States/Active/Active State
+      Guid:
+        Value: 3788431471384818315
+    Name:
+      Value: Active
+      Hash: 1190910911
+    MoveName:
+      Value:
+      Hash: 0
+    AdditionalExecutedMoves: []
+    LogicCacheData:
+      DefaultBehaviours:
+      - Id:
+          Value: 1611057280593929239
+      - Id:
+          Value: 2080399708111109066
+      - Id:
+          Value: 2083059447580892371
+      - Id:
+          Value: 1630130541578706643
+      - Id:
+          Value: 4598407544576509109
+      - Id:
+          Value: 2488496958705137500
+      - Id:
+          Value: 4507758709020777363
+      - Id:
+          Value: 611309981141224806
+      - Id:
+          Value: 4136085571250951333
+      - Id:
+          Value: 3600541543730165154
+      - Id:
+          Value: 3280354943580033786
+      - Id:
+          Value: 1317392929066897098
+      - Id:
+          Value: 1267370514689759158
+      - Id:
+          Value: 1017734999388248130
+      - Id:
+          Value: 3130670857071529183
+      - Id:
+          Value: 4425178296168377802
+      - Id:
+          Value: 2926713508080533519
+      - Id:
+          Value: 1782476029099714875
+      - Id:
+          Value: 390831685657067661
+      - Id:
+          Value: 413103024795071611
+      - Id:
+          Value: 1207963923589332351
+      - Id:
+          Value: 308539802828741813
+      - Id:
+          Value: 644871103898061435
+      - Id:
+          Value: 731707020053525861
+      - Id:
+          Value: 434722474835547282
+      - Id:
+          Value: 1575675349072568884
+      - Id:
+          Value: 67827083821963030
+      StateInheritedGroups:
+      - Name:
+          Value: On Hit
+          Hash: -739188597
+        EventToReact: 10
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Touch Left Wall
+          Hash: -991770703
+        EventToReact: 22
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Touch Right Wall
+          Hash: 974928611
+        EventToReact: 23
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On Start Down Slope
+          Hash: 670992470
+        EventToReact: 35
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []
+      - Name:
+          Value: On End Down Slope
+          Hash: -1823990807
+        EventToReact: 36
+        HasConditions: 0
+        LogicalOperator: 0
+        Conditions: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Skull RideDownSlopes
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Skull/DataFiles/Animations/Skull RideDownSlopes
+      Guid:
+        Value: 342041700679164972
+    ClipIndex: 28
+    ClipName:
+      Value: RidedownSlopes
+      Hash: 2033256798
+    Duration: 0.91666
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 389c6c2761453204c922fb3837b6f627, type: 2}

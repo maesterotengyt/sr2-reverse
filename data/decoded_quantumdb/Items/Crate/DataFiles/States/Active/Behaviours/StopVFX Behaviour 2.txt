@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: StopVFX Behaviour 2
+  Notes:
+  EditorName:
+  Settings:
+    Identifier:
+      Path: QuantumDB/Items/Crate/DataFiles/States/Active/Behaviours/StopVFX Behaviour 2
+      Guid:
+        Value: 2926713508080533519
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Hit
+      Hash: -739188597
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    VFXID:
+      Value: CrateTape_Right
+      Hash: -1312262643
+    StopAttributes:
+      StopParticles: 1
+      DeactivateGameObject: 1
+      KeepFinalPosition: 0

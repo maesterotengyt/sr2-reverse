@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Starlight UseItem
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Starlight/DataFiles/Animations/Starlight UseItem
+      Guid:
+        Value: 1726066329711784516
+    ClipIndex: 39
+    ClipName:
+      Value: UseItem
+      Hash: -273697329
+    Duration: 0.18332
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: a81c78be9eb4e4747984bd7bc0625927, type: 2}

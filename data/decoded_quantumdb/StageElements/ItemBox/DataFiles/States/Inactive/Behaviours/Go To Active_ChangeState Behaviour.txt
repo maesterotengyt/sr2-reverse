@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Active_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Active
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/ItemBox/DataFiles/States/Inactive/Behaviours/Go To Active_ChangeState Behaviour
+      Guid:
+        Value: 2301741180072620455
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value:
+      Hash: 0
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 300
+    TargetState:
+      StateName:
+        Value: Active
+        Hash: 1190910911
+      TransitionFrames: 0

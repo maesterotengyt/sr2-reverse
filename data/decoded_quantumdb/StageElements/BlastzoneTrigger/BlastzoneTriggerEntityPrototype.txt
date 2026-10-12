@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: BlastzoneTriggerEntityPrototype
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/BlastzoneTrigger/BlastzoneTrigger|EntityPrototype
+      Guid:
+        Value: 3753987736237455590
+    Container: {}
+  Parent: {fileID: 114724804207875695, guid: 8fb5e2ce27196a746af20e8dc89f773e, type: 2}

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: CharacterBase Animations Pool Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/CharacterBase Animations Pool Data
+      Guid:
+        Value: 4391565257411106557
+    ClipsDataRefs:
+    - Id:
+        Value: 772655454800895051
+    - Id:
+        Value: 607076649367906410
+    - Id:
+        Value: 1221648775183888448
+    - Id:
+        Value: 4579680842356809692
+    - Id:
+        Value: 267189088845532700
+    - Id:
+        Value: 2249785543794833406
+    - Id:
+        Value: 2907597734444657029
+    - Id:
+        Value: 4383051114389059685
+    - Id:
+        Value: 1856034096235667263
+    - Id:
+        Value: 474477581836711435
+    - Id:
+        Value: 1499106982056493221
+    - Id:
+        Value: 3175082388992432250
+    - Id:
+        Value: 558028732073755931
+    - Id:
+        Value: 2472010411285377803
+    - Id:
+        Value: 246112921116657347
+    - Id:
+        Value: 611184538347754556
+    - Id:
+        Value: 1237323222102219228
+    - Id:
+        Value: 3394551624393401479
+    - Id:
+        Value: 1963656209645834733
+    - Id:
+        Value: 4151969243132808165
+    - Id:
+        Value: 1823826451254576923
+    - Id:
+        Value: 2073173737496486506
+    - Id:
+        Value: 348907135932857666
+    - Id:
+        Value: 4441324820132418202
+    - Id:
+        Value: 3863366930053384222
+    ClipsDataRefsSubAnimFullSync: []
+    ClipsDataRefsSubAnimNoFullSync: []
+  ClipDataPrefix: CharacterBase
+  ClipsInputPath: Assets/Characters/CharacterBase/SourceAnimations/
+  OptimizedClipsOutputPath: Assets/Characters/CharacterBase/Animations/
+  BakedClipsOutputPath: Assets/QuantumDB/BaseEntities/CharacterBase/DataFiles/Animations/
+  ClipsData:
+  - {fileID: 11400000, guid: f91c483d1dbd3774d95838e0dd6cd898, type: 2}
+  - {fileID: 11400000, guid: 122410069a963624cad28a731bcb1b12, type: 2}
+  - {fileID: 11400000, guid: c52a0db7be66a4d4fa56d4cc739d007a, type: 2}
+  - {fileID: 11400000, guid: a4908c10b0bf8dc4b85894e0e5ebe479, type: 2}
+  - {fileID: 11400000, guid: dddd4cda005a3f543aade6de1a724fac, type: 2}
+  - {fileID: 11400000, guid: 4fcdfca88c8b4d94a915e2815fef60ae, type: 2}
+  - {fileID: 11400000, guid: 3cd413aca71b4234ba6a541415cd3922, type: 2}
+  - {fileID: 11400000, guid: 335e005273f11d743b674c480c3dca46, type: 2}
+  - {fileID: 11400000, guid: f897ca0b40bf0274fba82ed3bd01a20d, type: 2}
+  - {fileID: 11400000, guid: 9eb653bf251006942baf0e018876b161, type: 2}
+  - {fileID: 11400000, guid: 8b704df67e4ee354293ed85adb1b32f9, type: 2}
+  - {fileID: 11400000, guid: ba2b9378713d48946a9999b7eb107b71, type: 2}
+  - {fileID: 11400000, guid: 298c365ffdfbeb74a827b4eeb23563d7, type: 2}
+  - {fileID: 11400000, guid: 59b24e79edd49404da334ddc3c2fb36a, type: 2}
+  - {fileID: 11400000, guid: 5ab1ae7feed4c964285a79c9bcceab89, type: 2}
+  - {fileID: 11400000, guid: 64d5d2b77b0ece74fa17a7e7aacb49ae, type: 2}
+  - {fileID: 11400000, guid: 73d60e476154450429225a4f1cdfc23c, type: 2}
+  - {fileID: 11400000, guid: 5daeeec858d3ff945b0cbac131562b2e, type: 2}
+  - {fileID: 11400000, guid: 43581327e7ee7044d81ac3ccc0270491, type: 2}
+  - {fileID: 11400000, guid: d473c028452e0ea40b091f4d3d4fec0f, type: 2}
+  - {fileID: 11400000, guid: 1314525da0c8e2349afb14874d5c4cdf, type: 2}
+  - {fileID: 11400000, guid: 4b8b48f020f1e3e47a7ff73cec36ec61, type: 2}
+  - {fileID: 11400000, guid: 1588ff8f69e1fcc48b2d6e4771af92bc, type: 2}
+  - {fileID: 11400000, guid: a944e103899572d4e88b04c63cf25054, type: 2}
+  - {fileID: 11400000, guid: fe376ef1b6f635846b1fa4c64521c139, type: 2}
+  SubAnimationsDataFullSync: []
+  SubAnimationsDataNoFullSync: []

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Boss_Mask Intro
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/Animations/Boss_Mask Intro
+      Guid:
+        Value: 1067835591385589126
+    ClipIndex: 6
+    ClipName:
+      Value: Intro
+      Hash: 1856239017
+    Duration: 2
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: e651f2503030ec049a8f786eeeba2e20, type: 2}

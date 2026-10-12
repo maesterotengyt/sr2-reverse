@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp Game Entity Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Vamp Game Entity Data
+      Guid:
+        Value: 3000629338447448201
+    EntityName:
+      Value: Vamp
+      Hash: -282277623
+    EntityType: 1
+    EntityPrototypeCostumes:
+    - Id:
+        Value: 2889558810146768036
+    - Id:
+        Value: 722196539452791841
+    - Id:
+        Value: 3381276111557134361
+    - Id:
+        Value: 328929743525437183
+    - Id:
+        Value: 2313384391316510267
+    - Id:
+        Value: 4188740234618929966
+    - Id:
+        Value: 3293824301495783057
+    - Id:
+        Value: 3042846972017745303
+    RotationPivot:
+      X: 0
+      Y: 0.59999
+    HasEntityModifier: 1
+    HasStateMachine: 1
+    StateMachineData:
+      Id:
+        Value: 1240371252308080586
+    HasCustomAnimator: 1
+    AnimationsPoolData:
+      Id:
+        Value: 3914786810845672505
+    BakedJointsData:
+      Id:
+        Value: 1443069053113301165
+    HasCombat: 1
+    CombatData:
+      Id:
+        Value: 4203614185660043865
+    HasGrab: 0
+    GrabData:
+      Id:
+        Value: 0
+    HasPhysicsBody: 1
+    PhysicsData:
+      Id:
+        Value: 4398554320011075340
+    HasEdgeGrab: 0
+    EdgeHook:
+      X: 0
+      Y: 0
+    EdgeGrabBox:
+      BottomRight:
+        X: 0
+        Y: 0
+      TopLeft:
+        X: 0
+        Y: 0
+    FramesToIgnoreEdgeGrab: 20
+    EdgeGrabCooldownFrames: 25
+    EdgeGrabNotificationMode: 0
+    EdgeGrabState:
+      Value:
+      Hash: 0
+    HasJumps: 0
+    JumpSettings:
+      Id:
+        Value: 0
+    HasMovesetLimiter: 1
+    MovesetLimiterData:
+      Id:
+        Value: 4076477882469753486

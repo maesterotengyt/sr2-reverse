@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Falcon AirTrip
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Falcon/DataFiles/Animations/Falcon AirTrip
+      Guid:
+        Value: 449753511769811231
+    ClipIndex: 1
+    ClipName:
+      Value: AirTrip
+      Hash: -1049965485
+    Duration: 0.59999
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 2e345ed6acfdcef478f52b6e202100ba, type: 2}

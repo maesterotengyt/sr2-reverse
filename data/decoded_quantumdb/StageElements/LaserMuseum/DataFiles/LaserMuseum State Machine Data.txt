@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: LaserMuseum State Machine Data
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/LaserMuseum/DataFiles/LaserMuseum State Machine Data
+      Guid:
+        Value: 204621841673502131
+    ParentStateMachine:
+      Id:
+        Value: 0
+    Variables: []
+    States:
+    - Id:
+        Value: 2634630762949985592
+    - Id:
+        Value: 2874844739684093816
+    InitialState:
+      Value: Enabled
+      Hash: -1585660667
+    OnUpdateState:
+      Value:
+      Hash: 0
+    OnDestroyNotificationMode: 0
+    OnDestroyState:
+      Value:
+      Hash: 0

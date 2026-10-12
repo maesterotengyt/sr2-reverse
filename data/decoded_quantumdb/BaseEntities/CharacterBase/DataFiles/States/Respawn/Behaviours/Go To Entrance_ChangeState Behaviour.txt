@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Go To Entrance_ChangeState Behaviour
+  Notes:
+  EditorName: Go To Entrance
+  Settings:
+    Identifier:
+      Path: QuantumDB/BaseEntities/CharacterBase/DataFiles/States/Respawn/Behaviours/Go To Entrance_ChangeState Behaviour
+      Guid:
+        Value: 3362695166192784494
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: On Respawn End
+      Hash: -2085124691
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 0
+    TargetState:
+      StateName:
+        Value: Entrance
+        Hash: 1408219545
+      TransitionFrames: 0

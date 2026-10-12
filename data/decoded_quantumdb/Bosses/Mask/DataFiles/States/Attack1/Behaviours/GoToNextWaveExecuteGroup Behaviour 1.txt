@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: GoToNextWaveExecuteGroup Behaviour 1
+  Notes:
+  EditorName: GoToNextWave
+  Settings:
+    Identifier:
+      Path: QuantumDB/Bosses/Mask/DataFiles/States/Attack1/Behaviours/GoToNextWaveExecuteGroup Behaviour 1
+      Guid:
+        Value: 596066317901144254
+    Enabled: 1
+    HasConditions: 0
+    LogicalOperator: 0
+    Conditions: []
+    GroupName:
+      Value: Wave2
+      Hash: -144942218
+    TargetEntity: 0
+    TargetIndexParameterID:
+      Value:
+      Hash: 0
+    StartFrame: 60
+    EndFrame: -1
+    GroupToExecute:
+      GroupName:
+        Value: Wave3
+        Hash: 864231587
+      ExecutionMode: 3
+    RepeatMode: 0
+    FramesInterval: 0
+    RepeatNumber: 0

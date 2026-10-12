@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: PyramidPlataformEntityView
+  Settings:
+    Identifier:
+      Path: QuantumDB/StageElements/EndlessPlataform/Costumes/PyramidPlataform|EntityView
+      Guid:
+        Value: 785380111805583591
+  Parent: {fileID: 114099118695303065, guid: 5f234684125963d448b362aa8285166d, type: 2}

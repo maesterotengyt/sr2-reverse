@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_Name: Vamp Idle
+  Settings:
+    Identifier:
+      Path: QuantumDB/Characters/Vamp/DataFiles/Animations/Vamp Idle
+      Guid:
+        Value: 3241971339918824824
+    ClipIndex: 17
+    ClipName:
+      Value: Idle
+      Hash: 1881327601
+    Duration: 1.8167
+    BakedVisibilityData: []
+    BakedBlendShapeData: []
+  Clip: {fileID: 7400000, guid: 00f1050f76113194d8439aa1b7d8773a, type: 2}
