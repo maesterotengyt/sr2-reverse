@@ -1,0 +1,54 @@
+# Research council results (web recon, 4 agents)
+
+Method: four parallel agents searched the web for gaps in our reverse-engineered data. Findings are paraphrased, with source URLs and confidence.
+**Headline: the public web has essentially no numeric gameplay data for SpeedRunners or SpeedRunners 2. Our own data dump is the only source for exact numbers.** Nothing found contradicts our numbers; nothing confirms them except the 45° hook angle and the 3-lap race.
+Confidence: H first-party/official, M reputable secondary, L forum/fan/aggregator. Fan sites speedrunners2.wiki, speedrunners2.run and shapes.inc look auto-generated: treat as L.
+
+## 1. Movement (qualitative only)
+- Jump keeps forward momentum (M). Sliding downhill gives a large speed boost, strongest after landing from a big fall; flat sliding slows you (H for behaviour, none for magnitude). Slide can knock opponents over. [speedrunners.wiki.gg/wiki/Tips, /Controls]
+- "Switchback": turning in midair before firing the hook gives a free boost — probably the same tech our data calls the reverse-grapple window (6 frames); the mapping is an inference (M-L).
+- Climbing walls: community describes jump then quickly hook (L-M). Wall-hook = wall jump + timed hook for big speed (L). Slide-jump = slide then jump at the end to keep momentum (L).
+- Landing with a jump the instant you touch ground skips the roll and keeps speed (M, Steam tips thread 864977564448648441).
+- SR2 keeps SR1 movement mechanics, power-ups and momentum building (dev statement, H qualitative): fairplaylabs.com/?p=1996, gematsu, gamereactor.
+- SR2 PC default keys (L): Move arrows, Jump Z, Slide Down, Grapple X, Use item C, Boost Space, Taunt Up; controller supported.
+- **Not found anywhere:** jump heights/durations, wall-jump impulse, coyote time, run speed/accel, slide numbers, ledge-climb rules.
+
+## 2. Hook & boost (qualitative only)
+- Hook fires at 45° facing direction, attaches only to grapple ceilings (white-lined in SR1, blue in SR2) (M-H). Attach delay grows with ceiling distance; short lockout after launch (M-L, consistent with 15f cooldown).
+- Attaching keeps current speed and redirects it; attaching resets your jump (M). Falling fast before attaching strengthens the slingshot (M).
+- Release timing: **late release = more height, early release = more forward speed**; release when the rope is about horizontal for forward travel; ~45° up to climb onto a ledge (M, three loosely agreeing sources).
+- Chaining jump → hold hook until level → jump again builds speed (M). Swinging beats running on grapple-heavy maps (M).
+- Boost: meter refills at fixed charge points/turbo panels; standing on one gives more than running through (M). Cannot boost while hooked; boost just before attaching (M-L). Trick: at max speed boost→jump→release boost to keep speed cheaply, ~3-5 repeats per bar (M). Old "boostjump" may have been nerfed (M, version uncertain). Save boost for finishing far ahead or catching up off-screen (M).
+- **Not found:** rope length/range, pendulum/pump details, boost multiplier, top speeds, fill sources beyond the above.
+
+## 3. Items, modes, stages
+Items (SR1 wiki.gg Pickups = H qualitative, no numbers; SR2 has 10 pickups: 8 returning + Lightning Watch + Plasma Blaster):
+- **Golden Hook**: fires at the opponent ahead and swaps positions; dodged by sliding; blocked by crates/shockwaves/obstacles; can backfire if facing wrong way.
+- **Rocket (homing missile)**: homes on one opponent, turns slowly, blast stuns/knocks back all nearby and destroys crates; blocked by crates/shockwave.
+- **Crates** (1 or 3 in a row): slow+stun anyone touching, including you; slide down slopes; block hooks/missiles; destroyed by blasts/drill/fireball/shockwave.
+- **Remote/time bomb**: place, press again to detonate; pushes but doesn't stun; can boost the user; destroys crates; triggers level switches; players run through it.
+- **Invincible drill**: rare; speed + invulnerability, destroys crates; steering kept.
+- **Shockwave**: radial push; destroys crates/hooks/missiles; deflects fireballs; cancels enemy grapples; a small boost through it negates the push.
+- **Freeze ray**: straight beam; frozen target can't act, thaws after a few seconds, freed early by spikes/fireball/missile; patch 1.4 shortened freeze.
+- **Fireball**: rolling boulder following ground/ramps; destroys crates; stuns and flings up; only a wall destroys it.
+- **Plasma blaster** (SR2): multi-shot; stun+knockback; patch notes made it easier to dodge (shorter stun, less knockback). **Lightning watch** (SR2): overtaking tool that passes through crates (L; no official description).
+- Item boxes (SR1 threads, L-M): one random item at a time; drill rarest, golden hook most common; rubber-banding (more help when behind); no official drop table.
+Modes (SR2, M from reviews/Steam): Classic (shrinking ring of fire after first KO), Lap Race (3 laps), Skyfall Rush (falling hazards), Token Hunt Rally (collect/hold tokens; obstacles lose tokens), Boss Battle, Escape missions (timed), story campaign (tutorial-like, XP + skins), Playground (experimental modes), Quick Play, Ranked 1v1 (patch 1.4), custom lobbies (up to 8 players, bots), local multiplayer, 64-player elimination tournaments, Practice, Solo with Bots (SR1 bots up to "Unfair"; custom games max 3 bots). SR1 ranked: placement points → leagues (Entry, Beginner, Advanced, Expert, Bronze, Silver, Gold+).
+Stages: SR2 has 16 map layouts (8 maps x 2 layouts is the consistent reading); named (L): Casino, Metro, SS Royale, Museum. Elements confirmed: spikes/holes, level switches (bomb-triggered), route toggles, speed boosters, shortcuts, traps, grapple points/ceilings. SR1 stage list (wiki.gg/wiki/Maps): Metro, SS Royale (beginner); Plaza, Mansion, Theme Park, Warehouse, PowerPlant, Zoo; Factory, Library, Silo; Swift Peaks, Casino, Festival, Resort, Airport; Laboratory.
+- **Not found:** any item numbers, round scoring/count, sudden-death rules (beyond ring of fire), tournament format, boss names/count, campaign chapter count, SR2 bot tiers, jump pad/saw/laser/trapdoor/glass/launcher sources.
+
+## 4. Roblox implementation techniques (useful, mostly H/M)
+- **Fixed timestep**: accumulate dt (clamp ≤0.25 s), `while acc ≥ 1/60: step`, cap steps/frame, render with `alpha = acc/dt` interpolation. [gafferongames.com/post/fix_your_timestep] Drive from `RunService.PreSimulation`.
+- **Prediction/reconciliation**: tag inputs with sequence numbers, apply locally, keep ring buffer until acked; on server snapshot reset state, drop acked inputs, replay the rest. Requires a deterministic `step` and snapshotting the *entire* controller state (pos, vel, grounded, coyote/buffer timers, hook, wall state).
+- **Reference architecture**: Chickynoid (easy-games/chickynoid) — Humanoid-free, server-authoritative, prediction + rollback; clients send only input directions/buttons. License unverified: study the design, do not copy code.
+- **No-Humanoid facts**: Character must be a Model but needs no Humanoid; default control/camera scripts assume one → write your own; animation replication must be custom. [devforum.roblox.com/t/2695452]
+- **Collision**: `WorldRoot:Blockcast/Spherecast/Raycast` (parallel-safe except Shapecast) with `RaycastParams.RespectCanCollide = true`, `CollisionGroup`. Keep a 0.01-0.05 stud skin so casts never start inside geometry; resolve axis-by-axis (X then Y) or collide-and-slide: move to hit − skin, remove velocity along the normal; grounded when |n.y| ≥ cos(maxSlope). [create.roblox.com/docs/reference/engine/classes/WorldRoot]
+- **Hook swing**: each step integrate gravity/input; `d = pos − anchor`; if `|d| > ropeLen`: `pos = anchor + n·ropeLen`, and if `v·n > 0` then `v −= (v·n)·n` (remove outward radial velocity; slack rope = free fall). Set `ropeLen = current distance` on attach (speed-preserving). Optional: tiny radial damping, gradual reel-in, swing-input tangential acceleration `a = input·k·tangent`; keep full velocity on release. 2-4 constraint iterations for energy stability.
+- **Jump math**: `g = 2H/T²`, `v0 = 2H/T = sqrt(2gH)`; fall gravity 1.5-2x rise; coyote ≈ 5-7 frames (0.08-0.12 s); buffer 4-9 frames (ours is 10); variable height: on release while rising `vy *= 0.4-0.5`; corner correction by retrying the cast with ±x nudges up to ~0.3-0.5 body widths; half-gravity near apex while held (Celeste); wall slide = clamp fall speed; wall jump = kick `vx = dir·kick`, `vy = sqrt(2·g·H_wall)` + 0.1-0.2 s reduced air control (derived, L).
+- **Slides**: don't clamp speed on entry; lower friction while sliding; add slope term `g·sin θ`; project velocity onto the new tangent across slope transitions instead of zeroing it (derived).
+- **Networking**: `RemoteEvent` reliable+ordered; `UnreliableRemoteEvent` can drop (payload > ~1000 B may be dropped; client→server throttled, limits undocumented). Send inputs at 60 Hz as bitfield + axis byte + u16 sequence, repeating the last 2-3 inputs on an unreliable remote; quantize positions to i16/fixed-point; wrap-aware sequence compare. Server must re-simulate inputs (best anti-fly), cap inputs processed per tick, validate type/range/NaN, per-player per-remote rate limit, strike counter with decay, whitelist legit teleports.
+- Buffer libs (license unchecked): ByteNet, BridgeNet, Packet.
+- Unverified lead: Roblox "AvatarAbilities" custom-controller announcement (third-party mention only).
+
+## 5. What would close the remaining gaps
+Frame-by-frame measurement of gameplay video (rope length, top speed, jump apex, slide behaviour); Steam guides that returned HTTP 429 (ids 602551647, 185934987, 184417021, 1437919832); the SpeedRunners Discord; speedrun.com guides; fetching more wiki.gg pages (Pickups sub-pages, Items). For exact SR2 numbers our `docs/modes`, `docs/items`, `data/decoded_quantumdb` remain the authority.

@@ -17,7 +17,8 @@ You are an agent asked to build a Roblox game whose **mechanics and feel** follo
 4. `roblox/ITEMS_AND_HAZARDS.md` — item and stage-element behaviours (original re-skins).
 5. `roblox/MAP_AUTHORING.md` — how to design original stages; element palette; sizing targets.
 6. `roblox/ROADMAP.md` — milestones with acceptance tests. Build in that order.
-7. Raw numbers if needed: `docs/modes/SpeedRunnersSettingsData.md`, `docs/modes/GameplayInputSettingsData.md`, `docs/characters/README.md`, `docs/states/CharacterBase_states.md`.
+7. `docs/research/README.md` — web research (qualitative rules, Roblox implementation techniques with formulas, what is still unknown).
+8. Raw numbers if needed: `docs/modes/SpeedRunnersSettingsData.md`, `docs/modes/GameplayInputSettingsData.md`, `docs/characters/README.md`, `docs/states/CharacterBase_states.md`.
 
 ## Conventions
 - Language: Luau `--!strict`; Rojo + Wally layout; ModuleScripts with typed APIs; no globals.

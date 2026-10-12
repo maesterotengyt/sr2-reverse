@@ -82,3 +82,10 @@ Each frame a state runs a list of behaviours (input check, item-use check, movem
 
 ## 12. Scoring flavour ("accolades") [M names]
 Super Speed, Big Air (cooldown 180f), Double/Triple Hit, Backfired, Tackle, Gotcha, Revenge, Still Alive, Dodged, The Distance, Freeze, Deflected, Blocked, Treasure, Floor-is-lava (1800f without grounding). Implement as optional toast popups with original names/art.
+
+## 13. Research-informed additions (see docs/research/README.md; web sources are qualitative, numbers above remain from game data)
+- Hook release: **late release = more height, early = more forward speed**; release near horizontal rope for forward travel; ~45° up to climb a ledge. Attaching keeps speed (set ropeLen = current distance) and **resets air-jump availability**. Cannot boost while hooked. Swing step: if |pos−anchor| > ropeLen, snap to rope length and remove outward radial velocity.
+- Switchback boost: turning in midair right before firing the hook grants a small free speed bonus (our reverse-grapple 6f window) — implement as a lenient window, tune the bonus.
+- Landing with a jump input in the first frames skips the roll/land state and keeps speed. Slide-jump (jump at end of slide) keeps momentum better than a plain jump. Downhill sliding adds slope-gravity acceleration; flat sliding bleeds speed.
+- Boost trick: boost→jump→release boost preserves speed cheaply; hold boost in air drains the meter.
+- Feel helpers (derived): coyote ≈ 5-7 frames, variable jump cut `vy *= 0.45` on release, corner correction up to 0.4 body widths, jump apex velocity `sqrt(2gH)`.

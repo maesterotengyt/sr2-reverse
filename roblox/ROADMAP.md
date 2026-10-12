@@ -21,3 +21,6 @@
 ## Known gaps in the reference analysis (agent must tune by playtest)
 - Exact jump impulse/height tables, hook max length and swing pump force, boost speed multiplier, slide friction, item numeric details beyond `docs/items/*`. The reference stores them in behaviour graphs not fully decoded here; the values given in MECHANICS_SPEC marked [T] are starting points.
 - Native logic (exact integration order, collision resolution) was not decompiled; reproduce the *feel*, not bit-exactness.
+
+## Research gaps (cannot be closed from the web; measure or playtest)
+Jump apex/duration, hook max length and pump force, boost multiplier, slide friction, item numerics, round scoring and sudden-death specifics. Options: record/measure gameplay frame-by-frame, or tune in-engine against the qualitative rules in docs/research/README.md.

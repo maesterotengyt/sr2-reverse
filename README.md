@@ -18,6 +18,7 @@ PRIVATE repo for the owner's own Claude sessions. Contains derived notes, decode
 | `data/code_split/` | the IL2CPP dump split one file per type for game assemblies (Quantum code/core, Unity client) |
 | `data/il2cpp/` | `dump.cs` (all 19,744 type signatures) + `stringliteral.json` |
 | `docs/gdd/` | game design reference: screen flow, meta/progression, audio events, systems checklist, stack |
+| `docs/research/` | web research council results: qualitative mechanics, items/modes facts, Roblox implementation techniques, remaining gaps |
 | `tools/` | scripts that regenerate all docs |
 
 ## Regenerating (needs the raw data, kept locally)
