@@ -1,5 +1,39 @@
 # MECHANICS SPEC
 
+> ## CORRECTION (supersedes §1 below where they differ): the real movement constants
+> The numbers in §1 came from the per-character `PhysicsData` asset. Later recon found the game's *actual* movement tuning in `SpeedRunnersSettingsData` (full dump: `docs/modes/SpeedRunnersSettingsData.md`, decoded file `data/decoded_quantumdb/DataFiles/SpeedRunnersSettingsData.txt`). **Use these as the authority.** Units: u/s, u/s², frames @60 Hz. [M] = read directly from game data.
+>
+> | Param | Value | Param | Value |
+> |---|---|---|---|
+> | Gravity | **31.5** | MaxFallSpeed / TerminalVelocity | **40.35 / 46.875** |
+> | MaxWalkVelocity | **10.375** | MaxRunVelocity | **19.75** |
+> | MaxBoostVelocity | **29.125** | MaxSuperBoostVelocity | **38.5** |
+> | VelocityForSuperSpeed (accolade/state) | **25** | MaxHookVelocity (speed cap after hook attach) | **24.737** |
+> | MaxSwingSpeed | **24.938** | SwingDeceleration | 2.125 |
+> | WalkAcceleration | 29.125 | RunAcceleration | 8.8125 |
+> | AirAcceleration | 5.6875 | AirAccelerationAfterWallJump | 20.75 |
+> | BoostWalkAcceleration / BoostRunAcceleration / BoostAcceleration | 76.35 / 38.85 / 26.7 | SuperBoostAcceleration / Deceleration | 18.75 / 18.75 |
+> | GroundDeceleration | 18.75 | AirDeceleration | 6.25 |
+> | BrakeDeceleration | 37.5 | BoostDeceleration | 9.025 |
+> | SlideDeceleration | 8.5938 | SlideDecelerationPostBoosting / ForBoost | 12.5 / 3.125 |
+> | MinVelocityToSlide | 9.375 | MinVelocityForRunTurn | 3 |
+> | MinVelocityForDrag / Trip / Min | 10.375 / 2 / 1 | Stunned: accel / turn accel / decel / maxVel | 0.9375 / 4.6875 / 2.8125 / 8.25 |
+> | JumpFrames | **15** | JumpPower | **89.875** |
+> | DoubleJumpPower (air jump) | **6.25** | WallJumpPower | **46.875** |
+> | WallJumpAngle | **77.5°** | WallJumpUpwardMotionRetainer | 0.5 |
+> | CaterpillarSpeedBoost | **22** | Caterpillar window | 8 frames |
+> | Boost range | 0..100 | Boost drain / fill | 42 / 200 per s (x1.1 fill single-player) |
+> | Slope up / down multiplier | 1 / 1 | Slope velocity inheritance | 1 |
+> | Step-up distance | 0.8 (linecast start (1,1.2), length 4) | Above-wall check | start (0,1.6), len 1.5 |
+> | SlopeSurf cooldown / vertical threshold | 90 f / 0.5 | Big-air frames / allowed swings | 240 f / 2 |
+> | Hook: extend rate / angle / start point | 93.75 u/s / 45° / (0.78, 1.4) | MaxSwingAngle | 17.99 |
+> | Hook / slide / wall-slide cooldown | 15 / 30 / 10 frames | Reverse-grapple window | 6 frames |
+>
+> **How to read them [I, from decompiled code structure]:** these are the *speed caps and accelerations* of the model "accelerate toward the cap for the current mode, decelerate above it": walk cap 10.4, run cap 19.75, boost cap 29.1, super-boost cap 38.5, hook-release cap 24.7. The slow character PhysicsData values (run 8 etc.) in §1 are a legacy/secondary layer — build the controller around **MaxRun 19.75 / MaxBoost 29.125** and the accelerations above.
+> **Jump [I]:** `JumpPower 89.875` is an *acceleration-like* power integrated over `JumpFrames = 15` (0.25 s) along an eased profile (the native `IntegrateJumping` interpolates a velocity curve across the jump frames), not an instant velocity; with gravity 31.5 the net upward speed peaks around 14-15 u/s and apex ≈ 5 u (tune). Short jump = stop adding power early. Air jump adds `6.25`-scale upward impulse; wall jump uses power 46.875 launched at **77.5° from horizontal** away from the wall, keeping 50% of existing upward motion, with temporarily higher air accel (20.75).
+> Scale: at 1 unit = 3 studs, MaxRun 19.75 u/s = ~59 studs/s; if that feels too fast for Roblox, use 1 unit = 2 studs (~40 studs/s) and scale everything uniformly.
+> Remaining unknown: exact jump-curve shape, hook max rope length (hook extends at 93.75 u/s until it hits a ceiling-layer collider or a time/distance limit), swing pump force. Everything else needed is now known.
+
 Legend: **[M]** measured from reference data · **[I]** inferred from structure/names, verify by playtest · **[T]** tune by feel.
 
 ## 0. World, scale, time

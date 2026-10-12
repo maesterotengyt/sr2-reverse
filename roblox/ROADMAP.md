@@ -3,7 +3,7 @@
 | # | Milestone | Acceptance |
 |---|---|---|
 | 0 | Rojo project, Tuning.luau, strict types, headless test harness | `step()` runs 600 frames deterministically in tests |
-| 1 | Flat-ground controller: run/idle/turn, accel/friction from §1 | reaches 8 u/s in ≈ 0.32 s; stops in ≈ 0.33 s |
+| 1 | Flat-ground controller: run/idle/turn using the CORRECTION table in MECHANICS_SPEC (cap 19.75, accel 8.8125, ground decel 18.75, brake 37.5) | accelerates to the run cap and brakes per table |
 | 2 | Jump (short/full), air control, air jump ×1, coyote/jump buffer 10f | apex heights match §4 ±5%; buffered jump works |
 | 3 | Walls: wall-slide, wall-jump, ledge climb | grabs only walls with normal ≥ 0.98; 10f re-grab cooldown |
 | 4 | Slide + slopes (ride-down), momentum over cap decays by friction | slide cooldown 30f; downhill gains speed |
@@ -19,7 +19,7 @@
 | 14 | Mobile/gamepad input, perf pass, security review (`roblox-dev:roblox-reviewer`) | 60 fps on mid phone; no unvalidated remotes |
 
 ## Known gaps in the reference analysis (agent must tune by playtest)
-- Exact jump impulse/height tables, hook max length and swing pump force, boost speed multiplier, slide friction, item numeric details beyond `docs/items/*`. The reference stores them in behaviour graphs not fully decoded here; the values given in MECHANICS_SPEC marked [T] are starting points.
+- Exact jump-curve shape, hook max rope length, swing pump force, item numeric details beyond `docs/items/*` (speed caps/accelerations/boost/slide numbers are now KNOWN: see MECHANICS_SPEC correction table). The reference stores them in behaviour graphs not fully decoded here; the values given in MECHANICS_SPEC marked [T] are starting points.
 - Native logic (exact integration order, collision resolution) was not decompiled; reproduce the *feel*, not bit-exactness.
 
 ## Research gaps (cannot be closed from the web; measure or playtest)
